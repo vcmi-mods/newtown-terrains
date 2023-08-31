@@ -1,2 +1,2 @@
 # newtown-terrains
-New terrains pack.
+New terrains pack
