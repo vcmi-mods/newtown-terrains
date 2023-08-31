@@ -97,6 +97,20 @@
 			}
 		}
 	},
+	"core:warriorTomb" :{
+		"types" : {	
+			"warriorTomb" : {
+				"templates" : {
+					"iceTOMB" : {
+						"animation" : "ice object/IceTomb",
+						"mask" : [ "VVV","VAB" ], 
+						"visitableFrom" : [ "---", "++-", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+		},
 	"core:tavern" :{
 		"types" : {	
 			"object" : {

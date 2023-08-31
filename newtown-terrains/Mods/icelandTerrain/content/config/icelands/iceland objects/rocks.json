@@ -35,7 +35,7 @@
 					},
 					"ICEROCK13": {
 						"animation": "ice rocks/FSND0005",
-						"mask": ["VV","BB"],
+						"mask": ["VV","VB"],
 						"allowedTerrains": [
 							"icelands"
 						]

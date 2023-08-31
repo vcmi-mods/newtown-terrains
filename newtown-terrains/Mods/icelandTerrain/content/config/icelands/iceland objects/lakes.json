@@ -29,11 +29,23 @@
                     "allowedTerrains": [ "icelands" ]
 					},
 					
+					"icelagoon05" : { "animation" : "ice lakes/ICELAKE08",  
+					"mask": ["BB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands","snow" ]
+					},
+					
+					"icelagoon06" : { "animation" : "ice lakes/ICELAKE09",  
+					"mask": ["BB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands","snow" ]
+					},
+					
 					"icelagoon07" : { "animation" : "ice lakes/ICELAKE07",  
 					"mask": ["BBBBB","BBBBB"],
 					"zIndex": 100,
                     "allowedTerrains": [ "icelands" ]
-					},
+					}
 				}
 			}
 			
