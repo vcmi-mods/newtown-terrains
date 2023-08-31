@@ -1,0 +1,25 @@
+{
+"artichokes" :{
+		"handler" : "static",
+		"name" : "Artichokes",
+		"types" : {
+			"artichoke01" : {			
+				"templates" : {
+					"arti_01" : { "animation" : "star flowers/artichoke01",
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "sand","rough","dirt" ]
+					},
+					"arti_02" : { "animation" : "star flowers/artichoke02",
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "sand","rough","dirt" ]
+					},
+					"arti_03" : { "animation" : "star flowers/artichoke03",
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "sand","rough","dirt" ]
+					}
+				}
+			}
+		}
+	}
+}
+

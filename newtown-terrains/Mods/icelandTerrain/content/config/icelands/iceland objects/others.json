@@ -1,0 +1,128 @@
+{
+	"core:obelisk": {
+		"types": {
+			"obelisk": {
+				"templates": {
+					"icelandsObelisk": {
+						"animation": "ice object/sf012",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+						"allowedTerrains": ["icelands"]
+					}
+				}
+			}
+		}
+	},
+	"core:subterraneanGate" : {
+		"types" : {
+			"subterraneanGate" : {
+				"templates" : {
+					"iceCaveGate" : {
+						"animation" : "ice object/FSNF0001",
+						"mask" : [ "VVVV","VBBB","VBAB" ],
+						"allowedTerrains": [ "icelands" ],
+						"visitableFrom" : [ "---", "-+-", "+++" ]
+					}
+				}
+			}
+		}
+	},
+	"core:idolOfFortune" : {
+		"types" : {
+			"idolOfFortune" : {
+				"templates" : {
+					"iceCaveIdol" : {
+						"animation" : "ice object/FSNF0013",
+						"mask" : [ "VV", "VA" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}	
+		}
+	},
+	"core:denOfThieves"	: {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"iceDenTheves" : {
+						"animation" : "ice object/IceDenTheves",
+						"mask" : [ "VV", "VV", "BA" ],
+						"allowedTerrains": [ "icelands" ],
+						"visitableFrom" : [ "---", "-++", "+++" ]
+					}
+				}
+			}
+		}
+	},
+	"core:learningStone"	: {
+		"types" : {
+			"learningStone" : {
+				"templates" : {
+					"iceLearning" : {
+						"animation" : "ice object/IceLearning",
+						"mask" : [ "VV", "VA" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
+	},
+	"core:libraryOfEnlightenment" : {
+		"types" : {
+			"libraryOfEnlightenment" : {
+				"templates" : {
+					"iceLibrary" : {
+						"animation" : "ice object/IceLibrary",
+						"mask" : [ "VVVVV", "VBBBB", "VBBAB" ],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
+	},
+	"core:treeOfKnowledge"	: {
+		"types" : {
+			"treeOfKnowledge" : {
+				"templates" : {
+					"IceTreeKnowledge" : {
+						"animation" : "ice object/IceTreeKnowledge", 
+						"mask" : [ "VBV","VBV","VAV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
+	},
+	"core:tavern" :{
+		"types" : {	
+			"object" : {
+				"templates" : {
+					"iceTvrn" : {
+						"animation" : "ice object/IceTvrn",
+						"mask" : [ "VVV","VVV","VVV","VAB" ], 
+						"visitableFrom" : [ "---", "++-", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+		},	
+	"core:witchHut"	: {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"iceWitchhut" : {
+						"animation" : "ice object/IceWitchhut",
+						"mask" : [ "VVV","VVV","VAV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
+	}
+}

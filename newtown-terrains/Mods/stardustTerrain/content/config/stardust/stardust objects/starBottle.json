@@ -1,0 +1,73 @@
+{
+	"starBottle" : {
+		"handler":"configurable",
+		"name" : "Vial of Mana",
+		"types" : {
+			"object" : {
+				"name": "Vial of Mana",
+				"rmg" : {
+					"value"	: 3000,
+					"rarity" : 200
+				},
+				"sounds" : {
+					"visit" : ["EXPERNCE"],
+					"removal" : [ "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+				},
+				"rewards" :
+				[
+					{
+						"appearChance": 
+						{
+							"max" : 30
+						},
+						"manaPoints": 10,
+						"manaOverflowFactor" : 50,
+						"message": "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"removeObject": true
+					},
+					{
+						"appearChance": 
+						{
+							"min" : 30,
+							"max" : 60
+						},
+						"manaPoints": 20,
+						"manaOverflowFactor" : 50,
+						"message": "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"removeObject": true
+					},
+					{
+						"appearChance": 
+						{
+							"min" : 60,
+							"max" : 90
+						},
+						"manaPoints": 25,
+						"manaOverflowFactor" : 50,
+						"message": "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"removeObject": true
+					},
+					{
+						"appearChance": 
+						{
+							"min" : 90,
+							"max" : 100
+						},
+						"manaPoints": 30,
+						"manaOverflowFactor" : 50,
+						"message": "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"removeObject": true
+					}
+				],
+				"visitMode" : "once",
+				"templates" : {
+					"AVAmnbtw" : { "animation" : "star misc/starBottle", 
+						"mask" : [ "VA" ], 
+						"visitableFrom" : [ "+++", "+++", "+++" ],
+						"allowedTerrains": [ "stardust"]
+					}
+				}
+			}
+		}
+	}		
+}

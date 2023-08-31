@@ -1,0 +1,31 @@
+{
+	"core:riverDelta": {
+		"types": {
+			"object": {
+				"templates": {
+					
+					"stardelt1": {
+						"animation": "star river/stardelt1.def",
+						"mask": ["VVV","VVV","VVV"],
+						"zIndex": 100
+					},
+					"stardelt2": {
+						"animation": "star river/stardelt2.def",
+						"mask": ["VVV","VVV","VVV"],
+						"zIndex": 100
+					},
+					"stardelt3": {
+						"animation": "star river/stardelt3.def",
+						"mask": ["VVV","VVV","VVV"],
+						"zIndex": 100
+					},
+					"stardelt4": {
+						"animation": "star river/stardelt4.def",
+						"mask": ["VVV","VVV","VVV"],
+						"zIndex": 100
+					}
+				}
+			}
+		}
+	}
+}

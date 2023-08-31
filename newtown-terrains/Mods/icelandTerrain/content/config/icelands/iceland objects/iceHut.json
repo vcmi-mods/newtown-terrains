@@ -1,0 +1,36 @@
+{
+	"iceVoyageTent" : {
+		"handler":"configurable",
+		"name" : "Ice Hut",
+		"types" : {
+			"object" : {
+				"rmg" : {
+					"value"	: 750,
+					"rarity" : 50,
+					"zoneLimit" : 2
+				},
+				"sounds" : {
+					"visit" : ["MORALE"]
+				},
+				"onVisitedMessage" : "{Ice Hut}\r\n\r\nPlease do not stay here because you have already taken all of hunter's supplies.",
+				"visitMode" : "bonus",
+				"selectMode" : "selectFirst",
+				"rewards" : [
+					{
+						"message" : "{Ice Hut}\r\n\r\nYou have found an ice hut which was built by a hunter. You took some food and clothes then left the room while no one is there now.",
+						"movePoints" : 400,
+						"bonuses" : [ { "type" : "MORALE", "val" : 1, "duration" : "ONE_BATTLE", "description" : 95 } ]
+					}
+				],
+				"compatibilityIdentifiers" : [ "object" ],
+				"templates" : {
+					"avtprosp" : { "animation" : "ice object/FSNF0010", 
+						"mask" : [ "VV", "VA" ], 
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "icelands"]
+					}
+				}
+			}
+		}
+	}		
+}

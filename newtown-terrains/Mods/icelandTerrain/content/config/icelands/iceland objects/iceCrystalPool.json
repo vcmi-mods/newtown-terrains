@@ -1,0 +1,45 @@
+{
+	"iceCrstPool" : {
+		"handler":"configurable",
+		"name" : "Crystal Pool",
+		"types" : {
+			"object" : {
+				"rmg" : {
+					"value"	: 750,
+					"rarity" : 100,
+					"zoneLimit" : 3
+				},
+				"sounds" : {
+					"visit" : ["Expernce"]
+				},
+				"rewards" : [
+					{
+						"message" : "{Crystal Pool}\r\n\r\nCrystals seem to grow right out of the water of this beautiful Crystal Pool. You collect 5 crystals right now and estimate that the Pool will yield another 500 gold or 5 crystals per week.",
+						"appearChance" : { "max" : 50 },
+						"resources" : { "crystal" : 5 }
+					},
+					{
+						"message" : "{Crystal Pool}\r\n\r\nCrystals seem to grow right out of the water of this beautiful Crystal Pool. You collect 500 gold right now and estimate that the Pool will yield another 500 gold or 5 crystals per week.",
+						"appearChance" : { "min" : 50 },
+						"resources" : { "gold" : 500 }
+					}
+				],
+				"onVisitedMessage": "{Crystal Pool}\r\n\r\nThis lovely Crystal Pool will provide you with 500 gold or 5 crystals each week, but right now there is nothing to collect.",
+				"resetParameters" : {
+					"period" : 7,
+					"visitors" : true,
+					"rewards" : true
+				},
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"templates" : {
+					"avtprosp" : { "animation" : "ice object/IceCrstPool", 
+						"mask" : [ "VVV", "BAB" ], 
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "icelands"]
+					}
+				}
+			}
+		}
+	}		
+}

@@ -1,0 +1,33 @@
+{
+	"core:rock": {
+
+		"types": {
+			"gloryRocksHills01": {
+				"name": "Rock",
+				"templates": {
+					"FG001rock": {
+						"animation": "Gloryrocks/FGRC01",
+						"mask": [ "VVV","VVV","VBB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					"FG002rock": {
+						"animation": "Gloryrocks/FGRC02",
+						"mask": [ "VV","BB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					"FG003rock": {
+						"animation": "Gloryrocks/FGRC03",
+						"mask": [ "VV","VB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					}
+				}
+			}
+		}
+	}
+}

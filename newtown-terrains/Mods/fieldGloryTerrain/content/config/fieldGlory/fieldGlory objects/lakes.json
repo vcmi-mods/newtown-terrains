@@ -1,0 +1,35 @@
+{
+	"core:lake" : {
+		"types" : {
+			"gloryLakes" : {
+				"name" : "Lake",
+				"templates" : {
+			
+					"fglake01" : { "animation" : "Glorylakes/FGLK01",  
+					"mask" : [ "VBBBVV", "VBBBBV" ],
+					"zIndex": 100,
+                    "allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"fglake02" : { "animation" : "Glorylakes/FGLK02",  
+					"mask" : [ "VVV", "BBB" ],
+					"zIndex": 100,
+                    "allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"fglake03" : { "animation" : "Glorylakes/FGLK03",  
+					"mask" : [ "VVVV", "VBBB" ],
+					"zIndex": 100,
+                    "allowedTerrains": [ "fieldGlory" ]
+					}
+				}
+			}
+			
+		}	
+	}	
+}
+	
+	
+
+
+	

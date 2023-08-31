@@ -1,0 +1,81 @@
+{
+	"core:mine" : {
+		"types" : {
+			"crystalCavern" : {
+				"templates": {
+					"icelandsCrystal" : {
+						"animation" : "ice mines/ICEMINE01",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates": {
+					"icelandsGold" : {
+						"animation" : "ice mines/ICEMINE02",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			},
+			
+			"sawmill" : {
+				"templates" : {
+					"icelandsWood" : {
+						"animation" : "ice mines/ICEMINE03", 
+						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			},
+			
+			"alchemistLab" : {
+				"templates" : {
+					"icelandsLab" : {
+						"animation" : "AVMalcs0",
+						"mask" : ["VVV", "VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			},
+			
+			"orePit" : {
+				"templates" : {
+					"icelandsPit" : {
+						"animation" : "ice mines/ICEMINE04",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			},
+			
+			"sulfurDune" : {
+				"templates" : {
+					"icelandsSulf" : {
+						"animation" : "AVMsulf0",
+						"mask" : ["VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			},
+			
+			"gemPond" : {
+				"templates" : {
+					"icelandsGem" : {
+						"animation" : "AVMgesn0",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["icelands"]
+					}
+				}
+			}
+		}
+	}
+}	

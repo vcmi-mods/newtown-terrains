@@ -1,0 +1,36 @@
+{
+	"core:flowers" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+				
+					"fgflower01" : { "animation" : "Gloryflowers/FGRQ001",
+					"mask" : [ "B" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					},	
+
+					"fgflower02" : { "animation" : "Gloryflowers/FGRQ002",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					},	
+					
+					"fgflower03" : { "animation" : "Gloryflowers/FGRQ003",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					},	
+
+					"fgflower04" : { "animation" : "Gloryflowers/FGRQ004",
+					"mask" : [ "VVV", "VBV" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					}					
+				}
+			}		
+		}
+	}
+}
+	
+	
+	
+
+
+	

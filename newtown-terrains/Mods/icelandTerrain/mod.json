@@ -1,0 +1,50 @@
+{
+	"name" : "Ice Cave terrain",
+	"description" : "Assets for Ice Cave terrain.",
+	
+	"author" : "Ben Yan",
+	"contact" : "benyan9110@gmail.com",
+	"version" : "1.3",
+	"changelog" :
+	{
+		"1.3"   : [ "Ice Cave added" ],
+		"1.2.1"   : [ "Fixed delta rivers" ],
+		"1.2.0"   : [ "Mod rewritten for new format" ],
+		"1.1.0"   : [ "Added mines and obelisk" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"modType" : "Graphical",	
+	//"depends" : ["asylumNew.asylum"],
+		
+    "objects" :
+    [ 
+	"config/icelands/iceland objects/trees.json",
+	"config/icelands/iceland objects/chasms.json",
+	"config/icelands/iceland objects/flowers.json",
+	"config/icelands/iceland objects/iceHut.json",
+	"config/icelands/iceland objects/iceCrystalPool.json",
+	"config/icelands/iceland objects/lakes.json",
+	"config/icelands/iceland objects/merIceSolid.json",
+	"config/icelands/iceland objects/holes.json",
+	"config/icelands/iceland objects/mountains.json",
+	"config/icelands/iceland objects/mines.json",
+	"config/icelands/iceland objects/rocks.json",
+	"config/icelands/iceland objects/others.json"
+    ],
+	"battlefields" :
+	[
+		"config/icelands/iceland terrain/battlefields.json"
+	],
+	"obstacles" :
+	[
+		"config/icelands/iceland terrain/obstacles.json"
+	],
+	"terrains" :
+	[
+		"config/icelands/iceland terrain/terrains.json"
+	]
+}

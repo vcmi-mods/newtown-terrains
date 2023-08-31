@@ -1,0 +1,47 @@
+{
+	"merIceSolid"	: {
+		"name" : "Solid Mercury",
+		"handler": "configurable",
+		"types" : {
+			"starFlake" : {
+				"name":"Solid Mercury",
+				"rmg" : {
+					"value"		: 1000,
+					"rarity"	: 400
+				},
+				"sounds" : {
+					"visit" : ["EXPERNCE"],
+					"removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+				},
+				"rewards" : [
+					{
+						"message": "{Solid Mercury}\r\n\r\nYou found a piece of solid mercury in the frozen land and it might be combined with some other resources.",
+						"removeObject" : true,
+						"resources" : [
+							{
+								"anyOf" : [ "ore", "mercury" ],
+								"min" : 3,
+								"max" : 5
+							},
+							{
+								"type" : "gold",
+								"amount" : [ 300, 400, 500 ]
+							}
+						]
+					}
+				],
+				"visitMode" : "once",
+				"selectMode": "selectRandom",
+				"templates" : {
+					"AVAbrrlw" :
+					{
+						"animation" : "ice object/FTRME003",
+						"visitableFrom" : [ "+++", "+++", "+++" ],
+						"mask" : [ "VA"],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
+	}
+}

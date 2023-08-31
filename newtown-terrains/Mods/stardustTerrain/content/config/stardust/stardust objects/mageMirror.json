@@ -1,0 +1,47 @@
+{
+	"starMirror" :{	
+		"name": "Magic Mirror",
+		"handler": "configurable",
+		"types" : {
+			"starMirror" : 
+			{
+				"name": "Magic Mirror",
+				"rmg" : {
+					"value"		: 5000,
+					"rarity"	: 200,
+					"zoneLimit" : 1
+				},
+				"sounds" : {
+					"visit" : ["GAZEBO"],
+					"removal" : [ "PICKUP01", "PICKUP02" ]
+				},
+				"rewards" :
+				[
+					{
+						"limiter": //condition to get reward
+						{
+							"heroLevel" : 5,
+						},
+						"resources": {"gold" : 3000, "gems": 6},
+						"spells" : [ { "level" : 2 } ],
+						"message":"{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you found some resources from underground.", 
+						"removeObject": true
+					}
+				],
+				"onSelectMessage" : "{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you found some resources from underground.",
+				"onEmptyMessage": "{Magic Mirror}\r\n\r\nIt is a common mirror here. Maybe you are too weak in spell power to talk with a magic mirror. You need to reach at least level 5.",
+				"visitMode" : "unlimited",
+				"templates" : 
+				{
+					"avtglam" : 
+					{
+						"animation" : "star misc/starMir", 
+						"visitableFrom" : [ "+++", "+++", "+++" ],
+						"mask" : ["VV","VA"],
+						"allowedTerrains": [ "stardust" ] //hota jebus cross conditions
+					}					
+				}
+			}
+		}	
+	}
+}

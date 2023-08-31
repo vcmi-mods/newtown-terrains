@@ -1,0 +1,9 @@
+{
+    "starRiver":
+    {
+        "text" : "Star River",
+        "shortIdentifier": "ra", //must be 2 characters
+        "tilesFilename": "star river/starRiv",
+        "delta": "star river/stardelt"
+    }
+}

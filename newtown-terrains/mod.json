@@ -1,0 +1,25 @@
+{
+	"name" : "New terrains pack",
+	"description" : "Assets for stardust, fields of glory and ice cave terrain.",
+	"modType" : "Graphical",	
+	"author" : "Ben Yan",
+	"contact" : "benyan9110@gmail.com",
+	"version" : "1.4.0",
+	"changelog" :
+	{
+		"1.4.0"   : [ "Release as a new mod" ],
+		"1.3.4"   : [ "Ice Cave fixed" ],
+		"1.3.3"   : [ "Make different terrains as different mods respectively" ],
+		"1.3.2"   : [ "Add new contents of Ice Cave" ],
+		"1.3.1"   : [ "Add new contents of Field of Glory" ],
+		"1.3.0"   : [ "Field of Glory added" ],
+		"1.2.1"   : [ "Fixed delta rivers" ],
+		"1.2.0"   : [ "Mod rewritten for new format" ],
+		"1.1.0"   : [ "Added mines and obelisk" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	}
+}

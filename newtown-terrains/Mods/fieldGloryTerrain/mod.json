@@ -1,0 +1,49 @@
+{
+	"name" : "Fields of Glory terrain",
+	"description" : "Assets for fields of glory terrain.",
+	
+	"author" : "Ben Yan",
+	"contact" : "benyan9110@gmail.com",
+	"version" : "1.3",
+	"changelog" :
+	{
+		"1.3"   : [ "Field of Glory added" ],
+		"1.2.1"   : [ "Fixed delta rivers" ],
+		"1.2.0"   : [ "Mod rewritten for new format" ],
+		"1.1.0"   : [ "Added mines and obelisk" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"modType" : "Graphical",	
+	//"depends" : ["asylumNew.asylum"],
+		
+    "objects" :
+    [ 
+	"config/fieldGlory/fieldGlory objects/bones.json",
+	"config/fieldGlory/fieldGlory objects/trees.json",
+	"config/fieldGlory/fieldGlory objects/flowers.json",
+	"config/fieldGlory/fieldGlory objects/lakes.json",
+	"config/fieldGlory/fieldGlory objects/holes.json",
+	"config/fieldGlory/fieldGlory objects/mountains.json",
+	"config/fieldGlory/fieldGlory objects/mines.json",
+	"config/fieldGlory/fieldGlory objects/glorycinnabar.json",
+	"config/fieldGlory/fieldGlory objects/rocks.json",
+	"config/fieldGlory/fieldGlory objects/gloryGrave.json",
+	"config/fieldGlory/fieldGlory objects/others.json"
+    ],
+	"battlefields" :
+	[
+		"config/fieldGlory/fieldGlory terrain/battlefields.json"
+	],
+	"obstacles" :
+	[
+		"config/fieldGlory/fieldGlory terrain/obstacles.json"
+	],
+	"terrains" :
+	[
+		"config/fieldGlory/fieldGlory terrain/terrains.json"
+	]
+}

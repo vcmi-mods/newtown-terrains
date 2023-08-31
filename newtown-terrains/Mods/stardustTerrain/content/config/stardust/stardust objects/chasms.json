@@ -1,0 +1,128 @@
+{
+	"core:crater": {
+		"types": {
+			"starcrater01": {
+				"name": "Crater",
+				"templates": {
+	
+					"avlc10l0": {
+						"animation": "star chasms/avlc10l0",
+						"mask": ["BB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+
+					"avlc11l0": {
+						"animation": "star chasms/avlc11l0",
+						"mask": ["BB", "VB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlc12l0": {
+						"animation": "star chasms/avlc12l0",
+						"mask": ["B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlc13l0": {
+						"animation": "star chasms/avlc13l0",
+						"mask": ["B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlc14l0": {
+						"animation": "star chasms/avlc14l0",
+						"mask": ["B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct3l0": {
+						"animation": "star chasms/avlct3l0",
+						"mask": ["BB", "BB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct4l0": {
+						"animation": "star chasms/avlct4l0",
+						"mask": ["BB", "BV"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct5l0": {
+						"animation": "star chasms/avlct5l0",
+						"mask": ["B", "B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct6l0": {
+						"animation": "star chasms/avlct6l0",
+						"mask": ["B", "B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct7l0": {
+						"animation": "star chasms/avlct7l0",
+						"mask": ["B", "B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct8l0": {
+						"animation": "star chasms/avlct8l0",
+						"mask": ["B", "B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"avlct9l0": {
+						"animation": "star chasms/avlct9l0",
+						"mask": ["BB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"AVLctrl0": {
+						"animation": "star chasms/AVLctrl0",
+						"mask": ["BB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"stardust"
+						]
+					}	
+				}
+			}
+		}
+	}
+}

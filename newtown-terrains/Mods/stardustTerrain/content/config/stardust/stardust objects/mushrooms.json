@@ -1,0 +1,40 @@
+{
+	"core:mushrooms": {
+		"types" : {
+			"object" : {
+				"templates" : {
+
+					"starsh01" : { "animation" : "star mushroom/starsh01", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["stardust"] 
+					},
+					
+					"starsh02" : { "animation" : "star mushroom/starsh02", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["stardust"] 
+					},
+					
+					"starsh03" : { "animation" : "star mushroom/starsh03", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["stardust"] 
+					},
+					
+					"starsh04" : { "animation" : "star mushroom/starsh04", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["stardust"] 
+					},
+					
+					"starsh05" : { "animation" : "star mushroom/starsh05", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["stardust"] 
+					},
+					
+					"starsh06" : { "animation" : "star mushroom/starsh06", 
+					"mask" : ["VVVV","BBBB"], 
+					"allowedTerrains":["stardust"] 
+					}			
+				}
+			}				
+		}
+	}	
+}

@@ -1,0 +1,45 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"ICEHOLE001A": {
+						"animation": "ice holes/ICEHOLE01",
+						"mask": ["V"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"icelands"
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"core:crater": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"ICEHOLE002A": {
+						"animation": "ice holes/ICEHOLE02",
+						"mask": ["BBB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+
+					"ICEHOLE001B": {
+						"animation": "ice holes/iceholes",
+						"mask": ["VV","VV","VV","VV","BB","VV"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					}
+				}
+			}
+		}
+	}
+}

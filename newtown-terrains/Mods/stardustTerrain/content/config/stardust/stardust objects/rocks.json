@@ -1,0 +1,159 @@
+{
+	"core:rock": {
+
+		"types": {
+			"stardustRocksHills01": {
+				"name": "岩石",
+				"templates": {
+					"FDTD0009": {
+						"animation": "star rocks/FDTD0009",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},					
+					"FDTD0010": {
+						"animation": "star rocks/FDTD0010",
+						"mask": [ "BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},						
+					"FDTD0011": {
+						"animation": "star rocks/FDTD0011",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},						
+					"FDTD0012": {
+						"animation": "star rocks/FDTD0012",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},						
+					"FDTD0013": {
+						"animation": "star rocks/FDTD0013",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},				
+					"FDTD0014": {
+						"animation": "star rocks/FDTD0014",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},						
+					"FDTD0015": {
+						"animation": "star rocks/FDTD0015",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},						
+					"FDTD0016": {
+						"animation": "star rocks/FDTD0016",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},						
+					"FDTD0017": {
+						"animation": "star rocks/FDTD0017",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},																
+					"FDTD0018": {
+						"animation": "star rocks/FDTD0018",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},	
+					"FDTD0019": {
+						"animation": "star rocks/FDTD0019",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},	
+					"FDTD0020": {
+						"animation": "star rocks/FDTD0020",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0021": {
+						"animation": "star rocks/FDTD0021",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0022": {
+						"animation": "star rocks/FDTD0022",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0023": {
+						"animation": "star rocks/FDTD0023",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0024": {
+						"animation": "star rocks/FDTD0024",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0025": {
+						"animation": "star rocks/FDTD0025",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0026": {
+						"animation": "star rocks/FDTD0026",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0027": {
+						"animation": "star rocks/FDTD0027",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0028": {
+						"animation": "star rocks/FDTD0028",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"FDTD0029": {
+						"animation": "star rocks/FDTD0029",
+						"mask": [ "VB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					}
+				}
+			}
+		}
+	}
+}

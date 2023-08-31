@@ -1,0 +1,41 @@
+{
+	"starDancer" :{	
+		"name": "Dancer in Starlight",
+		"handler": "configurable",
+		"types" : {
+			"starDancer" : 
+			{
+				"name": "Dancer in Starlight",
+				"rmg" : {
+					"zoneLimit"	: 3,
+					"value"		: 100,
+					"rarity"	: 200
+				},
+				"sounds": {
+					"ambient": ["LOOPFAER"],
+					"visit" : ["LUCK"]
+				},
+				"rewards" : [
+					{
+						"message" : "{Dancer in Starlight}\r\n\r\nBeautiful dancer is dancing with balletic grace. You feel very enjoyable while watching her performance.",
+						"bonuses" : [ { "type" : "MORALE", "val" : 2, "duration" : "ONE_BATTLE", "description" : 95 } ]
+					}
+				],
+				"onEmptyMessage"  : "{Dancer in Starlight}\r\n\r\nIt is really a great experience for watching dancer's performance, but you are not interested in it now.",
+				"onVisitedMessage": "{Dancer in Starlight}\r\n\r\nIt is really a great experience for watching dancer's performance, but you need to cherish the valuable time and do not always have fun.",
+				"visitMode" : "bonus",
+				"selectMode" : "selectFirst",
+				"templates" : 
+				{
+					"avwrhscr" : 
+					{
+						"animation" : "star misc/starDancer", 
+						"visitableFrom" : [ "---", "-++", "+++" ], 
+						"mask" : ["VVV","VBV","BBA"],
+						"allowedTerrains": [ "stardust" ] 
+					}
+				}
+			}
+		}
+	}
+}

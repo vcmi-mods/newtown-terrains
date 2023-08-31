@@ -1,0 +1,75 @@
+{
+	"core:rock": {
+
+		"types": {
+			"icelandsRocksHills01": {
+				"name": "Rock",
+				"templates": {
+					"ICEROCK09": {
+						"animation": "ice rocks/FSND0001",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},					
+					"ICEROCK10": {
+						"animation": "ice rocks/FSND0002",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},						
+					"ICEROCK11": {
+						"animation": "ice rocks/FSND0003",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},						
+					"ICEROCK12": {
+						"animation": "ice rocks/FSND0004",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					"ICEROCK13": {
+						"animation": "ice rocks/FSND0005",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},					
+					"ICEROCK14": {
+						"animation": "ice rocks/FSND0006",
+						"mask": [ "VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},						
+					"ICEROCK15": {
+						"animation": "ice rocks/FSND0007",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},						
+					"ICEROCK16": {
+						"animation": "ice rocks/FSND0008",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					"ICEROCK17": {
+						"animation": "ice rocks/FSND0009",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					}
+				}
+			}
+		}
+	}
+}

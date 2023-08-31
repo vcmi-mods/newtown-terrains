@@ -1,0 +1,15 @@
+{
+	"fieldGlory": 
+	{ 
+		"graphics" : "fieldGlory/fieldGlory bgy.bmp",
+		"bonuses": [
+			{
+				"type" : "LUCK",
+				"val" : -2,
+				"valueType" : "BASE_NUMBER",
+				"stacking" : "Fields of Glory",
+				"propagator": "BATTLE_WIDE"
+			}
+		]
+	}
+}

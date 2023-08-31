@@ -1,0 +1,36 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+					"FGHOLE01": {
+						"animation": "Gloryholes/FGHOLE02",
+						"mask": ["V"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"core:crater": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"FGHOLE02": {
+						"animation": "Gloryholes/FGHOLE01",
+						"mask": ["BBB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					}
+				}
+			}
+		}
+	}
+}

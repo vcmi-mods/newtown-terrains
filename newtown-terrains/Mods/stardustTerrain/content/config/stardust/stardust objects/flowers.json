@@ -1,0 +1,85 @@
+{
+	"core:flowers" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+				
+					"starfl01" : { "animation" : "star flowers/starfl01", 
+					"mask" : [ "VV","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"starfl02" : { "animation" : "star flowers/starfl02", 
+					"mask" : [ "VV","VB","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"starfl03" : { "animation" : "star flowers/starfl03", 
+					"mask" : [ "VV","VV","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"starfl04" : { "animation" : "star flowers/starfl04", 
+					"mask" : [ "VV","VV","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+					"starfl05" : { "animation" : "star flowers/starfl05", 
+					"mask" : [ "VV","VV","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"starfl06" : { "animation" : "star flowers/starfl06", 
+					"mask" : [ "VV","VV","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"starfl07" : { "animation" : "star flowers/starfl07", 
+					"mask" : [ "VV","VV","VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},
+
+					"starfl08" : { "animation" : "star flowers/starfl08", 
+					"mask" : [ "VV","BB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},	
+
+					"starfl09" : { "animation" : "star flowers/starfl09",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},	
+
+					"starfl10" : { "animation" : "star flowers/starfl10",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},	
+
+					"starfl11" : { "animation" : "star flowers/starfl11",
+					"mask" : [ "BB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},	
+
+					"starfl12" : { "animation" : "star flowers/starfl12",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},	
+					
+					"starfl13" : { "animation" : "star flowers/starfl13",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					},		
+
+					"starfl14" : { "animation" : "star flowers/starfl14",
+					"mask" : [ "VVVV","VBBB" ], 
+                    "allowedTerrains": [ "stardust" ]
+					}				
+				}
+			}		
+		}
+	}
+}
+	
+	
+	
+
+
+	

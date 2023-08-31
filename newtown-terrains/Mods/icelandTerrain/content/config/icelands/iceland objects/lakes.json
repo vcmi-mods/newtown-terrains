@@ -1,0 +1,47 @@
+{
+	"core:lake" : {
+		"types" : {
+			"icelandsLakes" : {
+				"name" : "Lake",
+				"templates" : {
+			
+					"icelagoon01" : { "animation" : "ice lakes/ICELAKE01",  
+					"mask": ["BBB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
+					},						
+					
+					"icelagoon02" : { "animation" : "ice lakes/ICELAKE02",  
+					"mask": ["BB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
+					},
+					
+					"icelagoon03" : { "animation" : "ice lakes/ICELAKE03",  
+					"mask": ["BBB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
+					},
+					
+					"icelagoon04" : { "animation" : "ice lakes/ICELAKE04",  
+					"mask": ["V"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
+					},
+					
+					"icelagoon07" : { "animation" : "ice lakes/ICELAKE07",  
+					"mask": ["BBBBB","BBBBB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
+					},
+				}
+			}
+			
+		}	
+	}	
+}
+	
+	
+
+
+	

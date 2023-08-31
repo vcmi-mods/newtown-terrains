@@ -1,0 +1,75 @@
+{
+	"core:skull" :{
+		"types" : {
+			"gloryBones" : {
+				"name": "Bones",
+				"templates" : {			
+					"glorybon00" : { "animation" : "GloryBones/FGBN00", 
+						"mask" : [ "VB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"glorybon01" : { "animation" : "GloryBones/FGBN01", 
+						"mask" : [ "BB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					"glorybon02" : { "animation" : "GloryBones/FGBN02", 
+						"mask" : [ "BB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					"glorybon03" : { "animation" : "GloryBones/FALD0060", 
+						"mask" : [ "VV","BB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"glorybon04" : { "animation" : "GloryBones/FGBN03", 
+						"mask" : [ "VVVVV", "VBBBV", "VVVVV"  ],
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					"glorybon05" : { "animation" : "GloryBones/FALC0020", 
+						"mask" : [ "VB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					"glorybon06" : { "animation" : "GloryBones/FALC0022", 
+						"mask" : [ "VB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					}
+				}
+			},
+			"gloryJaw" : {
+				"name": "Jaw",
+				"templates" : {
+					"jaws" : { "animation" : "GloryBones/FGSK03", 
+						"mask" : [ "BB" ], 
+						"allowedTerrains": [ "fieldGlory" ]
+					}					
+				}
+			},
+			
+			"glorySkulls" : {
+				"name": "Skulls",
+				"templates" : {
+					
+					"AVLskul0" : { "animation" : "GloryBones/FGSK01",				 
+						"mask" : ["B"], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"AVLskul1" : { "animation" : "GloryBones/FGSK02",
+						"mask" : ["B"], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"AVLskul2" : { "animation" : "GloryBones/FGSK00",				 
+						"mask" : ["B"], 
+						"allowedTerrains": [ "fieldGlory" ]
+					},						
+				}
+			}				
+		}	
+	}
+}
+	
+
+
+	

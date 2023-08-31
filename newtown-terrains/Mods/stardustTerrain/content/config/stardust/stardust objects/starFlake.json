@@ -1,0 +1,47 @@
+{
+	"starFlake"	: {
+		"name" : "Stardust Flake",
+		"handler": "configurable",
+		"types" : {
+			"starFlake" : {
+				"name":"Stardust Flake",
+				"rmg" : {
+					"value"		: 1000,
+					"rarity"	: 400
+				},
+				"sounds" : {
+					"visit" : ["EXPERNCE"],
+					"removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+				},
+				"rewards" : [
+					{
+						"message": "{Stardust Flake}\r\n\r\nYou have found some resources in flakes of stardust.",
+						"removeObject" : true,
+						"resources" : [
+							{
+								"anyOf" : [ "ore", "gems", "crystal" ],
+								"min" : 3,
+								"max" : 5
+							},
+							{
+								"type" : "gold",
+								"amount" : [ 300, 400, 500 ]
+							}
+						]
+					}
+				],
+				"visitMode" : "once",
+				"selectMode": "selectRandom",
+				"templates" : {
+					"AVAbrrlw" :
+					{
+						"animation" : "star misc/starFlake",
+						"visitableFrom" : [ "+++", "+++", "+++" ],
+						"mask" : [ "VA"],
+						"allowedTerrains": [ "stardust" ]
+					}
+				}
+			}
+		}
+	}
+}

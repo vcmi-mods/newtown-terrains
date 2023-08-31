@@ -1,0 +1,81 @@
+{
+	"core:mine" : {
+		"types" : {
+			"crystalCavern" : {
+				"templates": {
+					"gloryCrystal" : {
+						"animation" : "Glorymines/AVMCRVO0G",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates": {
+					"gloryGold" : {
+						"animation" : "Glorymines/AVMgovo0G",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			},
+			
+			"sawmill" : {
+				"templates" : {
+					"gloryWood" : {
+						"animation" : "AVMsawl0", 
+						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			},
+			
+			"alchemistLab" : {
+				"templates" : {
+					"gloryLab" : {
+						"animation" : "AVMalch0",
+						"mask" : ["VVV", "VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			},
+			
+			"orePit" : {
+				"templates" : {
+					"gloryPit" : {
+						"animation" : "Glorymines/AVMORlv0G",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			},
+			
+			"sulfurDune" : {
+				"templates" : {
+					"glorySulfur" : {
+						"animation" : "AVMsulf0",
+						"mask" : ["VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			},
+			
+			"gemPond" : {
+				"templates" : {
+					"gloryPond" : {
+						"animation" : "AVMgelv0",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
+					}
+				}
+			}
+		}
+	}
+}	

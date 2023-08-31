@@ -1,0 +1,57 @@
+{
+	"core:mountain": {
+		"types": {
+			"object": {
+				"templates": {
+					"gloryMount01": {
+						"animation": "Glorymountains/FGMT00",
+						"mask": ["VVVVVV", "VBBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					"gloryMount02": {
+						"animation": "Glorymountains/FGMT01",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					
+					"gloryMount03": {
+						"animation": "Glorymountains/FGMT02",
+						"mask": ["VVVV", "VBBB", "VBBV"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					
+					"gloryMount04": {
+						"animation": "Glorymountains/FGMT03",
+						"mask": ["VVVV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					
+					"gloryMount05": {
+						"animation": "Glorymountains/FGMT04",
+						"mask": ["VVBB", "VBBV"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					
+					"gloryMount06": {
+						"animation": "Glorymountains/FGMT05",
+						"mask": ["VBBV", "VVBB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					}
+					
+				}
+			}	
+		}
+	}
+}

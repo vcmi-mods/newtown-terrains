@@ -1,0 +1,57 @@
+{
+	"core:mountain": {
+		"types": {
+			"object": {
+				"templates": {
+					"icelandsMount01": {
+						"animation": "ice mountain/ICEMount01",
+						"mask": ["VVVVV", "BBBBB", "BBBBB", "VVBBB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					"icelandsMount02": {
+						"animation": "ice mountain/ICEMount02",
+						"mask": ["VVVVVV", "VBBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					
+					"icelandsMount03": {
+						"animation": "ice mountain/ICEMount03",
+						"mask": ["VVVV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					
+					"icelandsMount04": {
+						"animation": "ice mountain/ICEMount04",
+						"mask": ["VVVV", "VBBB", "VBBV"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					
+					"icelandsMount05": {
+						"animation": "ice mountain/ICEMount05",
+						"mask": ["VVVV","VBBV", "VVBB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					
+					"icelandsMount06": {
+						"animation": "ice mountain/ICEMount06",
+						"mask": ["VVVV","VBBB", "VBBV"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					}
+					
+				}
+			}	
+		}
+	}
+}

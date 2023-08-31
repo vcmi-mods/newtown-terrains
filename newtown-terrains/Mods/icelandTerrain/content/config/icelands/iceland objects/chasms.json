@@ -1,0 +1,36 @@
+{
+	"core:crater": {
+		"types": {
+			"icecrater01": {
+				"name": "Crater",
+				"templates": {
+	
+					"iceChasmA01": {
+						"animation": "ice chasms/ICEchasm01",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+
+					"iceChasmA02": {
+						"animation": "ice chasms/ICEchasm02",
+						"mask": ["VBB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					
+					"iceChasmA03": {
+						"animation": "ice chasms/ICEchasm03",
+						"mask": ["B"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"icelands"
+						]
+					}	
+				}
+			}
+		}
+	}
+}
