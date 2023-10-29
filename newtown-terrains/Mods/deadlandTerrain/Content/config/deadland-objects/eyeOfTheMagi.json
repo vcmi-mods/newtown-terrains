@@ -1,0 +1,37 @@
+{
+	"core:eyeOfTheMagi": {
+
+		"types": {
+			"deadland-objectseyeOfTheMagi01": {
+				"name": "Hut Of The Magi",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 2500,
+					"rarity": 50
+				},
+				"templates": {
+
+	 
+					"eyered": {
+						"animation": "deadland-objects/eyeOfTheMagi/eyered",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+	 
+				}
+			}
+
+
+
+
+
+		}
+	}
+
+
+
+}

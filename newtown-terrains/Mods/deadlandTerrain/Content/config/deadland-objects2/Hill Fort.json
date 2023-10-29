@@ -1,0 +1,34 @@
+{
+	"core:hillFort": {
+
+		"types": {
+			"deadland-objects2newHillForts": {
+
+				"name": "Hill Fort",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 7000,
+					"rarity": 20
+				},
+				"templates": {
+	 
+					"hillFortOBJ7249": {
+						"animation": "deadland-objects2/hillfort/OBJ7249",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VBB", "VBA"],
+						"allowedTerrains" : ["deadland"]
+					},
+	 
+
+
+				}
+
+			}
+		}
+
+
+	}
+
+
+
+}

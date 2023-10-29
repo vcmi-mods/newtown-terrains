@@ -1,0 +1,35 @@
+{
+	"core:arena": {
+
+		"types": {
+			"deadland-objectsarena01": {
+
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 3000,
+					"rarity": 50
+				},
+				"templates": {
+
+					"BlacDrAr": {
+						"animation": "deadland-objects/arena/BlacDrAr",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV","VBBB", "VBAB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+	 
+
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

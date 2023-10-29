@@ -1,0 +1,32 @@
+{
+	"core:leanTo": {
+
+		"types": {
+			"deadland-objectsleanTo01": {
+				"name": "Resource Depot",
+				"rmg": {
+					"value": 500,
+					"rarity": 100
+				},
+				"templates": {
+
+					"FALF0216": {
+						"animation": "deadland-objects/leanTo/FALF0216",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					
+ 
+				}
+			}
+
+		}
+	}
+
+
+
+}

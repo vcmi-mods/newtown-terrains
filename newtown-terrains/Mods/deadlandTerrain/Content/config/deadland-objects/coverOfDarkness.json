@@ -1,0 +1,31 @@
+{
+	"core:coverOfDarkness": {
+
+		"types": {
+			"deadland-objectscoverOfDarkness01": {
+				"name": "Cover of Darkness",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 100,
+					"rarity": 60
+				},
+				"templates": {
+
+					"FSAF0020": {
+						"animation": "deadland-objects/coverOfDarkness/avxcovr0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VAB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					}
+				}
+			}
+
+		}
+	}
+
+
+
+}

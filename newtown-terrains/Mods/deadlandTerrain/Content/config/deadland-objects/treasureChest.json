@@ -1,0 +1,124 @@
+{
+	"core:treasureChest": {
+		"types": {
+
+			"deadland-objectstreasureChest01": {
+				"rmg": {
+					"value": 1500,
+					"rarity": 1000
+				},
+				"name": "Treasure Chest",
+ 
+					"FTRBC004": {
+						"animation": "deadland-objects/treasureChest/FTRBC004",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FTRBC005": {
+						"animation": "deadland-objects/treasureChest/FTRBC005",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+ 
+					"FTRBC010": {
+						"animation": "deadland-objects/treasureChest/FTRBC010",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FTRTC001": {
+						"animation": "deadland-objects/treasureChest/FTRTC001",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FTRTC002": {
+						"animation": "deadland-objects/treasureChest/FTRTC002",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FTRTC003": {
+						"animation": "deadland-objects/treasureChest/FTRTC003",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FTRTC004": {
+						"animation": "deadland-objects/treasureChest/FTRTC004",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FTRTC005": {
+						"animation": "deadland-objects/treasureChest/FTRTC005",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+
+						]
+					},
+					"FTRTC006": {
+						"animation": "deadland-objects/treasureChest/FTRTC006",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+
+						]
+					},
+					
+					"FTRTC006A": {
+						"animation": "deadland-objects/treasureChest/FTRTC006A",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+
+						]
+					},
+					
+					"FTRTC007A": {
+						"animation": "deadland-objects/treasureChest/FTRTC007A",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+
+						]
+					},					
+					
+	 
+				}
+			}
+		}
+}
+	

@@ -1,0 +1,52 @@
+{
+	"core:wateringHole": {
+
+		"types": {
+			"deadland-objectswaterhole01": {
+				"name": "Watering Hole",
+				"rmg": {
+					"zoneLimit": 2,
+					"value": 500,
+					"rarity": 50
+				},
+				"templates": {
+
+					"AVXwtrh0": {
+						"animation": "deadland-objects/wateringHole/AVXwtrh0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "BBAB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"FALD0022": {
+						"animation": "deadland-objects/wateringHole/FALD0022",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "BBBA" ],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+ 
+					"FGRD0025": {
+						"animation": "deadland-objects/wateringHole/FGRD0025",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV","BBA"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+ 
+
+				}
+			}
+
+		}
+	}
+
+
+
+}

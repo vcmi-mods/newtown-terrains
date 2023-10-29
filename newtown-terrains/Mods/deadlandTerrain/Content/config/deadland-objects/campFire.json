@@ -1,0 +1,33 @@
+{
+	"core:campfire": {
+
+		"types": {
+			"deadland-objectsCampFire01": {
+
+				"rmg": {
+					"value": 2000,
+					"rarity": 500
+				},
+				"templates": {
+		 
+ 
+					"adcfra0": {
+						"animation": "deadland-objects/campFire/adcfra0",
+						"visitableFrom": [
+							"+++",
+							"+++",
+							"+++"
+						],
+						"mask": [
+							"VA"
+						],
+						"allowedTerrains": [
+"deadland"
+]
+					}
+
+				}
+			}
+		}
+	}
+}

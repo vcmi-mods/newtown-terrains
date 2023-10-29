@@ -1,0 +1,397 @@
+{
+	"core:resource": {
+ 
+		"types": {
+			"wood": { 
+				"templates": {
+					"deadland-resourcesFTRWO003": {
+						"animation" : "deadland-resources/FTRWO003",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+		 
+					"deadland-resourcesFTRWO008": {
+						"animation" : "deadland-resources/FTRWO008",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+
+					},
+ 
+					"deadland-resourcesFTRWO010": {
+						"animation" : "deadland-resources/FTRWO010",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRWO012": {
+						"animation" : "deadland-resources/FTRWO012",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+	 
+					"deadland-resourcesFTRWO015": {
+						"animation" : "deadland-resources/FTRWO015",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRWO015A": {
+						"animation" : "deadland-resources/FTRWO15A",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRWO017": {
+						"animation" : "deadland-resources/FTRWO17",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRWO018": {
+						"animation" : "deadland-resources/FTRWO18",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+	 
+					"deadland-resourcesFTRWO024": {
+						"animation" : "deadland-resources/FTRWO24",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			"mercury": {
+ 
+				"templates": {
+
+	 
+					"deadland-resourcesFTRME002": {
+						"animation" : "deadland-resources/FTRME002",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"ore": {
+ 
+				"templates": {
+
+
+					"deadland-resourcesFTROR001": {
+						"animation" : "deadland-resources/FTROR001",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR002": {
+						"animation" : "deadland-resources/FTROR002",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR003": {
+						"animation" : "deadland-resources/FTROR003",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR004": {
+						"animation" : "deadland-resources/FTROR004",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR005": {
+						"animation" : "deadland-resources/FTROR005",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR006": {
+						"animation" : "deadland-resources/FTROR006",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR007": {
+						"animation" : "deadland-resources/FTROR007",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR008": {
+						"animation" : "deadland-resources/FTROR008",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR009": {
+						"animation" : "deadland-resources/FTROR009",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR010": {
+						"animation" : "deadland-resources/FTROR010",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR011": {
+						"animation" : "deadland-resources/FTROR011",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR012": {
+						"animation" : "deadland-resources/FTROR012",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR013": {
+						"animation" : "deadland-resources/FTROR013",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR014": {
+						"animation" : "deadland-resources/FTROR014",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR015": {
+						"animation" : "deadland-resources/FTROR015",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR016": {
+						"animation" : "deadland-resources/FTROR016",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR017": {
+						"animation" : "deadland-resources/FTROR017",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR018": {
+						"animation" : "deadland-resources/FTROR018",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR019": {
+						"animation" : "deadland-resources/FTROR019",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTROR020": {
+						"animation" : "deadland-resources/FTROR020",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"sulfur": {
+ 
+				"templates": {
+
+					"deadland-resourcesFTRSU001": {
+						"animation" : "deadland-resources/FTRSU001",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRSU005": {
+						"animation" : "deadland-resources/FTRSU005",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRSU006": {
+						"animation" : "deadland-resources/FTRSU006",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRSU007": {
+						"animation" : "deadland-resources/FTRSU007",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRSU008": {
+						"animation" : "deadland-resources/FTRSU008",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"crystal": {
+ 
+				"templates": {
+
+					"deadland-resourcesFTRCR043": {
+						"animation" : "deadland-resources/FTRCR043.def",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+	 
+					"deadland-resourcesFTRCR045": {
+						"animation" : "deadland-resources/FTRCR045.def",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"gems": {
+ 
+				"templates": {
+					"deadland-resourcesFTRGE001": {
+						"animation" : "deadland-resources/FTRGE001.def",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRGE029": {
+						"animation" : "deadland-resources/FTRGE029",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE030": {
+						"animation" : "deadland-resources/FTRGE030",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE031": {
+						"animation" : "deadland-resources/FTRGE031",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE032": {
+						"animation" : "deadland-resources/FTRGE032",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE033": {
+						"animation" : "deadland-resources/FTRGE033",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE034": {
+						"animation" : "deadland-resources/FTRGE034",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE035": {
+						"animation" : "deadland-resources/FTRGE035",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE036": {
+						"animation" : "deadland-resources/FTRGE036",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE037": {
+						"animation" : "deadland-resources/FTRGE037",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGE038": {
+						"animation" : "deadland-resources/FTRGE038",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"gold": {
+ 
+				"templates": {
+ 
+					"deadland-resourcesFTRGT009": {
+						"animation" : "deadland-resources/FTRGT009",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGT010": {
+						"animation" : "deadland-resources/FTRGT010",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGT011": {
+						"animation" : "deadland-resources/FTRGT011",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					"deadland-resourcesFTRGT012": {
+						"animation" : "deadland-resources/FTRGT012",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRGT041": {
+						"animation" : "deadland-resources/FTRGT041",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VV","VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+					"deadland-resourcesFTRGT048": {
+						"animation" : "deadland-resources/FTRGT048",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					},
+					
+					"deadland-resourcesFTRGT049": {
+						"animation" : "deadland-resources/FTRGT049",
+						"visitableFrom": ["+++", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			}
+		}
+	}
+}

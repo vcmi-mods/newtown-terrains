@@ -1,0 +1,33 @@
+{
+	"core:tavern": {
+
+		"types": {
+			"deadland-objectstavern01": {
+
+				"rmg": {
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+					"FALF0105": {
+						"animation": "deadland-objects/tavern/FALF0105",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VAB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

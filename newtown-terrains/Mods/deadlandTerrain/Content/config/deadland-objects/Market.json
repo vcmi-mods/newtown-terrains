@@ -1,0 +1,36 @@
+{
+	"core:tradingPost": {
+
+		"types": {
+			"deadland-objectsmarket01": {
+
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+ 
+//FALF0241					
+					"FALF0241": {
+						"animation": "deadland-objects/market/FALF0241",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVB","VBA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+ 
+				}
+			}
+
+
+
+		}
+ 
+
+
+
+}}

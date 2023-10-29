@@ -1,0 +1,35 @@
+{
+	"core:sanctuary": {
+
+		"types": {
+			"deadland-objects2sanctuaryOBJ2628": {
+				"name": "Sanctuary",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 100,
+					"rarity": 50
+				},
+				"templates": {
+
+					"OBJ2628": {
+						"animation": "deadland-objects2/sanctuary/OBJ2628",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVB", "BAB"],
+
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+
+	 
+
+
+
+				}
+			}
+
+
+		}
+	
+
+

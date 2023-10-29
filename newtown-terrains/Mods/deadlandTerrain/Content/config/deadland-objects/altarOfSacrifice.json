@@ -1,0 +1,33 @@
+{
+	"core:altarOfSacrifice": {
+
+		"types": {
+			"deadland-objectsaltarOfSacrifice01": {
+
+				"rmg": {
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+ 
+					"AvXAltar": {
+						"animation": "deadland-objects/altarOfSacrifice/AvXAltar",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VBA"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					}
+
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

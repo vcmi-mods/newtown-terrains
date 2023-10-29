@@ -1,0 +1,77 @@
+{
+	"core:mountain": {
+
+		"types": {
+ 
+	"deadland-decorationsMountainRough03": {
+				"name": "Mountain",
+				"rmg": {
+					"zoneLimit": 7,
+					"value": 100,
+					"rarity": 150
+				},
+				"templates": {
+
+					"AVLMTRF1": {
+						"animation": "deadland-decorations/mountain/Rough03/AVLMTRF1",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVVVV", "VBBBBB", "VBBBBB", "VVVBBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"AVLMTRF2": {
+						"animation": "deadland-decorations/mountain/Rough03/AVLMTRF2",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVVVV","VBBBBB", "VBBBBB","VBBBVV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"AVLMTRF3": {
+						"animation": "deadland-decorations/mountain/Rough03/AVLMTRF3",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBB","VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"AVLMTRF4": {
+						"animation": "deadland-decorations/mountain/Rough03/AVLMTRF4",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"AVLMTRF5": {
+						"animation": "deadland-decorations/mountain/Rough03/AVLMTRF5",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBBV", "VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"AVLMTRF6": {
+						"animation": "deadland-decorations/mountain/Rough03/AVLMTRF6",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					}
+
+				}
+			},		
+	
+ 
+		}
+
+	}
+}

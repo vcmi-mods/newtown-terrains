@@ -1,0 +1,10 @@
+{
+    "deadlandWaterRiver":
+    {
+        "shortIdentifier" : "ww",
+        "tilesFilename" : "deadland-rivers/Clrrvr.def",
+        "delta" : "deadland-rivers/clrdelt",
+		"text" : "River"		
+    } 
+ 
+}

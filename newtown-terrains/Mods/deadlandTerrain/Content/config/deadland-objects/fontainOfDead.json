@@ -1,0 +1,32 @@
+{
+	"core:fountainOfYouth": {
+
+		"types": {
+			"deadland-objectsfontainOfDead01": {
+				"name": "Fountain Of Dead",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+					"FDIF0004": {
+						"animation": "deadland-objects/fontainOfDead/FDIF0004",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VBA"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					}
+
+				}
+			}
+
+		}
+	}
+
+
+
+}

@@ -1,0 +1,32 @@
+{
+	"core:lighthouse": {
+
+		"types": {
+			"deadland-objectslighthouse01": {
+				"name": "Lighthouse",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 100,
+					"rarity": 60
+				},
+				"templates": {
+
+	 
+										"FALF0229": {
+						"animation": "deadland-objects/lighthouse/FALF0229",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VVV", "VAB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+ 
+				}
+			}
+		}
+	}
+
+
+
+}

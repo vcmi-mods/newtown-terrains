@@ -1,0 +1,30 @@
+{
+	"core:prison": {
+
+		"types": {
+			"deadland-objects2prison1": {
+				"name": "Prison",
+				"rmg": {
+					"zoneLimit": 2,
+					"value": 100,
+					"rarity": 60
+				},
+				"templates": {
+
+					"AVXprsn1": {
+						"animation": "deadland-objects2/prison/AVXprsn1",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VAV"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+				}
+			}
+
+		}
+	}
+
+
+
+}

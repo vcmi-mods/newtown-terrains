@@ -1,0 +1,32 @@
+{
+	"core:schoolOfMagic": {
+
+		"types": {
+			"deadland-objectsschoolOfMagic01": {
+
+				"rmg": {
+					"value": 1000,
+					"rarity": 50,
+					"zoneLimit":1
+
+				},
+				"templates": {
+ 
+					
+										"FALF0246": {
+						"animation": "deadland-objects/schoolOfMagic/FALF0246",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VV", "VA"],
+						"allowedTerrains":[
+"deadland"]
+					}
+
+
+
+
+				}
+
+			}
+		}
+	}
+}

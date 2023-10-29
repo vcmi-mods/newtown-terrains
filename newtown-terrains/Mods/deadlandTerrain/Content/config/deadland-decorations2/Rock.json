@@ -1,0 +1,38 @@
+{
+	"core:rock": {
+
+		"types": {
+	 
+	 
+			"deadland-decorations2newSkullsObject1": {
+ 
+				"name": "Skulls",
+				"rmg": {
+					//"zoneLimit": 5,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+
+					"OBJ7422": {
+						"animation": "deadland-decorations2/rock/OBJ7422",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BB"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+ 
+
+
+
+
+				}
+			},
+
+ 
+		}
+
+
+	}
+}

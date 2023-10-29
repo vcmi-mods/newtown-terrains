@@ -1,0 +1,19 @@
+{
+		"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+					"deadlandAVLhold0": {
+						"animation": "deadland-decorations/hole/AVLholr0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["V"],
+						"allowedTerrains": [
+							"deadland"
+						]
+					}
+				}
+			}
+		}
+	}
+
+}

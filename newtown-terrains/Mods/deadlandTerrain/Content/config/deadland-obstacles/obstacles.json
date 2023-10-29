@@ -1,0 +1,213 @@
+{
+	"deadlandObstacle1":
+	{ "allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "ObSkel1.def",
+		"absolute" : false
+	},
+	"deadlandObstacle4":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "ObSkel2.def",
+		"absolute" : false
+	},
+
+	"deadlandObstacle12":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [0, 1, 2, 3],
+		"animation" : "ObDtS03.def",
+		"absolute" : false
+	},
+	"deadlandObstacle13":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [1, 2, -15],
+		"animation" : "ObDtS04.def",
+		"absolute" : false
+	},
+	"deadlandObstacle14":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [2, -15, -16],
+		"animation" : "ObDtS14.def",
+		"absolute" : false
+	},
+	"deadlandObstacle15":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [1, -16, -33],
+		"animation" : "ObDtS15.def",
+		"absolute" : false
+	},
+	"deadlandObstacle40":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, -16],
+		"animation" : "ObRgS01.def",
+		"absolute" : false
+	},
+	"deadlandObstacle41":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [-14, -15, -16, -32, -33],
+		"animation" : "ObRgS02.def",
+		"absolute" : false
+	},
+	"deadlandObstacle42":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [1, 2, -15, -16],
+		"animation" : "ObRgS03.def",
+		"absolute" : false
+	},
+	"deadlandObstacle43":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [-16, -32, -33],
+		"animation" : "ObRgS04.def",
+		"absolute" : false
+	},
+	"deadlandObstacle44":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [-15, -16, -32],
+		"animation" : "ObRgS05.def",
+		"absolute" : false
+	},
+	"deadlandObstacle114":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 186,
+		"height" : 212,
+		"blockedTiles" :  [55, 72, 90, 107, 125, 126, 127, 128, 129, 130, 131, 132],
+		"animation" : "ObRgL01.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle115":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 347,
+		"height" : 174,
+		"blockedTiles" :  [41, 59, 76, 94, 111, 129, 143, 144, 145],
+		"animation" : "ObRgL02.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle116":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 294,
+		"height" : 169,
+		"blockedTiles" :  [40, 41, 42, 43, 58, 75, 93, 110, 128, 145],
+		"animation" : "ObRgL03.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle117":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 165,
+		"height" : 257,
+		"blockedTiles" :  [72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 89, 105],
+		"animation" : "ObRgL04.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle118":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 208,
+		"height" : 268,
+		"blockedTiles" :  [72, 73, 74, 75, 76, 77, 78, 79, 80, 90, 91, 92, 93, 94, 95, 96, 97],
+		"animation" : "ObRgL05.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle119":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 252,
+		"height" : 254,
+		"blockedTiles" :  [73, 74, 75, 76, 77, 78, 91, 92, 93, 94],
+		"animation" : "ObRgL06.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle120":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 278,
+		"height" : 128,
+		"blockedTiles" :  [23, 40, 58, 75, 93, 110, 128, 145, 163],
+		"animation" : "ObRgL15.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle121":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 208,
+		"height" : 268,
+		"blockedTiles" :  [72, 73, 74, 75, 76, 77, 78, 79, 80, 90, 91, 92, 93, 94, 95, 96, 97],
+		"animation" : "ObRgL05.pcx",
+		"absolute" : true
+	},
+	"deadlandObstacle122":
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [ ],
+		"width" : 168,
+		"height" : 212,
+		"blockedTiles" :  [73, 74, 75, 76, 77, 78, 79, 90, 91, 92, 93, 94, 95, 96, 97, 106, 107, 108, 109, 110, 111, 112],
+		"animation" : "ObRgL22.pcx",
+		"absolute" : true
+	},
+	
+	"deadlandObstacle00587" : 
+	{
+		"allowedTerrains" : ["deadland"],
+		"specialBattlefields" : [],
+		"width" : 5,
+		"height" :1,
+		"blockedTiles" :  [1,2,3,4],
+		"animation" : "deadland-obstacles2/obstacles_buildings/BldgSkel",
+		"absolute" : false
+	}
+}

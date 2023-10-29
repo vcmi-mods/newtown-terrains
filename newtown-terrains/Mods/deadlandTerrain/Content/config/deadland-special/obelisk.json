@@ -1,0 +1,18 @@
+{
+	"core:obelisk": {
+		"types": {
+			"object": {
+				"templates": {
+					"deadlandAVOBL031": {
+						"animation": "deadland-special/AVOBL031.def",   
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+						"allowedTerrains": [
+							"deadland"
+						]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,315 @@
+{
+	"core:corpse": {
+
+		"types": {
+
+			"deadland-objectsskeleton01": {
+				"name": "Skeleton",
+				"rmg": {
+					"value": 500,
+					"rarity": 70
+				},
+				"templates": {
+
+					"FALC0001": {
+						"animation": "deadland-objects/skeleton/FALC0001",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0002": {
+						"animation": "deadland-objects/skeleton/FALC0002",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBB", "VVV"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0003": {
+						"animation": "deadland-objects/skeleton/FALC0003",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB", "BBBB", "BBVV"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0004": {
+						"animation": "deadland-objects/skeleton/FALC0004",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB", "BBBB", "BBVV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"FALC0005": {
+						"animation": "deadland-objects/skeleton/FALC0005",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBBVV", "BBBBVV", "BBBBBB", "VVVVBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0006": {
+						"animation": "deadland-objects/skeleton/FALC0006",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBB", "BBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0007": {
+						"animation": "deadland-objects/skeleton/FALC0007",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBB", "BBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+
+					"FALC0008": {
+						"animation": "deadland-objects/skeleton/FALC0008",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBB", "BBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0009": {
+						"animation": "deadland-objects/skeleton/FALC0009",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBB", "BBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0010": {
+						"animation": "deadland-objects/skeleton/FALC0010",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBB", "BBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					
+					"FALC0010A": {
+						"animation": "deadland-objects/skeleton/FALC0010A",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBB", "BBB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},					
+					
+					"FALC0011": {
+						"animation": "deadland-objects/skeleton/FALC0011",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVVV", "BBBBB", "VBBBV"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0012": {
+						"animation": "deadland-objects/skeleton/FALC0012",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0015": {
+						"animation": "deadland-objects/skeleton/FALC0015",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["AB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0016": {
+						"animation": "deadland-objects/skeleton/FALC0016",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["AB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0017": {
+						"animation": "deadland-objects/skeleton/FALC0017",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0018": {
+						"animation": "deadland-objects/skeleton/FALC0018",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["AB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0019": {
+						"animation": "deadland-objects/skeleton/FALC0019",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+
+
+					"FALC0020": {
+						"animation": "deadland-objects/skeleton/FALC0020",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+					"FALC0021": {
+						"animation": "deadland-objects/skeleton/FALC0021",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+
+					"FALC0022": {
+						"animation": "deadland-objects/skeleton/FALC0022",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+	 
+					"FDIC0004": {
+						"animation": "deadland-objects/skeleton/FDIC0004",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBB", "VAB"],
+
+						"allowedTerrains": [
+
+							"deadland"
+						]
+					},
+ 
+					"AVLbon00": {
+						"animation": "deadland-objects/skeleton/AVLbon00",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+
+							"dirt","subterra","lava"
+						]
+					},
+					
+		//last2 deadland
+		
+					"last2AVLbon00": {
+						"animation": "deadland-objects/skeleton/last2/AVLbon00",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},		
+						"last2AVXskds0": {
+						"animation": "deadland-objects/skeleton/last2/AVXskds0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BA"],
+
+						"allowedTerrains": [
+"deadland"						]
+					},		
+						"last2AVXskdsx": {
+						"animation": "deadland-objects/skeleton/last2/AVXskdsx",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["AB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},		
+ 
+						"last2DSkelly1": {
+						"animation": "deadland-objects/skeleton/last2/DSkelly1",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},						
+						"last2DSkelly2": {
+						"animation": "deadland-objects/skeleton/last2/DSkelly2",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["AB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},						
+						"last2DSkelly3": {
+						"animation": "deadland-objects/skeleton/last2/DSkelly3",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},						
+						"last2DSkelly4": {
+						"animation": "deadland-objects/skeleton/last2/DSkelly4",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["AB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+						"last2GiSkel": {
+						"animation": "deadland-objects/skeleton/last2/GiSkel",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBV","VBA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+ 						
+				}
+
+
+			}
+		}
+	}
+
+
+}

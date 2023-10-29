@@ -1,0 +1,30 @@
+{
+	"core:crater": {
+
+		"types": {
+			"deadland-decorationscrater01": {
+				"name": "Crater",
+				"rmg": {
+					"zoneLimit": 2,
+					"value": 100,
+					"rarity": 50
+				},
+				"templates": {
+
+					"AVLctrr0": {
+						"animation": "deadland-decorations/crater/AVLctrr0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": [ "BB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+				 			
+					
+				}
+						}
+
+		}
+	}
+}

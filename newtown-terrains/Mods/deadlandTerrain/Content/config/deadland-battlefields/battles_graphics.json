@@ -1,0 +1,19 @@
+{
+		"deadland_back1": {
+			"isSpecial" : true,
+			"graphics":  "deadland-battlefields/Cursed.bmp"
+		},
+		"deadland_back2": {
+			"isSpecial" : true,
+			"graphics":  "deadland-battlefields/cursed10.bmp"
+		},
+		"deadland_back3": {
+			"isSpecial" : true,
+			"graphics":  "deadland-battlefields/cursed2.bmp"
+		},
+		"deadland_back4": {
+			"isSpecial" : true,
+			"graphics":  "deadland-battlefields/cursed3.bmp"
+		}
+
+}

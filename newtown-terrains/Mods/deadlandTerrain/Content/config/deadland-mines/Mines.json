@@ -1,0 +1,82 @@
+{
+	"core:mine" : {
+		"types" : {
+			"crystalCavern" : {
+				"templates": {
+					"deadlandcrystalcavernStdLava" : {
+						"animation" : "deadland-special/mines/crystal",
+						"visitableFrom": ["---", "+++", "+++"],
+				     	"mask": ["VVV", "VBB", "BAB"],
+					    "allowedTerrains": ["deadland"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates": {
+					
+					"deadlandgoldmineStdLava": {
+					"animation" : "deadland-special/mines/gold",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVV", "BBB", "BAB"],
+					"allowedTerrains": ["deadland"]
+					}
+				}
+			},
+			
+			"sawmill" : {
+				"templates" : {
+					    "deadlandgoldmineStdLava": {
+					    "animation" : "deadland-special/mines/sawmill",
+						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"alchemistLab" : {
+				"templates" : {
+					"deadlandgoldmineStdLava": {
+					    "animation" : "deadland-special/mines/lab",
+						"mask" : ["VVV", "VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"orePit" : {
+				"templates" : {
+					"deadlandgoldmineStdLava": {
+					    "animation" : "deadland-special/mines/ore",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["deadland"]
+					}
+				}
+			},
+			
+			"sulfurDune" : {
+				"templates" : {
+					"deadlandAVSUL028": {
+					"animation" : "deadland-special/mines/sulfur",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVV", "VVV", "BAB"],
+					"allowedTerrains": ["deadland"]
+					}
+				}
+			},
+			
+			"gemPond" : {
+				"templates" : {
+					"deadlandAVGEM044": {
+					"animation" : "deadland-special/mines/gem",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVV", "VVV", "BAB"],
+					"allowedTerrains": ["deadland"]
+					}
+				}
+			}
+		}
+	}
+}	

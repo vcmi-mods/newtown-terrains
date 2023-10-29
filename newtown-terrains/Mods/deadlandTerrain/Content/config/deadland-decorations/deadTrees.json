@@ -1,0 +1,189 @@
+{
+	"core:deadVegetation": {
+
+		"types": {
+			"deadland-decorationsdeadTrees01": {
+				"name": "Dead Trees",
+				"rmg": {
+					"zoneLimit": 10,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+					"FALG0003": {
+						"animation": "deadland-decorations/deadTrees/FALG0003",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBV", "VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"FALG0004": {
+						"animation": "deadland-decorations/deadTrees/FALG0004",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"FALG0005": {
+						"animation": "deadland-decorations/deadTrees/FALG0005",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBV", "VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+
+					"FALG0006": {
+						"animation": "deadland-decorations/deadTrees/FALG0006",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"FALG0007": {
+						"animation": "deadland-decorations/deadTrees/FALG0007",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBV", "VBBB", "VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+
+
+					"FALG0008": {
+						"animation": "deadland-decorations/deadTrees/FALG0008",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVBB", "VBBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+ 
+ 
+					"ash03": {
+						"animation": "deadland-decorations/deadTrees/ash03",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBV", "VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"ash04": {
+						"animation": "deadland-decorations/deadTrees/ash04",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"ash05": {
+						"animation": "deadland-decorations/deadTrees/ash05",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBV", "VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"ash06": {
+						"animation": "deadland-decorations/deadTrees/ash06",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVBB", "VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"ash07": {
+						"animation": "deadland-decorations/deadTrees/ash07",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBBV", "VBBB","VVBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"ash08": {
+						"animation": "deadland-decorations/deadTrees/ash08",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVBB", "VBBB","VBBV"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+	 
+ 
+				"AVLDEAD2": {
+						"animation": "deadland-decorations/deadTreeNew/AVLDEAD2",
+						"mask": [  "VVVV","VBBV","VVBB"],
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": [
+							"deadland"
+						],
+				},
+				"AVLDEAD3": {
+						"animation": "deadland-decorations/deadTreeNew/AVLDEAD3",
+						"mask": [  "VVVV","VVBB","VBBV"],
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": [
+							"deadland"
+						],
+				},	
+				"AVLDEAD4": {
+						"animation": "deadland-decorations/deadTreeNew/AVLDEAD4",
+						"mask": [  "VVVV","VBBV","VVBB"],
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": [
+							"deadland"
+						],						
+				},
+				"AVLDEAD5": {
+						"animation": "deadland-decorations/deadTreeNew/AVLDEAD5",
+						"mask": [  "VVVV","VVBB","VBBV"],
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": [
+							"deadland"
+						],						
+				},				
+				"AVLDEAD6": {
+						"animation": "deadland-decorations/deadTreeNew/AVLDEAD6",
+						"mask": [  "VVVV","VBBV","VBBB","VVBB"],
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": [
+							"deadland"
+						],						
+				},		
+				"AVLDEAD7": {
+						"animation": "deadland-decorations/deadTreeNew/AVLDEAD7",
+						"mask": [  "VVVV","VVBB","VBBB","VBBV"],
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": [
+							"deadland"
+						],						
+				},	
+
+						
+				 
+
+
+				}
+			}
+		}
+
+
+
+	}
+}

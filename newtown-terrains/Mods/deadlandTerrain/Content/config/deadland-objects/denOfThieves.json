@@ -1,0 +1,44 @@
+{
+	"core:denOfThieves": {
+
+		"types": {
+			"deadland-objectsdenOfThieves01": {
+
+				"rmg": {
+					"value": 100,
+					"rarity": 100,
+					"zoneLimit": 1
+				},
+				"templates": {
+
+					"FALF0117": {
+						"animation": "deadland-objects/denOfThieves/FALF0117",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+
+							"deadland"
+						]
+					},
+ 					"AVXdend0": {
+						"animation": "deadland-objects/denOfThieves/AVXdend0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+
+							"deadland"
+						]
+					},						
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

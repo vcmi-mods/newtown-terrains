@@ -1,0 +1,30 @@
+{
+	"core:learningStone": {
+
+		"types": {
+			"deadland-objectslearningStone01": {
+				"name": "Learning Stone",
+				"rmg": {
+					"value": 1500,
+					"rarity": 200
+				},
+				"templates": {
+ 
+					"FALF0248": {
+						"animation": "deadland-objects/learningStone/FALF0248",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+
+						"allowedTerrains": [
+							 "deadland"
+
+						]
+					},					
+
+
+				}
+
+			}
+		}
+	}
+}

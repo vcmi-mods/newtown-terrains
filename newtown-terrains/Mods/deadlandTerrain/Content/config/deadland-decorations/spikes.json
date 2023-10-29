@@ -1,0 +1,39 @@
+{
+	"core:flowers": {
+
+		"types": {
+			"deadland-decorationsspikes01": {
+				"name": "Spikes",
+				"rmg": {
+					"zoneLimit": 15,
+					"value": 100,
+					"rarity": 150
+				},
+				"templates": {
+
+					"FALD0059": {
+						"animation": "deadland-decorations/spikes/FALD0059",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BB"],
+
+						"allowedTerrains": [
+							"deadland"							
+						]
+					},
+					"FSAD0035": {
+						"animation": "deadland-decorations/spikes/FSAD0035",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					}
+
+				}
+			}
+
+		}
+
+	}
+}

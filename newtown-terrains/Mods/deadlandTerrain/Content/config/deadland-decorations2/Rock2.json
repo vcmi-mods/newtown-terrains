@@ -1,0 +1,53 @@
+{
+	"core:rock": {
+
+		"types": {
+	 
+			
+			"deadland-decorations2Ruins02": {
+				"name": "Ruins",
+				"rmg": {
+					"zoneLimit": 5,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+		 
+					"OBJ3766": {
+						"animation": "deadland-decorations2/ruins/OBJ3766",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"OBJ3896": {
+						"animation": "deadland-decorations2/ruins/OBJ3896",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BB", "BB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"OBJ3897": {
+						"animation": "deadland-decorations2/ruins/OBJ3897",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BB", "BB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+ 
+				}
+			},
+
+ 		
+			
+		}
+
+
+	}
+}

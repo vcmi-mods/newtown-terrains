@@ -1,0 +1,33 @@
+{
+	"core:abandonedMine": {
+
+		"types": {
+			"deadland-objectsabandonedMine01": {
+"name":"Abandoned Mine",
+ 
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 100,
+					"rarity": 60
+				},
+				"templates": {
+
+					"AVXamRO": {
+						"animation": "deadland-objects/abandonedMine/AVXamRO",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV","VVV", "ABB"],
+
+						"allowedTerrains": [
+
+							"deadland"
+						]
+					},
+	 				
+				}
+			}
+
+
+
+		}
+	}
+}

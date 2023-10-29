@@ -1,0 +1,92 @@
+{
+	"core:rock": {
+
+		"types": {
+			"deadland-decorationsskulls01": {
+				"name": "Skulls",
+				"rmg": {
+					"zoneLimit": 8,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+					"FVOD0024": {
+						"animation": "deadland-decorations/skulls/FVOD0024",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "BBB"],
+
+						"allowedTerrains": [
+							"deadland"
+
+						]
+					},
+					"FVOD0025": {
+						"animation": "deadland-decorations/skulls/FVOD0025",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VBV"],
+
+						"allowedTerrains": [
+							"deadland"
+
+						]
+					},
+					"FVOD0026": {
+						"animation": "deadland-decorations/skulls/FVOD0026",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VBV"],
+
+						"allowedTerrains": [
+							"deadland"
+
+						]
+					},
+					"FVOD0027": {
+						"animation": "deadland-decorations/skulls/FVOD0027",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "VBV"],
+
+						"allowedTerrains": [
+							"deadland"
+
+						]
+					},
+					"FVOD0028": {
+						"animation": "deadland-decorations/skulls/FVOD0028",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "VVV", "BBV"],
+
+						"allowedTerrains": [
+							"deadland"
+
+						]
+					},
+					"FVOD0029": {
+						"animation": "deadland-decorations/skulls/FVOD0029",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					"ALEX0022": {
+						"animation": "deadland-decorations/skulls/ALEX0022",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BB"],
+
+						"allowedTerrains": [
+							"deadland"
+
+						]
+					}
+
+
+				}
+			}
+
+		}
+
+
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"core:flowers": {
+
+		"types": {
+
+			"deadland-decorations2decorGraves01": {
+				"name": "Graves",
+				"rmg": {
+					"zoneLimit": 3,
+					"value": 100,
+					"rarity": 150
+				},
+				"templates": {
+					"OBJ7970": {
+						"animation": "deadland-decorations2/graves/OBJ7970",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBBV", "VBBB", "BBVV", "VVBV"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+					"OBJ7971": {
+						"animation": "deadland-decorations2/graves/OBJ7971",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB", "BBBB", "BBBB"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+					"OBJ7972": {
+						"animation": "deadland-decorations2/graves/OBJ7972",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB", "BBBV", "BBVB"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+					"OBJ7973": {
+						"animation": "deadland-decorations2/graves/OBJ7973",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VBBV", "VBBB", "BBVV", "VVBV"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+					"OBJ7974": {
+						"animation": "deadland-decorations2/graves/OBJ7974",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB", "BBBV", "BBVB"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+					"OBJ7975": {
+						"animation": "deadland-decorations2/graves/OBJ7975",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB", "BBBV", "BBVB"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+		}},
+
+			"deadland-decorations2decorGrave02": {
+				"name": "Grave",
+				"rmg": {
+					"zoneLimit": 3,
+					"value": 100,
+					"rarity": 150
+				},
+				"templates": {
+				
+
+ 
+
+					"FDIF0018": {
+						"animation": "deadland-decorations2/graves/FDIF0018",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV","VB"],
+
+						"allowedTerrains" : ["deadland"]
+					},
+ 				
+				}
+			},
+
+		}
+
+	}
+}

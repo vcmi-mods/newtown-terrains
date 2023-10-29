@@ -1,0 +1,93 @@
+{
+    "name": "Dead Land Terrain",
+    "description": "Dead Land Terrain, can be used as native terrain for Necropolis",
+    "version": "0.0.1",
+    "author": "Zeryss, Fred79 and other modders for objects. Music theme is by CC0 licence from Tozan (opengameart.org)",
+    "contact": "none",
+    "modType": "Objects",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" :
+	{
+		"0.0.1"  : [ "Initial release" ]
+	},
+	"battlefields":
+	[
+		"config/deadland-battlefields/battles_graphics.json"
+	],
+	"terrains":
+	[
+		"config/deadland-terrain/terrains.json"
+	],
+	"obstacles":
+	[
+		"config/deadland-obstacles/obstacles.json"
+	],
+	"rivers":
+	[
+		"config/deadland-terrain/rivers.json"
+	],
+	"roads":
+	[
+		"config/deadland-terrain/roads.json"
+	],
+	"objects":
+	[
+		"config/deadland-decorations/bones.json",
+		"config/deadland-decorations/deadTree.json",
+		"config/deadland-decorations/deadTrees.json",
+		"config/deadland-decorations/hole.json",
+		"config/deadland-decorations/lake.json",
+		"config/deadland-decorations/log.json",
+		"config/deadland-decorations/logs.json",
+		"config/deadland-decorations/Mountain.json",
+		"config/deadland-decorations/skulls.json",
+		"config/deadland-decorations/spikes.json",
+ 		"config/deadland-decorations/Rock.json",
+  		"config/deadland-decorations/crater.json", 
+		"config/deadland-decorations/canyon.json",  
+		"config/deadland-decorations2/graves.json",
+		"config/deadland-decorations2/Rock.json",
+ 
+		"config/deadland-mines/Mines.json",
+
+		"config/deadland-objects/abandonedMine.json",
+		"config/deadland-objects/altarOfSacrifice.json",
+		"config/deadland-objects/blackMarket.json",
+		"config/deadland-objects/bloodWell.json",
+		"config/deadland-objects/campFire.json",
+		"config/deadland-objects/coverOfDarkness.json",
+		"config/deadland-objects/denOfThieves.json",
+		"config/deadland-objects/fontainOfDead.json",
+		"config/deadland-objects/lighthouse.json",
+		"config/deadland-objects/magicWell.json",
+		"config/deadland-objects/Market.json",
+		"config/deadland-objects/observation.json",
+		"config/deadland-objects/rallyFlag.json",
+		"config/deadland-objects/refugeeCamp.json",
+		"config/deadland-objects/schoolOfMagic.json",
+		"config/deadland-objects/schoolOfWar.json",
+		"config/deadland-objects/seerHut.json",
+		"config/deadland-objects/sign.json",
+		"config/deadland-objects/skeleton.json",
+		"config/deadland-objects/tavern.json",
+		"config/deadland-objects/tradingPost.json",
+		"config/deadland-objects/wagon.json",
+		"config/deadland-objects/warMachineFactory.json",
+
+		"config/deadland-objects2/wateringHole.json",
+		"config/deadland-objects2/hutOfTheMagi.json",
+		"config/deadland-objects2/cartographer.json",
+		"config/deadland-objects2/fountainOfYouth.json",
+		"config/deadland-objects2/Hill Fort.json",
+		"config/deadland-objects2/mercenaryCamp.json",
+		"config/deadland-objects2/prison.json",
+		"config/deadland-objects2/Sanctuary.json",
+		"config/deadland-objects2/Stables.json",
+		"config/deadland-objects2/windmills.json",
+		"config/deadland-special/obelisk.json",
+		"config/deadland-special/Subgates.json"
+	]
+}

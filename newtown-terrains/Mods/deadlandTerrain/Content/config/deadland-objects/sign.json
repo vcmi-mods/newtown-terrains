@@ -1,0 +1,45 @@
+{
+	"core:sign": {
+		"types": {
+			"deadland-objectsSign01": {
+				"templates": {
+ 
+					"FALF0178": {
+						"animation": "deadland-objects/sign/FALF0178",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains": ["deadland"]
+					},
+
+ 
+					"FALF0181": {
+						"animation": "deadland-objects/sign/FALF0181",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains": ["deadland"]
+					},
+					"FALF0182": {
+						"animation": "deadland-objects/sign/FALF0182",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains": ["deadland"]
+					},
+	 
+					"FOCF0005": {
+						"animation": "deadland-objects/sign/FOCF0005",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains": ["deadland"]
+					},
+					"FOCF0006": {
+						"animation": "deadland-objects/sign/FOCF0006",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains": ["deadland"
+]
+					},	
+				}
+			}
+		}
+	}
+}

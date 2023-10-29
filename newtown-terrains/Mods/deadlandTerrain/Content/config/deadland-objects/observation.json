@@ -1,0 +1,39 @@
+{
+	"core:redwoodObservatory": {
+
+		"types": {
+			"deadland-objectsobservation01": {
+				"name": "Observatory",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 1200,
+					"rarity": 300
+				},
+				"templates": {
+
+ 
+					"FALF0104": {
+						"animation": "deadland-objects/observation/FALF0104",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVVV", "VVBV", "VVAV"],
+
+						"allowedTerrains": [
+
+							"deadland"
+						]
+					},
+	 
+				}
+			}
+
+
+
+
+
+
+		}
+	}
+
+
+
+}

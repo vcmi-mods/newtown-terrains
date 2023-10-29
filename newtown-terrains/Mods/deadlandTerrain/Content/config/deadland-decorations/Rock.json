@@ -1,0 +1,144 @@
+{
+	"core:rock": {
+
+		"types": {
+			"deadland-decorationsRock01": {
+				"name": "Rocks",
+				"rmg": {
+					"zoneLimit": 12,
+					"value": 100,
+					"rarity": 100
+				},
+				"templates": {
+
+					 "AVLMD3R0": {
+						 "animation": "deadland-decorations/rock/AVLMD3R0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": ["BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr02r0": {
+						 "animation": "deadland-decorations/rock/AVLr02r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": ["VV", "BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr03r0": {
+						 "animation": "deadland-decorations/rock/AVLr03r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": ["BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr04r0": {
+						 "animation": "deadland-decorations/rock/AVLr04r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": ["VV", "BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr06r0": {
+						 "animation": "deadland-decorations/rock/AVLr06r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr07r0": {
+						 "animation": "deadland-decorations/rock/AVLr07r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr08r0": {
+						 "animation": "deadland-decorations/rock/AVLr08r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr09r0": {
+						 "animation": "deadland-decorations/rock/AVLr09r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "VV","BB"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr10r0": {
+						 "animation": "deadland-decorations/rock/AVLr10r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "V","B"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr11r0": {
+						 "animation": "deadland-decorations/rock/AVLr11r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "V","B"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLr12r0": {
+						 "animation": "deadland-decorations/rock/AVLr12r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "B","B"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+
+					 "AVLr13r0": {
+						 "animation": "deadland-decorations/rock/AVLr13r0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "V","B"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+					 "AVLR15R0": {
+						 "animation": "deadland-decorations/rock/AVLR15R0",
+						 "visitableFrom": ["---", "+++", "+++"],
+						 "mask": [ "B"],
+
+						 "allowedTerrains": [
+							 "deadland"
+						 ]
+					 },
+
+
+	
+
+	
+						}},
+
+
+		}
+
+
+	}
+}

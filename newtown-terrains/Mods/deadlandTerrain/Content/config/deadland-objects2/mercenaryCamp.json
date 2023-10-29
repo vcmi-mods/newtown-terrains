@@ -1,0 +1,31 @@
+{
+	"core:mercenaryCamp": {
+
+		"types": {
+			"deadland-objects2mercenaryCamp01": {
+
+				"rmg": {
+					"zoneLimit": 3,
+					"value": 100,
+					"rarity": 120
+				},
+				"templates": {
+
+	 
+					
+										"avsmerc1": {
+						"animation": "deadland-objects2/mercenaryCamp/avsmerc1",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "BAB"],
+
+				"allowedTerrains" : ["deadland"]
+					},
+				}
+			}
+
+		}
+	}
+
+
+
+}

@@ -1,0 +1,33 @@
+{
+	"core:warriorTomb": {
+
+		"types": {
+			"deadland-objectswarriorTomb01": {
+
+				"rmg": {
+					"value": 6000,
+					"rarity": 30
+				},
+				"templates": {
+
+ 
+					"ChrchRn1": {
+						"animation": "deadland-objects/warriorTomb/ChrchRn1",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+ 
+
+				}
+			}
+
+		}
+	}
+
+
+
+}

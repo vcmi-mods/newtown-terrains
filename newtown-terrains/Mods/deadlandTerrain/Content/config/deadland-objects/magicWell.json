@@ -1,0 +1,35 @@
+{
+	"core:magicWell": {
+
+		"types": {
+			"deadland-objectsmagicWell01": {
+
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 250,
+					"rarity": 100
+				},
+				"templates": {
+
+					"AVXwelg0": {
+						"animation": "deadland-objects/magicWell/AVXwelg0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+ 
+
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

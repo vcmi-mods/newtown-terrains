@@ -1,0 +1,29 @@
+{
+	"core:lake": {
+
+		"types": {
+
+			
+					"deadland-decorationsNormalLake01": {
+				"name": "Lake",
+				"rmg": {
+					"zoneLimit": 3,
+					"value": 100,
+					"rarity": 50
+				},
+				"templates": {
+
+
+ 					"AVLlk1r": {
+						"animation": "deadland-decorations/lake/AVLlk1r",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["BBBB","BBBB"],
+
+						"allowedTerrains": [
+							"deadland"
+						]
+					},
+					
+		}
+	}
+}}}

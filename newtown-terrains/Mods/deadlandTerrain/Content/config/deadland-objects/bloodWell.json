@@ -1,0 +1,30 @@
+{
+	"core:magicWell": {
+
+		"types": {
+			"deadland-objectsbloodWell": {
+
+				"name": "Blood Well",
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 7000,
+					"rarity": 30
+				},
+				"templates": {
+ 
+					"FVOF0007": {
+						"animation": "deadland-objects/bloodWell/FVOF0007",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VA"],
+						"allowedTerrains":[
+"deadland"
+]
+					}
+				}
+			}
+
+
+		}
+
+	}
+}

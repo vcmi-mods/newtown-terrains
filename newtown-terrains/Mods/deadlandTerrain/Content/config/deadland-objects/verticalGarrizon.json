@@ -1,0 +1,62 @@
+{
+	"core:garrisonVertical": {
+
+		"types": {
+		
+		// "antimagic":
+		// {
+ 
+					// "templates": {
+
+					// "AVCvgarm": {
+						// "animation": "deadland-objects/verticalGarrizon/AVCvgarm",
+						// "visitableFrom": ["---", "+++", "+++"],
+						// "mask": ["VV", "VB", "VA", "VB"],
+
+						// "allowedTerrains": [
+// "deadland"
+						// ]
+					// }
+					// }
+		// },
+		
+		
+		
+		
+		
+		
+			"deadland-objectsverticalGarrizon01": {
+				"name": "Garrizon",
+ 
+				"rmg": {
+					"zoneLimit": 1,
+					"value": 1000,
+					"rarity": 80
+				},
+				"templates": {
+
+	 
+
+					"AVCvgr": {
+						"animation": "deadland-objects/verticalGarrizon/AVCvgr",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VB", "VA", "VB"],
+
+						"allowedTerrains": [
+"deadland"
+						]
+					},
+
+
+ 
+
+				}
+			},
+
+		
+		}
+	}
+
+
+
+}

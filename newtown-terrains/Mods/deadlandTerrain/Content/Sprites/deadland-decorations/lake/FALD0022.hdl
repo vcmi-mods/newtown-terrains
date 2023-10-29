@@ -1,0 +1,10 @@
+[Data]
+Type=3
+Shadow Type=0
+Group0=PigMud.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$041A2D|$171A2A|$FF00FF|$00FFFF|$051B35|$151E31|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$041A2D|$171A2A|$FF00FF|$00FFFF|$051B35|$151E31|
+ColorsBox.ColorChecks=1|0|0|0|0|1|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|
