@@ -2,11 +2,12 @@
 	"name" : "New terrains pack",
 	"description" : "Assets for stardust, fields of glory and ice cave terrain.",
 	"modType" : "Graphical",	
-	"author" : "Ben Yan",
+	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.4.0",
+	"version" : "1.5.0",
 	"changelog" :
 	{
+		"1.5.0"   : [ "Added Heather Thicket terrain", "Adden Spoiled Land terrain", "Added Dunes terrain" ],
 		"1.4.0"   : [ "Release as a new mod" ],
 		"1.3.4"   : [ "Ice Cave fixed" ],
 		"1.3.3"   : [ "Make different terrains as different mods respectively" ],
@@ -16,7 +17,7 @@
 		"1.2.1"   : [ "Fixed delta rivers" ],
 		"1.2.0"   : [ "Mod rewritten for new format" ],
 		"1.1.0"   : [ "Added mines and obelisk" ],
-		"1.0"   : [ "Initial release" ]
+		"1.0"     : [ "Initial release" ]
 	},
 	"compatibility" :
 	{

@@ -1,0 +1,16 @@
+{
+	"core:subterraneanGate" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"heatherThicketSubgate01" : {
+						"animation" :  "heather-thicket-special/subgates/AVSUG001",   
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : [  "VVVV", "VVVV", "VBAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

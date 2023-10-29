@@ -1,0 +1,22 @@
+{
+	"core:lavaFlow" : {
+		"types" : {
+			"heatherThicketLakes" : {
+				"name" : "Lake",
+				"templates" : {
+					
+					"avlhll02" : {
+						"animation" : "heather-thicket-decorations/lakes/avlhll02",
+						"mask" : [ "VVVVV", "BBBBB", "BBBBB"],
+						"allowedTerrains": [ "heatherThicket" ]
+					},
+					"avlhll03" : {
+						"animation" : "heather-thicket-decorations/lakes/avlhll03",
+						"mask" : [ "VVVV", "VBBB", "VVVV"],
+						"allowedTerrains": [ "heatherThicket" ]
+					}
+				}
+			}
+		}
+	}
+}

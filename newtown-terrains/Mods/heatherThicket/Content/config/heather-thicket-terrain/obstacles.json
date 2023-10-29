@@ -1,0 +1,137 @@
+{
+	"hotaHLD00" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [1, 2, -15],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD00.def",
+		"absolute" : false
+	},
+	"hotaHLD01" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [0, 1, 2, -15, -16],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD01.def",
+		"absolute" : false
+	},
+	"hotaHLD02" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, -16],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD02.def",
+		"absolute" : false
+	},
+	"hotaHLD03" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [1, 2],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD03.def",
+		"absolute" : false
+	},
+	"hotaHLD04" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [1, 2, -15],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD04.def",
+		"absolute" : false
+	},
+	"hotaHLD05" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD05.def",
+		"absolute" : false
+	},
+	"hotaHLD06" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD06.def",
+		"absolute" : false
+	},
+	"hotaHLD07" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD07.def",
+		"absolute" : false
+	},
+	"hotaHLD08" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD08.def",
+		"absolute" : false
+	},
+	"hotaHLD09" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD09.def",
+		"absolute" : false
+	},
+	"hotaHLD10" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD10.def",
+		"absolute" : false
+	},
+	"hotaHLD11" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD11.def",
+		"absolute" : false
+	},
+	"hotaHLD12" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD12.def",
+		"absolute" : false
+	},
+	"hotaHLD13" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [0, 1],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD13.def",
+		"absolute" : false
+	},
+	"hotaHLD19" : {
+		"allowedTerrains" : ["heatherThicket"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, 2],
+		"animation" : "heather-thicket-terrain/obstacles/ObHLD19.def",
+		"absolute" : false
+	}
+}

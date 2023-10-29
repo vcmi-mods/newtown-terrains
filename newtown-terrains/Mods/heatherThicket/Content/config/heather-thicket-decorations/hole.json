@@ -1,0 +1,16 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+					"magicalHole": {
+						"animation" : "heather-thicket-decorations/hole/hole.def",
+						"zIndex": 100,
+						"mask": ["V"],
+						"allowedTerrains": ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

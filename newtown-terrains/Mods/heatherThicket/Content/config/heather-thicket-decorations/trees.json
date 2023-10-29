@@ -1,0 +1,65 @@
+{
+	"abbeautumntrees" : {
+		"name" : "Maple Trees",
+		"handler": "static",
+		"types" : {
+			"maples" : {
+			"name" : "Maple Trees",
+			"templates" : {
+			
+					"maple1" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR0",  
+					"mask" : [ "VV","VB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},						
+					
+					"maple2" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR1", 					 
+					"mask" : [ "VV","VB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					
+					"maple3" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR2", 					 
+					"mask" : [ "VVVV", "VVBB", "VBBV"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					
+					"maple4" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR3", 
+					"mask" : [ "VVVV", "VVBB", "VBBV"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					
+					"maple5" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR4", 
+					"mask" : [ "VVVV", "VBBV", "VVBB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},					
+					
+					"maple6" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR5",  
+					"mask" : [ "VVVV", "VBBV", "VVBB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					
+					"maple7" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR6",  
+					"mask" : [ "VVVV", "VBBV", "VBBB", "VVBB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					
+					"maple8" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR7",  
+					"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV"],
+					"allowedTerrains": [ "heatherThicket" ]
+					
+					},
+					
+					"maple9" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR8",  
+					"mask" : [ "VV","VB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					
+					},
+					
+					"maple10" : { "animation" : "heather-thicket-decorations/trees/AVLAUTR9",  
+					"mask" : [ "VV","VB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}				
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "heatherThicketToxicWaterRiver" : {
+      "text" : "Toxic River",
+      "shortIdentifier" : "pw",
+      "tilesFilename" : "heather-thicket-decorations/lavaDelta/Lavrvr.def",
+      "delta" : "heather-thicket-decorations/lavaDelta/lavdelt",
+	  "paletteAnimation" : [
+			{ "start" : 240, "length" : 9 }
+		]
+	}
+}
+
+   

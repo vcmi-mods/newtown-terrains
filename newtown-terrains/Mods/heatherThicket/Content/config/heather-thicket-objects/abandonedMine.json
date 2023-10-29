@@ -1,0 +1,16 @@
+{
+	"core:abandonedMine" : {
+		"types" : {
+			"mine" : {
+				"templates" : {
+					"AVXamLV" : {
+						"animation" : "heather-thicket-objects/abandonedMine/AVXamLV",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

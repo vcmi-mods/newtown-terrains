@@ -1,0 +1,16 @@
+{
+	"core:obelisk" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"magicalLandObelisk01" : {
+						"animation" : "heather-thicket-special/obelisks/AVOBL036",  
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"core:mine" : {
+		"types" : {
+			"sawmill" : {
+				"templates" : {
+					"heatherThicketSawmill01" : {
+						"animation" : "heather-thicket-special/mines/AVMsawl0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			},
+			"alchemistLab" : {
+				"templates" : {
+					"heatherThicketLab01" : {
+						"animation" : "heather-thicket-special/mines/AVMalch0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "BAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			},
+			"orePit" : {
+				"templates" : {
+					"heatherThicketOre01" : {
+						"animation" : "heather-thicket-special/mines/AVMORLV0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			},
+			"sulfurDune" : {
+				"templates" : {
+					"heatherThicketSulfurDune01" : {
+						"animation" : "heather-thicket-special/mines/AVMsulf0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "BAB"],
+						"allowedTerrains" : ["heatherThicket"
+						]
+					}
+				}
+			},
+			"crystalCavern" : {
+				"templates" : {
+					"heatherThicketCrystalCavern01" : {
+						"animation" : "heather-thicket-special/mines/AVMCRVO0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["heatherThicket"
+						]
+					}
+				}
+			},
+			"gemPond" : {
+				"templates" : {
+					"heatherThicketGempond01" : {
+						"animation" : "heather-thicket-special/mines/AVMGELV0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates" : {
+					"heatherThicketGoldmine01" : {
+						"animation" : "heather-thicket-special/mines/AVMgovo0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

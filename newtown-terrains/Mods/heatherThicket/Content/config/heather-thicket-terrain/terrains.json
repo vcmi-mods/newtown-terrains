@@ -1,0 +1,18 @@
+{
+	 "heatherThicket" :
+	 {
+		"type": ["SURFACE"],
+		"text" : "Heather Thicket",
+		"shortIdentifier" : "ht",
+	    "moveCost" : 100,
+		"tiles" : "heather-thicket-terrain/magical",
+		"river" : "waterRiver",
+		"rockTerrain" : "rock",
+		"battleFields" : ["heather_thicket"],
+		 "minimapUnblocked" : [ 108, 39, 106 ],
+		 "minimapBlocked"   : [ 41, 40, 41 ],
+		"horseSound" : "horse07",
+		"horseSoundPenalty" : "horse27",
+		"music" : "Gheather_thicket.ogg"
+	 }
+}

@@ -1,0 +1,47 @@
+{
+	"core:flowers" : {
+	"types" : {
+			"magicalFlowers" : {
+				"name" : "forget-me-nots",
+				"templates" : {
+				
+					"starfl09" : { "animation" : "heather-thicket-decorations/flowers/starfl09",
+					"mask" : [ "VB" ], 
+                     "allowedTerrains": [ "heatherThicket" ]
+					},	
+
+					"starfl10" : { "animation" : "heather-thicket-decorations/flowers/starfl10",
+					"mask" : [ "VB" ], 
+                     "allowedTerrains": [ "heatherThicket" ]
+					},	
+
+					"starfl11" : { "animation" : "heather-thicket-decorations/flowers/starfl11",
+					"mask" : [ "BB" ], 
+                   "allowedTerrains": [ "heatherThicket" ]
+					},	
+
+					"starfl12" : { "animation" : "heather-thicket-decorations/flowers/starfl12",
+					"mask" : [ "VB" ], 
+                   "allowedTerrains": [ "heatherThicket" ] 
+					},	
+					
+					"starfl13" : { "animation" : "heather-thicket-decorations/flowers/starfl13",
+					"mask" : [ "VB" ], 
+                     "allowedTerrains": [ "heatherThicket" ]
+					},		
+
+					"starfl14" : { "animation" : "heather-thicket-decorations/flowers/starfl14",
+					"mask" : [ "VVVV","VBBB" ], 
+                    "allowedTerrains": [ "heatherThicket" ]
+					}				
+				}
+			}		
+		}
+	}
+}
+	
+	
+	
+
+
+	

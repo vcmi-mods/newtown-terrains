@@ -1,0 +1,16 @@
+{
+	"core:hillFort" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"ZZMM3" : {
+						"animation" : "heather-thicket-objects/hillfort/ZZMM3",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VBB", "VBA"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

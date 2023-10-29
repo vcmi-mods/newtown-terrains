@@ -1,0 +1,53 @@
+{
+    "name" : "Heather Thicket terrain",
+    "description" : "Heather Thicket terrain is native terrain for Grove faction. It can be used by other modders",
+	"modType" : "Objects",
+    "version" : "0.3",
+    "author" : "Noname, Fred79 for objects",
+    "contact" : "none",
+	"compatibility" :
+	{
+		"min" : "1.3.0"
+	},
+	"conflicts" :
+	[
+	],
+	"factions" :
+	[
+		"config/heather-thicket-terrain/groveTerrain.json"
+	],
+	"changelog" :
+	{
+		"0.3"   : [ "Update for VCMI 1.4" ],
+		"0.2"   : [ "Update for VCMI 1.2" ],
+		"0.1"   : [ "Initial release" ]
+	},
+	"terrains":
+	[
+		"config/heather-thicket-terrain/terrains.json"
+	],
+	"obstacles" :
+	[
+		"config/heather-thicket-terrain/obstacles.json"
+	],
+	"battlefields":
+	[
+		"config/heather-thicket-battlefields/battlefields.json"
+	],
+	"objects":
+	[
+
+		"config/heather-thicket-decorations/flowers.json",
+		"config/heather-thicket-decorations/hole.json",
+        "config/heather-thicket-decorations/shrubs.json",
+		"config/heather-thicket-decorations/lake.json",
+		"config/heather-thicket-decorations/mountains.json",
+		"config/heather-thicket-decorations/trees.json",
+		"config/heather-thicket-objects/hillFort.json",
+		"config/heather-thicket-objects/abandonedMine.json",
+        "config/heather-thicket-special/mines.json",
+		"config/heather-thicket-special/obelisks.json",
+		"config/heather-thicket-special/subgates.json",
+		"config/heather-thicket-banks/magicalUtopia.json"
+	]
+}

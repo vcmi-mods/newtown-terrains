@@ -1,0 +1,40 @@
+{
+	"core:shrub" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVLswp80" : {
+						"animation" :  "magical_land-decorations/shrubs/AVLswp80",
+						"mask" : [ "VV", "BB" ],
+						"allowedTerrains": [ "magicalLand" ]
+					},
+					"AVLswp90" : {
+						"animation" :  "heather-thicket-decorations/shrubs/AVLswp90",
+						"mask" : [ "VV", "BB" ],
+						"allowedTerrains": [ "heatherThicket" ]
+					},
+					"AVLswp91" : {
+						"animation" :  "heather-thicket-decorations/shrubs/AVLswp91",
+						"mask" : [ "VVV", "VBB" ],
+						"allowedTerrains": [ "heatherThicket" ]
+					},
+				    "RKSHR00" : {
+						"animation" :  "heather-thicket-decorations/shrubs/RKSHR00",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "heatherThicket" ]
+					},
+					"RKSHR01" : {
+						"animation" :  "heather-thicket-decorations/shrubs/RKSHR01",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "heatherThicket" ]
+					},
+					"RKSHR02" : {
+						"animation" :  "heather-thicket-decorations/shrubs/RKSHR02",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "heatherThicket" ]
+					}					
+				}
+			}
+		}
+	}
+}
