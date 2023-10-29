@@ -4,9 +4,9 @@
 			"object" : {
 				"templates" : {
 					"AVLswp80" : {
-						"animation" :  "magical_land-decorations/shrubs/AVLswp80",
+						"animation" :  "heather-thicket-decorations/shrubs/AVLswp80",
 						"mask" : [ "VV", "BB" ],
-						"allowedTerrains": [ "magicalLand" ]
+						"allowedTerrains": [ "heatherThicket" ]
 					},
 					"AVLswp90" : {
 						"animation" :  "heather-thicket-decorations/shrubs/AVLswp90",
