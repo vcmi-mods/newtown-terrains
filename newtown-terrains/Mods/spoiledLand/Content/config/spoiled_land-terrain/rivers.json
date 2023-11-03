@@ -1,0 +1,13 @@
+{
+    "spoiledLandToxicWaterRiver" : {
+      "text" : "Toxic River",
+      "shortIdentifier" : "pw",
+      "tilesFilename" : "spoiled_land-decorations/lavaDelta/Lavrvr.def",
+      "delta" : "spoiled_land-decorations/lavaDelta/lavdelt",
+	  "paletteAnimation" : [
+			{ "start" : 240, "length" : 9 }
+		]
+	}
+}
+
+   

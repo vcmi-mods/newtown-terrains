@@ -1,0 +1,16 @@
+{
+	"core:rallyFlag" : {
+		"types" : {
+			"rallyFlag" : {
+				"templates" : {
+					"AVXRLLY0" : {
+						"animation" : "spoiled_land-objects/rallyFlag/AVXRLLY0",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

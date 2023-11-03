@@ -1,8 +1,8 @@
 {
     "name" : "Heather Thicket terrain",
-    "description" : "Heather Thicket terrain is native terrain for Grove faction. It can be used by other modders",
+    "description" : "New, night-themed terrain. Mod contains submod that connect Heather Thicket terrain with Grove making it native.",
 	"modType" : "Objects",
-    "version" : "0.3",
+    "version" : "0.3.1",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
 	"compatibility" :
@@ -12,15 +12,12 @@
 	"conflicts" :
 	[
 	],
-	"factions" :
-	[
-		"config/heather-thicket-terrain/groveTerrain.json"
-	],
 	"changelog" :
 	{
-		"0.3"   : [ "Update for VCMI 1.4" ],
-		"0.2"   : [ "Update for VCMI 1.2" ],
-		"0.1"   : [ "Initial release" ]
+		"0.3.1"   : [ "Grove terrain is now submod" ],
+		"0.3"     : [ "Update for VCMI 1.4" ],
+		"0.2"     : [ "Update for VCMI 1.2" ],
+		"0.1"     : [ "Initial release" ]
 	},
 	"terrains":
 	[
@@ -36,7 +33,6 @@
 	],
 	"objects":
 	[
-
 		"config/heather-thicket-decorations/flowers.json",
 		"config/heather-thicket-decorations/hole.json",
         "config/heather-thicket-decorations/shrubs.json",
@@ -47,7 +43,6 @@
 		"config/heather-thicket-objects/abandonedMine.json",
         "config/heather-thicket-special/mines.json",
 		"config/heather-thicket-special/obelisks.json",
-		"config/heather-thicket-special/subgates.json",
-		"config/heather-thicket-banks/magicalUtopia.json"
+		"config/heather-thicket-special/subgates.json"
 	]
 }

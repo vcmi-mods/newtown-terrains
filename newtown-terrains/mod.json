@@ -7,7 +7,7 @@
 	"version" : "1.5.0",
 	"changelog" :
 	{
-		"1.5.0"   : [ "Added Heather Thicket terrain", "Adden Spoiled Land terrain", "Added Deadland terrain" ],
+		"1.5.0"   : [ "Added Heather Thicket terrain", "Adden Spoiled Land terrain", "Added Deadlands terrain" ],
 		"1.4.0"   : [ "Release as a new mod" ],
 		"1.3.4"   : [ "Ice Cave fixed" ],
 		"1.3.3"   : [ "Make different terrains as different mods respectively" ],

@@ -1,0 +1,16 @@
+{
+	"core:arena" : {
+		"types" : {
+			"arena" : {
+				"templates" : {
+					"BlacDrAr" : {
+						"animation" : "spoiled_land-objects/arena/BlacDrAr",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VBBB", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"core:coverOfDarkness" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"FSAF0020" : {
+						"animation" : "spoiled_land-objects/coverOfDarkness/avxcovr0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

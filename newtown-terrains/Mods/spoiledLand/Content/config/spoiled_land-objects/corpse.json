@@ -1,0 +1,23 @@
+{
+	"core:corpse" : {
+		"types" : {
+			"corpse" : {
+				//"name" : "Remains",
+				"templates" : {
+					"AVXskds0" : {
+						"animation" : "spoiled_land-objects/corpse/AVXskds0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVXskdsx" : {
+						"animation" : "spoiled_land-objects/corpse/AVXskdsx",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

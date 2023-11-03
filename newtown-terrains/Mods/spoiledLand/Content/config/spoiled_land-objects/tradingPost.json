@@ -1,0 +1,16 @@
+{
+	"core:tradingPost" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVXpost0" : {
+						"animation" : "spoiled_land-objects/tradingPost/AVXpost0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "VBA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

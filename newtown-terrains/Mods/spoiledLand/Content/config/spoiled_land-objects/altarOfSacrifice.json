@@ -1,0 +1,16 @@
+{
+	"core:altarOfSacrifice" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AvXAltar" : {
+						"animation" : "spoiled_land-objects/altarOfSacrifice/AvXAltar",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VBA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

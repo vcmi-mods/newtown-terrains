@@ -1,0 +1,102 @@
+{
+	"core:creatureBank" : 
+	{
+		"types" : 
+		{
+			"laboratory" : 
+			{
+				"name" : "Laboratory",
+				"aiValue" : 3000,
+				"templates" : {
+					"base" : { "animation" : "spoiled_land-banks/Laboratory.def", 
+					"visitableFrom" : [ "---", "-+-", "+++" ], 
+					"mask" : [ "VVVV", "VBBV", "BBBB", "VBAB"], 
+					"allowedTerrains":["spoiledLand"] 
+					}
+				},
+				"rmg" : {
+					"value"		: 3000,
+					"rarity"	: 100
+				},
+				"levels": [
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 2, "type": "farriery:falv6" },
+							{ "amount": 2, "type": "farriery:falv6" },
+							{ "amount": 2, "type": "farriery:falv6", "upgradeChance": 50 },
+							{ "amount": 2, "type": "farriery:falv6" },
+							{ "amount": 2, "type": "farriery:falv6" }
+						],
+						"combat_value": 403,
+						"reward" : {
+							"value": 8000,
+							"resources":
+							{
+								"gems" : 8,
+								"gold" : 4000
+							}
+						}
+					},
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 3, "type": "farriery:falv6" },
+							{ "amount": 3, "type": "farriery:falv6" },
+							{ "amount": 3, "type": "farriery:falv6", "upgradeChance": 50 },
+							{ "amount": 3, "type": "farriery:falv6" },
+							{ "amount": 3, "type": "farriery:falv6" }
+						],
+						"combat_value": 605,
+						"reward" : {
+							"value": 12000,
+							"resources":
+							{
+								"gems" : 12,
+								"gold" : 6000
+							}
+						}
+					},
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 4, "type": "farriery:falv6" },
+							{ "amount": 4, "type": "farriery:falv6" },
+							{ "amount": 4, "type": "farriery:falv6", "upgradeChance": 50 },
+							{ "amount": 4, "type": "farriery:falv6" },
+							{ "amount": 4, "type": "farriery:falv6" }
+						],
+						"combat_value": 806,
+						"reward" : {
+							"value": 16000,
+							"resources":
+							{
+								"gems" : 16,
+								"gold" : 8000
+							}
+						}
+					},
+					{
+						"chance": 10,
+						"guards": [
+							{ "amount": 6, "type": "farriery:falv6" },
+							{ "amount": 6, "type": "farriery:falv6" },
+							{ "amount": 6, "type": "farriery:falv6", "upgradeChance": 50 },
+							{ "amount": 6, "type": "farriery:falv6" },
+							{ "amount": 6, "type": "farriery:falv6" }
+						],
+						"combat_value": 1210,
+						"reward" : {
+							"value": 24000,
+							"resources":
+							{
+								"gems" : 24,
+								"gold" : 12000
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}

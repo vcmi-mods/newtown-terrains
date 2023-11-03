@@ -1,0 +1,78 @@
+{
+	"core:mine" : {
+		"types" : {
+			"sawmill" : {
+				"templates" : {
+					"spoiledLandSawmill01" : {
+						"animation" : "spoiled_land-special/mines/AVMsawl0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"alchemistLab" : {
+				"templates" : {
+					"spoiledLandLab01" : {
+						"animation" : "spoiled_land-special/mines/AVMalch0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "BAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"orePit" : {
+				"templates" : {
+					"spoiledLandOre01" : {
+						"animation" : "spoiled_land-special/mines/AVMORLV0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"sulfurDune" : {
+				"templates" : {
+					"spoiledLandSulfurDune01" : {
+						"animation" : "spoiled_land-special/mines/AVMsulf0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "BAB"],
+						"allowedTerrains" : ["spoiledLand"
+						]
+					}
+				}
+			},
+			"crystalCavern" : {
+				"templates" : {
+					"spoiledLandCrystalCavern01" : {
+						"animation" : "spoiled_land-special/mines/AVMCRVO0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"
+						]
+					}
+				}
+			},
+			"gemPond" : {
+				"templates" : {
+					"spoiledLandGempond01" : {
+						"animation" : "spoiled_land-special/mines/AVMGELV0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates" : {
+					"spoiledLandGoldmine01" : {
+						"animation" : "spoiled_land-special/mines/AVMgovo0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

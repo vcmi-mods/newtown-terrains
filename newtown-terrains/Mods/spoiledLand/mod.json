@@ -1,0 +1,86 @@
+{
+    "name" : "Spoiled Land Terrain",
+    "description" : "New, lava-themed terrain.",
+	"modType" : "Objects",
+    "version" : "0.1",
+    "author" : "Noname, Fred79 for objects",
+    "contact" : "none",
+	"compatibility" :
+	{
+		"min" : "1.3.0"
+	},
+	"conflicts" :
+	[
+	],
+	"changelog" :
+	{
+		"0.0.2"   : [ "Update for VCMI 1.2" ],
+		"0.0.1"   : [ "Initial release" ]
+	},
+	"terrains":
+	[
+		"config/spoiled_land-terrain/terrains.json"
+	],
+	"obstacles" :
+	[
+		"config/spoiled_land-terrain/obstacles.json"
+	],
+	"rivers":
+	[
+		"config/spoiled_land-terrain/rivers.json"
+	],
+	"battlefields":
+	[
+		"config/spoiled_land-battlefields/battlefields.json"
+	],
+	"objects":
+	[
+		"config/spoiled_land-decorations/bones.json",
+		"config/spoiled_land-decorations/canyon.json",
+		"config/spoiled_land-decorations/crater.json",
+		"config/spoiled_land-decorations/hole.json",
+		"config/spoiled_land-decorations/lavaLake.json",
+		"config/spoiled_land-decorations/mountain.json",
+		"config/spoiled_land-objects/deltas.json",
+		"config/spoiled_land-decorations/trees.json",
+        "config/spoiled_land-decorations/volcano.json",
+		"config/spoiled_land-objects/hillFort.json",
+		"config/spoiled_land-objects/abandonedMine.json",
+		"config/spoiled_land-objects/altarOfSacrifice.json",
+		"config/spoiled_land-objects/arena.json",
+		"config/spoiled_land-objects/blackMarket.json",
+		"config/spoiled_land-objects/campFire.json",
+		"config/spoiled_land-objects/cartographer.json",
+		"config/spoiled_land-objects/corpse.json",
+		"config/spoiled_land-objects/eyeOfTheMagi.json",
+		"config/spoiled_land-objects/horizontalGarrizon.json",
+		"config/spoiled_land-objects/learningStone.json",
+		"config/spoiled_land-objects/observation.json",
+		"config/spoiled_land-objects/rallyFlag.json",
+		"config/spoiled_land-objects/refugeeCamp.json",
+		"config/spoiled_land-objects/schoolOfMagic.json",
+		"config/spoiled_land-objects/schoolOfWar.json",
+		"config/spoiled_land-objects/seerHut.json",
+		"config/spoiled_land-objects/sign.json",
+		"config/spoiled_land-objects/starAxis.json",
+		"config/spoiled_land-objects/tradingPost.json",
+		"config/spoiled_land-objects/treasureChest.json",
+		"config/spoiled_land-objects/verticalGarrizon.json",
+		"config/spoiled_land-objects/wagon.json",
+		"config/spoiled_land-objects/warMachineFactory.json",
+		"config/spoiled_land-objects/witchHut.json",	
+		"config/spoiled_land-special/Mines.json",	
+		"config/spoiled_land-special/obelisks.json",	
+		"config/spoiled_land-special/subgates.json",	
+		"config/spoiled_land-objects/marlettoTower.json",
+		"config/spoiled_land-objects/coverOfDarkness.json",
+		"config/spoiled_land-objects/denOfThieves.json",
+		"config/spoiled_land-objects/gardenOfRevelation.json",
+		"config/spoiled_land-objects/prison.json",
+		"config/spoiled_land-objects/tavern.json",
+		"config/spoiled_land-objects/temple.json",
+		"config/spoiled_land-objects/treeOfKnowledge.json",
+		"config/spoiled_land-objects/waterWheel.json",
+		"config/spoiled_land-objects/windmill.json"
+	]
+}

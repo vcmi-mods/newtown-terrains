@@ -1,0 +1,17 @@
+{
+	"core:cartographer" : {
+		"types" : {
+			"land" : {
+				"name" : "Cartographer",
+				"templates" : {
+					"FSUF0001" : {
+						"animation" : "spoiled_land-objects/cartographer/FSUF0001",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "ABB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

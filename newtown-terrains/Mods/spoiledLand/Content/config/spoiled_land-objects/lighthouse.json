@@ -1,0 +1,16 @@
+{
+	"core:lighthouse" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"wfAVXlths0" : {
+						"animation" : "spoiled_land-objects/lighthouse/AVXlths0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV","VV","VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

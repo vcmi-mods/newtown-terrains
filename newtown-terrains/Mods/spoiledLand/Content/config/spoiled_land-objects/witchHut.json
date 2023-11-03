@@ -1,0 +1,16 @@
+{
+	"core:witchHut" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"FALF0093" : {
+						"animation" : "spoiled_land-objects/witchHut/FALF0093",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV", "VVVV", "VVVV", "VVAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

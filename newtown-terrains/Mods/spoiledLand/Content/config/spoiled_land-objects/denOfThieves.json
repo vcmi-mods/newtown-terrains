@@ -1,0 +1,16 @@
+{
+	"core:denOfThieves" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"FDIF0035" : {
+						"animation" : "spoiled_land-objects/denOfThieves/FDIF0035",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}					
+				}
+			}
+		}
+	}
+}

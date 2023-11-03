@@ -1,0 +1,87 @@
+{
+	"core:creatureBank" : 
+	{
+		"types" : 
+		{
+			"foundry" : 
+			{
+				"name" : "Foundry",
+				"aiValue" : 2000,
+				"templates" : {
+					"base" : { 
+					"animation" : "spoiled_land-banks/Foundry.def", 
+					"visitableFrom" : [ "---", "-++", "+++" ], 
+					"mask" : [ "VVVV", "VBBV", "BBBB", "VBAB"],
+					"allowedTerrains": [ "spoiledLand" ] 
+					}
+				},
+				"rmg" : {
+					"value"		: 2000,
+					"rarity"	: 100
+				},
+				"levels": [
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 10, "type": "farriery:falv3" },
+							{ "amount": 10, "type": "farriery:falv3" },
+							{ "amount": 10, "type": "farriery:falv3", "upgradeChance": 50 },
+							{ "amount": 10, "type": "farriery:falv3" },
+							{ "amount": 10, "type": "farriery:falv3" }
+						],
+						"combat_value": 351,
+						"reward" : {
+							"value": 3000,
+							"creatures": [ { "amount": 1, "type": "farriery:falv7" } ]
+						}
+					},
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 20, "type": "farriery:falv3" },
+							{ "amount": 20, "type": "farriery:falv3" },
+							{ "amount": 20, "type": "farriery:falv3", "upgradeChance": 50 },
+							{ "amount": 20, "type": "farriery:falv3" },
+							{ "amount": 20, "type": "farriery:falv3" }
+						],
+						"combat_value": 702,
+						"reward" : {
+							"value": 6000,
+							"creatures": [ { "amount": 2, "type": "farriery:falv7" } ]
+						}
+					},
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 30, "type": "farriery:falv3" },
+							{ "amount": 30, "type": "farriery:falv3" },
+							{ "amount": 30, "type": "farriery:falv3", "upgradeChance": 50 },
+							{ "amount": 30, "type": "farriery:falv3" },
+							{ "amount": 30, "type": "farriery:falv3" }
+						],
+						"combat_value": 1053,
+						"reward" : {
+							"value": 9000,
+							"creatures": [ { "amount": 3, "type": "farriery:falv7" } ]
+						}
+					},
+					{
+						"chance": 10,
+						"guards": [
+							{ "amount": 40, "type": "farriery:falv3" },
+							{ "amount": 40, "type": "farriery:falv3" },
+							{ "amount": 40, "type": "farriery:falv3", "upgradeChance": 50 },
+							{ "amount": 40, "type": "farriery:falv3" },
+							{ "amount": 40, "type": "farriery:falv3" }
+						],
+						"combat_value": 1404,
+						"reward" : {
+							"value": 12000,
+							"creatures": [ { "amount": 4, "type": "farriery:falv7" } ]
+						}
+					}
+				]
+			}
+		}
+	}
+}

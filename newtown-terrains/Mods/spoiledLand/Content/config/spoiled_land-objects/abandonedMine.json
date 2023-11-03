@@ -1,0 +1,16 @@
+{
+	"core:abandonedMine" : {
+		"types" : {
+			"mine" : {
+				"templates" : {
+					"AVXamLV" : {
+						"animation" : "spoiled_land-objects/abandonedMine/AVXamLV",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

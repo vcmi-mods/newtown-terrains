@@ -1,0 +1,16 @@
+{
+	"core:treeOfKnowledge" : {
+		"types" : {
+			"treeOfKnowledge" : {
+				"templates" : {
+					"OBJ3302" : {
+						"animation" : "spoiled_land-objects/treeOfKnowledge/OBJ3299",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

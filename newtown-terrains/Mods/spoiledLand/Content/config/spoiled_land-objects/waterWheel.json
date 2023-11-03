@@ -1,0 +1,16 @@
+{
+	"core:waterWheel" : {
+		"types" : {
+			"waterWheel" : {
+				"templates" : {
+					"FGRF0003" : {
+						"animation" : "spoiled_land-objects/waterWheel/FGRF0003",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "BBB", "BBA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

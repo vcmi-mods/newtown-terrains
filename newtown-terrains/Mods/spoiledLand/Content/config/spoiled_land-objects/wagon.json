@@ -1,0 +1,16 @@
+{
+	"core:wagon" : {
+		"types" : {
+			"wagon" : {
+				"templates" : {
+					"FALF0215" : {
+						"animation" : "spoiled_land-objects/wagon/FALF0215",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

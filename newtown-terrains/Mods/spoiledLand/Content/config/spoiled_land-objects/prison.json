@@ -1,0 +1,16 @@
+{
+	"core:prison" : {
+		"types" : {
+			"prison" : {
+				"templates" : {
+					"spoiledLandPrison1" : {
+						"animation" : "spoiled_land-objects/prison/AVXprsn1",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VAV"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

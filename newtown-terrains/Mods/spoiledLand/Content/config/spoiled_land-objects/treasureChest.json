@@ -1,0 +1,23 @@
+{
+	"core:treasureChest" : {
+		"types" : {
+			"treasureChest" : {
+				"templates" : {
+					"FTRBC003" : {
+						"animation" : "spoiled_land-objects/treasureChest/FTRBC003",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"FTRBC008" : {
+						"animation" : "spoiled_land-objects/treasureChest/FTRBC008",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}
+	

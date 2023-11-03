@@ -1,0 +1,16 @@
+{
+	"core:schoolOfMagic" : {
+		"types" : {
+			"schoolOfMagic" : {
+				"templates" : {
+					"FALF0246" : {
+						"animation" : "spoiled_land-objects/schoolOfMagic/FALF0246",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VV", "VA"],
+						"allowedTerrains" :["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

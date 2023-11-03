@@ -1,0 +1,16 @@
+{
+	"core:temple" : {
+		"types" : {
+			"temple" : {
+				"templates" : {
+					"AVSTMPL1" : {
+						"animation" : "spoiled_land-objects/temple/AVSTMPL1",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

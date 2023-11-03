@@ -1,0 +1,16 @@
+{
+	"core:tavern" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"OBJ8966" : {
+						"animation" : "spoiled_land-objects/tavern/OBJ8966",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "VBB", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					} 
+				}
+			}
+		}
+	}
+}

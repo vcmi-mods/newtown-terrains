@@ -1,0 +1,113 @@
+{
+	"core:creatureBank" : 
+	{
+		"types" : 
+		{
+			" assemblyShop" : 
+			{
+				"name" : "Assembly Shop",
+				"templates" : {
+					"base" : { "animation" : "spoiled_land-banks/assemblyShop.def", 
+					"visitableFrom" : [ "+++", "+++", "+++" ], 
+					"mask" : [ "VVVV", "VBBV", "BBBB", "VBAB"], 
+					"allowedTerrains":["spoiledLand"] 
+					}
+				},
+				"rmg" : {
+					"value"		: 2000,
+					"rarity"	: 100
+				},
+				"levels": [
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 4, "type" : "farriery:falv5" },
+							{ "amount": 4, "type" : "farriery:falv5" },
+							{ "amount": 4, "type" : "farriery:falv5", "upgradeChance": 50 },
+							{ "amount": 4, "type" : "farriery:falv5" },
+							{ "amount": 4, "type" : "farriery:falv5" }
+						],
+						"combat_value": 506,
+						"reward" : {
+							"value": 10000,
+							"resources": 
+							{
+							
+								"crystal" : 8,
+								"gems" : 8,
+								"gold" : 5000
+							}
+						}
+					},
+										
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 5, "type" : "farriery:falv5" },
+							{ "amount": 5, "type" : "farriery:falv5" },
+							{ "amount": 5, "type" : "farriery:falv5", "upgradeChance": 50 },
+							{ "amount": 5, "type" : "farriery:falv5" },
+							{ "amount": 5, "type" : "farriery:falv5" }
+						],
+						"combat_value": 802,
+						"reward" : {
+							"value": 15000,
+							"resources": 
+							{
+							
+								"crystal" : 10,
+								"gems" : 10,
+								"gold" : 7000
+							}
+						}
+					},
+					
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 7, "type" : "farriery:falv5" },
+							{ "amount": 7, "type" : "farriery:falv5" },
+							{ "amount": 7, "type" : "farriery:falv5", "upgradeChance": 50},
+							{ "amount": 7, "type" : "farriery:falv5" },
+							{ "amount": 7, "type" : "farriery:falv5" }
+						],
+						"combat_value": 1353,
+						"reward" : {
+							"value": 20000,
+							"resources": 
+							{
+							
+								"crystal" : 15,
+								"gems" : 15,
+								"gold" : 10000
+							}
+						}
+					},
+					
+					{
+						"chance": 10,
+						"guards": [
+							{ "amount": 10, "type" : "farriery:falv5" },
+							{ "amount": 10, "type" : "farriery:falv5" },
+							{ "amount": 10, "type" : "farriery:falv5", "upgradeChance": 50 },
+							{ "amount": 10, "type" : "farriery:falv5" },
+							{ "amount": 10, "type" : "farriery:falv5" }
+						],
+						"combat_value": 1704,
+						"reward" : {
+							"value": 25000,
+							"resources": 
+							{
+							
+								"crystal" : 10,
+								"gems" : 10,
+								"gold" : 5000
+							}
+						}
+					}
+
+				]
+			}
+		}
+	}
+}

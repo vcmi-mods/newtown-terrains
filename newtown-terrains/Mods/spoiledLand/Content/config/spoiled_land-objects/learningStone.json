@@ -1,0 +1,16 @@
+{
+	"core:learningStone" : {
+		"types" : {
+			"learningStone" : {
+				"templates" : {
+					"FALF0248" : {
+						"animation" : "spoiled_land-objects/learningStone/FALF0248",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}					
+				}
+			}
+		}
+	}
+}

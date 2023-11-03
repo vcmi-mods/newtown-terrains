@@ -1,0 +1,40 @@
+{
+	"core:volcano" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVLvol10" : {
+						"animation" : "spoiled_land-decorations/volcano/AVLvol10",
+						"mask" : ["VV", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLvol20" : {
+						"animation" : "spoiled_land-decorations/volcano/AVLvol20",
+						"mask" : ["VV", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLvol30" : {
+						"animation" : "spoiled_land-decorations/volcano/AVLvol30",
+						"mask" : ["VVV", "VVV", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLvol40" : {
+						"animation" : "spoiled_land-decorations/volcano/AVLvol40",
+						"mask" : ["VVV", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLvol50" : {
+						"animation" : "spoiled_land-decorations/volcano/AVLvol50",
+						"mask" : ["VVVVV","VVVVV","VVVVV","VBBBV", "VBBBV"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLvol60" : {
+						"animation" : "spoiled_land-decorations/volcano/AVLvol60",
+						"mask" : ["VVVVV", "VVBBB", "BBBBB", "BBBVV"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

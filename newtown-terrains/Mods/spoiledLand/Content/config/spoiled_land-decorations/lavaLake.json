@@ -1,0 +1,156 @@
+{
+	"core:lavaFlow" : {
+		"types" : {
+			"spoiledLandToxicLiquid01" : {
+				"name" : "Toxic Liquid",
+				"templates" : {
+					"AVLlav10" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav10",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlav20" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav20",
+						"mask" : ["VBB", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlav30" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav30",
+						"mask" : ["BBBBBB", "BBBBBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlav40" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav40",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlav50" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav50",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlav60" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav60",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+					"AVLlav70" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav70",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},						
+					"AVLlav80" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav80",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+					"AVLlav90" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlav90",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},						
+					"AVLlv100" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv100",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"AVLlv110" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv110",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"AVLlv120" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv120",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"AVLlv130" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv130",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv140" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv140",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv150" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv150",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv160" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv160",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv170" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv170",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+					"AVLlv180" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv180",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"AVLlv190" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv190",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv200" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv200",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv210" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv210",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv220" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv220",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv230" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv230",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv240" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv240",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv250" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv250",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv260" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv260",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv261" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv261",
+						"mask" : [ "VVV", "BBB" ],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLlv262" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv262",
+                        "mask" : [ "VVVV", "VBBB", "VVVV"],
+						"allowedTerrains" : ["spoiledLand"]
+                    },
+					"AVLlv263" : {
+						"animation" : "spoiled_land-decorations/lakes/AVLlv263",
+                        "mask" : [ "VVVVV", "BBBBB", "BBBBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

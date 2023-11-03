@@ -1,0 +1,86 @@
+{
+	"absoluteVertical":
+	{
+		"allowedTerrains" : ["spoiledLand"],   
+		"specialBattlefields" : [],
+		"width" : 256,
+		"height" : 128,
+		"blockedTiles" :  [43, 60, 61, 76, 77, 93, 109, 126, 127, 142, 143],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv2.def",
+		"absolute" : true
+	},
+	"absoluteHorizontal":
+	{
+		"allowedTerrains" : ["spoiledLand"], 
+		"specialBattlefields" : [],
+		"width" : 124,
+		"height" : 254,
+		"blockedTiles" :  [77, 78, 79, 80, 81, 91, 92, 93, 94, 105, 106, 107],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv1.def",
+		"absolute" : true
+		},
+	"acidCrack":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [-14, -32, -33],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv3.def",
+		"absolute" : false
+	},
+	"poisonousVolcano":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 4,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, 2, -14, -15, -16],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv4.def",
+		"absolute" : false
+	},
+	"poisonousLake":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" :  [-13, -14, -15, -30, -31, -32, -33],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv5.def",
+		"absolute" : false
+	},
+	"smallVolcano":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, 2],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv6.def",
+		"foreground" : true,
+		"absolute" : false
+	},
+	"acidGap":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 4,
+		"height" : 4,
+		"blockedTiles" :  [-14, -15, -32, -33, -49, -50],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv7.def",
+		"absolute" : false
+	},
+	"acidFracture":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" :  [-13, -14, -15, -16, -30, -31],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv8.def",
+		"absolute" : false
+	},
+	"acidLake":
+	{
+		"allowedTerrains" : ["spoiledLand"],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" :  [-13, -14, -15, -16, -31, -32, -33],
+		"animation" : "spoiled_land-terrain/obstacles/ObLv9.def",
+		"absolute" : false
+	}
+}

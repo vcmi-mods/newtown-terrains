@@ -1,0 +1,16 @@
+{
+	"core:eyeOfTheMagi" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"FALF0188" : {
+						"animation" : "spoiled_land-objects/eyeOfTheMagi/FALF0188",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

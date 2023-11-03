@@ -1,0 +1,16 @@
+{
+	"core:starAxis" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVSaxis" : {
+						"animation" : "spoiled_land-objects/starAxis/AVSaxis",
+						"mask" : [ "VV", "VA" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

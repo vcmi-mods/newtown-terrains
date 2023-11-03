@@ -1,0 +1,16 @@
+{
+	"core:windmill" : {
+		"types" : {
+			"windmill" : {
+				"templates" : {
+					"OBJ5128" : {
+						"animation" : "spoiled_land-objects/windmill/OBJ5128",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VBV", "BBB", "VAV"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

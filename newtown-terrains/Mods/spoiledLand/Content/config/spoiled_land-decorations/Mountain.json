@@ -1,0 +1,40 @@
+{
+	"core:mountain" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVLMTVO1" : {
+						"animation" : "spoiled_land-decorations/mountains/AVLMTVO1",
+							"mask" : ["VVVVV", "BBBBV", "BBBBBB", "VVBBB"],
+							"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLMTVO2" : {
+						"animation" : "spoiled_land-decorations/mountains/AVLMTVO2",
+							"mask" : ["VVVVV", "VVBBB", "BBBBB", "BBBVV"],
+							"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLMTVO3" : {
+						"animation" : "spoiled_land-decorations/mountains/AVLMTVO3",
+							"mask" : ["VVV", "BBB","VBB"],
+							"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLMTVO4" : {
+						"animation" : "spoiled_land-decorations/mountains/AVLMTVO4",
+							"mask" : ["VVV", "BBB","BBV"],
+							"allowedTerrains" : ["spoiledLand"]
+					},					
+					"AVLMTVO5" : {
+						"animation" : "spoiled_land-decorations/mountains/AVLMTVO5",
+							"mask" : ["BBV", "VBB"],
+							"allowedTerrains" : ["spoiledLand"]
+					},						
+					"AVLMTVO6" : {
+						"animation" : "spoiled_land-decorations/mountains/AVLMTVO6",
+							"mask" : ["VBB", "BBV"],
+							"allowedTerrains" : ["spoiledLand"]
+					}						
+				}
+			}	
+		}
+	}
+}

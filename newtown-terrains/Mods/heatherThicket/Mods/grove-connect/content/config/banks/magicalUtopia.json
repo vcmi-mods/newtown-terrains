@@ -1,0 +1,119 @@
+{
+	"core:creatureBank" : 
+	{
+		"types" : 
+		{
+			"magicalUtopia" : 
+			{
+				"name" : "Magical Utopia",
+				"templates" : {
+					"base" : { 
+					"animation" : "banks/magicalUtopia.def", 
+					"visitableFrom" :  [ "---", "-+-", "+++" ],
+						"mask" : [ "VVVVVVV", "VVVVVV", "VVBBBB","BBBBBV","VVBBAV"],							
+						"allowedTerrains":[ "heatherThicket" ]
+					}
+				},
+				"aiValue" : 11000,
+				"rmg" : {
+					"value"		: 10000,
+					"rarity"	: 100
+				},
+				"levels": [
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 8, "type": "grove:quartzdragon" },
+							{ "amount": 5, "type": "grove:amethystdragon" },
+							{ "amount": 2, "type": "grove:saphiredragon" },
+							{ "amount": 1, "type": "grove:saphiredragon" }
+						],
+						"combat_value": 769,
+						"reward" : {
+							"value": 38000,
+							"resources":
+							{
+								"gold" : 20000
+							},
+							"artifacts": [
+								{ "class" : "TREASURE" },
+								{ "class" : "MINOR" },
+								{ "class" : "MAJOR" },
+								{ "class" : "RELIC" }
+							]
+						}
+					},
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 8, "type": "grove:quartzdragon" },
+							{ "amount": 6, "type": "grove:amethystdragon" },
+							{ "amount": 3, "type": "grove:saphiredragon" },
+							{ "amount": 2, "type": "grove:saphiredragon" }
+						],
+						"combat_value": 209,
+						"reward" : {
+							"value": 57000,
+							"resources":
+							{
+								"gold" : 30000
+							},
+							"artifacts": [
+								{ "class" : "MINOR" },
+								{ "class" : "MAJOR" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" }
+							]
+						}
+					},
+					{
+						"chance": 30,
+						"guards": [
+							{ "amount": 8, "type": "grove:quartzdragon" },
+							{ "amount": 6, "type": "grove:amethystdragon" },
+							{ "amount": 4, "type": "grove:saphiredragon" },
+							{ "amount": 3, "type": "grove:saphiredragon" }
+						],
+						"combat_value": 556,
+						"reward" : {
+							"value": 75000,
+							"resources":
+							{
+								"gold" : 40000
+							},
+							"artifacts": [
+								{ "class" : "MAJOR" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" }
+							]
+						}
+					},
+					{
+						"chance": 10,
+						"guards": [
+							{ "amount": 8, "type": "grove:quartzdragon" },
+							{ "amount": 7, "type": "grove:amethystdragon" },
+							{ "amount": 6, "type": "grove:saphiredragon" },
+							{ "amount": 5, "type": "grove:saphiredragon" }
+						],
+						"combat_value": 343,
+						"reward" : {
+							"value": 90000,
+							"resources":
+							{
+								"gold" : 50000
+							},
+							"artifacts": [
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" }
+							]
+				        }
+					}																		
+				]
+			}
+		}
+	}
+}

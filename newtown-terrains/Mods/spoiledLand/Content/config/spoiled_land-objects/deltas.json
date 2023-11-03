@@ -1,0 +1,26 @@
+{
+	"core:riverDelta" : {
+		"types" : {
+			"object" : {
+				"templates" : {					
+					"acddelt1" : {
+						"animation" : "spoiled_land-decorations/lavaDelta/lavdelt1.def",
+						"mask" : ["VVV","VVV","VVV"]
+					},
+					"acddelt2" : {
+						"animation" : "spoiled_land-decorations/lavaDelta/lavdelt2.def",
+						"mask" : ["VVV","VVV","VVV"]
+					},
+					"acddelt3" : {
+						"animation" : "spoiled_land-decorations/lavaDelta/lavdelt3.def",
+						"mask" : ["VVV","VVV","VVV"]
+					},
+					"acddelt4" : {
+						"animation" : "spoiled_land-decorations/lavaDelta/lavdelt4.def",
+						"mask" : ["VVV","VVV","VVV"]
+					}
+				}
+			}
+		}
+	}
+}

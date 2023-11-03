@@ -1,0 +1,16 @@
+{
+	"core:campfire" : {
+		"types" : {
+			"campfire" : {
+				"templates" : {
+					"FTRCF008" : {
+						"animation" : "spoiled_land-objects/campFire/FTRCF008",
+						"visitableFrom" : ["+++", "-+-", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

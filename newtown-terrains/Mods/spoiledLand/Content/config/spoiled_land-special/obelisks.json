@@ -1,0 +1,34 @@
+{
+	"core:obelisk" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"spoiledLandObelisk01" : {
+						"animation" : "spoiled_land-special/obelisks/AVOBL036",  
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoiledLandObelisk02" : {
+						"animation" : "spoiled_land-special/obelisks/AVOBL016",  
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					},				
+ 					"spoiledLandObelisk03" : {
+						"animation" : "spoiled_land-special/obelisks/AvXOblOr",  
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					},				
+ 					"spoiledLandObelisk04" : {
+						"animation" : "spoiled_land-special/obelisks/TPSALA",  
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

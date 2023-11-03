@@ -1,0 +1,16 @@
+{
+	"core:gardenOfRevelation" : {
+		"types" : {
+			"gardenOfRevelation" : {
+				"templates" : {
+					"AVSgrdn0" : {
+						"animation" : "spoiled_land-objects/gardenOfRevelation/AVSgrdn0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV","VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"core:subterraneanGate" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"spoiledLandSubgate01" : {
+						"animation" :  "spoiled_land-special/subgates/AVSUG001",   
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : [  "VVVV", "VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

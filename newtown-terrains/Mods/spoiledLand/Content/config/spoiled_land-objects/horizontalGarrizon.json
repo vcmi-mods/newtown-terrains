@@ -1,0 +1,16 @@
+{
+	"core:garrisonHorizontal" : {
+		"types" : {
+			"normal" : {
+				"templates" : {
+					"FALF0232" : {
+						"animation" : "spoiled_land-objects/horizontalGarrizon/FALF0232",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

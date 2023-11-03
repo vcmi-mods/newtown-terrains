@@ -1,0 +1,81 @@
+{
+	"core:canyon" : {
+		"types" : {
+			"spoiledLandCanyon01" : {
+				"name" : "Rift",
+				"templates" : {
+					"avlc10l0" : {
+						"animation" : "spoiled_land-decorations/canyons/avlc10l0",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"avlc11l0" : {
+						"animation" : "spoiled_land-decorations/canyons/avlc11l0",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"avlc12l0" : {
+						"animation" : "spoiled_land-decorations/canyons/avlc12l0",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"avlc13l0" : {
+						"animation" : "spoiled_land-decorations/canyons/avlc13l0",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+						"avlc14l0" : {
+						"animation" : "spoiled_land-decorations/canyons/avlc14l0",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},																						
+						"AVLct1l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct1l0",
+						"mask" : ["BBBB","BBBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+						"AVLct2l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct2l0",
+						"mask" : ["BB","BB","BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+						"AVLct3l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct3l0",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+						"AVLct4l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct4l0",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+						"AVLct5l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct5l0",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+						"AVLct6l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct6l0",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+						"AVLct7l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct7l0",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+						"AVLct8l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct8l0",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},						
+						"AVLct9l0" : {
+						"animation" : "spoiled_land-decorations/canyons/AVLct9l0",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}					
+				}
+			}
+		}
+	}
+}

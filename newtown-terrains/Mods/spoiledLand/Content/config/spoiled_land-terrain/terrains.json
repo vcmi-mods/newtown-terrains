@@ -1,0 +1,18 @@
+{
+	 "spoiledLand" :
+	 {
+		"type": [ "SURFACE" ],
+		"text" : "Spoiled Land",
+		"shortIdentifier" : "jf",
+		"moveCost" : 90,
+		"tiles" : "spoiled_land-terrain/PLTU",
+		"river" : "spoiledLandToxicWaterRiver",
+		"rockTerrain" : "rock",
+		"battleFields" : ["spoiled_land"],
+		 "minimapUnblocked" : [ 102, 102, 64 ],
+		 "minimapBlocked"   : [ 41, 40, 41 ],
+		"horseSound" : "horse07",
+		"horseSoundPenalty" : "horse27",
+		"music" : "spoiledtheme.ogg"
+	 }
+}

@@ -1,0 +1,56 @@
+{
+	"core:rock" : {
+		"types" : {
+			"spoiledLandSkull01" : {
+				"name" : "Bones",
+				"templates": {
+					"AVLbon00" : {
+						"animation" : "spoiled_land-decorations/bones/AVLbon00",
+						"mask" : ["VB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLbon01" : {
+						"animation" : "spoiled_land-decorations/bones/AVLbon01",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+					"AVLbon02" : {
+						"animation" : "spoiled_land-decorations/bones/AVLbon02",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},											
+					"AVLbon03" : {
+						"animation" : "spoiled_land-decorations/bones/AVLbon03",
+						"mask" : ["VVVVV","VBBBV","VVVVV"],
+						"allowedTerrains" : ["spoiledLand"]
+					},		
+					"jaws" : {
+						"animation" : "spoiled_land-decorations/bones/jaws",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}						
+				}
+			},
+			"spoiledLandSkull02" : {
+				"name" : "Skull",
+				"templates" : {
+					"AVLskul0" : {
+						"animation" : "spoiled_land-decorations/bones/AVLskul0",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"AVLskul1" : {
+						"animation" : "spoiled_land-decorations/bones/AVLskul1",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"AVLskul2" : {
+						"animation" : "spoiled_land-decorations/bones/AVLskul2",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					}					
+				}
+			}			
+		}
+	}
+}
