@@ -16,9 +16,7 @@
 	"compatibility" :
 	{
 		"min" : "1.2.0"
-	},
-	"modType" : "Graphical",
-		
+	},		
     "objects" :
     [ 
 	"config/fieldGlory/fieldGlory objects/bones.json",

@@ -7,13 +7,12 @@
 		"minimapBlocked"   : [ 121, 28, 3 ],
 		"music" : "fieldGlory/FieldGlory Theme",
 		"tiles" : "fieldGlory/FOGLTL",
-		"type": ["LAND", "SURFACE"], //default values
+		"type": ["SURFACE"],
 		"shortIdentifier":"fg",
 		"river" : "mudRiver",
 		"rockTerrain":"rock",
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse20",
-//		"terrainViewPatterns" : "wasteland",
 		"battleFields" : ["fieldGlory"]
 	}
 }
