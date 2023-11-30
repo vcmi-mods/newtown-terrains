@@ -1,7 +1,7 @@
 {
 	"name" : "Fields of Glory terrain",
 	"description" : "Assets for fields of glory terrain.",
-	
+	"modType": "Objects",
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
 	"version" : "1.3",
@@ -17,8 +17,7 @@
 	{
 		"min" : "1.2.0"
 	},
-	"modType" : "Graphical",	
-	//"depends" : ["asylumNew.asylum"],
+	"modType" : "Graphical",
 		
     "objects" :
     [ 

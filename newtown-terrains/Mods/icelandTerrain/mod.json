@@ -17,8 +17,7 @@
 	{
 		"min" : "1.2.0"
 	},
-	"modType" : "Graphical",	
-	//"depends" : ["asylumNew.asylum"],
+	"modType" : "Graphical",
 		
     "objects" :
     [ 
