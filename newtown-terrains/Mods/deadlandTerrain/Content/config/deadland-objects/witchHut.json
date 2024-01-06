@@ -2,36 +2,18 @@
 	"core:witchHut": {
 
 		"types": {
-			"deadland-objectswitchHut01": {
-				"name": "Witch Hut",
-				"rmg": {
-					"zoneLimit": 3,
-					"value": 1500,
-					"rarity": 80
-				},
+			"witchHut": {
 				"templates": {
-
-	 
 					"Alex0002": {
 						"animation": "deadland-objects/witchHut/Alex0002",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VAV"],
-
 						"allowedTerrains": [
-"deadland"
+							"deadland"
 						]
 					}
-
-
-
-
-
 				}
 			}
-
 		}
 	}
-
-
-
 }

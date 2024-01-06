@@ -2,13 +2,7 @@
 	"core:sanctuary": {
 
 		"types": {
-			"deadland-objects2sanctuaryOBJ2628": {
-				"name": "Sanctuary",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 50
-				},
+			"object": {
 				"templates": {
 
 					"OBJ2628": {
@@ -19,17 +13,10 @@
 						"allowedTerrains" : ["deadland"]
 					}
 				}
-			},
-
-	 
-
-
-
-				}
 			}
-
-
 		}
+	}
+}
 	
 
 

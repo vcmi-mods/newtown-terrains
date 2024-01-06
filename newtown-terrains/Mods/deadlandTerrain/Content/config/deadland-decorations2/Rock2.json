@@ -1,9 +1,6 @@
 {
 	"core:rock": {
-
 		"types": {
-	 
-			
 			"deadland-decorations2Ruins02": {
 				"name": "Ruins",
 				"rmg": {
@@ -39,15 +36,9 @@
 						"allowedTerrains": [
 							"deadland"
 						]
-					},
- 
+					}
 				}
-			},
-
- 		
-			
+			}	
 		}
-
-
 	}
 }

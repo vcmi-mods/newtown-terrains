@@ -2,29 +2,18 @@
 	"core:treeOfKnowledge": {
 
 		"types": {
-			"deadland-objectssphinx01": {
-				"name": "Sphinx",
-				"rmg": {
-					"value": 1500,
-					"rarity": 200
-				},
+			"treeOfKnowledge": {
+//				"name": "Sphinx",
 				"templates": {
-
 					"FDIF0032": {
 						"animation": "deadland-objects/sphinx/FDIF0032",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VBV", "VBA"],
-
 						"allowedTerrains": [
 							"deadland"
-
 						]
 					}
-
-
-
 				}
-
 			}
 		}
 	}

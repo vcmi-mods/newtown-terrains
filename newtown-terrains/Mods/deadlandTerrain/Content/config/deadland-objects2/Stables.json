@@ -2,16 +2,8 @@
 	"core:stables": {
 
 		"types": {
-			"deadland-objects2stables01": {
-				"name": "Stables",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 200,
-					"rarity": 40
-				},
+			"stables": {
 				"templates": {
-
- 
 					"AVXSTBL1": {
 						"animation": "deadland-objects2/stables/AVXSTBL1",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -20,15 +12,7 @@
 						"allowedTerrains" : ["deadland"]
 					}
 				}
-			},
-
-
-
- 
-
+			}
 		}
 	}
-
-
-
 }

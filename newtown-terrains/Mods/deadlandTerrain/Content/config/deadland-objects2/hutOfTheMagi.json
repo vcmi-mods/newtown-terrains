@@ -2,31 +2,17 @@
 	"core:hutOfTheMagi": {
 
 		"types": {
- 
-			"deadland-objectshutOfTheMagi02": {
-				"name": "Hut Of The Magi",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 2500,
-					"rarity": 50
-				},
+			"object": {
 				"templates": {
 
 					"AVXhutm0": {
 						"animation": "deadland-objects2/hutOfTheMagi/AVXhutm0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV","VVV", "BAB"],
-
-						"allowedTerrains": [
- "deadland"
- 
-						]
+						"allowedTerrains": [ "deadland"	]
 					}
-
 				}
-			}		}
+			}		
+		}
 	}
-
-
-
 }

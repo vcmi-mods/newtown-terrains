@@ -2,32 +2,18 @@
 	"core:wagon": {
 
 		"types": {
-			"deadland-objectswagon01": {
+			"wagon": {
 				"name": "Wagon",
-
-				"rmg": {
-					"zoneLimit": 10,
-					"value": 500,
-					"rarity": 50
-				},
 				"templates": {
 
 					"FALF0215": {
 						"animation": "deadland-objects/wagon/FALF0215",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
-						"allowedTerrains": [
-"deadland"
-						]
+						"allowedTerrains": ["deadland"]
 					}
-
 				}
 			}
-
 		}
 	}
-
-
-
 }

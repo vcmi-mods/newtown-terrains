@@ -2,28 +2,15 @@
 	"core:schoolOfWar": {
 
 		"types": {
-			"deadland-objectsschoolOfWar01": {
-
-				"rmg": {
-					"value": 1000,
-					"rarity": 50
-
-				},
+			"schoolOfWar": {
 				"templates": {
-
 					"FALF0109": {
 						"animation": "deadland-objects/schoolOfWar/FALF0109",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask":["VVVV","VVVV","BBBV","VBAV"],
-						"allowedTerrains": [
-"deadland"
-]
+						"allowedTerrains": [ "deadland" ]
 					}
-
-
-
 				}
-
 			}
 		}
 	}

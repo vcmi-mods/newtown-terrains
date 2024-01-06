@@ -2,16 +2,8 @@
 	"core:idolOfFortune": {
 
 		"types": {
-			"deadland-objects2idolOfFortune01": {
-
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 100
-				},
+			"idolOfFortune": {
 				"templates": {
-
- 
 					"OBJ7957": {
 						"animation": "deadland-objects2/idolOfFortune/OBJ7957",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -25,17 +17,9 @@
 						"mask": ["VV", "VB", "VA"],
 
 						"allowedTerrains" : ["deadland"]
-					},
- 				
-					
+					}		
 				}
-			}			
-			
-			
-
+			}
 		}
 	}
-
-
-
 }

@@ -2,13 +2,8 @@
 	"core:fountainOfYouth": {
 
 		"types": {
-			"deadland-objectsfontainOfDead01": {
-				"name": "Fountain Of Dead",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 100
-				},
+			"fountainOfYouth": {
+//				"name": "Fountain Of Dead",
 				"templates": {
 
 					"FDIF0004": {
@@ -20,13 +15,8 @@
 							"deadland"
 						]
 					}
-
 				}
 			}
-
 		}
 	}
-
-
-
 }

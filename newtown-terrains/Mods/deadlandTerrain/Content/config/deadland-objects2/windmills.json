@@ -1,33 +1,17 @@
 {
-
 	"core:windmill": {
 		"types": {
-			"deadland-objects2windmillOBJ1696": {
-				"name": "Windmill",
-				"rmg": {
-					"value": 1500,
-					"rarity": 80
-				},
-				"templates": {
-
- 
+			"windmill": {
+				"templates": { 
 					"OBJ5128": {
 						"animation": "deadland-objects2/windmill/OBJ5128",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VBV", "BBB", "VAV"],
 
 						"allowedTerrains" : ["deadland"]
-					},
-	 
-					
-					
-					
-
+					}
 				}
 			}
-
 		}
 	}
-
-
 }

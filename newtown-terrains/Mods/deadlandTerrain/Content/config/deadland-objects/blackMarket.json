@@ -2,13 +2,7 @@
 	"core:blackMarket": {
 
 		"types": {
-			"deadland-objectsblackMarket01": {
-
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 100
-				},
+			"object": {
 				"templates": {
 
 	 
@@ -16,21 +10,12 @@
 						"animation": "deadland-objects/blackMarket/AVXMKTB0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VBA"],
-
 						"allowedTerrains": [
 							"deadland"
 						]
 					}						
-
-
 				}
 			}
-
-
-
 		}
 	}
-
-
-
 }

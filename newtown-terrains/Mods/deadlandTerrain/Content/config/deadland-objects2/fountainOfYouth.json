@@ -2,124 +2,36 @@
 	"core:fountainOfFortune": {
 
 		"types": {
-			"deadland-objects2Luck01": {
-				"name": "Fountain Of Luck",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 100
-				},
-				
-				
-		"sounds" : {
-				"ambient" : ["LOOPFOUN"],
-				"visit" : ["LUCK"]
-			},
-			"onVisitedMessage" : "{Fountain of Fortune}\n\nYou drink from the enchanted fountain, but nothing happens.",
-				"visitMode" : "bonus",
-				"selectMode" : "selectFirst",
-				"resetParameters" : {
-					"period" : 7,
-					"rewards" : true
-				},
-
-				"rewards" : [
-					{
-						"message" : "{Fountain of Fortune}\n\nAs you drink the bittersweet water, you feel your luck changing.",
-						"appearChance" : { "min" : 0, "max" : 25 },
-						"bonuses" : [ { "type" : "LUCK", "val" : -1, "duration" : "ONE_BATTLE", "description" :  "Luck -1 until next battle" } ] // NOTE: strings has %s placeholder for morale value
-					},
-					{
-						"message" : "{Fountain of Fortune}\n\nAs you drink the bittersweet water, you feel your luck changing.",
-						"appearChance" : { "min" : 25, "max" : 50 },
-						"bonuses" : [ { "type" : "LUCK", "val" : 1, "duration" : "ONE_BATTLE", "description" :  "Luck +1 until next battle" } ] // NOTE: strings has %s placeholder for morale value
-					},
-					{
-						"message" : "{Fountain of Fortune}\n\nAs you drink the bittersweet water, you feel your luck changing.",
-						"appearChance" : { "min" : 50, "max" : 75 },
-						"bonuses" : [ { "type" : "LUCK", "val" : 2, "duration" : "ONE_BATTLE", "description" :  "Luck +2 until next battle" } ] // NOTE: strings has %s placeholder for morale value
-					},
-					{
-						"message" : "{Fountain of Fortune}\n\nAs you drink the bittersweet water, you feel your luck changing.",
-						"appearChance" : { "min" : 75, "max" : 100 },
-						"bonuses" : [ { "type" : "LUCK", "val" : 3, "duration" : "ONE_BATTLE", "description" :  "Luck +3 until next battle" } ] // NOTE: strings has %s placeholder for morale value
-					},
-				]	,			
-				
-				
+			"fountainOfFortune": {				
 				"templates": {
 
 					"avsfntn1": {
 						"animation": "deadland-objects2/fountainOfLuck/avsfntn1",
 						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV",
-						"VB"],
-
+						"mask": ["VV", "VB"],
 						"allowedTerrains" : ["deadland"]
-					},
- 
+					}
 				}
 			}
 
-		},
-		
-		
-		
-		
-		
-		
+		}
 	},
 	
-		"core:fountainOfYouth": {
+	"core:fountainOfYouth": {
 
 		"types": {
 			
-			"deadland-objects2Youth01": {
-				"name": "Fountain Of Youth",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 100
-				},
-				
-				"sounds" : {
-				"ambient" : ["LOOPFALL"],
-				"visit" : ["MORALE"]
-			},
-			"onVisitedMessage" : "{Fountain of Youth}\n\nYou drink from the enchanted fountain, but nothing happens.",
-				"visitMode" : "bonus",
-				"selectMode" : "selectFirst",
-				"rewards" : [
-					{
-						"message" : "{Fountain of Youth}\n\nYou drink from the fountain's waters and feel young again! Sensing your renewed vigor, your army's morale improves, allowing you to cover additional ground as you head for your next battle.",
-						"movePoints" : 400,
-						"bonuses" : [ { "type" : "MORALE", "val" : 1, "duration" : "ONE_BATTLE", "description" : "Morale +1 until next battle" } ]
-					}
-				],
-				
+			"fountainOfYouth": {				
 				"templates": {
 
 					"AVXmags0": {
 						"animation": "deadland-objects2/fountainOfYouth/AVXmags0",
 						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV","VVV",
-						"VBB"],
-
+						"mask": ["VVV","VVV","VBB"],
 						"allowedTerrains" : ["deadland"]
-					},
- 
+					}
 				}
 			}
-
-		},
-		
-		
-		
-		
-		
-		
+		}	
 	}
-
-
-
 }

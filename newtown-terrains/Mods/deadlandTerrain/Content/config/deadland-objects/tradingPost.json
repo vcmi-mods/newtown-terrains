@@ -2,39 +2,26 @@
 	"core:tradingPost": {
 
 		"types": {
-			"deadland-objectstradingPost01": {
-				"name": "Trading Post",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 100
-				},
+			"object": {
 				"templates": {
-
 					"AVXpost0": {
 						"animation": "deadland-objects/tradingPost/AVXpost0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VBA"],
-
 						"allowedTerrains": [
-"deadland"
+							"deadland"
 						]
 					},
 					"AVXpstr0": {
 						"animation": "deadland-objects/tradingPost/AVXpstr0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VBA"],
-
 						"allowedTerrains": [
-"deadland"
+							"deadland"
 						]
 					}
 				}
 			}
-
 		}
 	}
-
-
-
 }

@@ -2,36 +2,19 @@
 	"core:rallyFlag": {
 
 		"types": {
-			"deadland-objectsrallyFlag01": {
-
-				"rmg": {
-					"value": 100,
-					"rarity": 100,
-					"zoneLimit":1
-				},
+			"rallyFlag": {
 				"templates": {
-
- 
-										"AVXRLLY0": {
+					"AVXRLLY0": {
 						"animation": "deadland-objects/rallyFlag/AVXRLLY0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VAB"],
 
 						"allowedTerrains": [
-
-"deadland"
+							"deadland"
 						]
 					}
-
-
 				}
 			}
-
-
-
 		}
 	}
-
-
-
 }

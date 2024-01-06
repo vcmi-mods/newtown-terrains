@@ -2,17 +2,8 @@
 	"core:starAxis": {
 
 		"types": {
-			"deadland-objects2starAxis01": {
-				"name": "Star Axis",
-
-				"rmg": {
-					"zoneLimit": 3,
-					"value": 1500,
-					"rarity": 100
-				},
+			"starAxis": {
 				"templates": {
-
- 
 					"OBJ1837": {
 						"animation": "deadland-objects2/starAxis/OBJ1837",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -21,13 +12,7 @@
 						"allowedTerrains" : ["deadland"]
 					}
 				}
-			},
-			 
-
-
+			}
 		}
 	}
-
-
-
 }

@@ -1,7 +1,7 @@
 {
 	"core:sign": {
 		"types": {
-			"deadland-objectsSign01": {
+			"object": {
 				"templates": {
  
 					"FALF0178": {
@@ -35,9 +35,8 @@
 						"animation": "deadland-objects/sign/FOCF0006",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VA"],
-						"allowedTerrains": ["deadland"
-]
-					},	
+						"allowedTerrains": ["deadland"]
+					}
 				}
 			}
 		}

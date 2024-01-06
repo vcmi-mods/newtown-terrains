@@ -2,32 +2,18 @@
 	"core:refugeeCamp": {
 
 		"types": {
-			"deadland-objectsrefugeeCamp01": {
-
-				"name": "Refugee Camp",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 100,
-					"rarity": 60
-				},
+			"object": {
 				"templates": {
-
-	 
-"AVGrefg0": {
+					"AVGrefg0": {
 						"animation": "deadland-objects/refugeeCamp/AVGrefg0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
 						"allowedTerrains": [
-"deadland"
+							"deadland"
 						]
 					}
 				}
 			}
-
 		}
 	}
-
-
-
 }

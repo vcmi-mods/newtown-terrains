@@ -2,13 +2,7 @@
 	"core:wateringHole": {
 
 		"types": {
-			"deadland-objectswaterhole01": {
-				"name": "Watering Hole",
-				"rmg": {
-					"zoneLimit": 2,
-					"value": 500,
-					"rarity": 50
-				},
+			"wateringHole": {
 				"templates": {
 
 					"AVXwtrh0": {
@@ -38,15 +32,9 @@
 						"allowedTerrains": [
 							"deadland"
 						]
-					},
- 
-
+					}
 				}
 			}
-
 		}
 	}
-
-
-
 }

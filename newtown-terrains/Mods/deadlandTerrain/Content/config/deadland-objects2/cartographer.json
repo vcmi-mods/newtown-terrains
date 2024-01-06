@@ -2,13 +2,7 @@
 	"core:cartographer": {
 
 		"types": {
-			"deadland-objects2cartographer01": {
-				"name": "Cartographer",
-				"rmg": {
-					"mapLimit": 2,
-					"value": 10000,
-					"rarity": 20
-				},
+			"cartographerLand": {
 				"templates": {
 
 					"AVXmaps0": {
@@ -17,15 +11,9 @@
 						"mask": ["VV", "VV", "AB"],
 
 						"allowedTerrains" : ["deadland"]
-					},
-	 
-
+					}
 				}
-			},
- 
+			}
 		}
 	}
-
-
-
 }

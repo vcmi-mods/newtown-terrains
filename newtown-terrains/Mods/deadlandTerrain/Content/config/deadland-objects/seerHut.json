@@ -2,43 +2,30 @@
 	"core:seerHut": {
 
 		"types": {
-			"deadland-objectsseerHut01": {
-				"name": "Seer Hut",
-				"rmg": {
-					"zoneLimit": 1,
-					"value": 2000,
-					"rarity": 100
-				},
+			"0": {
 				"templates": {
-
-	 
 					"FALF0197": {
 						"animation": "deadland-objects/seerHut/FALF0197",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
 						"allowedTerrains": [
-"deadland"
+							"deadland"
 						]
-					},
-
-		"AVXseeb0": {
+					}
+				}
+			},
+			"1": {
+				"templates": {
+					"AVXseeb0": {
 						"animation": "deadland-objects/seerHut/AVXseeb0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV","VAV"],
-
 						"allowedTerrains": [
-"deadland"
+							"deadland"
 						]
-					},
-
-	 
-
+					}
 				}
 			}
-
-
-
 		}
 	}
 }

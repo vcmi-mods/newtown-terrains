@@ -2,8 +2,6 @@
 	"core:rock": {
 
 		"types": {
-	 
-	 
 			"deadland-decorations2newSkullsObject1": {
  
 				"name": "Skulls",
@@ -13,26 +11,15 @@
 					"rarity": 100
 				},
 				"templates": {
-
-
 					"OBJ7422": {
 						"animation": "deadland-decorations2/rock/OBJ7422",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BB"],
 
 						"allowedTerrains" : ["deadland"]
-					},
- 
-
-
-
-
+					}
 				}
-			},
-
- 
+			}
 		}
-
-
 	}
 }
