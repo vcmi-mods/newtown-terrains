@@ -4,9 +4,10 @@
 	"modType" : "Graphical",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.5.1",
+	"version" : "1.5.2",
 	"changelog" :
 	{
+		"1.5.2"   : [ "Added Chinese translation" ],
 		"1.5.1"   : [ "Fixed broken Deadland's visitable objects", "Add Death Valley connector submod to make Deadland native terrain for Death Valley town" ],
 		"1.5.0"   : [ "Added Heather Thicket terrain", "Adden Spoiled Land terrain", "Added Deadlands terrain" ],
 		"1.4.0"   : [ "Release as a new mod" ],
@@ -19,6 +20,13 @@
 		"1.2.0"   : [ "Mod rewritten for new format" ],
 		"1.1.0"   : [ "Added mines and obelisk" ],
 		"1.0"     : [ "Initial release" ]
+	}, 
+	"chinese" : {
+		"name" : "新地形",
+		"description" : "提供新种族特殊地形。",
+		"translations" : [
+			"translation/newtown-terrains/chinese.json"
+		]
 	},
 	"compatibility" :
 	{
