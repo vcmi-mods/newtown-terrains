@@ -17,7 +17,7 @@
 	{
 		"min" : "1.2.0"
 	},
-	"modType" : "Graphical",
+	"modType" : "Objects",
 	"rivers":
 	[
 		"config/stardust/stardust terrain/river.json"
