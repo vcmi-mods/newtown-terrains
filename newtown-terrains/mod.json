@@ -1,7 +1,7 @@
 {
 	"name" : "New terrains pack",
 	"description" : "Assets for stardust, fields of glory and ice cave terrain.",
-	"modType" : "Graphical",	
+	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
 	"version" : "1.5.2",
