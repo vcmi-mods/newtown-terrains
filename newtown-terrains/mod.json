@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.5.4",
+	"version" : "1.5.5",
 	"changelog" :
 	{
+		"1.5.5"   : [ "Russian translation by Anton Sergeew" ],
 		"1.5.4"   : [ "Changed river short identifier" ],
 		"1.5.3"   : [ "Updated Field of Glory. Changed mod type to \"Objects\"." ],
 		"1.5.2"   : [ "Added Chinese translation" ],
@@ -28,6 +29,13 @@
 		"description" : "提供新种族特殊地形。",
 		"translations" : [
 			"translation/newtown-terrains/chinese.json"
+		]
+	},
+	"russian" : {
+		"name" : "russian",
+		"description" : "Новые почвы",
+		"translations" : [
+			"translation/newtown-terrains/russian.json"
 		]
 	},
 	"compatibility" :
