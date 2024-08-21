@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.5.3",
+	"version" : "1.5.4",
 	"changelog" :
 	{
+		"1.5.4"   : [ "Changed river short identifier" ],
 		"1.5.3"   : [ "Updated Field of Glory. Changed mod type to \"Objects\"." ],
 		"1.5.2"   : [ "Added Chinese translation" ],
 		"1.5.1"   : [ "Fixed broken Deadland's visitable objects", "Add Death Valley connector submod to make Deadland native terrain for Death Valley town" ],
