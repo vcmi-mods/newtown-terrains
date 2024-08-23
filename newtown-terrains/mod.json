@@ -32,8 +32,8 @@
 		]
 	},
 	"russian" : {
-		"name" : "russian",
-		"description" : "Новые почвы",
+		"name" : "Новый пакет ландшафтов",
+		"description" : "Ресурсы для ландшафта звездной пыли, полей славы и ледяной пещеры.",
 		"translations" : [
 			"translation/newtown-terrains/russian.json"
 		]
