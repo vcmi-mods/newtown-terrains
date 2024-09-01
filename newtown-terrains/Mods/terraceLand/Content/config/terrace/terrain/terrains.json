@@ -1,0 +1,19 @@
+{
+	"terrace" :
+	{
+		"text":"Terrace",
+		"moveCost" : 100,
+		"minimapUnblocked" : [ 82, 117, 75 ],
+		"minimapBlocked"   : [ 97, 133, 70 ],
+		"music" : "Grass.mp3",
+		"tiles" : "terrace/terrain/terrace",
+		"shortIdentifier" : "te",
+		"battleFields" : ["battlefield_01", "battlefield_02"],
+		"terrainViewPatterns" : "grass",
+		"type":["SURFACE"],
+		"river" : "waterRiver",
+		"rockTerrain":"rock",
+		"horseSound" : "horse02",
+		"horseSoundPenalty" : "horse22"
+	}
+}

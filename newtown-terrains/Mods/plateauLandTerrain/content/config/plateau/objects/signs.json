@@ -1,0 +1,16 @@
+{
+	"core:sign" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateau_avxsnhl" : {
+						"animation" : "plateau/objects/sign/avxsnhl",
+						"allowedTerrains": [ "plateau" ],
+						"mask" : [ "A" ],
+						"visitableFrom" : [ "---", "+++", "+++" ]
+					}
+				}
+			}
+		}
+	}
+}

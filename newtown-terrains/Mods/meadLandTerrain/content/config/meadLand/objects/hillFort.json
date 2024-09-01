@@ -1,0 +1,16 @@
+{
+	"core:hillFort" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLand_hillFort" : {
+						"animation" : "meadLand/objects/hillfort/meadLandhillFort",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VBB", "VBA"],
+						"allowedTerrains" : ["meadLand"]
+					}
+				}
+			}
+		}
+	}
+}

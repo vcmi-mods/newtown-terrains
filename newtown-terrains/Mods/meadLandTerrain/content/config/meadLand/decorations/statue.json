@@ -1,0 +1,24 @@
+{
+	"statue" : {
+		"handler" : "static",
+		"name" : "Mars statue",
+		"types" : {
+			"statue" : {
+				"templates" : {
+					"statueMeadLand01" : {
+						"animation" : "meadLand/decorations/statue/AVLr07u0",
+						"mask" : [ "B","B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"statueMeadLand02" : {
+						"animation" : "meadLand/decorations/statue/AVLstg60",
+						"mask" : [ "VB","VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}	
+	}	
+}
+	
+	

@@ -1,0 +1,16 @@
+{
+	"core:hillFort" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"AVXhilmd0" : {
+						"animation" : "terrace/objects/hillfort/AVXhilmd0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VBB", "VBA"],
+						"allowedTerrains" : ["terrace"]
+					}
+				}
+			}
+		}
+	}
+}

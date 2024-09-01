@@ -1,0 +1,16 @@
+{
+	"core:sign" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"fieryLand_sign" : {
+						"animation" : "fieryLand/objects/sign/fieryLandSign",
+						"allowedTerrains": [ "fieryLand" ],
+						"mask" : [ "A" ],
+						"visitableFrom" : [ "---", "+++", "+++" ]
+					}
+				}
+			}
+		}
+	}
+}

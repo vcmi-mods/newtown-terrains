@@ -1,0 +1,45 @@
+{
+   "core:mountain" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateau_praMOUN1" : {
+						"animation" : "plateau/decorations/mountains/RKMN1",
+						"mask" : [ "VVVVVV","VBBBBV","VBBBBB","VVVBBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMOUN2" : {
+						"animation" : "plateau/decorations/mountains/RKMN2",
+						"mask" : [ "VVVVVV","VVBBBB","VBBBBB","VBBBVV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMOUN3" : {
+						"animation" : "plateau/decorations/mountains/RKMN3",
+						"mask" : [ "VVVV","VBBB","VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMOUN4" : {
+						"animation" : "plateau/decorations/mountains/RKMN4",
+						"mask" : [ "VVVV", "VBBB","VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMOUN5" : {
+						"animation" : "plateau/decorations/mountains/RKMN5",
+						"mask" : [ "VVVV", "VBBV","VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMOUN6" : {
+						"animation" : "plateau/decorations/mountains/RKMN6",
+						"mask" : [ "VVVV", "VVBB","VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMOUN7" : {
+						"animation" : "plateau/decorations/mountains/RKWF1",
+						"mask" : [ "VVVVV", "VBBBV","VBBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Plateau Terrain",
+    "description": "Plateau Terrain",
+    "version": "0.1",
+    "author": "Zeryss,",
+    "contact": "none",
+    "modType": "Objects",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" :
+	{
+		"0.0.1"  : [ "Initial release" ]
+	},
+	"battlefields":
+	[
+		"config/plateau/battlefields/battlefields.json"
+	],
+	"terrains":
+	[
+		"config/plateau/terrain/terrains.json"
+	],
+	"obstacles":
+	[
+		"config/plateau/obstacles/obstacles.json"
+	],
+	"objects":
+	[
+		
+		"config/plateau/decorations/bones.json",
+		"config/plateau/decorations/crater.json",
+		"config/plateau/decorations/flowers.json",
+ 		"config/plateau/decorations/lake.json",
+	    "config/plateau/decorations/pineTrees.json",
+       	"config/plateau/decorations/mountains.json",
+		"config/plateau/decorations/shrub.json",
+		"config/plateau/decorations/stone.json",
+		"config/plateau/decorations/stump.json",
+		"config/plateau/decorations/trees.json",
+		"config/plateau/objects/abandonedMine.json",
+		"config/plateau/objects/hillFort.json",
+		"config/plateau/objects/signs.json",
+		"config/plateau/special/hole.json",
+		"config/plateau/special/obelisk.json",
+		"config/plateau/special/Mines.json"
+	]
+}

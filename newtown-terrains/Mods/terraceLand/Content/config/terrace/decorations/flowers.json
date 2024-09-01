@@ -1,0 +1,115 @@
+{
+	"core:flowers" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceflowers00" : {
+						"animation" : "terrace/decorations/flowers/avgflh00",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers01" : {
+						"animation" : "terrace/decorations/flowers/avgflh01",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers02" : {
+						"animation" : "terrace/decorations/flowers/avgflh02",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers03" : {
+						"animation" : "terrace/decorations/flowers/avgflh03",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers04" : {
+						"animation" : "terrace/decorations/flowers/avgflh04",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers05" : {
+						"animation" : "terrace/decorations/flowers/avgflh05",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers06" : {
+						"animation" : "terrace/decorations/flowers/avgflh06",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers07" : {
+						"animation" : "terrace/decorations/flowers/avgflh07",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers08" : {
+						"animation" : "terrace/decorations/flowers/avgflh08",
+						"mask" : [ "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers09" : {
+						"animation" : "terrace/decorations/flowers/avgflh09",
+						"mask" : [ "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers10" : {
+						"animation" : "terrace/decorations/flowers/avgflh10",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers11" : {
+						"animation" : "terrace/decorations/flowers/avgflh11",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers12" : {
+						"animation" : "terrace/decorations/flowers/avgflh12",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers13" : {
+						"animation" : "terrace/decorations/flowers/avgflh13",
+					"mask" : [ "BBB" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers14" : {
+						"animation" : "terrace/decorations/flowers/avgflh14",
+					"mask" : [ "VBV" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers15" : {
+						"animation" : "terrace/decorations/flowers/avgflh15",
+					"mask" : [ "VBBV" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers16" : {
+						"animation" : "terrace/decorations/flowers/avgflh16",
+					"mask" : [ "VBBV" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers17" : {
+						"animation" : "terrace/decorations/flowers/avgflh17",
+					"mask" : [ "VBBV" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers18" : {
+						"animation" : "terrace/decorations/flowers/avgflh18",
+					"mask" : [ "VVV", "BBB" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers19" : {
+						"animation" : "terrace/decorations/flowers/avgflh19",
+					"mask" : [ "VVV", "BBB" ],
+					"allowedTerrains": [ "terrace" ]
+					},
+					"terraceflowers20" : {
+						"animation" : "terrace/decorations/flowers/avgflh20",
+					"mask" : [ "BB" ],
+					"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

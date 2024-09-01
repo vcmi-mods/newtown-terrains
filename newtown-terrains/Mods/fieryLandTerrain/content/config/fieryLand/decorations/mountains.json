@@ -1,0 +1,45 @@
+{
+   "core:mountain" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"fieryLand_reROC1" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv00",
+						"mask" : [ "VVVV", "VVVV", "VBVB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLand_reROC2" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv01",
+						"mask" : [ "VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLand_reROC3" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv02",
+						"mask" : [ "VVVVVV", "VVBBBB", "VBBBBB", "VBBBVV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLand_reROC4" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv03",
+						"mask" : [ "VVVV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLand_reROC5" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv04",
+						"mask" : [ "VVVV", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLand_reROC6" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv05",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLand_reROC7" : {
+						"animation" : "fieryLand/decorations/mountains/WFlv06",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+				    }
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,56 @@
+{
+   "core:trees" : {
+		"types" : {
+			"bambooGrove" : {
+				"name" : "Bamboo",
+				"templates" : {
+					"terraceBmboo1" : {
+						"animation" : "terrace/decorations/trees/Bmboo1",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo2" : {
+						"animation" : "terrace/decorations/trees/Bmboo2",
+						"mask" : [ "VVV", "VVB", "VVB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo3" : {
+						"animation" : "terrace/decorations/trees/Bmboo3",
+						"mask" : [ "VVV", "VBB", "VBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo4" : {
+						"animation" : "terrace/decorations/trees/Bmboo4",
+						"mask" : [ "VVV", "VBB", "VBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo5" : {
+						"animation" : "terrace/decorations/trees/Bmboo5",
+						"mask" : [ "VVV", "BBB", "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo6" : {
+						"animation" : "terrace/decorations/trees/Bmboo6",
+						"mask" : [ "VVV", "BBB", "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"Bmboo7" : {
+						"animation" : "terrace/decorations/trees/Bmboo7",
+						"mask" : [ "VVBB", "VVBB", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo8" : {
+						"animation" : "terrace/decorations/trees/Bmboo8",
+						"mask" : [ "VVBB", "BBBB", "BBBB", "VVBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceBmboo9" : {
+						"animation" : "terrace/decorations/trees/Bmboo9",
+						"mask" : [ "BBBB", "BBBB", "BBBB", "VVBB" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

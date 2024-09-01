@@ -1,0 +1,89 @@
+{
+	"meadHill" : {
+		"handler" : "static",
+		"name" : "Mead Hills",
+		"types" : {
+			"meadHillsmeadLand" : {
+				"templates" : {
+					"grasstHillsmeadLand01" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt00",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand02" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt01",
+						"mask" : [ "VV","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand03" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt02",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand04" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt03",
+						"mask" : [ "BV","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand05" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt04",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand06" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt05",
+						"mask" : [ "VV","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand07" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt06",
+						"mask" : [ "BBV","BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand08" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt07",
+						"mask" : [ "VBV","BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand09" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt08",
+						"mask" : [ "VVB","BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand10" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt09",
+						"mask" : [ "VVV","BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand11" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXdt10",
+						"mask" : [ "VBB","BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand12" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXgr01",
+						"mask" : [ "BV","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand13" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXgr02",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand14" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXgr03",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"grasstHillsmeadLand15" : {
+						"animation" : "meadLand/decorations/grasstHills/AVLXgr07",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}	
+	}	
+}
+	
+	

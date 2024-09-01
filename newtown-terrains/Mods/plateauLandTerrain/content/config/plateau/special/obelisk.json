@@ -1,0 +1,16 @@
+{
+	"core:obelisk": {
+		"types": {
+			"object": {
+				"templates": {
+					"plateauAvXOblCY": {
+						"animation": "plateau/special/obelisk/AvXOblCY.def",   
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+						"allowedTerrains": ["plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

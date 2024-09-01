@@ -1,0 +1,41 @@
+{
+	"core:stump" : {
+		"types" : {
+			"stump" : {
+				"name" : "Stump",
+				"templates" : {
+					"plateau_stumpo4" : {
+						"animation" : "plateau/decorations/stump/FGRP0035",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_stumpo5" : {
+						"animation" : "plateau/decorations/stump/FGRP0036",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_stumpo6" : {
+						"animation" : "plateau/decorations/stump/FGRP0037",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_stumpo7" : {
+						"animation" : "plateau/decorations/stump/FGRP0038",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_stumpo8" : {
+						"animation" : "plateau/decorations/stump/FGRP0039",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_stumpo9" : {
+						"animation" : "plateau/decorations/stump/FGRP0040",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

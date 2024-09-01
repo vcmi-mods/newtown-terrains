@@ -1,0 +1,60 @@
+{
+	"core:shrub" :{
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateau_praSHR1" : {
+						"animation" : "plateau/decorations/shrub/AVLsh1d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR2" : {
+						"animation" : "plateau/decorations/shrub/AVLsh1g0",
+						"mask" : [ "BBBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR3" : {
+						"animation" : "plateau/decorations/shrub/AVLsh2d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR4" : {
+						"animation" : "plateau/decorations/shrub/AVLsh2g0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR5" : {
+						"animation" : "plateau/decorations/shrub/AVLsh3d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR6" : {
+						"animation" : "plateau/decorations/shrub/AVLsh3g0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR7" : {
+						"animation" : "plateau/decorations/shrub/AVLsh4d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR8" : {
+						"animation" : "plateau/decorations/shrub/AVLsh4g0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR9" : {
+						"animation" : "plateau/decorations/shrub/AVLsh5d0",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSHR10" : {
+						"animation" : "plateau/decorations/shrub/AVLsh5d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

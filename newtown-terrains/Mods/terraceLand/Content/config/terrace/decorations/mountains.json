@@ -1,0 +1,40 @@
+{
+   "core:mountain" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceMountain01" : {
+						"animation" : "terrace/decorations/mountains/AVLMHS00",
+						"mask" : [ "VVVVVV","VVBBBB","VBBBBB","VBBBVV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceMountain02" : {
+						"animation" : "terrace/decorations/mountains/AVLMHS01",
+						"mask" : [ "VVVVVV","VBBBBV","VBBBBB","VVVBBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceMountain03" : {
+						"animation" : "terrace/decorations/mountains/AVLMHS02",
+						"mask" : [ "VVVVV","VBBBV","VBBVV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceMountain04" : {
+						"animation" : "terrace/decorations/mountains/AVLMHS03",
+						"mask" : [ "VVVVV", "VBBBV","VVBBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceMountain05" : {
+						"animation" : "terrace/decorations/mountains/AVLMHS04",
+						"mask" : [ "VVVVV", "VVBBV","VBBVV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceMountain06" : {
+						"animation" : "terrace/decorations/mountains/AVLMHS05",
+						"mask" : [ "VVVVV", "VBBVV","VVBBV" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"core:hole" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLandHole" : {
+						"animation" : "meadLand/decorations/hole/fieryLandHole",
+						"mask" : [ "V" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"core:trees" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLandTre1" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR0",
+						"mask" : [ "VB", "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre2" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR1",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre3" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR2",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre4" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR3",
+						"mask" : [ "VVBV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre5" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR4",
+						"mask" : [ "VBBV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre6" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR5",
+						"mask" : [ "VBBV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre7" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR6",
+						"mask" : [ "VBBV", "VBBB", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre8" : {
+						"animation" : "meadLand/decorations/trees/AVLAUTR7",
+						"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre9" : {
+						"animation" : "meadLand/decorations/trees/AVLMS010",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre10" : {
+						"animation" : "meadLand/decorations/trees/AVLMS020",
+						"mask" : [ "BB", "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre11" : {
+						"animation" : "meadLand/decorations/trees/AVLMS030",
+						"mask" : [ "VB", "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre12" : {
+						"animation" : "meadLand/decorations/trees/AVLMS040",
+						"mask" : [ "VB", "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre13" : {
+						"animation" : "meadLand/decorations/trees/AVLMS050",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandTre14" : {
+						"animation" : "meadLand/decorations/trees/AVLMS060",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre15" : {
+						"animation" : "meadLand/decorations/trees/AVLMS070",
+						"mask" : [ "BB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre16" : {
+						"animation" : "meadLand/decorations/trees/AVLMS080",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre17" : {
+						"animation" : "meadLand/decorations/trees/AVLMS090",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre18" : {
+						"animation" : "meadLand/decorations/trees/AVLMS100",
+						"mask" : [ "B","B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre19" : {
+						"animation" : "meadLand/decorations/trees/AVLMS110",
+						"mask" : [ "B","B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandTre20" : {
+						"animation" : "meadLand/decorations/trees/AVLMS120",
+						"mask" : [ "BB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}	
+	}	
+}
+	
+	

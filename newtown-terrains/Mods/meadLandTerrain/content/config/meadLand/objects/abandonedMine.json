@@ -1,0 +1,16 @@
+{
+	"core:abandonedMine": {
+		"types": {
+			"mine": {
+				"templates": {
+					"meadLand_abandonedMine" : {
+						"animation" : "meadLand/objects/abandonedMine/fiAbMe",
+						"mask" : [ "VVVV", "VBBB", "VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["meadLand"]
+					}
+				}
+			}
+		}
+	}
+}

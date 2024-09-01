@@ -1,0 +1,60 @@
+{
+	"core:shrub" :{
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceShrub01" : {
+						"animation" : "terrace/decorations/shrub/AVLsh1d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub02" : {
+						"animation" : "terrace/decorations/shrub/AVLsh1g0",
+						"mask" : [ "BBBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub03" : {
+						"animation" : "terrace/decorations/shrub/AVLsh2d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub04" : {
+						"animation" : "terrace/decorations/shrub/AVLsh2g0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub05" : {
+						"animation" : "terrace/decorations/shrub/AVLsh3d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub06" : {
+						"animation" : "terrace/decorations/shrub/AVLsh3g0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub07" : {
+						"animation" : "terrace/decorations/shrub/AVLsh4d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub08" : {
+						"animation" : "terrace/decorations/shrub/AVLsh4g0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub09" : {
+						"animation" : "terrace/decorations/shrub/AVLsh5d0",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceShrub10" : {
+						"animation" : "terrace/decorations/shrub/AVLsh5d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

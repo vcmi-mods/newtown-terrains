@@ -1,0 +1,56 @@
+{
+	"core:rock" : {
+		"types" : {
+			"fieryLandrocks" : {
+				"name" : "Rocks",
+				"templates" : {
+					"fieryLandrocks01" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR00",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks02" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR01",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks03" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR02",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks04" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR03",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks05" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR04",
+						"mask" : [ "VVV", "BBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks06" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR05",
+						"mask" : [ "VVVB", "VBBB", "VBBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks07" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR06",
+						"mask" : [ "VVVV", "BBBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks08" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR07",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandrocks09" : {
+						"animation" : "fieryLand/decorations/rocks/ZLR08",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					}
+				}
+			}
+		}
+	}
+}

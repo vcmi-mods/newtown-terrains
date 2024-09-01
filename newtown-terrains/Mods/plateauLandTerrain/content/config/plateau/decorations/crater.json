@@ -1,0 +1,20 @@
+{
+	"core:crater" : {
+		"types" : {
+			"object" : {
+				"templates" : { 
+					"plateau_crater01" : {
+						"animation" : "plateau/decorations/crater/RKVC00",
+						"mask" : ["VVV", "VBB"],
+						"allowedTerrains" : ["plateau"]
+					},
+					"plateau_gcrater02" : {
+						"animation" : "plateau/decorations/crater/RKVC01",
+						"mask" : ["BBB","BBB"],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

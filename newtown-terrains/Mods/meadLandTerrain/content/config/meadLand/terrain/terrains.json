@@ -1,0 +1,19 @@
+{
+	"meadLand" :
+	{
+		"text":"Meadow",
+		"moveCost" : 100,
+		"minimapUnblocked" : [ 140, 148, 90 ],
+		"minimapBlocked"   : [ 131, 131, 98 ],
+		"music" : "Grass.mp3",
+		"tiles" : "meadLand/terrain/meadLand",
+		"shortIdentifier" : "ma",
+		"battleFields" : ["meadLandBattlefields"],
+		"terrainViewPatterns" : "grass",
+		"type":["SURFACE"],
+		"river" : "waterRiver",
+		"rockTerrain":"rock",
+		"horseSound" : "horse02",
+		"horseSoundPenalty" : "horse22"
+	}
+}

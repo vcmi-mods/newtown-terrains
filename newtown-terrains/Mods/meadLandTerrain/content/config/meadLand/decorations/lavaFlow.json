@@ -1,0 +1,31 @@
+{
+	"core:lake" : {
+		"types" : {
+			"meadLandLakes" : {
+				"name" : "Lake",
+				"templates" : {
+					"meadLandLakesl00" : {
+						"animation" : "meadLand/decorations/lakes/avlhll00",
+						"mask" : [ "VBBBBBB", "BBBBBBB","VBBBBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandLakesl01" : {
+						"animation" : "meadLand/decorations/lakes/avlhll01",
+						"mask" : [ "BBBBB", "BBBBB", "BBBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandLakesl02" : {
+						"animation" : "meadLand/decorations/lakes/avlhll02",
+						"mask" : [ "VVVVV", "BBBBB", "BBBBB"],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandLakesl03" : {
+						"animation" : "meadLand/decorations/lakes/avlhll03",
+						"mask" : [ "VVVV", "VBBB", "VVVV"],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

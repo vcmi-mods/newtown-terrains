@@ -1,0 +1,66 @@
+{
+	"fieryLand48":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [-14, -32, -33],
+		"animation" : "ObLvS01.def",
+		"absolute" : false
+	},
+	"fieryLand49":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 4,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, 2, -14, -15, -16],
+		"animation" : "ObLvS02.def",
+		"absolute" : false
+	},
+	"fieryLand50":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" :  [-13, -14, -15, -30, -31, -32, -33],
+		"animation" : "ObLvS03.def",
+		"absolute" : false
+	},
+	"fieryLand51":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, 2],
+		"animation" : "ObLvS04.def",
+		"foreground" : true,
+		"absolute" : false
+	},
+	"fieryLand52":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 4,
+		"height" : 4,
+		"blockedTiles" :  [-14, -15, -32, -33, -49, -50],
+		"animation" : "ObLvS09.def",
+		"absolute" : false
+	},
+	"fieryLand53":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" :  [-13, -14, -15, -16, -30, -31],
+		"animation" : "ObLvS17.def",
+		"absolute" : false
+	},
+	"fieryLand54":
+	{
+		"allowedTerrains" : ["fieryLand"],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" :  [-13, -14, -15, -16, -31, -32, -33],
+		"animation" : "ObLvS22.def",
+		"absolute" : false
+	}
+}

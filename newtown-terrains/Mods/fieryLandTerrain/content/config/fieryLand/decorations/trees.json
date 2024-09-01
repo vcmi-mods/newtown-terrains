@@ -1,0 +1,72 @@
+{
+	"core:trees" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"fieryLandTre1" : {
+						"animation" : "fieryLand/decorations/trees/AVLswt20",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre2" : {
+						"animation" : "fieryLand/decorations/trees/AVLswt21",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre3" : {
+						"animation" : "fieryLand/decorations/trees/AVLswt22",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre4" : {
+						"animation" : "fieryLand/decorations/trees/AVLswt24",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre5" : {
+						"animation" : "fieryLand/decorations/trees/AVLswt25",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre6" : {
+						"animation" : "fieryLand/decorations/trees/avlswt26",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre7" : {
+						"animation" : "fieryLand/decorations/trees/avrdtr01",
+						"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre8" : {
+						"animation" : "fieryLand/decorations/trees/avrdtr02",
+						"mask" : [ "VVVV", "VBBV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre9" : {
+						"animation" : "fieryLand/decorations/trees/avrdtr03",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre10" : {
+						"animation" : "fieryLand/decorations/trees/avrdtr04",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre11" : {
+						"animation" : "fieryLand/decorations/trees/avrdtr05",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandTre12" : {
+						"animation" : "fieryLand/decorations/trees/avrdtr06",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					 }
+				}
+			}
+		}	
+	}	
+}
+	
+	

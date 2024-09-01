@@ -1,0 +1,35 @@
+{
+	"core:lake" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceLak1" : {
+						"animation" : "terrace/decorations/lakes/terLak1",
+						"mask" : [ "BBBBB", "BBBBB","BBBBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceLak2" : {
+						"animation" : "terrace/decorations/lakes/terLak2",
+						"mask" : [ "BBBBB", "BBBBB","BBBBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceLak3" : {
+						"animation" : "terrace/decorations/lakes/terLak3",
+						"mask" : [ "BBBB", "BBBB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceLak4" : {
+						"animation" : "terrace/decorations/lakes/terLak4",
+						"mask" : [ "BBBB", "BBBB"],
+						"allowedTerrains": [ "terrace" ]
+                    },
+					"terraceLak5" : {
+						"animation" : "terrace/decorations/lakes/terLak5",
+						"mask" : [ "BBBB", "BBBB"],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

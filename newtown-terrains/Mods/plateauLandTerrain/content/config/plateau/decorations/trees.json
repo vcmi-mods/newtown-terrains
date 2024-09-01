@@ -1,0 +1,72 @@
+{
+	"core:trees" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateauTre1" : {
+						"animation" : "plateau/decorations/trees/AVLswt20",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre2" : {
+						"animation" : "plateau/decorations/trees/AVLswt21",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre3" : {
+						"animation" : "plateau/decorations/trees/AVLswt22",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre4" : {
+						"animation" : "plateau/decorations/trees/AVLswt24",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre5" : {
+						"animation" : "plateau/decorations/trees/AVLswt25",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre6" : {
+						"animation" : "plateau/decorations/trees/avlswt26",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre7" : {
+						"animation" : "plateau/decorations/trees/avrdtr01",
+						"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre8" : {
+						"animation" : "plateau/decorations/trees/avrdtr02",
+						"mask" : [ "VVVV", "VBBV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre9" : {
+						"animation" : "plateau/decorations/trees/avrdtr03",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre10" : {
+						"animation" : "plateau/decorations/trees/avrdtr04",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre11" : {
+						"animation" : "plateau/decorations/trees/avrdtr05",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateauTre12" : {
+						"animation" : "plateau/decorations/trees/avrdtr06",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					 }
+				}
+			}
+		}	
+	}	
+}
+	
+	

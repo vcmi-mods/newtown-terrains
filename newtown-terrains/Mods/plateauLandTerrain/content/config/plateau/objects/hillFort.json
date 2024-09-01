@@ -1,0 +1,16 @@
+{
+	"core:hillFort" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateau_praHifort" : {
+						"animation" : "plateau/objects/hillfort/plaHifort",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "VBA"],
+						"allowedTerrains" : ["plateau"]
+					}
+				}
+			}
+		}
+	}
+}

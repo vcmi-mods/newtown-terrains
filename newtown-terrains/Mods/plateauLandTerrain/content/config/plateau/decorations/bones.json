@@ -1,0 +1,77 @@
+{
+	"ptbones" : {
+		"name" : "Bones",
+		"handler":"static",
+		"types" : {
+			"bones" : {
+				"templates" : {
+					"plateau_praBo01" : {
+						"animation" : "plateau/decorations/bones/Bone00",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo02" : {
+						"animation" : "plateau/decorations/bones/Bone01",
+						"mask" : [ "VV", "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo03" : {
+						"animation" : "plateau/decorations/bones/Bone02",
+						"mask" : [ "VV", "BB" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo04" : {
+						"animation" : "plateau/decorations/bones/Bone03",
+						"mask" : [ "VVV", "BBB" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo05" : {
+						"animation" : "plateau/decorations/bones/Bone04",
+						"mask" : [ "VV", "BB" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo06" : {
+						"animation" : "plateau/decorations/bones/AVLbon00",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo07" : {
+						"animation" : "plateau/decorations/bones/AVLbon01",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo08" : {
+						"animation" : "plateau/decorations/bones/AVLbon02",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo09" : {
+						"animation" : "plateau/decorations/bones/AVLbon03",
+						"mask" : [ "VVVVV", "VBBBV", "VVVVV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo010" : {
+						"animation" : "plateau/decorations/bones/AVLskul0",
+						"mask" : ["B"],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo11" : {
+						"animation" : "plateau/decorations/bones/AVLskul1",
+						"mask" : ["B"],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBol2" : {
+						"animation" : "plateau/decorations/bones/AVLskul2",
+						"mask" : ["B"],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praBo13" : {
+						"animation" : "plateau/decorations/bones/AVLwcsk0",
+						"mask" : ["B"],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

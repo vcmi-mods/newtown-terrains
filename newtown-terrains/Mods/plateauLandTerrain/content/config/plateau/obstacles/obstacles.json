@@ -1,0 +1,53 @@
+
+{
+	"plateauLand40":
+	{
+		"allowedTerrains" : ["plateau"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, -16],
+		"animation" : "ObRgS01.def",
+		"absolute" : false
+	},
+	"plateauLand41":
+	{
+		"allowedTerrains" : ["plateau"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [-14, -15, -16, -32, -33],
+		"animation" : "ObRgS02.def",
+		"absolute" : false
+	},
+	"plateauLand42":
+	{
+		"allowedTerrains" : ["plateau"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [1, 2, -15, -16],
+		"animation" : "ObRgS03.def",
+		"absolute" : false
+	},
+	"plateauLand43":
+	{
+		"allowedTerrains" : ["plateau"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [-16, -32, -33],
+		"animation" : "ObRgS04.def",
+		"absolute" : false
+	},
+	"plateauLand44":
+	{
+		"allowedTerrains" : ["plateau"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [-15, -16, -32],
+		"animation" : "ObRgS05.def",
+		"absolute" : false
+	}
+}

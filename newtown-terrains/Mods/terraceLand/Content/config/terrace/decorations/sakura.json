@@ -1,0 +1,72 @@
+{
+	"sakura" : {
+		"handler" : "static",
+		"name" : "Sakura",
+		"types" : {
+			"sakura" : {
+				"templates" : {
+					"sakura_01" : { "animation" : "terrace/decorations/sakura/AVLswt20", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"sakura_02" : { "animation" : "terrace/decorations/sakura/AVLswt21", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"sakura_03" : { "animation" : "terrace/decorations/sakura/AVLswt22", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"sakura_04" : { "animation" : "terrace/decorations/sakura/AVLswt23", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"sakura_05" : { "animation" : "terrace/decorations/sakura/AVLswt24", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_06" : { "animation" : "terrace/decorations/sakura/AVLswt25",
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_07" : { "animation" : "terrace/decorations/sakura/AVLswt26", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_08" : { "animation" : "terrace/decorations/sakura/Avrdtr01", 
+						"mask" : ["VVVV","VVBB","VBBB","VBBV"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_09" : { "animation" : "terrace/decorations/sakura/Avrdtr02", 
+						"mask" : ["VVVV","VBBV","VBBB","VVBB"],
+						"allowedTerrains": [ "terrace" ]
+					},	
+					
+					"sakura_10" : { "animation" : "terrace/decorations/sakura/Avrdtr03", 
+						"mask" : ["VVVV","VBBB","VBBV"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_11" : { "animation" : "terrace/decorations/sakura/Avrdtr04", 
+						"mask" : ["VVVV","VBBB","VBBV"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_12" : { "animation" : "terrace/decorations/sakura/Avrdtr05", 
+						"mask" : ["VVVV","VBBV","VVBB"],
+						"allowedTerrains": [ "terrace" ]
+					},
+					
+					"sakura_13" : { "animation" : "terrace/decorations/sakura/Avrdtr06", 
+						"mask" : ["VVVV","VBBV","VVBB"],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

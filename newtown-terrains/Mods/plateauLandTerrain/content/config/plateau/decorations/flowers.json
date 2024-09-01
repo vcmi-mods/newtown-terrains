@@ -1,0 +1,75 @@
+{
+	"core:flowers" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateau_praFlo1" : {
+						"animation" : "plateau/decorations/flowers/avgflh09",
+						"mask" : [ "VBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo2" : {
+						"animation" : "plateau/decorations/flowers/avgflh10",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo3" : {
+						"animation" : "plateau/decorations/flowers/avgflh13",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo4" : {
+						"animation" : "plateau/decorations/flowers/avgflh16",
+						"mask" : [ "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo5" : {
+						"animation" : "plateau/decorations/flowers/avgflh18",
+						"mask" : [ "VVV","BBB", ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo6" : {
+						"animation" : "plateau/decorations/flowers/AVLf04g0",
+						"mask" : [ "VBBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo7" : {
+						"animation" : "plateau/decorations/flowers/AVLf05g0",
+						"mask" : [ "BBBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo8" : {
+						"animation" : "plateau/decorations/flowers/AVLf09g0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo9" : {
+						"animation" : "plateau/decorations/flowers/AVLf10g0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo10" : {
+						"animation" : "plateau/decorations/flowers/AVLf11g0",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+                    },
+					"plateau_praFlo11" : {
+						"animation" : "plateau/decorations/flowers/AVLfl3d0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo12" : {
+						"animation" : "plateau/decorations/flowers/AVLfl4d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praFlo13" : {
+						"animation" : "plateau/decorations/flowers/AVLfl8d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

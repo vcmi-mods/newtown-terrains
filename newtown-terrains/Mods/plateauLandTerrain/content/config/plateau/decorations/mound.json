@@ -1,0 +1,35 @@
+{
+	"core:mound" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plateau_praMo1" : {
+						"animation" : "plateau/decorations/mounds/praMo1",
+						"mask" : [ "BB" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMo2" : {
+						"animation" : "plateau/decorations/mounds/praMo2",
+						"mask" : [ "BB" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMo3" : {
+						"animation" : "plateau/decorations/mounds/praMo3",
+						"mask" : [ "VB" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMo4" : {
+						"animation" : "plateau/decorations/mounds/praMo4",
+						"mask" : [ "B" ], 
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praMo5" : {
+						"animation" : "plateau/decorations/mounds/praMo5",
+						"mask" : [ "BB" ], 
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Fiery Terrain",
+    "description": "Fiery Terrain",
+    "version": "0.1",
+    "author": "Zeryss,",
+    "contact": "none",
+    "modType": "Objects",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" :
+	{
+		"0.0.1"  : [ "Initial release" ]
+	},
+	"battlefields":
+	[
+		"config/meadLand/battlefields/battlefields.json"
+	],
+	"terrains":
+	[
+		"config/meadLand/terrain/terrains.json"
+	],
+	"obstacles":
+	[
+		"config/meadLand/obstacles/obstacles.json"
+	],
+	"objects":
+	[
+	    "config/meadLand/decorations/canyon.json",
+		"config/meadLand/decorations/flowers.json",
+		"config/meadLand/decorations/grasstHills.json",
+		"config/meadLand/decorations/hole.json",
+		"config/meadLand/decorations/lavaFlow.json",
+		"config/meadLand/decorations/mountains.json",
+		"config/meadLand/decorations/mushrooms.json",
+		"config/meadLand/decorations/rock.json",
+		"config/meadLand/decorations/statue.json",
+		"config/meadLand/decorations/stone.json",
+		"config/meadLand/decorations/shrub.json",
+		"config/meadLand/decorations/stump.json",
+		"config/meadLand/decorations/trees.json",
+		"config/meadLand/objects/abandonedMine.json",
+		"config/meadLand/objects/hillFort.json",
+	    "config/meadLand/objects/observation.json",
+		"config/meadLand/objects/signs.json",
+		"config/meadLand/special/obelisk.json",
+		"config/meadLand/special/mines.json"
+	]
+}

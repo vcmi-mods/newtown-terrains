@@ -1,0 +1,80 @@
+{
+	"core:mine" : {
+		"types" : {
+			"crystalCavern" : {
+				"templates": {
+					"plateau01" : {
+						"animation" : "plateau/special/mines/plaCrystal",
+						"visitableFrom": ["---", "+++", "+++"],
+				     	"mask": ["VVV", "BAB"],
+					    "allowedTerrains": ["plateau"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates": {
+				"plateau02": {
+					"animation" : "plateau/special/mines/plaGold",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVV", "BAB"],
+					"allowedTerrains": ["plateau"]
+					}
+				}
+			},
+			"sawmill" : {
+				"templates" : {
+					    "plateau03": {
+					    "animation" : "plateau/special/mines/plaSawmill",
+						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["plateau"]
+					}
+				}
+			},
+			
+			"alchemistLab" : {
+				"templates" : {
+					"plateau03": {
+					    "animation" : "AVMalch0", 
+						"mask" : ["VVV", "VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["plateau"]
+					}
+				}
+			},
+			
+			"orePit" : {
+				"templates" : {
+					"plateau04": {
+					    "animation" : "plateau/special/mines/plaOrePit.def",
+						"mask": [  "BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["plateau"]
+					}
+				}
+			},
+			
+			"sulfurDune" : {
+				"templates" : {
+					"plateau04": {
+					"animation" : "AVMsulf0", 
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVVV", "VBBB", "VBAB"],
+					"allowedTerrains": ["plateau"]
+					}
+				}
+			},
+			
+			"gemPond" : {
+				"templates" : {
+					"plateau05": {
+					"animation" : "AVMGEDR0",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVVV", "VBBB", "VBAB"],
+					"allowedTerrains": ["plateau"]
+					}
+				}
+			}
+		}
+	}
+}	

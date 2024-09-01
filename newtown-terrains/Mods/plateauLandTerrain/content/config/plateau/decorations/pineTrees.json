@@ -1,0 +1,90 @@
+{
+	"core:pineTrees" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"plaPin01" : {
+						"animation" : "plateau/decorations/trees/pin01",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin2" : {
+						"animation" : "plateau/decorations/trees/pin02",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin03" : {
+						"animation" : "plateau/decorations/trees/pin03",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPinplaPin04" : {
+						"animation" : "plateau/decorations/trees/pin04",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin05" : {
+						"animation" : "plateau/decorations/trees/pin05",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin06" : {
+						"animation" : "plateau/decorations/trees/pin06",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin07" : {
+						"animation" : "plateau/decorations/trees/pin07",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin08" : {
+						"animation" : "plateau/decorations/trees/pin08",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin09" : {
+						"animation" : "plateau/decorations/trees/pin09",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin10" : {
+						"animation" : "plateau/decorations/trees/pin10",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin11" : {
+						"animation" : "plateau/decorations/trees/pin11",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin12" : {
+						"animation" : "plateau/decorations/trees/pin12",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},	
+					"plaPin13" : {
+						"animation" : "plateau/decorations/trees/pin13",
+						"mask" : [ "VVVV", "VBBV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin14" : {
+						"animation" : "plateau/decorations/trees/pin14",
+						"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},	
+					"plaPin15" : {
+						"animation" : "plateau/decorations/trees/pin15",
+						"mask" : [ "VVV", "VBV", "VVV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plaPin16" : {
+						"animation" : "plateau/decorations/trees/pin16",
+						"mask" : [ "VVV", "VBV", "VVV" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

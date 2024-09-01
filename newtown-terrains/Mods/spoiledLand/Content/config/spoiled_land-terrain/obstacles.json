@@ -1,5 +1,5 @@
 {
-	"absoluteVertical":
+	"slAbsoluteVertical":
 	{
 		"allowedTerrains" : ["spoiledLand"],   
 		"specialBattlefields" : [],
@@ -9,7 +9,7 @@
 		"animation" : "spoiled_land-terrain/obstacles/ObLv2.def",
 		"absolute" : true
 	},
-	"absoluteHorizontal":
+	"slAbsoluteHorizontal":
 	{
 		"allowedTerrains" : ["spoiledLand"], 
 		"specialBattlefields" : [],

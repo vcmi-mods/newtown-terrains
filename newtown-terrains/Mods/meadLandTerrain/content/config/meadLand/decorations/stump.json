@@ -1,0 +1,41 @@
+{
+	"core:stump" : {
+		"types" : {
+			"stump" : {
+				"name" : "Stump",
+				"templates" : {
+					"meadLand_stumpo4" : {
+						"animation" : "meadLand/decorations/stump/FGRP0035",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_stumpo5" : {
+						"animation" : "meadLand/decorations/stump/FGRP0036",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_stumpo6" : {
+						"animation" : "meadLand/decorations/stump/FGRP0037",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_stumpo7" : {
+						"animation" : "meadLand/decorations/stump/FGRP0038",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_stumpo8" : {
+						"animation" : "meadLand/decorations/stump/FGRP0039",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_stumpo9" : {
+						"animation" : "meadLand/decorations/stump/FGRP0040",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

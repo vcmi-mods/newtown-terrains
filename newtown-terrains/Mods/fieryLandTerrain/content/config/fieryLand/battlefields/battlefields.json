@@ -1,0 +1,4 @@
+{
+	"fieryLandBattlefields": { "graphics" : "fieryLand/battlefields/fieryLandBattlefields" },
+	"fieryLandBattlefields2": { "graphics" : "fieryLand/battlefields/fieryLandBattlefields2" }
+}

@@ -1,0 +1,15 @@
+{
+	"core:hole" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"fieryLandHole" : {
+						"animation" : "fieryLand/decorations/hole/fieryLandHole",
+						"mask" : [ "V" ],
+						"allowedTerrains": [ "fieryLand" ]
+					}
+				}
+			}
+		}
+	}
+}

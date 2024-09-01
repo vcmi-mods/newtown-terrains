@@ -1,0 +1,55 @@
+{
+	"core:rock" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceRock1" : {
+						"animation" : "terrace/decorations/rocks/avlrhl00",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock2" : {
+						"animation" : "terrace/decorations/rocks/avlrhl01",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock3" : {
+						"animation" : "terrace/decorations/rocks/avlrhl02",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock4" : {
+						"animation" : "terrace/decorations/rocks/avlrhl03",
+						"mask" : [ "VV", "BB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock5" : {
+						"animation" : "terrace/decorations/rocks/avlrhl04",
+						"mask" : [ "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock6" : {
+						"animation" : "terrace/decorations/rocks/avlrhl05",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock7" : {
+						"animation" : "terrace/decorations/rocks/avlrhl06",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock8" : {
+						"animation" : "terrace/decorations/rocks/avlrhl07",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceRock9" : {
+						"animation" : "terrace/decorations/rocks/avlrhl08",
+						"mask" : [ "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

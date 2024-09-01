@@ -1,0 +1,46 @@
+{
+	"core:rock" : {
+		"types" : {
+			"stone" : {
+				"name" : "Stone",
+				"templates" : {
+					"plateau_praSto4" : {
+						"animation" : "plateau/decorations/stones/FSAD0012",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSto5" : {
+						"animation" : "plateau/decorations/stones/FSAD0013",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSto6" : {
+						"animation" : "plateau/decorations/stones/FSAD0014",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSto7" : {
+						"animation" : "plateau/decorations/stones/FSAD0015",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSto8" : {
+						"animation" : "plateau/decorations/stones/FSAD0016",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSto9" : {
+						"animation" : "plateau/decorations/stones/FSAD0017",
+						"mask" : [ "VB", "BB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praSto10" : {
+						"animation" : "plateau/decorations/stones/FSAD0018",
+						"mask" : [ "VBB", "VBB" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

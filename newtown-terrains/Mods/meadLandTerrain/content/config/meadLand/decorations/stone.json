@@ -1,0 +1,36 @@
+{
+	"core:rock" : {
+		"types" : {
+			"meadLandStone" : {
+				"name" : "Stone",
+				"templates" : {
+					"meadLandStone01" : {
+						"animation" : "meadLand/decorations/stone/avloc1u0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandStone02" : {
+						"animation" : "meadLand/decorations/stone/AVLoc2g0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandStone03" : {
+						"animation" : "meadLand/decorations/stone/AVLoc2u0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandStone04" : {
+						"animation" : "meadLand/decorations/stone/AVLoc3u0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandStone05" : {
+						"animation" : "meadLand/decorations/stone/AVLoc4u0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}
