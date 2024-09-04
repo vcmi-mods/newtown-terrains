@@ -103,7 +103,7 @@
 						]
 					},
  
-					"AVXSKDS1": {
+					"dlAVXSKDS1": {
 						"animation": "deadland-decorations/bones/last2/AVXSKDS1",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV","BB"],
@@ -114,7 +114,7 @@
 					},
 
 
-					"AVXSKDS2": {
+					"dlAVXSKDS2": {
 						"animation": "deadland-decorations/bones/last2/AVXSKDS2",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BBB","VVV"],

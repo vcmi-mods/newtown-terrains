@@ -1,0 +1,41 @@
+{
+	"core:stump" : {
+		"types" : {
+			"stump" : {
+				"name" : "Stump",
+				"templates" : {
+					"terrace_stumpo4" : {
+						"animation" : "terrace/decorations/stump/FGRP0035",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terrace_stumpo5" : {
+						"animation" : "terrace/decorations/stump/FGRP0036",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terrace_stumpo6" : {
+						"animation" : "terrace/decorations/stump/FGRP0037",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terrace_stumpo7" : {
+						"animation" : "terrace/decorations/stump/FGRP0038",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terrace_stumpo8" : {
+						"animation" : "terrace/decorations/stump/FGRP0039",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terrace_stumpo9" : {
+						"animation" : "terrace/decorations/stump/FGRP0040",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

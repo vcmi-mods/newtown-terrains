@@ -1,0 +1,71 @@
+{
+	"core:rock" : {
+		"types" : {
+			"meadLandrocks" : {
+				"name" : "Rocks",
+				"templates" : {
+					"meadLandMoun07" : {
+						"animation" : "meadLand/decorations/mountains/AVLr01u0",
+						"mask" : [ "VBB", "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun08" : {
+						"animation" : "meadLand/decorations/mountains/AVLr02u0",
+						"mask" : [ "BB", "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun09" : {
+						"animation" : "meadLand/decorations/mountains/AVLr03u0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun10" : {
+						"animation" : "meadLand/decorations/mountains/AVLr04u0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun11" : {
+						"animation" : "meadLand/decorations/mountains/AVLr05u0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun12" : {
+						"animation" : "meadLand/decorations/mountains/AVLr06u0",
+						"mask" : [ "VB", "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun13" : {
+						"animation" : "meadLand/decorations/mountains/AVLr08u0",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun14" : {
+						"animation" : "meadLand/decorations/mountains/AVLr10u0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun15" : {
+						"animation" : "meadLand/decorations/mountains/AVLr13u0",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun16" : {
+						"animation" : "meadLand/decorations/mountains/AVLr14u0",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun17" : {
+						"animation" : "meadLand/decorations/mountains/AVLr16u0",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+				    },
+					"meadLandMoun18" : {
+						"animation" : "meadLand/decorations/mountains/AVLstg30",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+				    }
+				}
+			}
+		}
+	}
+}

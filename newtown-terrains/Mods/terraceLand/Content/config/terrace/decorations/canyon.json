@@ -1,0 +1,40 @@
+{
+	"core:canyon" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceCanyon01" : {
+						"animation" : "terrace/decorations/canyons/AVLct1g0",
+						"mask" : ["BBBB", "BBBB"],
+						"allowedTerrains" : ["terrace"]
+					},
+					"terraceCanyon02" : {
+						"animation" : "terrace/decorations/canyons/AVLct2g0",
+						"mask" : ["BBB","BBB","BBB"],
+						"allowedTerrains" : ["terrace"]
+					},
+					"terraceCanyon03" : {
+						"animation" : "terrace/decorations/canyons/AVLct3g0",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["terrace"]
+					},
+					"terraceCanyon04" : {
+						"animation" : "terrace/decorations/canyons/AVLCT4G0",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["terrace"]
+					},
+					"terraceCanyon05" : {
+						"animation" : "terrace/decorations/canyons/AVLCT5G0",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["terrace"]
+					},																						
+					"terraceCanyon06" : {
+						"animation" : "terrace/decorations/canyons/AVLCT6G0",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["terrace"]
+					},					
+				}
+			}
+		}
+	}
+}

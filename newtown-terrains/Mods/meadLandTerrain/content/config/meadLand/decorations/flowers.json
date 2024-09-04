@@ -1,0 +1,115 @@
+{
+	"core:flowers" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLand_AVLf01g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf01g0",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf02g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf02g0",
+						"mask" : [ "BBBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf03g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf03g0",
+						"mask" : [ "BBV", "BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf04g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf04g0",
+						"mask" : [ "VBBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf05g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf05g0",
+						"mask" : [ "BBBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf06g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf06g0",
+						"mask" : [ "VBB", "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf07g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf07g0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf08g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf08g0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf09g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf09g0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf10g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf10g0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf11g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf11g0",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLf12g0" : {
+						"animation" : "meadLand/decorations/flowers/AVLf12g0",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl1d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl1d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl2d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl2d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl3d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl3d0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl4d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl4d0",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl5d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl5d0",
+						"mask" : [ "BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl6d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl6d0",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl7d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl7d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl8d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl8d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLand_AVLfl9d0" : {
+						"animation" : "meadLand/decorations/flowers/AVLfl9d0",
+						"mask" : [ "BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

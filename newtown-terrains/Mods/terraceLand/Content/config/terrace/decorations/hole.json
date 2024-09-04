@@ -1,0 +1,15 @@
+{
+	"core:hole" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"tAVLholgz" : {
+						"animation" : "terrace/decorations/hole/AVLholgz",
+						"mask" : [ "V" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

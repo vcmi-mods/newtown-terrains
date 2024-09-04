@@ -1,0 +1,49 @@
+{
+    "name": "Terrace Terrain",
+    "description": "Terrace Terrain",
+    "version": "0.2",
+    "author": "Zeryss,",
+    "contact": "none",
+    "modType": "Objects",
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"changelog" :
+	{
+		"0.2"  : [ "Indentifiers fixes" ],
+		"0.1"  : [ "Initial release" ]
+	},
+	"battlefields":
+	[
+		"config/terrace/battlefields/battlefields.json"
+	],
+	"terrains":
+	[
+		"config/terrace/terrain/terrains.json"
+	],
+	"obstacles":
+	[
+		"config/terrace/obstacles/obstacles.json"
+	],
+	"objects":
+	[
+		"config/terrace/decorations/bamboo.json",
+		"config/terrace/decorations/canyon.json",
+		"config/terrace/decorations/flowers.json",
+		"config/terrace/decorations/hole.json",
+ 		"config/terrace/decorations/lake.json",
+		"config/terrace/decorations/mountains.json",
+		"config/terrace/decorations/pineTrees.json",
+		"config/terrace/decorations/rock.json",
+		"config/terrace/decorations/sakura.json",
+		"config/terrace/decorations/shrub.json",
+		"config/terrace/decorations/stump.json",
+		"config/terrace/decorations/trees.json",
+		"config/terrace/objects/abandonedMine.json",
+		"config/terrace/objects/hillFort.json",
+		"config/terrace/objects/signs.json",
+		"config/terrace/special/obelisk.json",
+		"config/terrace/special/Mines.json"
+	]
+}

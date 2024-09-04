@@ -1,0 +1,40 @@
+{
+   "core:mountain" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLandMoun01" : {
+						"animation" : "meadLand/decorations/mountains/AVLMTSB0",
+						"mask" : [ "VVVBBV", "VBBBBB", "VBBBBB", "VBBBVV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMoun02" : {
+						"animation" : "meadLand/decorations/mountains/AVLMTSB1",
+						"mask" : [ "VBBBVV", "VBBBBV", "VBBBBB", "VVVBBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMoun03" : {
+						"animation" : "meadLand/decorations/mountains/AVLMTSB2",
+						"mask" : [ "VVBB", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMoun04" : {
+						"animation" : "meadLand/decorations/mountains/AVLMTSB3",
+						"mask" : [ "VVBV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMoun05" : {
+						"animation" : "meadLand/decorations/mountains/AVLMTSB4",
+						"mask" : [ "VVBB", "VBBV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMoun06" : {
+						"animation" : "meadLand/decorations/mountains/AVLMTSB5",
+						"mask" : [ "VBBV", "VVBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

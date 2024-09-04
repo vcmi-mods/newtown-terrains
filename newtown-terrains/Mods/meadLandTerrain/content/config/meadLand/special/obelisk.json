@@ -1,0 +1,16 @@
+{
+	"core:obelisk": {
+		"types": {
+			"object": {
+				"templates": {
+					"meadLandAvXOblCY": {
+						"animation": "meadLand/special/obelisk/fiLaObe01.def",   
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+						"allowedTerrains": ["meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

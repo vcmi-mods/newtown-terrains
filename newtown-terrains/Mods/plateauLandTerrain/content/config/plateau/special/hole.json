@@ -1,0 +1,16 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+					"plateauHole": {
+						"animation": "plateau/special/hole/AVLholg0",
+						"mask": ["V"], 
+						"visitableFrom": ["---", "+++", "+++"],
+						"allowedTerrains": ["plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

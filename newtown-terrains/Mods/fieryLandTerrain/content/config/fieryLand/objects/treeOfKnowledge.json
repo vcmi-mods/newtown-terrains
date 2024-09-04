@@ -1,0 +1,16 @@
+{
+	"core:treeOfKnowledge" : {
+		"types" : {
+			"treeOfKnowledge" : {
+				"templates" : {
+					"fieryLand_treeOfKnowledge" : {
+						"animation" : "fieryLand/objects/treeOfKnowledge/redTree",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "VAB"],
+						"allowedTerrains" : ["fieryLand"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"core:lake" : {
+		"types" : {
+			"hotaHLakes" : {
+				"name" : "Lake",
+				"templates" : {
+					"plateau_praLak01" : {
+						"animation" : "plateau/decorations/lakes/RLAKE00",
+						"mask" : [ "VBBV" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praLak02" : {
+						"animation" : "plateau/decorations/lakes/rlake01",
+						"mask" : [ "BBB", "BBB" ],
+						"allowedTerrains": [ "plateau" ]
+					},
+					"plateau_praLak03" : {
+						"animation" : "plateau/decorations/lakes/rlake02",
+						"mask" : [ "VBBV", "BBBB" ],
+						"allowedTerrains": [ "plateau" ]
+					}
+				}
+			}
+		}
+	}
+}

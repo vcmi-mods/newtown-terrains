@@ -1,0 +1,16 @@
+{
+	"core:abandonedMine": {
+		"types": {
+			"mine": {
+				"templates": {
+					"plateau_plAbaMi" : {
+						"animation" : "plateau/objects/abandonedMine/RKMINEAB",
+						"mask" : [ "VVVV",   "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["plateau"]
+					}
+				}
+			}
+		}
+	}
+}

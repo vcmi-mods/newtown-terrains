@@ -1,0 +1,98 @@
+{
+	"core:lavaFlow" : {
+		"types" : {
+			"fieryLakes01" : {
+				"name" : "lava Lakes",
+				"templates" : {
+					"fieryLandLakes01" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav10",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes02" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav20",
+						"mask" : ["VBB", "BBB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes03" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav30",
+						"mask" : ["BBBBBB", "BBBBBB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes04" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav40",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes05" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav50",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes06" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav60",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},					
+					"fieryLandLakes07" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav70",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},						
+					"fieryLandLakes08" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav80",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},					
+					"fieryLandLakes09" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlav90",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["fieryLand"]
+					},						
+					"fieryLandLakes10" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv100",
+						"mask" : ["BBB", "BBB"],
+						"allowedTerrains" : ["fieryLand"]
+					},	
+					"fieryLandLakes11" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv110",
+						"mask" : ["BB", "BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},	
+					"fieryLandLakes12" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv120",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},	
+					"fieryLandLakes13" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv130",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes14" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv140",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes15" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv150",
+						"mask" : ["B"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes16" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv160",
+						"mask" : ["B"],
+						"allowedTerrains" : ["fieryLand"]
+					},
+					"fieryLandLakes17" : {
+						"animation" : "fieryLand/decorations/lakes/AVLlv210",
+						"mask" : ["B"],
+						"allowedTerrains": [ "fieryLand" ]
+					 }
+				}
+			}
+		}	
+	}	
+}
+	
+	

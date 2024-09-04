@@ -1,0 +1,54 @@
+{
+	"flfire" : {
+		"handler" : "static",
+		"name" : "Fire",
+		"types" : {
+			"fires" : {
+				"templates" : {
+					"firefieryLand01" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir1",
+						"mask" : [ "VVV","VBV","BBB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand02" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir2",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand03" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir3",
+						"mask" : [ "VB","VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand04" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir4",
+						"mask" : [ "BV","BV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand06" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir6",
+						"mask" : [ "VV","BV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand07" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir7",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand08" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir8",
+						"mask" : [ "BB","BB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"firefieryLand09" : {
+						"animation" : "fieryLand/decorations/fire/avdcfir9",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "fieryLand" ]
+					 }
+				}
+			}
+		}	
+	}	
+}
+	
+	

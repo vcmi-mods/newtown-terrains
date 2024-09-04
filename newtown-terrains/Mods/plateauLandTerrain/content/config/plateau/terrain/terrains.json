@@ -1,0 +1,19 @@
+{
+	"plateau" :
+	{
+		"text":"Plateau",
+		"moveCost" : 125,
+		"minimapUnblocked" : [ 210, 187, 153 ],
+		"minimapBlocked"   : [ 179, 153, 122 ],
+		"music" : "Rough.mp3",
+		"tiles" : "plateau/terrain/plateau",
+		"shortIdentifier" : "pl",
+		"battleFields" : ["plateauBattlefields"],
+		"terrainViewPatterns" : "grass",
+		"type":["SURFACE"],
+		"river" : "waterRiver",
+		"rockTerrain":"rock",
+		"horseSound" : "horse05",
+		"horseSoundPenalty" : "horse25"
+	}
+}

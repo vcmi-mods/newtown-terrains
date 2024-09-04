@@ -1,0 +1,46 @@
+{
+    "name": "Fiery Terrain",
+    "description": "Fiery Terrain",
+    "version": "0.1",
+    "author": "Zeryss,",
+    "contact": "none",
+    "modType": "Objects",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" :
+	{
+		"0.0.1"  : [ "Initial release" ]
+	},
+	"battlefields":
+	[
+		"config/fieryLand/battlefields/battlefields.json"
+	],
+	"terrains":
+	[
+		"config/fieryLand/terrain/terrains.json"
+	],
+	"obstacles":
+	[
+		"config/fieryLand/obstacles/obstacles.json"
+	],
+	"objects":
+	[
+	    "config/fieryLand/decorations/fire.json",
+		"config/fieryLand/decorations/hole.json",
+		"config/fieryLand/decorations/lavaFlow.json",
+		"config/fieryLand/decorations/mountains.json",
+		"config/fieryLand/decorations/rock.json",
+		"config/fieryLand/decorations/stone.json",
+		"config/fieryLand/decorations/shrub.json",
+		"config/fieryLand/decorations/trees.json",
+		"config/fieryLand/objects/abandonedMine.json",
+		"config/fieryLand/objects/hillFort.json",
+		"config/fieryLand/objects/mysticalGarden.json",
+	    "config/fieryLand/objects/signs.json",
+		"config/fieryLand/objects/treeOfKnowledge.json",
+		"config/fieryLand/special/obelisk.json",
+		"config/fieryLand/special/mines.json"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"core:sign" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"tavxsnhl" : {
+						"animation" : "terrace/objects/sign/avxsnhl",
+						"allowedTerrains": [ "terrace" ],
+						"mask" : [ "A" ],
+						"visitableFrom" : [ "---", "+++", "+++" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"core:mine" : {
+		"types" : {
+			"crystalCavern" : {
+				"templates": {
+					"fieryLandMines01" : {
+						"animation" : "fieryLand/special/mines/fieryLandMines01",
+						"visitableFrom": ["---", "+++", "+++"],
+				     	"mask": ["VVVV", "BBB", "VBAB"],
+					    "allowedTerrains": ["fieryLand"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates": {
+					"fieryLandMines02": {
+					"animation" : "fieryLand/special/mines/fieryLandMines02",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask": ["VVVV", "BBB", "VBAB"],
+					"allowedTerrains": ["fieryLand"]
+					}
+				}
+			},
+			
+			"sawmill" : {
+				"templates" : {
+					    "fieryLandMines03": {
+					    "animation" : "fieryLand/special/mines/fieryLandMines03",
+                        "mask" : ["VVVVV", "VVBBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieryLand"]
+					}
+				}
+			},
+			
+			"alchemistLab" : {
+				"templates" : {
+					"fieryLandMines04" : {
+						"animation" : "AVMalch0", 
+						"mask" : ["VVV", "VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieryLand"]
+					}
+				}
+			},
+			"orePit" : {
+				"templates" : {
+					"fieryLandMines05" : {
+						"animation" : "fieryLand/special/mines/fieryLandMines05",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieryLand"]
+					}
+				}
+			},
+			"sulfurDune" : {
+				"templates" : {
+					"fieryLandMines06" : {
+						"animation" : "AVMsulf0",  
+						"mask" : ["VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+					    "allowedTerrains": ["fieryLand"]
+					}
+				}
+			},
+			"gemPond" : {
+				"templates" : {
+					"fieryLandMines07": {
+					"animation" : "fieryLand/special/mines/fieryLandMines04",
+					"visitableFrom": ["---", "+++", "+++"],
+					"mask" : ["BBB", "BAB"],
+					"allowedTerrains": ["fieryLand"]
+					}
+				}
+			}
+		}
+	}
+}	

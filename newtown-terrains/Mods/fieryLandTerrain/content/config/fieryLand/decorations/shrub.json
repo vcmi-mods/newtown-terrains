@@ -1,0 +1,126 @@
+{
+	"core:shrub" :{
+		"types" : {
+			"object" : {
+				"templates" : {
+					"fieryLandSHR1" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli66",
+						"mask" : [ "VV", "BB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR3" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli68",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR4" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli69",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR5" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli70",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR6" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli71",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR7" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli72",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR8" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli73",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR9" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli74",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR10" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli75",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR11" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli76",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR12" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli77",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR13" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli78",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR14" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli79",
+						"mask" : [ "VV","VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR16" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli81",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR17" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli82",
+						"mask" : [ "VV","BB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR18" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli83",
+						"mask" : [ "VV","VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR19" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli84",
+						"mask" : [ "VV","VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR22" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli87",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR23" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli88",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR24" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli89",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR25" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli90",
+						"mask" : [ "VV","BB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+					"fieryLandSHR26" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli91",
+						"mask" : [ "VV","BB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					},
+
+					"fieryLandSHR30" : {
+						"animation" : "fieryLand/decorations/shrub/TrFoli95",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "fieryLand" ]
+					}
+				}
+			}
+		}
+	}
+}

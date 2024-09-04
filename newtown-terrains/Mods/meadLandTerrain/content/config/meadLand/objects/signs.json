@@ -1,0 +1,16 @@
+{
+	"core:sign" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLand_sign" : {
+						"animation" : "meadLand/objects/sign/meadLandSign",
+						"allowedTerrains": [ "meadLand" ],
+						"mask" : [ "A" ],
+						"visitableFrom" : [ "---", "+++", "+++" ]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"core:pineTrees" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"terraceTree01" : {
+						"animation" : "terrace/decorations/pineTrees/pin01",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree2" : {
+						"animation" : "terrace/decorations/pineTrees/pin02",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree03" : {
+						"animation" : "terrace/decorations/pineTrees/pin03",
+						"mask" : [ "VVV", "VBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTreeterraceTree04" : {
+						"animation" : "terrace/decorations/pineTrees/pin04",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree05" : {
+						"animation" : "terrace/decorations/pineTrees/pin05",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree06" : {
+						"animation" : "terrace/decorations/pineTrees/pin06",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree07" : {
+						"animation" : "terrace/decorations/pineTrees/pin07",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree08" : {
+						"animation" : "terrace/decorations/pineTrees/pin08",
+						"mask" : [ "VV", "VB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree09" : {
+						"animation" : "terrace/decorations/pineTrees/pin09",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree10" : {
+						"animation" : "terrace/decorations/pineTrees/pin10",
+						"mask" : [ "VVVV", "VVBB", "VBBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree11" : {
+						"animation" : "terrace/decorations/pineTrees/pin11",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree12" : {
+						"animation" : "terrace/decorations/pineTrees/pin12",
+						"mask" : [ "VVVV", "VBBV", "VVBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},	
+					"terraceTree13" : {
+						"animation" : "terrace/decorations/pineTrees/pin13",
+						"mask" : [ "VVVV", "VBBV", "VBBB", "VVBB" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree14" : {
+						"animation" : "terrace/decorations/pineTrees/pin14",
+						"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV" ],
+						"allowedTerrains": [ "terrace" ]
+					},	
+					"terraceTree15" : {
+						"animation" : "terrace/decorations/pineTrees/pin15",
+						"mask" : [ "VVV", "VBV", "VVV" ],
+						"allowedTerrains": [ "terrace" ]
+					},
+					"terraceTree16" : {
+						"animation" : "terrace/decorations/pineTrees/pin16",
+						"mask" : [ "VVV", "VBV", "VVV" ],
+						"allowedTerrains": [ "terrace" ]
+					}
+				}
+			}
+		}
+	}
+}

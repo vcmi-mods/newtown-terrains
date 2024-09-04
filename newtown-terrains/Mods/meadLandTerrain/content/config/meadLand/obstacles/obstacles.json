@@ -1,0 +1,67 @@
+
+{
+	"meadLand105":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 173,
+		"height" : 221,
+		"blockedTiles" :  [55, 56, 57, 58, 75, 76, 77, 95, 112, 113, 131],
+		"animation" : "ObGrL01.pcx",
+		"absolute" : true
+	},
+	"meadLand106":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 180,
+		"height" : 264,
+		"blockedTiles" :  [81, 91, 92, 93, 94, 95, 96, 97, 98, 106, 107, 123],
+		"animation" : "ObGrL02.pcx",
+		"absolute" : true
+	},
+	"meadLand19":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "ObGLg01.def",
+		"absolute" : false
+	},
+	"meadLand20":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 2,
+		"height" : 2,
+		"blockedTiles" :  [0, 1],
+		"animation" : "ObGRk01.def",
+		"foreground" : true,
+		"absolute" : false
+	},
+	"meadLand21":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 1,
+		"height" : 1,
+		"blockedTiles" :  [0],
+		"animation" : "ObGSt01.def",
+		"absolute" : false
+	},
+	"meadLand22":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 6,
+		"height" : 2,
+		"blockedTiles" :  [1, 2, 3, 4, -13, -14, -15, -16],
+		"animation" : "ObGrS01.def",
+		"absolute" : false
+	},
+	"meadLand23":
+	{
+		"allowedTerrains" : ["meadLand"],
+		"width" : 7,
+		"height" : 1,
+		"blockedTiles" :  [1, 2],
+		"animation" : "OBGrS02.def",
+		"absolute" : false
+	}
+}

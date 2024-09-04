@@ -1,0 +1,16 @@
+{
+	"core:abandonedMine": {
+		"types": {
+			"mine": {
+				"templates": {
+					"LgMab0" : {
+						"animation" : "terrace/objects/abandonedMine/LgMab0",
+						"mask" : [ "VVVV", "VBBB", "VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["terrace"]
+					}
+				}
+			}
+		}
+	}
+}

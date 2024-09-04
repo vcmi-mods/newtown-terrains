@@ -1,0 +1,30 @@
+{
+	"core:mushrooms" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"meadLandMushrooms07" : {
+						"animation" : "meadLand/decorations/mushrooms/wmshr07",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMushrooms08" : {
+						"animation" : "meadLand/decorations/mushrooms/wmshr08",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMushrooms09" : {
+						"animation" : "meadLand/decorations/mushrooms/wmshr09",
+						"mask" : [ "VBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"meadLandMushrooms10" : {
+						"animation" : "meadLand/decorations/mushrooms/wmshr10",
+						"mask" : [ "VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					}
+				}
+			}
+		}
+	}
+}

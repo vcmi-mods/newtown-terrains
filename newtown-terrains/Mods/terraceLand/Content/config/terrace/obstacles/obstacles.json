@@ -1,0 +1,185 @@
+// Defines battle terrace/obstacles. We have two vectors of them:
+// * "terrace/obstacles" are usual obtacles, that are randomly placed in the battlefield.
+// * "absoluteterrace/obstacles" are a little special: there can be only one such obstacle in the battlefield and its position is always the same.
+//
+// Their properties:
+// * "allowedTerrains" vector of terrain types (TT format) where obstacle is appropriate
+// * "specialBattlefields" vector of battlefield images (BI format) where obstacle is appropriate. If there is a special battlefield image, then only this list is checked. Otherwise it's ignored. 
+// * "blockedTiles": for absolute terrace/obstacles contains absolute coordinates. For usual terrace/obstacles contains offsets relative to the obstacle position (that is bottom left corner). If obstacle is placed in an odd row (counting from 0) and the blocked tile is in an even row, position will be shifted one tile to the left. Thanks to that ie. -16 is always top-right hex, no matter where the obstale will get placed.
+// * "width" for usual terrace/obstacles it's count of tiles that must be free to the right for obstacle to be placed. For absolute terrace/obstacles, it's x offset for the graphics.
+// * "height" for usual terrace/obstacles it's count of tiles that must be free to the top for obstacle to be placed. For absolute terrace/obstacles, it's y offset for the graphics.
+// * "animation" is name of the graphics. It's def file for usual terrace/obstacles and bitmap for the absolute ones.
+
+{
+	"terraceHLD00" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 3,
+		"blockedTiles" :  [1, 2, -15],
+		"animation" : "terrace/obstacles/ObHLD00.def",
+		"absolute" : false
+	},
+	"terraceHLD01" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [0, 1, 2, -15, -16],
+		"animation" : "terrace/obstacles/ObHLD01.def",
+		"absolute" : false
+	},
+	"terraceHLD02" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, -16],
+		"animation" : "terrace/obstacles/ObHLD02.def",
+		"absolute" : false
+	},
+	"terraceHLD03" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [1, 2],
+		"animation" : "terrace/obstacles/ObHLD03.def",
+		"absolute" : false
+	},
+	"terraceHLD04" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" :  [1, 2, -15],
+		"animation" : "terrace/obstacles/ObHLD04.def",
+		"absolute" : false
+	},
+	"terraceHLD05" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD05.def",
+		"absolute" : false
+	},
+	"terraceHLD06" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD06.def",
+		"absolute" : false
+	},
+	"terraceHLD07" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD07.def",
+		"absolute" : false
+	},
+	"terraceHLD08" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD08.def",
+		"absolute" : false
+	},
+	"terraceHLD09" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD09.def",
+		"absolute" : false
+	},
+	"terraceHLD10" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD10.def",
+		"absolute" : false
+	},
+	"terraceHLD11" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD11.def",
+		"absolute" : false
+	},
+	"terraceHLD12" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 2,
+		"height" : 1,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD12.def",
+		"absolute" : false
+	},
+	"terraceHLD13" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 3,
+		"height" : 2,
+		"blockedTiles" :  [0, 1],
+		"animation" : "terrace/obstacles/ObHLD13.def",
+		"absolute" : false
+	},
+	"terraceHLD14" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 8,
+		"height" : 4,
+		"blockedTiles" :  [-15, -14, -13, -12, 1, 2, 3, 4],
+		"animation" : "terrace/obstacles/ObHLD14.def",
+		"absolute" : false
+	},
+	"terraceHLD15" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 10,
+		"height" : 3,
+		"blockedTiles" :  [-9, -10, -11, -12, -13, -14, -15, -16, -27, -28, -29, -30, -31, -32, -33, 1, 2, 3, 4, 5, 6, 7, 8],
+		"animation" : "terrace/obstacles/ObHLD15.def",
+		"absolute" : false
+	},
+	"terraceHLD16" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 8,
+		"height" : 5,
+		"blockedTiles" :  [0, 1, 2, 3, 4, 5, -11, -12, -13, -14, -15, -16, -30, -31],
+		"animation" : "terrace/obstacles/ObHLD16.def",
+		"absolute" : false
+	},
+	"terraceHLD17" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 11,
+		"height" : 2,
+		"blockedTiles" :  [1, 2, 3, 4, 5, 6, 7, 8, 9, -9, -8, -7, -10, -11, -12, -13, -14, -15],
+		"animation" : "terrace/obstacles/ObHLD17.def",
+		"absolute" : false
+	},
+	"terraceHLD19" : {
+		"allowedTerrains" : ["terrace"],
+		"specialBattlefields" : [],
+		"width" : 4,
+		"height" : 2,
+		"blockedTiles" :  [0, 1, 2],
+		"animation" : "terrace/obstacles/ObHLD19.def",
+		"absolute" : false
+	}
+}

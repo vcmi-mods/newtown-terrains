@@ -1,0 +1,54 @@
+{
+	"meadLandFire" : {
+		"handler" : "static",
+		"name" : "Fire",
+		"types" : {
+			"fires" : {
+				"templates" : {
+					"firemeadLand01" : {
+						"animation" : "meadLand/decorations/fire/avdcfir1",
+						"mask" : [ "VVV","VBV","BBB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand02" : {
+						"animation" : "meadLand/decorations/fire/avdcfir2",
+						"mask" : [ "VB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand03" : {
+						"animation" : "meadLand/decorations/fire/avdcfir3",
+						"mask" : [ "VB","VB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand04" : {
+						"animation" : "meadLand/decorations/fire/avdcfir4",
+						"mask" : [ "BV","BV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand06" : {
+						"animation" : "meadLand/decorations/fire/avdcfir6",
+						"mask" : [ "VV","BV" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand07" : {
+						"animation" : "meadLand/decorations/fire/avdcfir7",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand08" : {
+						"animation" : "meadLand/decorations/fire/avdcfir8",
+						"mask" : [ "BB","BB" ],
+						"allowedTerrains": [ "meadLand" ]
+					},
+					"firemeadLand09" : {
+						"animation" : "meadLand/decorations/fire/avdcfir9",
+						"mask" : [ "B" ],
+						"allowedTerrains": [ "meadLand" ]
+					 }
+				}
+			}
+		}	
+	}	
+}
+	
+	
