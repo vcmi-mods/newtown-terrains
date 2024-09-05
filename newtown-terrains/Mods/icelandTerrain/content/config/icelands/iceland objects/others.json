@@ -89,7 +89,7 @@
 				"templates" : {
 					"IceTreeKnowledge" : {
 						"animation" : "ice object/IceTreeKnowledge", 
-						"mask" : [ "VBV","VBV","VAV" ],
+						"mask" : [ "VVV","VVV","VAV" ],
 						"visitableFrom" : [ "---", "+++", "+++" ],
 						"allowedTerrains": [ "icelands" ]
 					}
