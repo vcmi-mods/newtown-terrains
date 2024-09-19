@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.5.7",
+	"version" : "1.5.8",
 	"changelog" :
 	{
+		"1.5.8"   : [ "Another update chinese translation" ],
 		"1.5.7"   : [ "Updated chinese translation" ],
 		"1.5.6"   : [ "Added four new terrains: Meadow, Plateau, Terrace and Fiery Land" ],
 		"1.5.5"   : [ "Russian translation by Anton Sergeew" ],
