@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.5.8",
+	"version" : "1.5.9",
 	"changelog" :
 	{
+		"1.5.9"   : [ "Remake lone trees by Fabrice-TIERCELIN" ],
 		"1.5.8"   : [ "Another update chinese translation" ],
 		"1.5.7"   : [ "Updated chinese translation" ],
 		"1.5.6"   : [ "Added four new terrains: Meadow, Plateau, Terrace and Fiery Land" ],
