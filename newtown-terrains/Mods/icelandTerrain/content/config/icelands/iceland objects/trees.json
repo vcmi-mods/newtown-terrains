@@ -53,7 +53,7 @@
 					"icetree12" : { "animation" : "ice trees/ICETREE12", 
 					"mask" : ["VV","VB"], 
 					"allowedTerrains": ["icelands"]
-					
+					}
 				}
 			}
 		}
