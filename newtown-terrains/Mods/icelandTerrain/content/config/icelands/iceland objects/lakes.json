@@ -45,6 +45,18 @@
 					"mask": ["BBBBB","BBBBB"],
 					"zIndex": 100,
                     "allowedTerrains": [ "icelands" ]
+					},
+					
+					"icelagoon10" : { "animation" : "ice lakes/ICELAKE10",  
+					"mask": ["VVV","BBB","VVV"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
+					},
+					
+					"icelagoon11" : { "animation" : "ice lakes/ICELAKE11",  
+					"mask": ["BBB","BBB"],
+					"zIndex": 100,
+                    "allowedTerrains": [ "icelands" ]
 					}
 				}
 			}

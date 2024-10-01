@@ -67,6 +67,20 @@
 						"allowedTerrains": [
 							"icelands"
 						]
+					},
+					"ICEROCK18": {
+						"animation": "ice rocks/FSND0010",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+					"ICEROCK19": {
+						"animation": "ice rocks/FSND0011",
+						"mask": ["VVVVV","VBBBV"],
+						"allowedTerrains": [
+							"icelands"
+						]
 					}
 				}
 			}
