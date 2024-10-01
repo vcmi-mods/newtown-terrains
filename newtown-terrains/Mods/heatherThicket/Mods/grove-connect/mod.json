@@ -1,7 +1,7 @@
 {
     "name" : "Grove connector",
     "description" : "This submod makes Heather Thicket terrain native to Grove faction.",
-	"modType" : "Objects",
+	"modType" : "Compatibility",
     "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",

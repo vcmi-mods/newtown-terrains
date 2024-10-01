@@ -1,7 +1,7 @@
 {
     "name" : "Death Valley connector",
     "description" : "This submod makes Deadlands terrain native to Death Valley faction.",
-	"modType" : "Objects",
+	"modType" : "Compatibility",
     "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",

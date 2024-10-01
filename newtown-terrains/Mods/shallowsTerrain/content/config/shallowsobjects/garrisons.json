@@ -1,0 +1,42 @@
+{
+	"core:garrisonHorizontal": {
+
+		"types": {
+			"object": {
+				//"rmg": {
+				//	"zoneLimit": 2,
+				//	"value": 1000,
+				//	"rarity": 80
+				//},
+				"templates": {	
+					"xFALF0232": {
+						"animation": "shallowsgarrisons/xFALF0232",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VBAB"],
+						"allowedTerrains": [ "shallows"]
+					}
+				}
+			}
+		}
+	},
+
+	"core:garrisonVertical": {
+		"types": {
+			"object": {
+				//"rmg": {
+				//	"zoneLimit": 1,
+				//	"value": 1000,
+				//	"rarity": 80
+				//},
+				"templates": {
+					"xFALF0233": {
+						"animation": "shallowsgarrisons/xFALF0233",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VB", "VA", "VB"],
+						"allowedTerrains": [ "shallows" ]
+					}
+				}
+			}
+		}
+	}
+}

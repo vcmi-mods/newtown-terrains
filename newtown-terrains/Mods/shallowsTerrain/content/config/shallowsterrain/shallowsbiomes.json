@@ -1,0 +1,86 @@
+{
+	"shallowsreefMountains": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "mountain"
+		},
+		"templates": ["xAVLMTVO1", "xAVLMTVO2", "xAVLMTVO3", "xAVLMTVO4", "xAVLMTVO5", "xAVLMTVO6", "xvcan01", "xvcan02", "xvcan03", "xvcan04", "xvcan05", "xvcan06", "xvcan07", "xvcan08", "xvcan09", "xvcan10", "xvcan11", "xvcan12", "xvcan13", "xvcan14", "xvcan15", "xvcan16", "xvcan17", "xvcan18", "xvcan19", "xVolc1", "xVIsl01", "xVIsl02", "xVIsl03", "xVIsl04", "xVIsl05", "xVIsl06", "xVIsl07", "xVIsl08", "xVIsl09", "xVIsl10", "xVIsl11", "xVIsl12", "xVIsl13", "xVIsl14", "xVIsl15", "xVIsl16", "xVIsl17", "xVIsl18" ]
+	},
+	"shallowsIslands": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "mountain"
+		},
+		"templates": ["xAltGrMt1", "xAltGrMt2", "xAltGrMt3", "xAltGrMt4", "xAltGrMt5", "xAltGrMt6", "xMNTSWP01", "xMNTSWP02","xMNTSWP03","xMNTSWP04","xMNTSWP05","xMNTSWP06"]
+	},
+	"shallowsrockyMountains": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "mountain"
+		},
+		"templates": ["xFDTD0001", "xFDTD0002","xFDTD0003","xFDTD0004","xFDTD0005","xFDTD0006","xFDTD0007","xFDTD0008", "xFDTM0001"]
+	},
+	"shallowsbones": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "rock"
+		},
+		"templates": [ "AVXSKDS222", "shAVLskul0", "Carcass1x", "Carcass2x","Carcass3x","Carcass4x",]
+	},
+	"shallowsseamonsterbones": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "rock"
+		},
+		"templates": [ "AVXSKDS111", "DinoSkl1x", "DinoSkl2x", "DinoSkl3x", "DragSkl5x", "DragSkl7x" , "DragSkl8x", "SSkel1x", "SSkel2x"]
+	},
+	"shallowschasms": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "crater"
+		},
+		"templates": ["xavlc10l0", "xavlc11l0", "xavlc12l0", "xavlc13l0", "xavlc14l0", "xavlct3l0", "xavlct4l0", "xavlct5l0", "xavlct6l0", "xavlct7l0" , "xavlct8l0" , "xavlct9l0", "xAVLctrl0"]
+	},
+	"shallowscorals": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "tree"
+		},
+		"templates": ["xFALG0003", "xFALG0004", "xFALG0005", "xFALG0006", "xFALG0007", "xash03", "xash04", "xash05","xash06","xash07", "xFALG0001", "xFALG0002", "xFALG0009", "xFSWG0014", "xFSWG0015", "xFSWG0016", "xFSWG0017", "xFSWG0018", "xFSWG0019" , "xFSWG0020", "xFSWG0021", "xFSWG0022"]
+	},
+	"shallowscraters": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "crater"
+		},
+		"templates": ["AVLctrd0", "xFVOD0120", "xFVOD0119"]
+	},
+	"shallowsReefs": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "rock"
+		},
+		"templates": [
+			"xFDTD0009", "xFDTD0010", "xFDTD0011", "xFDTD0012", "xFDTD0013", "xFDTD0014", "xFDTD0015", "xFDTD0016", "xFDTD0017", "xFDTD0018", "xFDTD0019", "xFDTD0020", "xFDTD0021", "xFDTD0022", "xFDTD0023", "xFDTD0024", "xFDTD0025", "xFDTD0026", "xFDTD0027", "xFDTD0028", "xFDTD0029"
+		]
+	},
+		
+	"shallowsdepressions": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "lake"
+		},
+		"templates": [
+			"xFrgCra01", "xFrgCra02", "xFrgCra03", "xFrgCra04", "xFrgCra05", "xFrgCra06", "xFrgCra07", "xFrgCra08", "xFrgCra09", "xFrgCra10", "xFrgCra11", "xFrgCra12", "xFrgCra13", "xFrgCra14", "xFrgCra15", "xFrgCra16", "xFrgCra17", "xFrgCra18", "xFrgCra19", "xFrgCra20", "xFrgCra21", "xFrgCra22", "xFrgCra23", "xFrgCra24", "xFrgCra25", "xFrgCra26", "xFrgCra27", "xFrgCra28", "xFrgCra29"
+		]
+	},
+	"shallowssunkenRuins": {
+		"biome": {
+			"terrain": "shallows",
+			"objectType": "structure"
+		},
+		"templates": [
+			"xHsRuin01", "xHsRuin02", "xHsRuin03", "xHsRuin04", "xHsRuin05", "xHsRuin06", "xHsRuin07"
+		]
+	}
+}

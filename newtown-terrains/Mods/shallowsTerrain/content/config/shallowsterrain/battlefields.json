@@ -1,0 +1,9 @@
+{
+	"shallows": { "graphics" : "shallowsterrain/shallowsbgy.bmp" },
+	"shallows2": { "graphics" : "shallowsterrain/shallowsbgy2.bmp" },
+	"shallows3": { "graphics" : "shallowsterrain/shallowsbgy3.bmp" },
+	"shallows4": { "graphics" : "shallowsterrain/shallowsbgy4.bmp" },
+	"shallows5": { "graphics" : "shallowsterrain/shallowsbgy5.bmp" },
+	"shallows6": { "graphics" : "shallowsterrain/shallowsbgy6.bmp" },
+	"shallows7": { "graphics" : "shallowsterrain/shallowsbgy7.bmp" }
+}

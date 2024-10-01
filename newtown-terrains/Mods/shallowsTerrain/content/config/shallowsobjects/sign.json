@@ -1,0 +1,16 @@
+{
+	"core:sign": {
+		"types": {
+			"object": {
+				"templates": {
+					"xFALF0174": {
+						"animation": "shallowssign/xFALF0174",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["A"],
+						"allowedTerrains": ["shallows"]
+					}
+				}
+			}
+		}
+	}
+}

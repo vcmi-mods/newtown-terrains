@@ -1,0 +1,30 @@
+{
+	"shallowsruins" : {
+		"name" : "Sunken Building",
+		"handler":"static",
+		"types" : {
+			"sunkenbuilding" : {
+				//"rmg": {
+				//	"zoneLimit": 3,
+				//	"value": 30,
+				//	"rarity": 30
+				//},
+				"templates" : {				
+					"xHsRuin01" : { "animation" : "shallowsruins/xHsRuin01", "mask" : [ "VVV", "VBB" ], "allowedTerrains": [ "shallows" ] },
+									
+					"xHsRuin02" : { "animation" : "shallowsruins/xHsRuin02", "mask" : [ "VVV", "VBB" ], "allowedTerrains": [ "shallows" ] },
+									
+					"xHsRuin03" : { "animation" : "shallowsruins/xHsRuin03", "mask" : [ "VVV", "VBB" ], "allowedTerrains": [ "shallows" ] },
+									
+					"xHsRuin04" : { "animation" : "shallowsruins/xHsRuin04", "mask" : [ "VVVV", "VBBV", "VVBB" ], "allowedTerrains": [ "shallows" ] },
+									
+					"xHsRuin05" : { "animation" : "shallowsruins/xHsRuin05", "mask" : [ "VVVV", "VVBB", "VBBV" ], "allowedTerrains": [ "shallows" ] },
+									
+					"xHsRuin06" : { "animation" : "shallowsruins/xHsRuin06", "mask" : [ "VVVV", "VBBV", "VVBB" ], "allowedTerrains": [ "shallows" ] },
+									
+					"xHsRuin07" : { "animation" : "shallowsruins/xHsRuin07", "mask" : [ "VVVV", "VVBB", "VBBV" ], "allowedTerrains": [ "shallows" ] }
+				}
+			}
+		}
+	}
+}

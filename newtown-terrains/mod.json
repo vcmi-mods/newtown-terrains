@@ -1,12 +1,13 @@
 {
 	"name" : "New terrains pack",
-	"description" : "Assets for stardust, fields of glory and ice cave terrain.",
+	"description" : "Assets for new terrains.",
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.5.9",
+	"version" : "1.6.0",
 	"changelog" :
 	{
+		"1.6.0"   : [ "Added Shallows terrain by Kurek" ],
 		"1.5.9"   : [ "Remake lone trees by Fabrice-TIERCELIN" ],
 		"1.5.8"   : [ "Another update chinese translation" ],
 		"1.5.7"   : [ "Updated chinese translation" ],

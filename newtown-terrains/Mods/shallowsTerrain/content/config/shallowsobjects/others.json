@@ -1,0 +1,16 @@
+{
+	"core:obelisk": {
+		"types": {
+			"object": {
+				"templates": {
+					"xAvXOblAs": {
+						"animation": "shallowsmisc/xAvXOblAs",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+						"allowedTerrains": ["shallows"]
+					}
+				}
+			}
+		}
+	}
+}

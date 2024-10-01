@@ -1,0 +1,256 @@
+{
+	"core:lake": {
+				"name": "Depression",
+		"types": {
+			"shallowsdepression": {
+				"name": "Depression",		
+				"sounds":
+				{
+					"ambient":["waterflow/reefwaterloop2"]
+				},						
+				"templates": {
+					"xFrgCra01": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra01",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra02": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra02",
+						"mask": ["VBB", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra03": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra03",
+						"mask": ["BBBBBB", "BBBBBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra04": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra04",
+						"mask": ["BBV", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra05": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra05",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra06": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra06",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra07": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra07",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra08": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra08",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra09": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra09",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra10": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra10",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra11": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra11",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra12": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra12",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra13": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra13",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra14": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra14",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra15": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra15",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra16": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra16",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra17": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra17",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra18": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra18",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra19": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra19",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra20": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra20",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra21": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra21",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra22": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra22",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra23": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra23",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra24": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra24",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra25": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra25",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra26": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra26",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra27": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra27",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra28": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra28",
+						"mask": ["VB", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra29": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra29",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFrgCra30": {
+						"zIndex": 100,				
+						"animation": "shallowstoxicWaste/xFrgCra30",
+						"mask": ["BBBBBB", "BBBBBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					}
+				}
+			}
+		}
+	}	
+}

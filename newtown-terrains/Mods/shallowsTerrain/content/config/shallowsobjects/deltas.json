@@ -1,0 +1,28 @@
+{
+	"core:riverDelta": {
+	"name": "Continental Shelf",
+		"types": {
+			"object": {
+				"templates": {
+					
+					"shdelt1": {
+						"animation": "shallowsriver/shdelt1.def",
+						"mask": ["VVV","VVV","VVV"]
+					},
+					"shdelt2": {
+						"animation": "shallowsriver/shdelt2.def",
+						"mask": ["VVV","VVV","VVV"]
+					},
+					"shdelt3": {
+						"animation": "shallowsriver/shdelt3.def",
+						"mask": ["VVV","VVV","VVV"]
+					},
+					"shdelt4": {
+						"animation": "shallowsriver/shdelt4.def",
+						"mask": ["VVV","VVV","VVV"]
+					}
+				}
+			}
+		}
+	}
+}

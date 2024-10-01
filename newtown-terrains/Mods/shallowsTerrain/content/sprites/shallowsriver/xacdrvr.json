@@ -1,0 +1,25 @@
+{
+    "basepath" : "shallowsriver/paletteshift/",
+    "sequences" :
+    [
+        {
+            "group" : 0,
+            "frames" :
+            [             
+                "xlavrvr00",
+                "xlavrvr01",
+                "xlavrvr02",
+                "xlavrvr03",
+                "xlavrvr04",
+                "xlavrvr05",
+                "xlavrvr06",
+                "xlavrvr07",   
+                "xlavrvr08",
+                "xlavrvr09",
+                "xlavrvr10",
+                "xlavrvr11",
+                "xlavrvr12"
+            ]
+        }			
+    ]
+}

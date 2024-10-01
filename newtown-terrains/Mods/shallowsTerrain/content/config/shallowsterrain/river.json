@@ -1,0 +1,12 @@
+{
+    "underwatertrench":
+    {
+        "text" : "Underwater Trench",
+        "shortIdentifier": "ut", //must be 2 characters
+        "tilesFilename": "shallowsriver/xxacdrvr",
+        "delta": "shallowsriver/shddelt"//,
+		//"paletteAnimation" : [
+			//{ "start" : 1, "length" : 5 }
+		//]
+    }
+}

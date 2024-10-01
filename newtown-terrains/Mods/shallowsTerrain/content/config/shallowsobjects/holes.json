@@ -1,0 +1,47 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+							"sounds":
+				{
+					"ambient":["waterflow/reefwaterloop2"]
+				},	
+				"templates": {
+
+					"xFVOD0119": {
+						"animation": "shallowsholes/xFVOD0119",
+						"mask": ["V"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"core:crater": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"xAVLctrd0": {
+						"animation": "shallowsholes/xAVLctrd0",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+
+					"xFVOD0120": {
+						"animation": "shallowsholes/xFVOD0120",
+						"mask": ["BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					}
+				}
+			}
+		}
+	}
+}

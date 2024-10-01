@@ -1,0 +1,10 @@
+{
+"raftRoad":
+    {
+        "shortIdentifier" : "wz",
+        "tilesFilename" : "shallowsroad/xgravrd",
+        "moveCost" : 90,
+		"text" : "Draft Road"
+    } 
+ 
+}

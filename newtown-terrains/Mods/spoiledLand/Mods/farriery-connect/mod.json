@@ -1,7 +1,7 @@
 {
     "name" : "Farriery connector",
     "description" : "This submod makes Spoiled Land terrain native to Farriery faction.",
-	"modType" : "Objects",
+	"modType" : "Compatibility",
     "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",

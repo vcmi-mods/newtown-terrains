@@ -1,0 +1,119 @@
+{
+	"core:rock": {
+	"name": "Bones",
+		"types": {
+			"shallowsbones01": {
+				"name": "Shallows Bones",
+				"templates": {
+				
+					"shAVLskul0": {
+						"animation": "shallowsbones/AVLskul0",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"AVXSKDS111": {
+						"animation": "shallowsbones/AVXSKDS111",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"AVXSKDS222": {
+						"animation": "shallowsbones/AVXSKDS222",
+						"mask": ["BBB","VVV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},				
+					"Carcass1x": {
+						"animation": "shallowsbones/Carcass1x",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"Carcass2x": {
+						"animation": "shallowsbones/Carcass2x",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"Carcass3x": {
+						"animation": "shallowsbones/Carcass3x",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"Carcass4x": {
+						"animation": "shallowsbones/Carcass4x",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"DinoSkl1x": {
+						"animation": "shallowsbones/DinoSkl1x",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"DinoSkl2x": {
+						"animation": "shallowsbones/DinoSkl2x",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"DinoSkl3x": {
+						"animation": "shallowsbones/DinoSkl3x",
+						"mask": ["BBV","VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"DragSkl5x": {
+						"animation": "shallowsbones/DragSkl5x",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"DragSkl8x": {
+						"animation": "shallowsbones/DragSkl8x",
+						"mask": ["BBB","BVV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"DragSkl7x": {
+						"animation": "shallowsbones/DragSkl7x",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"SSkel1x": {
+						"animation": "shallowsbones/SSkel1x",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"SSkel2x": {
+						"animation": "shallowsbones/SSkel2x",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					}
+				}
+			}
+		}
+	}
+}

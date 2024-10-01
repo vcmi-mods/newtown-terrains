@@ -1,0 +1,451 @@
+{
+	"core:mountain": {
+		"name": "Island",
+		"types": {
+			"object": {
+				"sounds":
+				{
+					"ambient":["waterflow/reefwaterloop2"]
+				},	
+				"templates": {
+
+					"xAVLMTVO1": {
+						"animation": "shallowscraters/xAVLMTVO1",
+						"mask": ["VVVVV", "BBBBV", "BBBBB", "VVBBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xAVLMTVO2": {
+						"animation": "shallowscraters/xAVLMTVO2",
+						"mask": ["VVVVVV", "VBBBB", "BBBBB", "BBBVV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xAVLMTVO3": {
+						"animation": "shallowscraters/xAVLMTVO3",
+						"mask": ["VVV", "BBB", "VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xAVLMTVO4": {
+						"animation": "shallowscraters/xAVLMTVO4",
+						"mask": ["VVV", "BBB", "BBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xAVLMTVO5": {
+						"animation": "shallowscraters/xAVLMTVO5",
+						"mask": ["BBV", "VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xAVLMTVO6": {
+						"animation": "shallowscraters/xAVLMTVO6",
+						"mask": ["VBB", "BBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan01": {
+						"animation": "shallowscraters/xvcan01",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan02": {
+						"animation": "shallowscraters/xvcan02",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan03": {
+						"animation": "shallowscraters/xvcan03",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan04": {
+						"animation": "shallowscraters/xvcan04",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan05": {
+						"animation": "shallowscraters/xvcan05",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan06": {
+						"animation": "shallowscraters/xvcan06",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan07": {
+						"animation": "shallowscraters/xvcan07",
+						"mask": ["VVV", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan08": {
+						"animation": "shallowscraters/xvcan08",
+						"mask": ["VV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan09": {
+						"animation": "shallowscraters/xvcan09",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan10": {
+						"animation": "shallowscraters/xvcan10",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan11": {
+						"animation": "shallowscraters/xvcan11",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan12": {
+						"animation": "shallowscraters/xvcan12",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan13": {
+						"animation": "shallowscraters/xvcan13",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan14": {
+						"animation": "shallowscraters/xvcan14",
+						"mask": ["VVV", "VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan15": {
+						"animation": "shallowscraters/xvcan15",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan16": {
+						"animation": "shallowscraters/xvcan16",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan17": {
+						"animation": "shallowscraters/xvcan17",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan18": {
+						"animation": "shallowscraters/xvcan18",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xvcan19": {
+						"animation": "shallowscraters/xvcan19",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl01": {
+						"animation": "shallowscraters/xVIsl01",
+						"mask": ["VBV", "BBB","BBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl02": {
+						"animation": "shallowscraters/xVIsl02",
+						"mask": ["BBV", "BBB","VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl03": {
+						"animation": "shallowscraters/xVIsl03",
+						"mask": ["BB","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl04": {
+						"animation": "shallowscraters/xVIsl04",
+						"mask": ["VB","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl05": {
+						"animation": "shallowscraters/xVIsl05",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl06": {
+						"animation": "shallowscraters/xVIsl06",
+						"mask": ["B","B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl07": {
+						"animation": "shallowscraters/xVIsl07",
+						"mask": ["BB","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl08": {
+						"animation": "shallowscraters/xVIsl08",
+						"mask": ["B","B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl09": {
+						"animation": "shallowscraters/xVIsl09",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl10": {
+						"animation": "shallowscraters/xVIsl10",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl11": {
+						"animation": "shallowscraters/xVIsl11",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl12": {
+						"animation": "shallowscraters/xVIsl12",
+						"mask": ["V", "B"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl13": {
+						"animation": "shallowscraters/xVIsl13",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl14": {
+						"animation": "shallowscraters/xVIsl14",
+						"mask": ["VB", "VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl15": {
+						"animation": "shallowscraters/xVIsl15",
+						"mask": ["VVV", "BBB","VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl16": {
+						"animation": "shallowscraters/xVIsl16",
+						"mask": ["VVV", "VBB","BBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl17": {
+						"animation": "shallowscraters/xVIsl17",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVIsl18": {
+						"animation": "shallowscraters/xVIsl18",
+						"mask": ["VBV", "BBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					
+					"xVolc1": {
+						"animation": "shallowscraters/xVolc1",
+						"mask": ["VVVV", "VBBB", "VVBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+
+					"xAltGrMt1": {
+						"animation": "shallowstoxicMountains/xAltGrMt1",
+						"mask": ["VVVVVV", "VBBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xAltGrMt2": {
+						"animation": "shallowstoxicMountains/xAltGrMt2",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xAltGrMt3": {
+						"animation": "shallowstoxicMountains/xAltGrMt3",
+						"mask": ["VVVV", "VBBB", "VBBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xAltGrMt4": {
+						"animation": "shallowstoxicMountains/xAltGrMt4",
+						"mask": ["VVVV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xAltGrMt5": {
+						"animation": "shallowstoxicMountains/xAltGrMt5",
+						"mask": ["VVBB", "VBBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xAltGrMt6": {
+						"animation": "shallowstoxicMountains/xAltGrMt6",
+						"mask": ["VBBV", "VVBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xMNTSWP01": {
+						"animation": "shallowstoxicMountains/xMNTSWP01",
+						"mask": ["VVVV","VBBV", "VVBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xMNTSWP02": {
+						"animation": "shallowstoxicMountains/xMNTSWP02",
+						"mask": ["VVVV","VVBB", "VBBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xMNTSWP03": {
+						"animation": "shallowstoxicMountains/xMNTSWP03",
+						"mask": ["VVVV","VBBB", "VVBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xMNTSWP04": {
+						"animation": "shallowstoxicMountains/xMNTSWP04",
+						"mask": ["VVVV","VBBB", "VBBV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},		
+					"xMNTSWP05": {
+						"animation": "shallowstoxicMountains/xMNTSWP05",
+						"mask": ["VVVVVV", "VVBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xMNTSWP06": {
+						"animation": "shallowstoxicMountains/xMNTSWP06",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					}				
+				}
+			}
+		}
+	}
+}

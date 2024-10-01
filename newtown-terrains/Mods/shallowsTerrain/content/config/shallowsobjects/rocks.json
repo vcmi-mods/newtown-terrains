@@ -1,0 +1,164 @@
+{
+	"core:rock": {
+	"name": "Reefs",
+
+		"types": {
+			"shallowsRocksHills01": {
+				"name": "Shallows Rocks",
+				"sounds":
+				{
+					"ambient":["waterflow/reefwaterloop2"]
+				},	
+				"templates": {
+					"xFDTD0009": {
+						"animation": "shallowsrocks/xFDTD0009",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},					
+					"xFDTD0010": {
+						"animation": "shallowsrocks/xFDTD0010",
+						"mask": [ "BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},						
+					"xFDTD0011": {
+						"animation": "shallowsrocks/xFDTD0011",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},						
+					"xFDTD0012": {
+						"animation": "shallowsrocks/xFDTD0012",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},						
+					"xFDTD0013": {
+						"animation": "shallowsrocks/xFDTD0013",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},				
+					"xFDTD0014": {
+						"animation": "shallowsrocks/xFDTD0014",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},						
+					"xFDTD0015": {
+						"animation": "shallowsrocks/xFDTD0015",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},						
+					"xFDTD0016": {
+						"animation": "shallowsrocks/xFDTD0016",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},						
+					"xFDTD0017": {
+						"animation": "shallowsrocks/xFDTD0017",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},																
+					"xFDTD0018": {
+						"animation": "shallowsrocks/xFDTD0018",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},	
+					"xFDTD0019": {
+						"animation": "shallowsrocks/xFDTD0019",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},	
+					"xFDTD0020": {
+						"animation": "shallowsrocks/xFDTD0020",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0021": {
+						"animation": "shallowsrocks/xFDTD0021",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0022": {
+						"animation": "shallowsrocks/xFDTD0022",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0023": {
+						"animation": "shallowsrocks/xFDTD0023",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0024": {
+						"animation": "shallowsrocks/xFDTD0024",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0025": {
+						"animation": "shallowsrocks/xFDTD0025",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0026": {
+						"animation": "shallowsrocks/xFDTD0026",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0027": {
+						"animation": "shallowsrocks/xFDTD0027",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0028": {
+						"animation": "shallowsrocks/xFDTD0028",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					},
+					"xFDTD0029": {
+						"animation": "shallowsrocks/xFDTD0029",
+						"mask": [ "VB"],
+						"allowedTerrains": [
+							"shallows"
+						]
+					}
+				}
+			}
+		}
+	}
+}
