@@ -25,14 +25,14 @@
 			"terrain": "shallows",
 			"objectType": "rock"
 		},
-		"templates": [ "AVXSKDS222", "shAVLskul0", "Carcass1x", "Carcass2x","Carcass3x","Carcass4x",]
+		"templates": [ "AVXSKDS222", "AVLskul0", "Carcass1x", "Carcass2x","Carcass3x","Carcass4x",]
 	},
 	"shallowsseamonsterbones": {
 		"biome": {
 			"terrain": "shallows",
 			"objectType": "rock"
 		},
-		"templates": [ "AVXSKDS111", "DinoSkl1x", "DinoSkl2x", "DinoSkl3x", "DragSkl5x", "DragSkl7x" , "DragSkl8x", "SSkel1x", "SSkel2x"]
+		"templates": [ "AVXSKDS111", "DinoSkl1x", "DinoSkl2x", "DinoSkl3x", "DragSkl5x", , "DragSkl7x", , "DragSkl8x", "SSkel1x", "SSkel2x"]
 	},
 	"shallowschasms": {
 		"biome": {

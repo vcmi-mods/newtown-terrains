@@ -1,7 +1,7 @@
 {
 "raftRoad":
     {
-        "shortIdentifier" : "wz",
+        "shortIdentifier" : "rr",
         "tilesFilename" : "shallowsroad/xgravrd",
         "moveCost" : 90,
 		"text" : "Draft Road"

@@ -12,12 +12,16 @@
 		"shortIdentifier" : "sh",
 		"type" : ["SURFACE"],
 		"battleFields" : ["shallows", "shallows2", "shallows3", "shallows4", "shallows5", "shallows6", "shallows7"],
-		"transitionRequired" : true,
+		"transitionRequired" : false,
 		"horseSound" : "horse04",
-		"horseSoundPenalty" : "walk/walkwater.wav",
+		"horseSoundPenalty" : "walk/walkwater",
 		"paletteAnimation" : [
 			{ "start" : 229, "length" : 12 },
 			{ "start" : 242, "length" : 12 }
-		]
+		],
+		"sounds":
+		{
+		"ambient": [ "waterflow/reefwaterloop2.ogg" ]
+		}
 	}
 }
