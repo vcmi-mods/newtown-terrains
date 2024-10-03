@@ -9,6 +9,7 @@
 	"changelog" :
 	{
 		"1.0"   : [ "creation of the mod" ],
+		"1.1"   : [ "bugs fixed" ],
 	},
 	"compatibility" :
 	{
@@ -60,5 +61,5 @@
 	"biomes" :
 	[
 		"config/shallowsterrain/shallowsbiomes"
-	]
+	],	
 }
