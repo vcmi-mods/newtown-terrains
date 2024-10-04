@@ -6,7 +6,7 @@
 				"name": "Shallows Bones",
 				"templates": {
 				
-					"AVLskul0": {
+					"shAVLskul0": {
 						"animation": "shallowsbones/AVLskul0",
 						"mask": ["VB"],
 						"allowedTerrains": [
