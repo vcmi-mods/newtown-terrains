@@ -37,6 +37,24 @@
 						"allowedTerrains": [
 							"icelands"
 						]
+					},
+
+					"ICEHOLE003": {
+						"animation": "ice holes/ICEHOLE03",
+						"mask": ["VVV","BBB","VVV"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"icelands"
+						]
+					},
+
+					"ICEHOLE004": {
+						"animation": "ice holes/ICEHOLE04",
+						"mask": ["BBB"],
+						"zIndex": 100,
+						"allowedTerrains": [
+							"icelands"
+						]
 					}
 				}
 			}
