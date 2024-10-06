@@ -2,11 +2,12 @@
 	"name" : "New terrains pack",
 	"description" : "Assets for new terrains.",
 	"modType" : "Objects",	
-	"author" : "Ben Yan, zeryss",
+	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.6.0",
+	"version" : "1.6.1",
 	"changelog" :
 	{
+		"1.6.1"   : [ "More assets for the ice sheet terrain by Fabrice-TIERCELIN" ],
 		"1.6.0"   : [ "Added Shallows terrain by Kurek" ],
 		"1.5.9"   : [ "Remake lone trees by Fabrice-TIERCELIN" ],
 		"1.5.8"   : [ "Another update chinese translation" ],
