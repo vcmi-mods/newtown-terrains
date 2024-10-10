@@ -1,6 +1,6 @@
 {
 	"core:riverDelta": {
-	"name": "Continental Shelf"
+	"name": "Continental Shelf",
 		"types": {
 			"object": {
 				"templates": {
