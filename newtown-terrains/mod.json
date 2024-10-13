@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.6.2",
+	"version" : "1.6.3",
 	"changelog" :
 	{
+		"1.6.3"   : [ "Czech translation by George King" ],
 		"1.6.2"   : [ "Some fixes in Shallows terrain submod" ],
 		"1.6.1"   : [ "More assets for the ice sheet terrain by Fabrice-TIERCELIN" ],
 		"1.6.0"   : [ "Added Shallows terrain by Kurek" ],
@@ -43,6 +44,13 @@
 		"description" : "Ресурсы для ландшафта звездной пыли, полей славы и ледяной пещеры.",
 		"translations" : [
 			"translation/newtown-terrains/russian.json"
+		]
+	},
+	"czech" : {
+		"name": "Nový balíček terénů",
+		"description": "Obsahuje balíček nových terénů, pole slávy a ledovou jeskyni.",
+		"translations" : [
+			"translation/newtown-terrains/czech.json"
 		]
 	},
 	"compatibility" :
