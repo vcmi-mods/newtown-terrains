@@ -1,7 +1,7 @@
 {
     "name": "Dead Land Terrain",
     "description": "Dead Land Terrain, can be used as native terrain for Necropolis",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Zeryss, Fred79 and other modders for objects. Music theme is by CC0 licence from Tozan (opengameart.org)",
     "contact": "none",
     "modType": "Objects",
@@ -11,7 +11,12 @@
 	},
 	"changelog" :
 	{
-		"0.0.1"  : [ "Initial release" ]
+		"0.0.1"  : [ "Initial release" ],
+		"0.0.2"  : [ "Czech translation by George King" ]
+	},
+	"czech" : {
+		"name": "Mrtvá země",
+		"description": "Mrtvá zěme, může být použita jako výchozí terén pro Nekropoli nebo Údolí smrti."
 	},
 	"battlefields":
 	[

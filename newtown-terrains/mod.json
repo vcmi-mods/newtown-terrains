@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.6.3",
+	"version" : "1.6.4",
 	"changelog" :
 	{
+		"1.6.4"   : [ "Updated Czech translation" ],
 		"1.6.3"   : [ "Czech translation by George King" ],
 		"1.6.2"   : [ "Some fixes in Shallows terrain submod" ],
 		"1.6.1"   : [ "More assets for the ice sheet terrain by Fabrice-TIERCELIN" ],
@@ -47,8 +48,8 @@
 		]
 	},
 	"czech" : {
-		"name": "Nový balíček terénů",
-		"description": "Obsahuje balíček nových terénů, pole slávy a ledovou jeskyni.",
+		"name": "Nové terény",
+		"description": "Obsahuje balíček nových terénů.",
 		"translations" : [
 			"translation/newtown-terrains/czech.json"
 		]

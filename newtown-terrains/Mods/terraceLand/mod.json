@@ -1,7 +1,7 @@
 {
     "name": "Terrace Terrain",
     "description": "Terrace Terrain",
-    "version": "0.2",
+    "version": "0.3",
     "author": "Zeryss,",
     "contact": "none",
     "modType": "Objects",
@@ -11,8 +11,13 @@
 	},
 	"changelog" :
 	{
+		"0.3"  : [ "Czech translation by George King" ],
 		"0.2"  : [ "Indentifiers fixes" ],
 		"0.1"  : [ "Initial release" ]
+	},
+	"czech" : {
+		"name" : "Terasovitý terén",
+		"description" : "Soubory pro terasovitý terén."
 	},
 	"battlefields":
 	[
