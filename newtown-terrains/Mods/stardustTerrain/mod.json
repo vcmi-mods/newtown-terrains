@@ -4,20 +4,25 @@
 	
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.3",
+	"version" : "1.3.1",
 	"changelog" :
 	{
-		"1.3"   : [ "Independency" ],
+		"1.3.1"   : [ "Czech translation by George King" ],
+		"1.3"     : [ "Independency" ],
 		"1.2.1"   : [ "Fixed delta rivers" ],
 		"1.2.0"   : [ "Mod rewritten for new format" ],
 		"1.1.0"   : [ "Added mines and obelisk" ],
-		"1.0"   : [ "Initial release" ]
+		"1.0"     : [ "Initial release" ]
 	},
 	"compatibility" :
 	{
 		"min" : "1.2.0"
 	},
 	"modType" : "Objects",
+	"czech" : {
+		"name" : "Hvězdný prach",
+		"description" : "Soubory pro terén hvězdného prachu."
+	},
 	"rivers":
 	[
 		"config/stardust/stardust terrain/river.json"

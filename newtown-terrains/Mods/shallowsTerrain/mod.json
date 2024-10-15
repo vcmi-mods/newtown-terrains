@@ -5,11 +5,12 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "Kurek",
 	"contact" : "w.kurek@gmail.com",
-	"version" : "1.0",
+	"version" : "1.2",
 	"changelog" :
 	{
 		"1.0"   : [ "creation of the mod" ],
 		"1.1"   : [ "bugs fixed" ],
+		"1.2"   : [ "Czech translation by George King" ]
 	},
 	"compatibility" :
 	{
@@ -20,6 +21,10 @@
 	[
 
 	],
+	"czech" : {
+		"name" : "Mělčina",
+		"description" : "Obsahuje podklady pro terén mělčiny."
+	},
 	"roads":
 	[
 	"config/shallowsobjects/roads.json"
@@ -61,5 +66,5 @@
 	"biomes" :
 	[
 		"config/shallowsterrain/shallowsbiomes"
-	]
+	],	
 }

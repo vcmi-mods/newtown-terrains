@@ -18,7 +18,10 @@
 		"min" : "1.2.0"
 	},
 	"modType" : "Objects",
-		
+	"czech" : {
+		"name" : "Ledová země",
+		"description" : "Obsahuje podklady pro ledovou zemi."
+	},
     "objects" :
     [ 
 	"config/icelands/iceland objects/trees.json",

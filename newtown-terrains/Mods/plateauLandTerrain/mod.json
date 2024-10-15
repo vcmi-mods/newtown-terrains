@@ -1,7 +1,7 @@
 {
     "name": "Plateau Terrain",
     "description": "Plateau Terrain",
-    "version": "0.1",
+    "version": "0.0.2",
     "author": "Zeryss,",
     "contact": "none",
     "modType": "Objects",
@@ -11,7 +11,12 @@
 	},
 	"changelog" :
 	{
-		"0.0.1"  : [ "Initial release" ]
+		"0.0.1"  : [ "Initial release" ],
+		"0.0.2"  : [ "Czech translation by George King" ]
+	},
+	"czech" : {
+		"name" : "Náhorní plošina",
+		"description" : "Obsahuje podklady náhorní plošinu."
 	},
 	"battlefields":
 	[

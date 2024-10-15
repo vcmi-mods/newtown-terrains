@@ -2,7 +2,7 @@
     "name" : "Heather Thicket terrain",
     "description" : "New, night-themed terrain. Mod contains submod that connect Heather Thicket terrain with Grove making it native.",
 	"modType" : "Objects",
-    "version" : "0.3.1",
+    "version" : "0.3.2",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
 	"compatibility" :
@@ -14,10 +14,15 @@
 	],
 	"changelog" :
 	{
+		"0.3.2"   : [ "Czech translation by George King" ],
 		"0.3.1"   : [ "Grove terrain is now submod" ],
 		"0.3"     : [ "Update for VCMI 1.4" ],
 		"0.2"     : [ "Update for VCMI 1.2" ],
 		"0.1"     : [ "Initial release" ]
+	},
+	"czech" : {
+		"name" : "Vřesoviště",
+		"description" : "Nový noční terén. Mod obsahuje submod, který propojuje terén Vřesoviště s Hájem, čímž se stává jeho přirozeným prostředím."
 	},
 	"terrains":
 	[
