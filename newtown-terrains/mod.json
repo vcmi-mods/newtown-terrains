@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.6.4",
+	"version" : "1.6.5",
 	"changelog" :
 	{
+		"1.6.5"   : [ "Fixed the translation bugs by LeoAllenHan" ],
 		"1.6.4"   : [ "Updated Czech translation" ],
 		"1.6.3"   : [ "Czech translation by George King" ],
 		"1.6.2"   : [ "Some fixes in Shallows terrain submod" ],
@@ -56,6 +57,6 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.2.0"
+		"min" : "1.6.0"
 	}
 }
