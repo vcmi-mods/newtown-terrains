@@ -1,8 +1,8 @@
 {
 	"core:mountain": {
-		"name": "Island",
 		"types": {
-			"object": {
+			"object": 
+				"name": "Island",
 				"sounds":
 				{
 					"ambient":["waterflow/reefwaterloop2"]
