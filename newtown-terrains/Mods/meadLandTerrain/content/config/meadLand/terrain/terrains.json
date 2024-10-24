@@ -5,7 +5,7 @@
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 140, 148, 90 ],
 		"minimapBlocked"   : [ 131, 131, 98 ],
-		"music" : "Grass.mp3",
+		"music" : [ "Grass.mp3" ],
 		"tiles" : "meadLand/terrain/meadLand",
 		"shortIdentifier" : "ma",
 		"battleFields" : ["meadLandBattlefields"],

@@ -3,7 +3,7 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"ZZMM3" : {
+					"slZZMM3" : {
 						"animation" : "spoiled_land-objects/hillfort/ZZMM3",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VBB", "VBA"],

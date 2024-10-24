@@ -5,7 +5,7 @@
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 82, 117, 75 ],
 		"minimapBlocked"   : [ 97, 133, 70 ],
-		"music" : "Grass.mp3",
+		"music" : [ "Grass.mp3" ],
 		"tiles" : "terrace/terrain/terrace",
 		"shortIdentifier" : "te",
 		"battleFields" : ["battlefield_01", "battlefield_02"],

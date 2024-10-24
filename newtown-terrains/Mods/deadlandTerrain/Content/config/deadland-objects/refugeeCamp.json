@@ -4,7 +4,7 @@
 		"types": {
 			"object": {
 				"templates": {
-					"AVGrefg0": {
+					"dlAVGrefg0": {
 						"animation": "deadland-objects/refugeeCamp/AVGrefg0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],

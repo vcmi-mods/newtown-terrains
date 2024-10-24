@@ -5,7 +5,7 @@
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 94, 91, 75 ],
 		"minimapBlocked"   : [ 60, 59, 50 ],
-		"music" : "deadland/midnightcem2.ogg",
+		"music" : [ "deadland/midnightcem2.ogg" ],
 		"tiles" : "deadland-terrain/deadland",
 		"shortIdentifier" : "dl",
 		"battleFields" : ["deadland_back1", "deadland_back2", "deadland_back3", "deadland_back4"],

@@ -4,7 +4,7 @@
 		"types": {
 			"schoolOfWar": {
 				"templates": {
-					"FALF0109": {
+					"dlFALF0109": {
 						"animation": "deadland-objects/schoolOfWar/FALF0109",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask":["VVVV","VVVV","BBBV","VBAV"],

@@ -1,8 +1,7 @@
 {
 	"core:cartographer" : {
 		"types" : {
-			"land" : {
-				"name" : "Cartographer",
+			"cartographerLand" : {
 				"templates" : {
 					"FSUF0001" : {
 						"animation" : "spoiled_land-objects/cartographer/FSUF0001",

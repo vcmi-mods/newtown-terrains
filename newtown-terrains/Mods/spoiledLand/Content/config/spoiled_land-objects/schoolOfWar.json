@@ -3,7 +3,7 @@
 		"types" : {
 			"schoolOfWar" : {
 				"templates" : {
-					"FALF0109" : {
+					"slFALF0109" : {
 						"animation" : "spoiled_land-objects/schoolOfWar/FALF0109",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" :["VVVV","VVVV","BBBV","VBAV"],

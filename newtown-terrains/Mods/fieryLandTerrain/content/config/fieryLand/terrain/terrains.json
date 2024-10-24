@@ -5,7 +5,7 @@
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 104, 99, 100 ],
 		"minimapBlocked"   : [ 57, 49, 43 ],
-		"music" : "Lava.mp3",
+		"music" : [ "Lava.mp3" ],
 		"tiles" : "fieryLand/terrain/fieryLand",
 		"shortIdentifier" : "fe",
 		"battleFields" : ["fieryLandBattlefields", "fieryLandBattlefields2"],

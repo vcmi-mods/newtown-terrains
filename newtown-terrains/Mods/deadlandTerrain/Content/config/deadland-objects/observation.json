@@ -4,7 +4,7 @@
 		"types": {
 			"redwoodObservatory": {
 				"templates": {
-					"FALF0104": {
+					"dlFALF0104": {
 						"animation": "deadland-objects/observation/FALF0104",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV", "VVVV", "VVBV", "VVAV"],

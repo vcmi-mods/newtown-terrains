@@ -1,9 +1,9 @@
 {
 	"core:coverOfDarkness" : {
 		"types" : {
-			"object" : {
+			"coverOfDarkness" : {
 				"templates" : {
-					"FSAF0020" : {
+					"slFSAF0020" : {
 						"animation" : "spoiled_land-objects/coverOfDarkness/avxcovr0",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VVV", "VAB"],

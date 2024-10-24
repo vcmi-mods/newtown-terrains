@@ -3,32 +3,32 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"SWMN01" : {
+					"htSWMN01" : {
 						"animation" : "heather-thicket-decorations/mountains/SWMN01",
 						"mask" : [ "VVVVVV","VVBBBB","VBBBBB","VBBBVV" ],
 						"allowedTerrains": ["heatherThicket" ]
 					},
-					"SWMN02" : {
+					"htSWMN02" : {
 						"animation" : "heather-thicket-decorations/mountains/SWMN02",
 						"mask" : [ "VVVVVV","VBBBBV","VBBBBB","VVVBBB" ],
 						"allowedTerrains": ["heatherThicket" ]
 					},
-					"SWMN03" : {
+					"htSWMN03" : {
 						"animation" : "heather-thicket-decorations/mountains/SWMN03",
 						"mask" : [ "VVVV","VBBB","VBBV" ],
 						"allowedTerrains": ["heatherThicket" ]
 					},
-					"SWMN04" : {
+					"htSWMN04" : {
 						"animation" : "heather-thicket-decorations/mountains/SWMN04",
 						"mask" : [ "VVVV", "VBBB","VVBB" ],
 						"allowedTerrains": ["heatherThicket" ]
 					},
-					"SWMN05" : {
+					"htSWMN05" : {
 						"animation" : "heather-thicket-decorations/mountains/SWMN05",
 						"mask" : [ "VVVV", "VVBB","VBBV" ],
 						"allowedTerrains": ["heatherThicket" ]
 					},
-					"SWMN06" : {
+					"htSWMN06" : {
 						"animation" : "heather-thicket-decorations/mountains/SWMN06",
 						"mask" : [ "VVVV", "VBBV","VVBB" ],
 						"allowedTerrains": ["heatherThicket" ]

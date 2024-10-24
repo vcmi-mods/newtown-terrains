@@ -13,6 +13,6 @@
 		 "minimapBlocked"   : [ 41, 40, 41 ],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27",
-		"music" : "heather_thicket.ogg"
+		"music" : [ "heather_thicket.ogg" ]
 	 }
 }

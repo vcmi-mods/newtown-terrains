@@ -3,7 +3,7 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"AvXAltar" : {
+					"slAvXAltar" : {
 						"animation" : "spoiled_land-objects/altarOfSacrifice/AvXAltar",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VBA"],

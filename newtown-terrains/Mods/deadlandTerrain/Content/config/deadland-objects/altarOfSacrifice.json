@@ -5,7 +5,7 @@
 			"object": {
 				"templates": {
 
-					"AvXAltar": {
+					"dlAvXAltar": {
 						"animation": "deadland-objects/altarOfSacrifice/AvXAltar",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VBA"],

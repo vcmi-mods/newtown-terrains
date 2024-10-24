@@ -5,7 +5,7 @@
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 131, 86, 172 ],
 		 "minimapBlocked"   : [ 104, 61, 174 ],
-		"music" : "stardust/Stardust Theme",
+		"music" : [ "stardust/Stardust Theme" ],
 		"tiles" : "stardust/startTerrian",
 		"river" : "starRiver",
 		"rockTerrain":"rock",

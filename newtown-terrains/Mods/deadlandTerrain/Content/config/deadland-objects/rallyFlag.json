@@ -4,7 +4,7 @@
 		"types": {
 			"rallyFlag": {
 				"templates": {
-					"AVXRLLY0": {
+					"dlAVXRLLY0": {
 						"animation": "deadland-objects/rallyFlag/AVXRLLY0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VAB"],

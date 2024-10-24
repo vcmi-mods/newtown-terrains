@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.6.5",
+	"version" : "1.7.0",
 	"changelog" :
 	{
+		"1.7.0"   : [ "Update to vcmi-1.6 format", "Fixes for duplicate identifiers", "Added connector between Plateau terrain and Refugee town" ],
 		"1.6.5"   : [ "Fixed the translation bugs by LeoAllenHan" ],
 		"1.6.4"   : [ "Updated Czech translation" ],
 		"1.6.3"   : [ "Czech translation by George King" ],

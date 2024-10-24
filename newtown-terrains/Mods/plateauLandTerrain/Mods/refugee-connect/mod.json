@@ -1,0 +1,24 @@
+{
+    "name" : "Refugee connector",
+    "description" : "This submod makes Heather Thicket terrain native to Refugee faction.",
+	"modType" : "Compatibility",
+    "version" : "1.0",
+    "author" : "",
+    "contact" : "none",
+	"changelog" :
+	{
+		"1.0"   : [ "Initial release" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.5.0"
+	},
+	"depends" :
+	[
+		"refugee-town"
+	],
+	"factions" :
+	[
+		"config/terrain/refugeeTerrain.json"
+	]
+}

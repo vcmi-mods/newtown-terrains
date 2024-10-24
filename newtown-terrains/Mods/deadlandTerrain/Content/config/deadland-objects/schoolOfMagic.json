@@ -3,7 +3,7 @@
 		"types": {
 			"schoolOfMagic": {
 				"templates": {
-					"FALF0246": {
+					"dlFALF0246": {
 						"animation": "deadland-objects/schoolOfMagic/FALF0246",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VV", "VA"],

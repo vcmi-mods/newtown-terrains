@@ -4,22 +4,22 @@
 			"spoiledLandTree" : {
 				"name" : "Dead Tree",
 				"templates" : {
-					"AVLDEAD0" : {
+					"slAVLDEAD0" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD0",
 						"mask" : ["VV", "VB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD1" : {
+					"slAVLDEAD1" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD1",
 						"mask" : ["VV", "VB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},	
-					"AVLDEAD8" : {
+					"slAVLDEAD8" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD8",
 						"mask" : ["VV", "VB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD9" : {
+					"slAVLDEAD9" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD9",
 						"mask" : ["VV", "VB"],
 						"allowedTerrains" : ["spoiledLand"]
@@ -28,32 +28,32 @@
 			},
 			"object" : {
 				"templates" : {
-					"AVLDEAD2" : {
+					"slAVLDEAD2" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD2",
 						"mask" : ["VVVV", "VBBV","VVBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD3" : {
+					"slAVLDEAD3" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD3",
 						"mask" : ["VVVV", "VVBB","VBBV"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD4" : {
+					"slAVLDEAD4" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD4",
 						"mask" : ["VVVV", "VBBV","VVBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD5" : {
+					"slAVLDEAD5" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD5",
 						"mask" : ["VVVV", "VVBB","VBBV"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD6" : {
+					"slAVLDEAD6" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD6",
 						"mask" : ["VVVV","VBBV", "VBBB","VVBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD7" : {
+					"slAVLDEAD7" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD7",
 						"mask" : ["VVVV","VVBB", "VBBB","VBBV"],
 						"allowedTerrains" : ["spoiledLand"]

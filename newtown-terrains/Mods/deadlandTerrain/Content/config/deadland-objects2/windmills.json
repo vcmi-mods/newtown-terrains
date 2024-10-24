@@ -3,11 +3,10 @@
 		"types": {
 			"windmill": {
 				"templates": { 
-					"OBJ5128": {
+					"dlOBJ5128": {
 						"animation": "deadland-objects2/windmill/OBJ5128",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VBV", "BBB", "VAV"],
-
 						"allowedTerrains" : ["deadland"]
 					}
 				}

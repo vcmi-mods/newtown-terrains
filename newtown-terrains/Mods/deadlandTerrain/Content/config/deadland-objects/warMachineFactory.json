@@ -3,7 +3,7 @@
 		"types": {
 			"object": {
 				"templates": {
-					"FALF0225": {
+					"dlFALF0225": {
 						"animation": "deadland-objects/warMachineFactory/FALF0225",
 						"visitableFrom": [
 							"---",

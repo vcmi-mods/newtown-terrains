@@ -3,7 +3,7 @@
 		"types" : {
 			"rallyFlag" : {
 				"templates" : {
-					"AVXRLLY0" : {
+					"slAVXRLLY0" : {
 						"animation" : "spoiled_land-objects/rallyFlag/AVXRLLY0",
 						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["VVV", "VAB"],

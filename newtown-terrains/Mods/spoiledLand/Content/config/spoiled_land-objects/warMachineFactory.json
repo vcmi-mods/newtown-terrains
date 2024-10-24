@@ -3,7 +3,7 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"FALF0225" : {
+					"slFALF0225" : {
 						"animation" : "spoiled_land-objects/warMachineFactory/FALF0225",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VAB"],

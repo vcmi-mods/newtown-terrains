@@ -1,7 +1,7 @@
 {
 	"core:starAxis" : {
 		"types" : {
-			"object" : {
+			"starAxis" : {
 				"templates" : {
 					"AVSaxis" : {
 						"animation" : "spoiled_land-objects/starAxis/AVSaxis",

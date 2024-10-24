@@ -4,7 +4,7 @@
 		"types": {
 			"coverOfDarkness": {
 				"templates": {
-					"FSAF0020": {
+					"dlFSAF0020": {
 						"animation": "deadland-objects/coverOfDarkness/avxcovr0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VAB"],

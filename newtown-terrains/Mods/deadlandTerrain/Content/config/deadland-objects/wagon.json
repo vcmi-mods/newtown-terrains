@@ -1,12 +1,10 @@
 {
 	"core:wagon": {
-
 		"types": {
 			"wagon": {
-				"name": "Wagon",
 				"templates": {
 
-					"FALF0215": {
+					"dlFALF0215": {
 						"animation": "deadland-objects/wagon/FALF0215",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],

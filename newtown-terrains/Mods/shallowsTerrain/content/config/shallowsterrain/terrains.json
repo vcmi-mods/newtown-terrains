@@ -5,7 +5,7 @@
 		"moveCost" : 175,
 		"minimapUnblocked" : [ 86, 196, 248 ],
 		"minimapBlocked"   : [ 60, 125, 174 ],
-		"music" : "shallows/homm4sea",
+		"music" : [ "shallows/homm4sea" ],
 		"tiles" : "shallowsterrain/xgrastlbad.def",
 		"river" : "underwatertrench",
 		"rockTerrain":"rock",

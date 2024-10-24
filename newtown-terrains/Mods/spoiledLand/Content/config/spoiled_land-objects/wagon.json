@@ -3,7 +3,7 @@
 		"types" : {
 			"wagon" : {
 				"templates" : {
-					"FALF0215" : {
+					"slFALF0215" : {
 						"animation" : "spoiled_land-objects/wagon/FALF0215",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VV", "BA"],

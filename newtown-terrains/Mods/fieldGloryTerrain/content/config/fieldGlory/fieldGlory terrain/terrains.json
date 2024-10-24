@@ -5,7 +5,7 @@
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 155, 46, 13 ],
 		"minimapBlocked"   : [ 121, 28, 3 ],
-		"music" : "fieldGlory/FieldGlory Theme",
+		"music" : [ "fieldGlory/FieldGlory Theme" ],
 		"tiles" : "fieldGlory/FOGLTL",
 		"type": ["SURFACE"],
 		"shortIdentifier":"fg",

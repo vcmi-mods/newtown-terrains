@@ -4,7 +4,7 @@
 		"types": {
 			"object": {
 				"templates": {
-					"AVXpost0": {
+					"dlAVXpost0": {
 						"animation": "deadland-objects/tradingPost/AVXpost0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VBA"],
@@ -12,7 +12,7 @@
 							"deadland"
 						]
 					},
-					"AVXpstr0": {
+					"dlAVXpstr0": {
 						"animation": "deadland-objects/tradingPost/AVXpstr0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VBA"],

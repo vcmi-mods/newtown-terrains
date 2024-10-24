@@ -3,7 +3,7 @@
 		"types" : {
 			"mine" : {
 				"templates" : {
-					"AVXamLV" : {
+					"htAVXamLV" : {
 						"animation" : "heather-thicket-objects/abandonedMine/AVXamLV",
 						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["VVVV","VVVV", "VBAB"],

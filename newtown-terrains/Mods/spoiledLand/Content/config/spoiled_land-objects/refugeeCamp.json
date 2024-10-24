@@ -4,7 +4,7 @@
 			"object" : {
 				"name" : "Refugee Camp",
 				"templates" : {
-					"AVGrefg0" : {
+					"slAVGrefg0" : {
 						"animation" : "spoiled_land-objects/refugeeCamp/AVGrefg0",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VV", "BA"],
