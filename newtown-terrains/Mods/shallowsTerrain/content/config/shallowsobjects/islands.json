@@ -1,7 +1,7 @@
 {
 	"core:mountain": {
 		"types": {
-			"object": 
+			"object": {
 				"name": "Island",
 				"sounds":
 				{
