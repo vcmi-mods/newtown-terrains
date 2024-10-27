@@ -6,7 +6,6 @@
 			"laboratory" : 
 			{
 				"name" : "Laboratory",
-				"aiValue" : 3000,
 				"templates" : {
 					"base" : { "animation" : "spoiled_land-banks/Laboratory.def", 
 					"visitableFrom" : [ "---", "-+-", "+++" ], 
@@ -18,9 +17,16 @@
 					"value"		: 3000,
 					"rarity"	: 100
 				},
-				"levels": [
+				"blockedVisitable": true,
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankWide",
+				"rewards": [
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 2, "type": "falv6" },
 							{ "amount": 2, "type": "falv6" },
@@ -28,18 +34,15 @@
 							{ "amount": 2, "type": "falv6" },
 							{ "amount": 2, "type": "falv6" }
 						],
-						"combat_value": 403,
-						"reward" : {
-							"value": 8000,
-							"resources":
-							{
-								"gems" : 8,
-								"gold" : 4000
-							}
+						"resources":
+						{
+							"gems" : 8,
+							"gold" : 4000
 						}
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 3, "type": "falv6" },
 							{ "amount": 3, "type": "falv6" },
@@ -47,18 +50,15 @@
 							{ "amount": 3, "type": "falv6" },
 							{ "amount": 3, "type": "falv6" }
 						],
-						"combat_value": 605,
-						"reward" : {
-							"value": 12000,
-							"resources":
-							{
-								"gems" : 12,
-								"gold" : 6000
-							}
+						"resources":
+						{
+							"gems" : 12,
+							"gold" : 6000
 						}
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
 							{ "amount": 4, "type": "falv6" },
 							{ "amount": 4, "type": "falv6" },
@@ -66,18 +66,15 @@
 							{ "amount": 4, "type": "falv6" },
 							{ "amount": 4, "type": "falv6" }
 						],
-						"combat_value": 806,
-						"reward" : {
-							"value": 16000,
-							"resources":
-							{
-								"gems" : 16,
-								"gold" : 8000
-							}
+						"resources":
+						{
+							"gems" : 16,
+							"gold" : 8000
 						}
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 6, "type": "falv6" },
 							{ "amount": 6, "type": "falv6" },
@@ -85,14 +82,10 @@
 							{ "amount": 6, "type": "falv6" },
 							{ "amount": 6, "type": "falv6" }
 						],
-						"combat_value": 1210,
-						"reward" : {
-							"value": 24000,
-							"resources":
-							{
-								"gems" : 24,
-								"gold" : 12000
-							}
+						"resources":
+						{
+							"gems" : 24,
+							"gold" : 12000
 						}
 					}
 				]

@@ -19,9 +19,16 @@
 					"value"		: 2000,
 					"rarity"	: 100
 				},
-				"levels": [
+				"blockedVisitable": true,
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankNarrow",
+				"rewards": [
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 10, "type": "falv3" },
 							{ "amount": 10, "type": "falv3" },
@@ -29,14 +36,11 @@
 							{ "amount": 10, "type": "falv3" },
 							{ "amount": 10, "type": "falv3" }
 						],
-						"combat_value": 351,
-						"reward" : {
-							"value": 3000,
-							"creatures": [ { "amount": 1, "type": "falv7" } ]
-						}
+						"creatures": [ { "amount": 1, "type": "falv7" } ]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 20, "type": "falv3" },
 							{ "amount": 20, "type": "falv3" },
@@ -44,14 +48,11 @@
 							{ "amount": 20, "type": "falv3" },
 							{ "amount": 20, "type": "falv3" }
 						],
-						"combat_value": 702,
-						"reward" : {
-							"value": 6000,
-							"creatures": [ { "amount": 2, "type": "falv7" } ]
-						}
+						"creatures": [ { "amount": 2, "type": "falv7" } ]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
 							{ "amount": 30, "type": "falv3" },
 							{ "amount": 30, "type": "falv3" },
@@ -59,14 +60,11 @@
 							{ "amount": 30, "type": "falv3" },
 							{ "amount": 30, "type": "falv3" }
 						],
-						"combat_value": 1053,
-						"reward" : {
-							"value": 9000,
-							"creatures": [ { "amount": 3, "type": "falv7" } ]
-						}
+						"creatures": [ { "amount": 3, "type": "falv7" } ]
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 40, "type": "falv3" },
 							{ "amount": 40, "type": "falv3" },
@@ -74,11 +72,7 @@
 							{ "amount": 40, "type": "falv3" },
 							{ "amount": 40, "type": "falv3" }
 						],
-						"combat_value": 1404,
-						"reward" : {
-							"value": 12000,
-							"creatures": [ { "amount": 4, "type": "falv7" } ]
-						}
+						"creatures": [ { "amount": 4, "type": "falv7" } ]
 					}
 				]
 			}

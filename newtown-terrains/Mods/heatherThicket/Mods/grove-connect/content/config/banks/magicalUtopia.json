@@ -14,103 +14,96 @@
 						"allowedTerrains":[ "heatherThicket" ]
 					}
 				},
-				"aiValue" : 11000,
 				"rmg" : {
 					"value"		: 10000,
 					"rarity"	: 100
 				},
-				"levels": [
+				"blockedVisitable": true,
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankWide",
+				"rewards": [
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
-							{ "amount": 8, "type": "grove:quartzdragon" },
-							{ "amount": 5, "type": "grove:amethystdragon" },
-							{ "amount": 2, "type": "grove:saphiredragon" },
-							{ "amount": 1, "type": "grove:saphiredragon" }
+							{ "amount": 8, "type": "quartzdragon" },
+							{ "amount": 5, "type": "amethystdragon" },
+							{ "amount": 2, "type": "saphiredragon" },
+							{ "amount": 1, "type": "saphiredragon" }
 						],
-						"combat_value": 769,
-						"reward" : {
-							"value": 38000,
-							"resources":
-							{
-								"gold" : 20000
-							},
-							"artifacts": [
-								{ "class" : "TREASURE" },
-								{ "class" : "MINOR" },
-								{ "class" : "MAJOR" },
-								{ "class" : "RELIC" }
-							]
-						}
+						"resources":
+						{
+							"gold" : 20000
+						},
+						"artifacts": [
+							{ "class" : "TREASURE" },
+							{ "class" : "MINOR" },
+							{ "class" : "MAJOR" },
+							{ "class" : "RELIC" }
+						]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
-							{ "amount": 8, "type": "grove:quartzdragon" },
-							{ "amount": 6, "type": "grove:amethystdragon" },
-							{ "amount": 3, "type": "grove:saphiredragon" },
-							{ "amount": 2, "type": "grove:saphiredragon" }
+							{ "amount": 8, "type": "quartzdragon" },
+							{ "amount": 6, "type": "amethystdragon" },
+							{ "amount": 3, "type": "saphiredragon" },
+							{ "amount": 2, "type": "saphiredragon" }
 						],
-						"combat_value": 209,
-						"reward" : {
-							"value": 57000,
-							"resources":
-							{
-								"gold" : 30000
-							},
-							"artifacts": [
-								{ "class" : "MINOR" },
-								{ "class" : "MAJOR" },
-								{ "class" : "RELIC" },
-								{ "class" : "RELIC" }
-							]
-						}
+						"resources":
+						{
+							"gold" : 30000
+						},
+						"artifacts": [
+							{ "class" : "MINOR" },
+							{ "class" : "MAJOR" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" }
+						]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
-							{ "amount": 8, "type": "grove:quartzdragon" },
-							{ "amount": 6, "type": "grove:amethystdragon" },
-							{ "amount": 4, "type": "grove:saphiredragon" },
-							{ "amount": 3, "type": "grove:saphiredragon" }
+							{ "amount": 8, "type": "quartzdragon" },
+							{ "amount": 6, "type": "amethystdragon" },
+							{ "amount": 4, "type": "saphiredragon" },
+							{ "amount": 3, "type": "saphiredragon" }
 						],
-						"combat_value": 556,
-						"reward" : {
-							"value": 75000,
-							"resources":
-							{
-								"gold" : 40000
-							},
-							"artifacts": [
-								{ "class" : "MAJOR" },
-								{ "class" : "RELIC" },
-								{ "class" : "RELIC" },
-								{ "class" : "RELIC" }
-							]
-						}
+						"resources":
+						{
+							"gold" : 40000
+						},
+						"artifacts": [
+							{ "class" : "MAJOR" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" }
+						]
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
-							{ "amount": 8, "type": "grove:quartzdragon" },
-							{ "amount": 7, "type": "grove:amethystdragon" },
-							{ "amount": 6, "type": "grove:saphiredragon" },
-							{ "amount": 5, "type": "grove:saphiredragon" }
+							{ "amount": 8, "type": "quartzdragon" },
+							{ "amount": 7, "type": "amethystdragon" },
+							{ "amount": 6, "type": "saphiredragon" },
+							{ "amount": 5, "type": "saphiredragon" }
 						],
-						"combat_value": 343,
-						"reward" : {
-							"value": 90000,
-							"resources":
-							{
-								"gold" : 50000
-							},
-							"artifacts": [
-								{ "class" : "RELIC" },
-								{ "class" : "RELIC" },
-								{ "class" : "RELIC" },
-								{ "class" : "RELIC" }
-							]
-				        }
+						"resources":
+						{
+						"gold" : 50000
+						},
+						"artifacts": [
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" }
+						]
 					}																		
 				]
 			}

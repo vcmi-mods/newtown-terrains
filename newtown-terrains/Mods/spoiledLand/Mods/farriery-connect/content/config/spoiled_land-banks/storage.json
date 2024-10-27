@@ -18,9 +18,16 @@
 					"value"		: 5000,
 					"rarity"	: 100
 				},
-				"levels": [
+				"blockedVisitable": true,
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankNarrow",
+				"rewards": [
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 20, "type": "falv1" },
 							{ "amount": 20, "type": "falv1" },
@@ -28,17 +35,14 @@
 							{ "amount": 20, "type": "falv1" },
 							{ "amount": 20, "type": "falv1" }
 						],
-						"combat_value": 100,
-						"reward" : {
-							"value": 2000,
-							"resources":
-							{
-								"gold" : 1000
-							}
+						"resources":
+						{
+							"gold" : 1000
 						}
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 30, "type": "falv1" },
 							{ "amount": 30, "type": "falv1" },
@@ -46,18 +50,15 @@
 							{ "amount": 30, "type": "falv1" },
 							{ "amount": 30, "type": "falv1" }
 						],
-						"combat_value": 150,
-						"reward" : {
-							"value": 3000,
-							"resources":
-							{
-								"mercury" : 3,
-								"gold" : 1500
-							}
+						"resources":
+						{
+							"mercury" : 3,
+							"gold" : 1500
 						}
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 }
 						"guards": [
 							{ "amount": 40, "type": "falv1" },
 							{ "amount": 40, "type": "falv1" },
@@ -65,18 +66,15 @@
 							{ "amount": 40, "type": "falv1" },
 							{ "amount": 40, "type": "falv1" }
 						],
-						"combat_value": 200,
-						"reward" : {
-							"value": 4000,
-							"resources":
-							{
-								"mercury" : 4,
-								"gold" : 2000
-							}
+						"resources":
+						{
+							"mercury" : 4,
+							"gold" : 2000
 						}
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 }
 						"guards": [
 							{ "amount": 60, "type": "falv1" },
 							{ "amount": 60, "type": "falv1" },
@@ -84,14 +82,10 @@
 							{ "amount": 60, "type": "falv1" },
 							{ "amount": 60, "type": "falv1" }
 						],
-						"combat_value": 300,
-						"reward" : {
-							"value": 6000,
-							"resources":
-							{
-								"mercury" : 6,
-								"gold" : 3000
-							}
+						"resources":
+						{
+							"mercury" : 6,
+							"gold" : 3000
 						}
 					}
 				]
