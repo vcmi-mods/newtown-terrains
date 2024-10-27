@@ -11,7 +11,7 @@
 				},
 				"templates": {
 
-					 "AVLMD3R0": {
+					 "DeadLandAVLMD3R0": {
 						 "animation": "deadland-decorations/rock/AVLMD3R0",
 						 "visitableFrom": ["---", "+++", "+++"],
 						 "mask": ["BB"],

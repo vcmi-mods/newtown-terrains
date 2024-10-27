@@ -5,6 +5,11 @@
     "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
+	"chinese" :
+	{
+		"name": "桃源连接器",
+		"description" : "这个子模组可以让阶地成为桃源的主地形。"
+	},
 	"changelog" :
 	{
 		"1.0"   : [ "Initial release" ]

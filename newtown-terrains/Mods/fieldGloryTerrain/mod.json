@@ -18,6 +18,10 @@
 	{
 		"min" : "1.2.0"
 	},
+	"chinese" : {
+		"name": "荣耀之地",
+		"description": "荣耀之地的地形资源包。"
+	},
 	"czech" : {
 		"name": "Bitevní pole",
 		"description": "Soubory pro terén bitevního pole."

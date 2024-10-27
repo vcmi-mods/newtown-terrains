@@ -208,7 +208,7 @@
 						]
 				},
  
-				"AVLDEAD0": {
+				"DeadLandAVLDEAD0": {
 						"animation": "deadland-decorations/deadTreeNew/AVLDEAD0",
 						"mask": [  "VV","VB"],
 						"visitableFrom": ["---", "+++", "+++"],
@@ -216,7 +216,7 @@
 							"deadland"
 						]
 				},
-				"AVLDEAD1": {
+				"DeadLandAVLDEAD1": {
 						"animation": "deadland-decorations/deadTreeNew/AVLDEAD1",
 						"mask": [  "VV","VB"],
 						"visitableFrom": ["---", "+++", "+++"],

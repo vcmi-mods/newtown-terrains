@@ -14,7 +14,7 @@
 				"templates": {
 
 
- 					"AVLlk1r": {
+ 					"DeadLandAVLlk1r": {
 						"animation": "deadland-decorations/lake/AVLlk1r",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BBBB","BBBB"],

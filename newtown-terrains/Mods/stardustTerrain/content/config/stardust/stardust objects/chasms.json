@@ -5,7 +5,7 @@
 				"name": "Crater",
 				"templates": {
 	
-					"avlc10l0": {
+					"StarDustavlc10l0": {
 						"animation": "star chasms/avlc10l0",
 						"mask": ["BB"],
 						"zIndex": 100,
@@ -14,7 +14,7 @@
 						]
 					},
 
-					"avlc11l0": {
+					"StarDustavlc11l0": {
 						"animation": "star chasms/avlc11l0",
 						"mask": ["BB", "VB"],
 						"zIndex": 100,
@@ -23,7 +23,7 @@
 						]
 					},
 					
-					"avlc12l0": {
+					"StarDustavlc12l0": {
 						"animation": "star chasms/avlc12l0",
 						"mask": ["B"],
 						"zIndex": 100,
@@ -32,7 +32,7 @@
 						]
 					},
 					
-					"avlc13l0": {
+					"StarDustavlc13l0": {
 						"animation": "star chasms/avlc13l0",
 						"mask": ["B"],
 						"zIndex": 100,
@@ -41,7 +41,7 @@
 						]
 					},
 					
-					"avlc14l0": {
+					"StarDustavlc14l0": {
 						"animation": "star chasms/avlc14l0",
 						"mask": ["B"],
 						"zIndex": 100,
@@ -50,7 +50,7 @@
 						]
 					},
 					
-					"avlct3l0": {
+					"StarDustavlct3l0": {
 						"animation": "star chasms/avlct3l0",
 						"mask": ["BB", "BB"],
 						"zIndex": 100,
@@ -59,7 +59,7 @@
 						]
 					},
 					
-					"avlct4l0": {
+					"StarDustavlct4l0": {
 						"animation": "star chasms/avlct4l0",
 						"mask": ["BB", "BV"],
 						"zIndex": 100,
@@ -68,7 +68,7 @@
 						]
 					},
 					
-					"avlct5l0": {
+					"StarDustavlct5l0": {
 						"animation": "star chasms/avlct5l0",
 						"mask": ["B", "B"],
 						"zIndex": 100,
@@ -77,7 +77,7 @@
 						]
 					},
 					
-					"avlct6l0": {
+					"StarDustavlct6l0": {
 						"animation": "star chasms/avlct6l0",
 						"mask": ["B", "B"],
 						"zIndex": 100,
@@ -86,7 +86,7 @@
 						]
 					},
 					
-					"avlct7l0": {
+					"StarDustavlct7l0": {
 						"animation": "star chasms/avlct7l0",
 						"mask": ["B", "B"],
 						"zIndex": 100,
@@ -95,7 +95,7 @@
 						]
 					},
 					
-					"avlct8l0": {
+					"StarDustavlct8l0": {
 						"animation": "star chasms/avlct8l0",
 						"mask": ["B", "B"],
 						"zIndex": 100,
@@ -104,7 +104,7 @@
 						]
 					},
 					
-					"avlct9l0": {
+					"StarDustavlct9l0": {
 						"animation": "star chasms/avlct9l0",
 						"mask": ["BB"],
 						"zIndex": 100,
@@ -113,7 +113,7 @@
 						]
 					},
 					
-					"AVLctrl0": {
+					"StarDustAVLctrl0": {
 						"animation": "star chasms/AVLctrl0",
 						"mask": ["BB"],
 						"zIndex": 100,

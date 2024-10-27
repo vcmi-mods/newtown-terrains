@@ -5,6 +5,11 @@
     "version" : "1.0",
     "author" : "Kurek",
     "contact" : "none",
+	"chinese" :
+	{
+		"name": "深渊连接器",
+		"description" : "这个子模组可以让浅滩成为深渊的主地形。"
+	},
 	"changelog" :
 	{
 		"1.0"   : [ "Initial release" ]

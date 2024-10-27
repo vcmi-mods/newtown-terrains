@@ -5,6 +5,11 @@
     "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
+	"chinese" :
+	{
+		"name": "铸造厂连接器",
+		"description" : "这个子模组可以让废土成为铸造厂的主地形。"
+	},
 	"changelog" :
 	{
 		"1.0"   : [ "Initial release" ]

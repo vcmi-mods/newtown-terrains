@@ -5,6 +5,11 @@
     "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
+	"chinese" :
+	{
+		"name": "死亡谷连接器",
+		"description" : "这个子模组可以让死亡之地成为死亡谷的主地形。"
+	},
 	"changelog" :
 	{
 		"1.0"   : [ "Initial release" ]

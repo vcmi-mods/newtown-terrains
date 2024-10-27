@@ -15,6 +15,10 @@
 		"0.2"  : [ "Indentifiers fixes" ],
 		"0.1"  : [ "Initial release" ]
 	},
+	"chinese" : {
+		"name" : "阶地地形",
+		"description" : "阶地地形"
+	},
 	"czech" : {
 		"name" : "Terasovitý terén",
 		"description" : "Soubory pro terasovitý terén."

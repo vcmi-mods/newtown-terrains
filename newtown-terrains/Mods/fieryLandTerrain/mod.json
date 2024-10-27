@@ -14,6 +14,10 @@
 		"0.0.1"  : [ "Initial release" ],
 		"0.0.2"  : [ "Czech translation by George King" ]
 	},
+	"chinese" : {
+		"name": "烈焰之地",
+		"description": "烈焰之地"
+	},
 	"czech" : {
 		"name": "Spálená země",
 		"description": "Území pokryté plameny a popelem."

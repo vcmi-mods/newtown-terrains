@@ -3,7 +3,7 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"AVLholl0" : {
+					"SpoiledLandAVLholl0" : {
 						"animation" : "spoiled_land-decorations/hole/AVLholl0.def",
 						"mask" : ["V"],
 						"zIndex" : -1,

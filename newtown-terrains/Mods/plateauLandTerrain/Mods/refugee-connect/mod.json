@@ -1,10 +1,15 @@
 {
     "name" : "Refugee connector",
-    "description" : "This submod makes Heather Thicket terrain native to Refugee faction.",
+    "description" : "This submod makes Plateau Land terrain native to Refugee faction.",
 	"modType" : "Compatibility",
     "version" : "1.0",
     "author" : "",
     "contact" : "none",
+	"chinese" :
+	{
+		"name": "边荒连接器",
+		"description" : "这个子模组可以让高原成为边荒的主地形。"
+	},
 	"changelog" :
 	{
 		"1.0"   : [ "Initial release" ]

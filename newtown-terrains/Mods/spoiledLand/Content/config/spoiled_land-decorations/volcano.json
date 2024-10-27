@@ -3,32 +3,32 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"slAVLvol10" : {
+					"SpoiledLandAVLvol10" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol10",
 						"mask" : ["VV", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"slAVLvol20" : {
+					"SpoiledLandAVLvol20" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol20",
 						"mask" : ["VV", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"slAVLvol30" : {
+					"SpoiledLandAVLvol30" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol30",
 						"mask" : ["VVV", "VVV", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"slAVLvol40" : {
+					"SpoiledLandAVLvol40" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol40",
 						"mask" : ["VVV", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"slAVLvol50" : {
+					"SpoiledLandAVLvol50" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol50",
 						"mask" : ["VVVVV","VVVVV","VVVVV","VBBBV", "VBBBV"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
-					"slAVLvol60" : {
+					"SpoiledLandAVLvol60" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol60",
 						"mask" : ["VVVVV", "VVBBB", "BBBBB", "BBBVV"],
 						"allowedTerrains" : ["spoiledLand"]

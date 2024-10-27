@@ -18,6 +18,10 @@
 		"0.0.2"   : [ "Update for VCMI 1.2" ],
 		"0.0.1"   : [ "Initial release" ]
 	},
+	"chinese" : {
+		"name" : "废土地形",
+		"description" : "新的熔岩主题地形。"
+	},
 	"czech" : {
 		"name" : "Zkažená země",
 		"description" : "Nový terén s tématikou lávy."

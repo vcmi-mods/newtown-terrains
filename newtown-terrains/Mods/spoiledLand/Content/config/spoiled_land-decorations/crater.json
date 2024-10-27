@@ -3,7 +3,7 @@
 		"types" : {
 			"object": {
 				"templates" : {
-					"AVLctrl0" : {
+					"SpoiledLandAVLctrl0" : {
 						"animation" : "spoiled_land-decorations/craters/AVLctrl0",
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]

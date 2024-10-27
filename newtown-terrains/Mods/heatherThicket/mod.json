@@ -20,6 +20,10 @@
 		"0.2"     : [ "Update for VCMI 1.2" ],
 		"0.1"     : [ "Initial release" ]
 	},
+	"chinese" : {
+		"name": "石南丛",
+		"description": "新的暗夜主题地形。该模组包含一个子模组，将石南丛地形与丛林连接，使其成为丛林的主地形。"
+	},
 	"czech" : {
 		"name" : "Vřesoviště",
 		"description" : "Nový noční terén. Mod obsahuje submod, který propojuje terén Vřesoviště s Hájem, čímž se stává jeho přirozeným prostředím."
