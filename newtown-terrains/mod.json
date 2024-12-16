@@ -4,7 +4,7 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.7.0",
+	"version" : "1.7.1",
 	"changelog" :
 	{
 		"1.7.1"   : [ "Polish translation added, fixes to Shallows" ],
