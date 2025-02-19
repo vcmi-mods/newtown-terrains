@@ -2,7 +2,7 @@
     "name" : "Spoiled Land Terrain",
     "description" : "New, lava-themed terrain.",
 	"modType" : "Objects",
-    "version" : "0.0.3",
+    "version" : "0.0.4",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
 	"compatibility" :
@@ -14,6 +14,7 @@
 	],
 	"changelog" :
 	{
+		"0.0.3"   : [ "kdmcser fixes" ],
 		"0.0.3"   : [ "Czech translation by George King" ],
 		"0.0.2"   : [ "Update for VCMI 1.2" ],
 		"0.0.1"   : [ "Initial release" ]

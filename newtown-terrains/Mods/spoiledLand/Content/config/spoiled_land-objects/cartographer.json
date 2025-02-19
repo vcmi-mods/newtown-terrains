@@ -1,7 +1,31 @@
 {
 	"core:cartographer" : {
 		"types" : {
-			"cartographerLand" : {
+			"land" : {
+				"name" : "Cartographer",
+				"aiValue" : 5000,
+				"rmg" : {
+					"zoneLimit" : 1,
+					"value" : 5000,
+					"rarity" : 20
+				},
+				"compatibilityIdentifiers" : [ "water" ],
+				"visitMode" : "unlimited",
+				"canRefuse" : true,
+				"rewards" : [
+					{
+						"limiter" : { "resources" : { "gold" : 1000 } },
+						"message" : 25,
+						"resources" : {
+							"gold" : -1000
+						},
+						"revealTiles" : {
+							"water" : 1
+						}
+					}
+				],
+				"onEmptyMessage" : 28,
+				"onVisitedMessage" : 24,
 				"templates" : {
 					"FSUF0001" : {
 						"animation" : "spoiled_land-objects/cartographer/FSUF0001",

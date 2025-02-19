@@ -1,9 +1,28 @@
 {
 	"core:coverOfDarkness" : {
 		"types" : {
-			"coverOfDarkness" : {
+			"object" : {
+				"aiValue" : 100,
+				"rmg" : {
+				},
+				
+				"compatibilityIdentifiers" : [ "object" ],
+				"visitMode" : "unlimited",
+				"rewards" : [
+					{
+						"message" : 31,
+						"revealTiles" : {
+							"radius" : 20,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1,
+							"hide" : true
+						}
+					}
+				],
 				"templates" : {
-					"slFSAF0020" : {
+					"FSAF0020" : {
 						"animation" : "spoiled_land-objects/coverOfDarkness/avxcovr0",
 						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VVV", "VAB"],

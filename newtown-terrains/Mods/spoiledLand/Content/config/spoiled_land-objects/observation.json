@@ -1,7 +1,28 @@
 {
 	"core:redwoodObservatory" : {
 		"types" : {
-			"redwoodObservatory" : {
+			"object" : {
+				"aiValue" : 750,
+				"rmg" : {
+					"zoneLimit"	: 1,
+					"value"		: 750,
+					"rarity"	: 100
+				},
+				
+				"compatibilityIdentifiers" : [ "object" ],
+				"visitMode" : "unlimited",
+				"rewards" : [
+					{
+						"message" : 98,
+						"revealTiles" : {
+							"radius" : 20,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1
+						}
+					}
+				],
 				"templates" : {
 					"slFALF0104" : {
 						"animation" : "spoiled_land-objects/observation/FALF0104",
