@@ -1,0 +1,113 @@
+{
+	"core:creatureBank" : 
+	{
+		"types" : 
+		{
+			"dragonFactory" : 
+			{
+				"name" : "Dragon Factory",
+				"templates" : {
+					"base" : { 
+					"animation" : "spoiledLand/banks/dragonFactory.def", 
+					"visitableFrom" :  [ "---", "-+-", "+++" ],
+						"mask" : [ "VVVVVVV", "VVVVVV", "VVBBBB","BBBBBV","VVBBAV"],							
+						"allowedTerrains":[ "spoiledLand" ]
+					}
+				},
+				"aiValue" : 11000,
+				"rmg" : {
+					"value"		: 10000,
+					"rarity"	: 100
+				},
+				"blockedVisitable": false,
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankWide",
+				"rewards": [
+					{
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
+						"guards": [
+							{ "amount": 8, "type": "falv7" },
+							{ "amount": 5, "type": "falv7" },
+							{ "amount": 2, "type": "falv7up" },
+							{ "amount": 1, "type": "falv7up" }
+						],
+						"resources":
+						{
+							"gold" : 20000
+						},
+						"artifacts": [
+							{ "class" : "TREASURE" },
+							{ "class" : "MINOR" },
+							{ "class" : "MAJOR" },
+							{ "class" : "RELIC" }
+						]
+					},
+					{
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
+						"guards": [
+							{ "amount": 8, "type": "falv7" },
+							{ "amount": 6, "type": "falv7" },
+							{ "amount": 3, "type": "falv7up" },
+							{ "amount": 2, "type": "falv7up" }
+						],
+						"resources":
+						{
+							"gold" : 30000
+						},
+						"artifacts": [
+							{ "class" : "MINOR" },
+							{ "class" : "MAJOR" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" }
+						]
+					},
+					{
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
+						"guards": [
+							{ "amount": 8, "type": "falv7" },
+							{ "amount": 6, "type": "falv7" },
+							{ "amount": 4, "type": "falv7up" },
+							{ "amount": 3, "type": "falv7up" }
+						],
+						"resources":
+						{
+							"gold" : 40000
+						},
+						"artifacts": [
+							{ "class" : "MAJOR" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" }
+						]
+					},
+					{
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
+						"guards": [
+							{ "amount": 8, "type": "falv7" },
+							{ "amount": 7, "type": "falv7" },
+							{ "amount": 6, "type": "falv7up" },
+							{ "amount": 5, "type": "falv7up" }
+						],
+						"resources":
+						{
+							"gold" : 50000
+						},
+						"artifacts": [
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" },
+							{ "class" : "RELIC" }
+						]
+					}																	
+				]
+			}
+		}
+	}
+}

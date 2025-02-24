@@ -1,0 +1,26 @@
+{
+	"core:riverDelta" : {
+		"types" : {
+			"object" : {
+				"templates" : {					
+					"spoLanDelt1" : {
+						"animation" : "spoiledLand/decorations/river/spoLanDelt1.def",
+						"mask" : ["VVV","VVV","VVV"]
+					},
+					"spoLanDelt2" : {
+						"animation" : "spoiledLand/decorations/river/spoLanDelt2.def",
+						"mask" : ["VVV","VVV","VVV"]
+					},
+					"spoLanDelt3" : {
+						"animation" : "spoiledLand/decorations/river/spoLanDelt3.def",
+						"mask" : ["VVV","VVV","VVV"]
+					},
+					"spoLanDelt4" : {
+						"animation" : "spoiledLand/decorations/river/spoLanDelt4.def",
+						"mask" : ["VVV","VVV","VVV"]
+					}
+				}
+			}
+		}
+	}
+}

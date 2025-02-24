@@ -1,0 +1,52 @@
+{
+	"spoBones" : {
+		"name" : "Bones",
+		"handler" : "static",
+		"types" : {
+			"object" : {
+				"templates" : {
+					"spoLanBon00" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon00",
+						"mask" : ["VB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanBon01" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon01",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+					"spoLanBon02" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon02",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},											
+					"spoLanBon03" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon03",
+						"mask" : ["VVVVV","VBBBV","VVVVV"],
+						"allowedTerrains" : ["spoiledLand"]
+					},		
+					"spoLanBon04" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon04",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanBon05" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon05",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanBon06" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon06",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"spoLanBon07" : {
+						"animation" : "spoiledLand/decorations/bones/spoLanBon07",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand" ]
+					}
+				}
+			}
+		}
+	}
+}

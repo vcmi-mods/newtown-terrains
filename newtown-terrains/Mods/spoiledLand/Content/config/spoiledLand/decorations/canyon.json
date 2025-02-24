@@ -1,0 +1,80 @@
+{
+	"core:canyon" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"spoLanCan00" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan00",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanCan01" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan01",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanCan02" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan02",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanCan03" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan03",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanCan04" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan04",
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},																						
+					"spoLanCan05" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan05",
+						"mask" : ["BBBB","BBBB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"spoLanCan06" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan06",
+						"mask" : ["BB","BB","BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"spoLanCan07" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan07",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"spoLanCan08" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan08",
+						"mask" : ["BB","BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					},	
+					"spoLanCan09" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan09",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanCan10" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan10",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"spoLanCan11" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan11",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},					
+					"spoLanCan12" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan12",
+						"mask" : ["B","B"],
+						"allowedTerrains" : ["spoiledLand"]
+					},						
+					"spoLanCan13" : {
+						"animation" : "spoiledLand/decorations/canyons/spoLanCan13",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}					
+				}
+			}
+		}
+	}
+}

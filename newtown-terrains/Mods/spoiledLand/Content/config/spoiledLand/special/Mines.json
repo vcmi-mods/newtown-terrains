@@ -1,0 +1,78 @@
+{
+	"core:mine" : {
+		"types" : {
+			"sawmill" : {
+				"templates" : {
+					"spoLanSaw" : {
+						"animation" : "spoiledLand/special/mines/spoLanSaw",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"alchemistLab" : {
+				"templates" : {
+					"spoLanAlcLab" : {
+						"animation" : "spoiledLand/special/mines/spoLanAlcLab",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VVV", "BAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"orePit" : {
+				"templates" : {
+					"spoLanOrePit" : {
+						"animation" : "spoiledLand/special/mines/spoLanOrePit",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["BBB", "BAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"sulfurDune" : {
+				"templates" : {
+					"spoLanSulDun" : {
+						"animation" : "spoiledLand/special/mines/spoLanSulDun",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "BAB"],
+						"allowedTerrains" : ["spoiledLand"
+						]
+					}
+				}
+			},
+			"crystalCavern" : {
+				"templates" : {
+					"spoLanCryCav" : {
+						"animation" : "spoiledLand/special/mines/spoLanCryCav",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"
+						]
+					}
+				}
+			},
+			"gemPond" : {
+				"templates" : {
+					"spoiledLandGempond01" : {
+						"animation" : "spoiledLand/special/mines/spoLanGemPon",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates" : {
+					"spoLanGolMin" : {
+						"animation" : "spoiledLand/special/mines/spoLanGolMin",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

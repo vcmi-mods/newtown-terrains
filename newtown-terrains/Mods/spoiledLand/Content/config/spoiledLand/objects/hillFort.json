@@ -1,0 +1,16 @@
+{
+	"core:hillFort" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"slZZMM3" : {
+						"animation" : "spoiledLand/objects/hillfort/ZZMM3",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VVV", "VBB", "VBA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

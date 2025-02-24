@@ -1,0 +1,15 @@
+{
+	"core:crater" : {
+		"types" : {
+			"object": {
+				"templates" : {
+					"AVLctrl0" : {
+						"animation" : "spoiledLand/decorations/craters/AVLctrl0",
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"core:garrisonVertical" : {
+		"types" : {
+			"normal" : {
+				"templates" : {
+					"FALF0233" : {
+						"animation" : "spoiledLand/objects/verticalGarrizon/FALF0233",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VB", "VA", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"core:refugeeCamp" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"slAVGrefg0" : {
+						"animation" : "spoiledLand/objects/refugeeCamp/AVGrefg0",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"core:sign" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"slFALF0174" : {
+						"animation" : "spoiledLand/objects/sign/FALF0174",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["A"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"slFALF0175" : {
+						"animation" : "spoiledLand/objects/sign/FALF0175",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					},
+					"slFALF0176" : {
+						"animation" : "spoiledLand/objects/sign/FALF0176",
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
+					}
+				}
+			}
+		}
+	}
+}
