@@ -128,7 +128,6 @@
 	"core:witchHut"	: {
 		"types" : {
 			"iceWitchHut" : {
-				"compatibilityIdentifiers" : [ "object" ],
 				"aiValue" : 1500,
 				"rmg" : {
 					"zoneLimit"	: 3,
