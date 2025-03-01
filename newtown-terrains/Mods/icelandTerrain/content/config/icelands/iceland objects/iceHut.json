@@ -22,7 +22,6 @@
 						"bonuses" : [ { "type" : "MORALE", "val" : 1, "duration" : "ONE_BATTLE", "description" : 95 } ]
 					}
 				],
-				"compatibilityIdentifiers" : [ "object" ],
 				"templates" : {
 					"avtprosp" : { "animation" : "ice object/FSNF0010", 
 						"mask" : [ "VV", "VA" ], 
