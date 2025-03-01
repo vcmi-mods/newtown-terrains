@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.7.8",
+	"version" : "1.7.9",
 	"changelog" :
 	{
+		"1.7.9"   : [ "Fixes for miss-configured compatibilityIdentifiers" ],
 		"1.7.8"   : [ "Fixes for Spoiled Land terrain (MAY BREAK SAVES)" ],
 		"1.7.7"   : [ "Few fixes for Spoiled Land by kdmcser" ],
 		"1.7.6"   : [ "Configuration fixes" ],
