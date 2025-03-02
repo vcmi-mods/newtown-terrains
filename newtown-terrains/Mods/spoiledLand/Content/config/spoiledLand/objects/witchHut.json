@@ -8,8 +8,6 @@
 					"value"		: 1500,
 					"rarity"	: 80
 				},
-				"compatibilityIdentifiers" : [ "object" ],
-				
 				"visitMode" : "limiter",
 				"visitedTooltip" : 354,
 				"description" : "@core.xtrainfo.12",
