@@ -7,8 +7,6 @@
 					"value"		: 1500,
 					"rarity"	: 100
 				},
-				"compatibilityIdentifiers" : [ "object" ],
-
 				"onVisitedMessage" : 101,
 				"description" : "@core.xtrainfo.11",
 				"visitMode" : "hero",
