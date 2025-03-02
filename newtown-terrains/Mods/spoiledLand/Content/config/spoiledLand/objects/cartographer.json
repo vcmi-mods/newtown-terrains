@@ -9,7 +9,6 @@
 					"value" : 5000,
 					"rarity" : 20
 				},
-				"compatibilityIdentifiers" : [ "water" ],
 				"visitMode" : "unlimited",
 				"canRefuse" : true,
 				"rewards" : [
