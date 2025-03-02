@@ -2,7 +2,7 @@
     "name" : "Spoiled Land",
     "description" : "Spoiled Land.",
 	"modType" : "Objects",
-    "version" : "0.0.5",
+    "version" : "0.0.6",
     "author" : "Zeryss, Fred79 for objects",
     "contact" : "https://vk.com/zeryss",
 	"compatibility" :
@@ -14,6 +14,7 @@
 	],
 	"changelog" :
 	{
+		"0.0.6"   : [ "Reverting some changes" ],
 		"0.0.5"   : [ "zeryss fixes" ],
 		"0.0.4"   : [ "kdmcser fixes" ],
 		"0.0.3"   : [ "Czech translation by George King" ],
