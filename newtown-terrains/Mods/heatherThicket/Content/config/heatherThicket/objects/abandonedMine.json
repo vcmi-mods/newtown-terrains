@@ -1,0 +1,16 @@
+{
+	"core:abandonedMine" : {
+		"types" : {
+			"mine" : {
+				"templates" : {
+					"heaThiAba" : {
+						"animation" : "heatherThicket/objects/abandonedMine/heaThiAba",
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains" : ["heatherThicket"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"core:flowers" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"heaThifLo00" : { 
+					"animation" : "heatherThicket/decorations/flowers/heaThifLo00",
+					"mask" : [ "VB" ], 
+                     "allowedTerrains": [ "heatherThicket" ]
+					},	
+					"heaThifLo01" : { 
+					"animation" : "heatherThicket/decorations/flowers/heaThifLo01",
+					"mask" : [ "VB" ], 
+                     "allowedTerrains": [ "heatherThicket" ]
+					},	
+					"heaThifLo02" : { 
+					"animation" : "heatherThicket/decorations/flowers/heaThifLo02",
+					"mask" : [ "BB" ], 
+                   "allowedTerrains": [ "heatherThicket" ]
+					},	
+					"heaThifLo03" : { 
+					"animation" : "heatherThicket/decorations/flowers/heaThifLo03",
+					"mask" : [ "VB" ], 
+                   "allowedTerrains": [ "heatherThicket" ] 
+					},						
+					"heaThifLo04" : { 
+					"animation" : "heatherThicket/decorations/flowers/heaThifLo04",
+					"mask" : [ "VB" ], 
+                     "allowedTerrains": [ "heatherThicket" ]
+					},		
+					"heaThifLo05" : { 
+					"animation" : "heatherThicket/decorations/flowers/heaThifLo05",
+					"mask" : [ "VVVV","VBBB" ], 
+                    "allowedTerrains": [ "heatherThicket" ]
+					}				
+				}
+			}		
+		}
+	}
+}
+	
+	
+	
+
+
+	

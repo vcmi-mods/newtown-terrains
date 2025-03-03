@@ -1,0 +1,18 @@
+{
+	 "heatherThicket" :
+	 {
+		"type": ["SURFACE"],
+		"text" : "Heather Thicket",
+		"shortIdentifier" : "ht",
+	    "moveCost" : 100,
+		"tiles" : "heatherThicket/terrain/heatherThicket",
+		"river" : "waterRiver",
+		"rockTerrain" : "rock",
+		"battleFields" : ["heatherThicket"],
+		 "minimapUnblocked" : [ 105, 45, 97 ],
+		 "minimapBlocked"   : [ 57, 14, 53 ],
+		"horseSound" : "horse07",
+		"horseSoundPenalty" : "horse27",
+		"music" : [ "heather_thicket.ogg" ]
+	 }
+}

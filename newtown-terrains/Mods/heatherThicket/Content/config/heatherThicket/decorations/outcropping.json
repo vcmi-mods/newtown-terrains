@@ -1,0 +1,32 @@
+{
+	"core:outcropping" :{
+		"types" : {		
+			"outcroppingfelLands" : {
+				"templates" : {	
+					"heaThiOut00" : { 
+					"animation" : "heatherThicket/decorations/outcropping/heaThiOut00",  
+					"mask" : [ "BB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},						
+					
+					"heaThiOut01" : { 
+					"animation" : "heatherThicket/decorations/outcropping/heaThiOut01", 					 
+					"mask" : [ "BB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					
+					"heaThiOut02" : { 
+					"animation" : "heatherThicket/decorations/outcropping/heaThiOut02", 					 
+					"mask" : [ "BB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					},
+					"heaThiOut03" : { 
+					"animation" : "heatherThicket/decorations/outcropping/heaThiOut03", 					 
+					"mask" : [ "BB"],
+					"allowedTerrains": [ "heatherThicket" ]
+					}		
+				}
+			}
+		}
+	}
+}

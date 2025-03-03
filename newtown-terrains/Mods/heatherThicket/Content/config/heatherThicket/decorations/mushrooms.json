@@ -1,0 +1,59 @@
+{
+	"core:mushrooms": {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"heaThiMus01" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus01", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus02" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus02", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus03" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus03", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus04" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus04",  
+					"mask" : ["VB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus05" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus05", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus06" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus06", 
+					"mask" : ["VB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus07" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus07", 
+					"mask" : ["VBV"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus08" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus08", 
+					"mask" : ["BB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus09" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus09", 
+					"mask" : ["BB"], 
+					"allowedTerrains":["heatherThicket"] 
+					},
+					
+					"heaThiMus10" : { "animation" : "heatherThicket/decorations/mushrooms/heaThiMus10", 
+					"mask" : ["BBB"], 
+					"allowedTerrains":["heatherThicket"] 
+					}
+				}
+			}
+		}
+	}
+}
