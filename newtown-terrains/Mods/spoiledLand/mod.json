@@ -2,18 +2,19 @@
     "name" : "Spoiled Land",
     "description" : "Spoiled Land.",
 	"modType" : "Objects",
-    "version" : "0.0.6",
+    "version" : "0.0.7",
     "author" : "Zeryss, Fred79 for objects",
     "contact" : "https://vk.com/zeryss",
 	"compatibility" :
 	{
-		"min" : "1.6.0"
+		"min" : "1.7.1"
 	},
 	"conflicts" :
 	[
 	],
 	"changelog" :
 	{
+		"0.0.7"  : [ "Adjust for RMG multilayers feature" ],
 		"0.0.6"   : [ "Reverting some changes" ],
 		"0.0.5"   : [ "zeryss fixes" ],
 		"0.0.4"   : [ "kdmcser fixes" ],

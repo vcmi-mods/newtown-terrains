@@ -1,18 +1,19 @@
 {
     "name": "Plateau Terrain",
     "description": "Plateau Terrain",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Zeryss,",
     "contact": "none",
     "modType": "Objects",
 	"compatibility" :
 	{
-		"min" : "1.2.0"
+		"min" : "1.7.1"
 	},
 	"changelog" :
 	{
 		"0.0.1"  : [ "Initial release" ],
-		"0.0.2"  : [ "Czech translation by George King" ]
+		"0.0.2"  : [ "Czech translation by George King" ],
+		"0.0.3"  : [ "Adjust for RMG multilayers feature" ],
 	},
 	"chinese" : {
 		"name" : "高原地形",

@@ -1,7 +1,8 @@
 {
 	 "spoiledLand" :
 	 {
-		"type": [ "SURFACE" ],
+		"type" : [],
+		"allowedLayers": ["surface", "unknown"],
 		"text" : "Spoiled Land",
 		"shortIdentifier" : "jf",
 		"moveCost" : 90,

@@ -10,7 +10,8 @@
 		"river" : "starRiver",
 		"rockTerrain":"rock",
 		"shortIdentifier" : "sd",
-		"type" : ["SUB", "SURFACE"],
+		"type" : [],
+		"allowedLayers": ["surface", "underground", "unknown"],
 		"battleFields" : ["stardust"],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27"

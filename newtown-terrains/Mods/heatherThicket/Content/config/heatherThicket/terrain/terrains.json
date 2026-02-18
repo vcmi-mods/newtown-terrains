@@ -1,7 +1,8 @@
 {
 	 "heatherThicket" :
 	 {
-		"type": ["SURFACE"],
+		"type" : [],
+		"allowedLayers": ["surface", "unknown"],
 		"text" : "Heather Thicket",
 		"shortIdentifier" : "ht",
 	    "moveCost" : 100,

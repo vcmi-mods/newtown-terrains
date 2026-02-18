@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.8.1",
+	"version" : "1.8.2",
 	"changelog" :
 	{
+		"1.8.2"   : [ "Adjust for RMG multilayers feature" ],
 		"1.8.1"   : [ "Quick fix for Spoiled Land battlefield obstacles" ],
 		"1.8.0"   : [ "Update for Heather Thicked terrain (MAY BREAK SAVES)" ],
 		"1.7.9"   : [ "Reverting some changes (MAY BREAK SAVES)" ],
@@ -76,6 +77,6 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.0"
+		"min" : "1.7.1"
 	}
 }

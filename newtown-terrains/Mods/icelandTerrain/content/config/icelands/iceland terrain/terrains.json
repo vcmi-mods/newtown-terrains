@@ -7,7 +7,8 @@
 		"minimapBlocked"   : [ 151, 220, 222 ],
 		"music" : [ "icelands/Frostborne Elegance", "icelands/IceCave Theme" ],
 		"tiles" : "icelands/ICECAVETL",
-		"type": ["SUB", "SURFACE"], //default values
+		"type" : [],
+		"allowedLayers": ["surface", "underground", "unknown"],
 		"shortIdentifier":"ic",
 		"river" : "iceRiver",
 		"rockTerrain":"rock",

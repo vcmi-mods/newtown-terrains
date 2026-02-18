@@ -1,16 +1,17 @@
 {
     "name": "Terrace Terrain",
     "description": "Terrace Terrain",
-    "version": "0.3",
+    "version": "0.4",
     "author": "Zeryss,",
     "contact": "none",
     "modType": "Objects",
 	"compatibility" :
 	{
-		"min" : "1.4.0"
+		"min" : "1.7.1"
 	},
 	"changelog" :
 	{
+		"0.4"  : [ "Adjust for RMG multilayers feature" ],
 		"0.3"  : [ "Czech translation by George King" ],
 		"0.2"  : [ "Indentifiers fixes" ],
 		"0.1"  : [ "Initial release" ]
