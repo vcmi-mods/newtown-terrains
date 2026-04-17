@@ -15,6 +15,7 @@
 		"0.0.2"  : [ "Czech translation by George King" ],
 		"0.0.3"  : [ "Adjust for RMG multilayers feature" ],
 	},
+	"softDepends" : [ "hota.highlandsterrain" ],
 	"chinese" : {
 		"name" : "高原地形",
 		"description" : "高原地形"
