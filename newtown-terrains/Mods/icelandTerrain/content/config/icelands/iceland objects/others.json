@@ -1,7 +1,7 @@
 {
 	"core:obelisk": {
 		"types": {
-			"obelisk": {
+			"object": {
 				"templates": {
 					"icelandsObelisk": {
 						"animation": "ice object/sf012",
@@ -15,7 +15,7 @@
 	},
 	"core:subterraneanGate" : {
 		"types" : {
-			"subterraneanGate" : {
+			"object" : {
 				"templates" : {
 					"iceCaveGate" : {
 						"animation" : "ice object/FSNF0001",
@@ -83,13 +83,27 @@
 			}
 		}
 	},
+	"core:university" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"iceUniversity" : {
+						"animation" : "ice object/iceuniv1",
+						"mask" : [ "VVVVV", "VBBBV", "VBBBB", "VBBAB" ],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains": [ "icelands","snow" ]
+					}
+				}
+			}
+		}
+	},
 	"core:treeOfKnowledge"	: {
 		"types" : {
 			"treeOfKnowledge" : {
 				"templates" : {
 					"IceTreeKnowledge" : {
 						"animation" : "ice object/IceTreeKnowledge", 
-						"mask" : [ "VVV","VVV","VAV" ],
+						"mask" : [ "VBV","VBV","VAV" ],
 						"visitableFrom" : [ "---", "+++", "+++" ],
 						"allowedTerrains": [ "icelands" ]
 					}
@@ -105,7 +119,7 @@
 						"animation" : "ice object/IceTomb",
 						"mask" : [ "VVV","VAB" ], 
 						"visitableFrom" : [ "---", "++-", "+++" ],
-						"allowedTerrains": [ "icelands"	]
+						"allowedTerrains": [ "icelands","snow" ]
 						}
 					}	
 				}
@@ -127,55 +141,7 @@
 		},	
 	"core:witchHut"	: {
 		"types" : {
-			"iceWitchHut" : {
-				"compatibilityIdentifiers" : [ "object" ],
-				"aiValue" : 1500,
-				"rmg" : {
-					"zoneLimit"	: 3,
-					"value"		: 1500,
-					"rarity"	: 80
-				},				
-				"visitMode" : "limiter",
-				"visitedTooltip" : 354,
-				"description" : "@core.xtrainfo.12",
-				"showScoutedPreview" : true,
-
-				"variables" : {
-					"secondarySkill" : {
-						"gainedSkill" : { // Note: this variable name is used by engine for H3M loading and by AI
-							"noneOf" : [
-								"leadership",
-								"necromancy"
-							]
-						}
-					}
-				},
-				"visitLimiter" : {
-					"secondary" : {
-						"@gainedSkill" : 1
-					}
-				},
-				"rewards" : [
-					{
-						"limiter" : {
-							"canLearnSkills" : true,
-							"noneOf" : [
-								{
-									"secondary" : {
-										"@gainedSkill" : 1
-									}
-								}
-							]
-						},
-						"description" : 355,
-						"secondary" : {
-							"@gainedSkill" : 1
-						},
-						"message" : 171 // Witch teaches you skill
-					}
-				],
-				"onVisitedMessage" : 172, // You already known this skill
-				"onEmptyMessage" : 173, // You know too much (no free slots)
+			"witchHut" : {
 				"templates" : {
 					"iceWitchhut" : {
 						"animation" : "ice object/IceWitchhut",
@@ -186,5 +152,212 @@
 				}
 			}
 		}
+	},
+	"core:dragonUtopia" : 
+	{
+		"types" : {
+			"dragonUtopia" : {
+				"templates" : {
+					"iceDragonUtopia" : {
+						"animation" : "ice object/iceObject01", 
+						"visitableFrom" :  [ "---", "-+-", "+++" ], 
+						"mask" : [ "VVVVVVV", "VVVVVV", "VVBBBB","BBBBBV","VVBBAV"],
+						"allowedTerrains":["icelands"] 							
+					}
+				}
+			}
+		}
+	},
+	"core:altarOfSacrifice" :
+	{
+		"types" : {	
+			"object" : {
+				"templates" : {
+					"iceAltar" : {
+						"animation" : "ice object/iceObject02",
+						"mask" : [ "VVV","VBA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:schoolOfWar" :
+	{
+		"types" : {	
+			"schoolOfWar" : {
+				"templates" : {
+					"iceSchoolOfWar" : {
+						"animation" : "ice object/iceObject03",
+						"mask" : [ "VVVV","VBBV","BBBB","VBAV" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:mercenaryCamp" :
+	{
+		"types" : {	
+			"mercenaryCamp" : {
+				"templates" : {
+					"iceMercenaryCamp" : {
+						"animation" : "ice object/iceObject04",
+						"mask" : [ "VVV","BAB" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:marlettoTower" :
+	{
+		"types" : {	
+			"marlettoTower" : {
+				"templates" : {
+					"iceMarlettoTower" : {
+						"animation" : "ice object/iceObject05",
+						"mask" : [ "VVV","VVV","VBA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:starAxis" :
+	{
+		"types" : {	
+			"starAxis" : {
+				"templates" : {
+					"iceStarAxis" : {
+						"animation" : "ice object/iceObject06",
+						"mask" : [ "VV","VA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:redwoodObservatory" :
+	{
+		"types" : {	
+			"redwoodObservatory" : {
+				"templates" : {
+					"iceRedwoodObservatory" : {
+						"animation" : "ice object/iceObject07",
+						"mask" : [ "VV","VV","VA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:schoolOfMagic" :
+	{
+		"types" : {	
+			"schoolOfMagic" : {
+				"templates" : {
+					"iceSchoolOfMagic" : {
+						"animation" : "ice object/iceObject08",
+						"mask" : [ "VV","VV","VA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:gardenOfRevelation" :
+	{
+		"types" : {	
+			"gardenOfRevelation" : {
+				"templates" : {
+					"iceGardenOfRevelation" : {
+						"animation" : "ice object/iceObject09",
+						"mask" : [ "VV","VA" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"core:arena" :
+	{
+		"types" : {	
+			"arena" : {
+				"templates" : {
+					"iceArena" : {
+						"animation" : "ice object/iceObject11",
+						"mask" : [ "VVV","BBB","BAB" ], 
+						"visitableFrom" : [ "---", "+++", "+++" ],
+						"allowedTerrains": [ "icelands"	]
+						}
+					}	
+				}
+			}
+	},
+	"hota.mapobjects:colosseumOfTheMagi" :
+	{
+		"types" : {	
+			"colosseumOfTheMagi" : {
+				"templates" : 
+				{
+					"iceMagi" : 
+					{
+						"animation" : "ice object/iceObject12", 
+						"visitableFrom" : [ "---", "---", "-+-" ], 
+						"mask" : ["VVVV", "VBBB", "VBAB"],
+						"allowedTerrains": [ "snow","icelands"]
+					}					
+				}	
+				}
+			}
+	},
+	"core:seerHut" : {
+		"types" : {
+			"seersHutIce" : {
+				"templates" : {
+					"seerHutIce" : {
+						"animation" : "ice object/seerHutIce",
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VAV"
+						],
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
+					}
+				}
+			}
+		}
+	},
+	"hota.mapobjects:miniHillFort" : {
+		"types" : {
+			"miniHillFort" : {
+				"templates" : {
+					"miniftic" : {
+						"animation" : "ice object/hillFortIce",
+						"mask" : [ "VVV", "VVV", "VBA" ],
+						"visitableFrom" : [ "---", "-++", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
 	}
+	
+	
 }

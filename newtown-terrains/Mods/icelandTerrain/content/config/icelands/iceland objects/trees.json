@@ -7,32 +7,42 @@
 
 					"icetree00" : { "animation" : "ice trees/ICETREE01", 
 					"mask" : ["VV","VB"], 
-					"allowedTerrains": ["icelands"]	
+					"allowedTerrains": ["icelands"]						
 					},
 					
 					"icetree01" : { "animation" : "ice trees/ICETREE02", 
 					"mask" : ["VV","VB"], 
-					"allowedTerrains": ["icelands"]	
+					"allowedTerrains": ["icelands"]						
 					},
 					
 					"icetree02" : { "animation" : "ice trees/ICETREE03", 
 					"mask" : ["VV","VB"], 
-					"allowedTerrains": ["icelands"]	
+					"allowedTerrains": ["icelands"]						
 					},
 					
 					"icetree04" : { "animation" : "ice trees/ICETREE04", 
 					"mask" : ["VV","VB"], 
-					"allowedTerrains": ["icelands"]	
+					"allowedTerrains": ["icelands"]						
+					},
+					
+					"icetree05" : { "animation" : "ice trees/ICETREE11", 
+					"mask" : ["VV","VB"], 
+					"allowedTerrains": ["icelands"]						
+					},
+					
+					"icetree06" : { "animation" : "ice trees/ICETREE12", 
+					"mask" : ["VV","VB"], 
+					"allowedTerrains": ["icelands"]						
 					},
 
-					"icetree07" : { "animation" : "ice trees/ICETREE07", 
+					"icetree07" : { "animation" : "ice trees/ICETREE05", 
 					"mask" : ["VVVV","VVBB", "VBBV"], 
-					"allowedTerrains": ["icelands"]	
+					"allowedTerrains": ["icelands"]						
 					},
 
-					"icetree08" : { "animation" : "ice trees/ICETREE08", 
+					"icetree08" : { "animation" : "ice trees/ICETREE06", 
 					"mask" : ["VVVV","VBBV", "VVBB"], 
-					"allowedTerrains": ["icelands"]	
+					"allowedTerrains": ["icelands"]						
 					},
 
 					"icetree09" : { "animation" : "ice trees/ICETREE09", 
@@ -42,20 +52,14 @@
 
 					"icetree10" : { "animation" : "ice trees/ICETREE10", 
 					"mask" : ["VVVVV","VVBBV", "VVBBB", "VVVBB"], 
-					"allowedTerrains": ["icelands"]
-					},
-
-					"icetree11" : { "animation" : "ice trees/ICETREE11", 
-					"mask" : ["VV","VB"], 
-					"allowedTerrains": ["icelands"]
-					},
-
-					"icetree12" : { "animation" : "ice trees/ICETREE12", 
-					"mask" : ["VV","VB"], 
-					"allowedTerrains": ["icelands"]
+					"allowedTerrains": ["icelands"]						
 					}
 				}
 			}
 		}
 	}	
-}
+}	
+	
+
+
+	

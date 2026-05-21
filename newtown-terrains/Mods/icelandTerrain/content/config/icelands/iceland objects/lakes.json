@@ -2,7 +2,7 @@
 	"core:lake" : {
 		"types" : {
 			"icelandsLakes" : {
-				"name" : "Lake",
+				"name" : "湖",
 				"templates" : {
 			
 					"icelagoon01" : { "animation" : "ice lakes/ICELAKE01",  
@@ -42,19 +42,13 @@
 					},
 					
 					"icelagoon07" : { "animation" : "ice lakes/ICELAKE07",  
-					"mask": ["BBBBB","BBBBB"],
+					"mask": ["VVVVV","BBBBB","BBBBB"],
 					"zIndex": 100,
                     "allowedTerrains": [ "icelands" ]
 					},
 					
-					"icelagoon10" : { "animation" : "ice lakes/ICELAKE10",  
-					"mask": ["VVV","BBB","VVV"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
-					},
-					
-					"icelagoon11" : { "animation" : "ice lakes/ICELAKE11",  
-					"mask": ["BBB","BBB"],
+					"icelagoon08" : { "animation" : "ice lakes/ICELAKE06",  
+					"mask": ["VVV","BBB"],
 					"zIndex": 100,
                     "allowedTerrains": [ "icelands" ]
 					}

@@ -1,12 +1,14 @@
 {
 	"name" : "Ice Cave terrain",
-	"description" : "Assets for Ice Cave terrain.",
+	"description" : "Assets for Ice Cave terrain, need to install hota first",
 	
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.3.2",
+	"version" : "1.4.0",
+	"depends":	["hota.mapObjects"],
 	"changelog" :
 	{
+		"1.4.0" : ["New update for map maker and Tartarus mod"],
 		"1.3.2"  : [ "Adjust for RMG multilayers feature" ],
 		"1.3.1"   : [ "Fix for Witch Hut" ],
 		"1.3.0"   : [ "Ice Cave added" ],
@@ -22,11 +24,19 @@
 	"modType" : "Objects",
 	"chinese" : {
 		"name" : "冰原地形",
-		"description" : "冰原地形的资源包。"
+		"description" : "冰原地形的资源包，需要先安装HotA。"
 	},
 	"czech" : {
 		"name" : "Ledová země",
-		"description" : "Obsahuje podklady pro ledovou zemi."
+		"description" : "Obsahuje podklady pro ledovou zemi, Nejdříve je potřeba nainstalovat HotA."
+	},
+	"german" : {
+		"name" : "Eisland",
+		"description" : "Enthält Material für das Eisland. Zuerst müssen Sie HotA installieren."
+	},
+	"russian" : {
+		"name" : "Исландский ландшафт",
+		"description" : "Ресурсы для ландшафта Исландии, сначала необходимо установить HotA."
 	},
     "objects" :
     [ 
@@ -41,6 +51,8 @@
 	"config/icelands/iceland objects/mountains.json",
 	"config/icelands/iceland objects/mines.json",
 	"config/icelands/iceland objects/rocks.json",
+	"config/icelands/iceland objects/creatureBanks.json",
+	"config/icelands/iceland objects/warehouse.json",
 	"config/icelands/iceland objects/others.json"
     ],
 	"battlefields" :
