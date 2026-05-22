@@ -7,7 +7,7 @@
 	"version" : "1.8.3",
 	"changelog" :
 	{
-		"1.8.3"   " [ "Fixed Iceland mountain mask", "Added Tartarus connector for Iceland" ],
+		"1.8.3"   : [ "Fixed Iceland mountain mask", "Added Tartarus connector for Iceland" ],
 		"1.8.2"   : [ "Adjust for RMG multilayers feature" ],
 		"1.8.1"   : [ "Quick fix for Spoiled Land battlefield obstacles" ],
 		"1.8.0"   : [ "Update for Heather Thicked terrain (MAY BREAK SAVES)" ],
