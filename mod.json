@@ -1,5 +1,5 @@
 {
-	"name" : "New terrains pack",
+	"name" : "New terrains",
 	"description" : "Assets for new terrains.",
 	"modType" : "Objects",
 	"author" : "Ben Yan, zeryss, Kurek",
@@ -137,28 +137,28 @@
 		"name" : "新地形",
 		"description" : "提供新种族特殊地形。",
 		"translations" : [
-			"translation/newtown-terrains/chinese.json"
+			"translation/chinese.json"
 		]
 	},
 	"polish" : {
 		"name" : "Paczka nowych terenów",
 		"description" : "Nowe tereny",
 		"translations" : [
-			"translation/newtown-terrains/polish.json"
+			"translation/polish.json"
 		]
 	},
 	"russian" : {
 		"name" : "Новый пакет ландшафтов",
 		"description" : "Ресурсы для ландшафта звездной пыли, полей славы и ледяной пещеры.",
 		"translations" : [
-			"translation/newtown-terrains/russian.json"
+			"translation/russian.json"
 		]
 	},
 	"czech" : {
 		"name" : "Nové terény",
 		"description" : "Obsahuje balíček nových terénů.",
 		"translations" : [
-			"translation/newtown-terrains/czech.json"
+			"translation/czech.json"
 		]
 	},
 	"compatibility" : {
