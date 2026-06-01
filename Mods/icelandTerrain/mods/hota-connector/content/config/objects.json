@@ -93,5 +93,38 @@
 				}
 			}
 		}	
+	},
+
+	"hota.mapobjects:colosseumOfTheMagi" :
+	{
+		"types" : {	
+			"colosseumOfTheMagi" : {
+				"templates" : 
+				{
+					"iceMagi" : 
+					{
+						"animation" : "ice object/iceObject12", 
+						"visitableFrom" : [ "---", "---", "-+-" ], 
+						"mask" : ["VVVV", "VBBB", "VBAB"],
+						"allowedTerrains": [ "snow","icelands"]
+					}					
+				}	
+			}
+		}
+	},
+	
+	"hota.mapobjects:miniHillFort" : {
+		"types" : {
+			"miniHillFort" : {
+				"templates" : {
+					"miniftic" : {
+						"animation" : "ice object/hillFortIce",
+						"mask" : [ "VVV", "VVV", "VBA" ],
+						"visitableFrom" : [ "---", "-++", "+++" ],
+						"allowedTerrains": [ "icelands" ]
+					}
+				}
+			}
+		}
 	}
 }

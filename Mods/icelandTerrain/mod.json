@@ -1,11 +1,11 @@
 {
-	"name" : "Ice Cave terrain",
-	"description" : "Assets for Ice Cave terrain, need to install hota first",
+	"name" : "Ice Sheet terrain",
+	"description" : "Assets for Ice Sheet terrain",
 	
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
 	"version" : "1.4.0",
-	"depends":	["hota.mapObjects"],
+
 	"changelog" :
 	{
 		"1.4.0" : ["New update for map maker and Tartarus mod"],
@@ -28,15 +28,15 @@
 	},
 	"czech" : {
 		"name" : "Ledová země",
-		"description" : "Obsahuje podklady pro ledovou zemi, Nejdříve je potřeba nainstalovat HotA."
+		"description" : "Obsahuje podklady pro ledovou zemi."
 	},
 	"german" : {
 		"name" : "Eisland",
-		"description" : "Enthält Material für das Eisland. Zuerst müssen Sie HotA installieren."
+		"description" : "Enthält Material für das Eisland."
 	},
 	"russian" : {
 		"name" : "Исландский ландшафт",
-		"description" : "Ресурсы для ландшафта Исландии, сначала необходимо установить HotA."
+		"description" : "Ресурсы для ландшафта Исландии."
 	},
     "objects" :
     [ 
@@ -52,7 +52,6 @@
 	"config/icelands/iceland objects/mines.json",
 	"config/icelands/iceland objects/rocks.json",
 	"config/icelands/iceland objects/creatureBanks.json",
-	"config/icelands/iceland objects/warehouse.json",
 	"config/icelands/iceland objects/others.json"
     ],
 	"battlefields" :
