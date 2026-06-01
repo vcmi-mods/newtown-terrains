@@ -1,14 +1,24 @@
 {
-	"core:redwoodObservatory": {
-
-		"types": {
-			"redwoodObservatory": {
-				"templates": {
-					"meadLandAVXPLLR0": {
+	"core:redwoodObservatory" : {
+		"types" : {
+			"redwoodObservatory" : {
+				"templates" : {
+					"meadLandAVXPLLR0" : {
 						"animation" : "meadLand/objects/observation/AVXPLLR0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BB", "BB", "AB"],
-						"allowedTerrains": [ "meadLand" ]
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BB",
+							"BB",
+							"AB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			}

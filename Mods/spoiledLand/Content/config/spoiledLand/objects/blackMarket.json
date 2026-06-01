@@ -5,10 +5,19 @@
 				"templates" : {
 					"AVXMKTB3" : {
 						"animation" : "spoiledLand/objects/blackMarket/AVXMKTB3",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "BBA"],
-						"allowedTerrains" : ["spoiledLand"]
-					}						
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BBA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					}
 				}
 			}
 		}

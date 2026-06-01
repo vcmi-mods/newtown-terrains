@@ -1,13 +1,21 @@
 {
-	"core:sign": {
-		"types": {
-			"object": {
-				"templates": {
-					"StarSG0174": {
-						"animation": "star sign/FALF0174",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["A"],
-						"allowedTerrains": ["stardust"]
+	"core:sign" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"StarSG0174" : {
+						"animation" : "star sign/FALF0174",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"A"
+						],
+						"allowedTerrains" : [
+							"stardust"
+						]
 					}
 				}
 			}

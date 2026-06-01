@@ -5,9 +5,19 @@
 				"templates" : {
 					"FGRF0003" : {
 						"animation" : "spoiledLand/objects/waterWheel/FGRF0003",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "BBB", "BBA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BBB",
+							"BBA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

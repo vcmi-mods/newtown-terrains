@@ -5,9 +5,19 @@
 				"templates" : {
 					"spoLanSaw" : {
 						"animation" : "spoiledLand/special/mines/spoLanSaw",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVVV",
+							"VBBBB",
+							"VBBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			},
@@ -15,9 +25,19 @@
 				"templates" : {
 					"spoLanAlcLab" : {
 						"animation" : "spoiledLand/special/mines/spoLanAlcLab",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VVV", "BAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			},
@@ -25,9 +45,18 @@
 				"templates" : {
 					"spoLanOrePit" : {
 						"animation" : "spoiledLand/special/mines/spoLanOrePit",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["BBB", "BAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			},
@@ -35,9 +64,17 @@
 				"templates" : {
 					"spoLanSulDun" : {
 						"animation" : "spoiledLand/special/mines/spoLanSulDun",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "BAB"],
-						"allowedTerrains" : ["spoiledLand"
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
 						]
 					}
 				}
@@ -46,9 +83,18 @@
 				"templates" : {
 					"spoLanCryCav" : {
 						"animation" : "spoiledLand/special/mines/spoLanCryCav",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
 						]
 					}
 				}
@@ -57,9 +103,19 @@
 				"templates" : {
 					"spoiledLandGempond01" : {
 						"animation" : "spoiledLand/special/mines/spoLanGemPon",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			},
@@ -67,9 +123,19 @@
 				"templates" : {
 					"spoLanGolMin" : {
 						"animation" : "spoiledLand/special/mines/spoLanGolMin",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

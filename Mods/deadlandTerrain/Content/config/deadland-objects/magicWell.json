@@ -1,13 +1,20 @@
 {
-	"core:magicWell": {
-		"types": {
-			"magicWell": {
-				"templates": {
-					"AVXwelg0": {
-						"animation": "deadland-objects/magicWell/AVXwelg0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-						"allowedTerrains": [
+	"core:magicWell" : {
+		"types" : {
+			"magicWell" : {
+				"templates" : {
+					"AVXwelg0" : {
+						"animation" : "deadland-objects/magicWell/AVXwelg0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

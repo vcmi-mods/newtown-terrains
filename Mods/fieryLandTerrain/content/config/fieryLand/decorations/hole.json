@@ -5,8 +5,12 @@
 				"templates" : {
 					"fieryLandHole" : {
 						"animation" : "fieryLand/decorations/hole/fieryLandHole",
-						"mask" : [ "V" ],
-						"allowedTerrains": [ "fieryLand" ]
+						"mask" : [
+							"V"
+						],
+						"allowedTerrains" : [
+							"fieryLand"
+						]
 					}
 				}
 			}

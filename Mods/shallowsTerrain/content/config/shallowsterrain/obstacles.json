@@ -1,75 +1,139 @@
 {
-	"shallowsAbsoluteVertical":
-	{
-		"allowedTerrains" : ["shallows"],   //to change later
+	"shallowsAbsoluteVertical" : {
+		"allowedTerrains" : [
+			"shallows"
+		], //to change later
 		"specialBattlefields" : [],
 		"width" : 241,
-		"height" :118,
-		"blockedTiles" :  [43,59,60,61,75,76,77, 92, 93, 109, 126, 127, 141, 142, 143],
+		"height" : 118,
+		"blockedTiles" : [
+			43,
+			59,
+			60,
+			61,
+			75,
+			76,
+			77,
+			92,
+			93,
+			109,
+			126,
+			127,
+			141,
+			142,
+			143
+		],
 		"animation" : "shallowsterrain/shallowsAbsV",
 		"absolute" : true
 	},
-	"shallowsAbsoluteHorizontal":
-	{
-		"allowedTerrains" : ["shallows"],   //to change later
+	"shallowsAbsoluteHorizontal" : {
+		"allowedTerrains" : [
+			"shallows"
+		], //to change later
 		"specialBattlefields" : [],
 		"width" : 103,
-		"height" :212,
-		"blockedTiles" :  [60,61,62,63,64,73,74,75,76,88,89,90],
+		"height" : 212,
+		"blockedTiles" : [
+			60,
+			61,
+			62,
+			63,
+			64,
+			73,
+			74,
+			75,
+			76,
+			88,
+			89,
+			90
+		],
 		"animation" : "shallowsterrain/shallowsAbsH",
 		"absolute" : true
 	},
 
-
-	"shallowsCraters":
-	{
-		"allowedTerrains" : ["shallows"],   //to change later
+	"shallowsCraters" : {
+		"allowedTerrains" : [
+			"shallows"
+		], //to change later
 		"specialBattlefields" : [],
 		"width" : 5,
-		"height" :3,
-		"blockedTiles" :  [0, 1, 2, -15, -14, -16],
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			-15,
+			-14,
+			-16
+		],
 		"animation" : "shallowsterrain/shallowsOb3.def",
 		"absolute" : false
 	},
-	"shallowsothers":
-	{
-		"allowedTerrains" : ["shallows"],   //to change later
+	"shallowsothers" : {
+		"allowedTerrains" : [
+			"shallows"
+		], //to change later
 		"specialBattlefields" : [],
-		"width" :5,
-		"height" :3,
-		"blockedTiles" :  [0, 1, 2, -15, -16, -17],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			-15,
+			-16,
+			-17
+		],
 		"animation" : "shallowsterrain/shallowsOb4.def",
 		"absolute" : false
 	},
-	"shallowstrees":
-	{
-		"allowedTerrains" : ["shallows"],
+	"shallowstrees" : {
+		"allowedTerrains" : [
+			"shallows"
+		],
 		"specialBattlefields" : [],
 		"width" : 3,
-		"height" :3,
-		"blockedTiles" :  [1, -15, -16],
+		"height" : 3,
+		"blockedTiles" : [
+			1,
+			-15,
+			-16
+		],
 		"animation" : "shallowsterrain/shallowsOb5.def",
 		"absolute" : false
 	},
-	
-	"shallowsBarrels":
-	{
-		"allowedTerrains" : ["shallows"],
+
+	"shallowsBarrels" : {
+		"allowedTerrains" : [
+			"shallows"
+		],
 		"specialBattlefields" : [],
 		"width" : 3,
-		"height" :3,
-		"blockedTiles" :  [0, 1, -15, -16],
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			-15,
+			-16
+		],
 		"animation" : "shallowsterrain/shallowsOb6.def",
 		"absolute" : false
 	},
-	
-	"shallowsRocks":
-	{
-		"allowedTerrains" : ["shallows"],
+
+	"shallowsRocks" : {
+		"allowedTerrains" : [
+			"shallows"
+		],
 		"specialBattlefields" : [],
 		"width" : 5,
-		"height" :3,
-		"blockedTiles" :  [0, 1, 2, -14, -15],
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			-14,
+			-15
+		],
 		"animation" : "shallowsterrain/shallowsOb7.def",
 		"absolute" : false
 	}

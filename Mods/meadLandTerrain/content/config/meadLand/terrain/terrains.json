@@ -1,19 +1,33 @@
 {
-	"meadLand" :
-	{
-		"text":"Pasturage",
+	"meadLand" : {
+		"text" : "Pasturage",
 		"moveCost" : 100,
-		"minimapUnblocked" : [ 140, 148, 90 ],
-		"minimapBlocked"   : [ 131, 131, 98 ],
-		"music" : [ "Grass.mp3" ],
+		"minimapUnblocked" : [
+			140,
+			148,
+			90
+		],
+		"minimapBlocked" : [
+			131,
+			131,
+			98
+		],
+		"music" : [
+			"Grass.mp3"
+		],
 		"tiles" : "meadLand/terrain/meadLand",
 		"shortIdentifier" : "ma",
-		"battleFields" : ["meadLandBattlefields"],
+		"battleFields" : [
+			"meadLandBattlefields"
+		],
 		"terrainViewPatterns" : "grass",
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"river" : "waterRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"horseSound" : "horse02",
 		"horseSoundPenalty" : "horse22"
 	}

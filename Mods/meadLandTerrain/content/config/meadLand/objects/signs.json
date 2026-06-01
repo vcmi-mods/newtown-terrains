@@ -5,9 +5,17 @@
 				"templates" : {
 					"meadLand_sign" : {
 						"animation" : "meadLand/objects/sign/meadLandSign",
-						"allowedTerrains": [ "meadLand" ],
-						"mask" : [ "A" ],
-						"visitableFrom" : [ "---", "+++", "+++" ]
+						"allowedTerrains" : [
+							"meadLand"
+						],
+						"mask" : [
+							"A"
+						],
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						]
 					}
 				}
 			}

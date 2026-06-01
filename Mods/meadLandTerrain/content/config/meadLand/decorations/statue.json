@@ -7,18 +7,26 @@
 				"templates" : {
 					"statueMeadLand01" : {
 						"animation" : "meadLand/decorations/statue/AVLr07u0",
-						"mask" : [ "B","B" ],
-						"allowedTerrains": [ "meadLand" ]
+						"mask" : [
+							"B",
+							"B"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					},
 					"statueMeadLand02" : {
 						"animation" : "meadLand/decorations/statue/AVLstg60",
-						"mask" : [ "VB","VB" ],
-						"allowedTerrains": [ "meadLand" ]
+						"mask" : [
+							"VB",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			}
-		}	
-	}	
+		}
+	}
 }
-	
-	

@@ -5,9 +5,18 @@
 				"templates" : {
 					"FALF0197" : {
 						"animation" : "spoiledLand/objects/seerHut/FALF0197",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV", "BA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

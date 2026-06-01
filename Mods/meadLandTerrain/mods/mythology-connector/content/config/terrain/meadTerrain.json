@@ -1,6 +1,5 @@
 {
-	"mythology-town:mythology" :
-	{
-		"nativeTerrain": "meadLand"
+	"mythology-town:mythology" : {
+		"nativeTerrain" : "meadLand"
 	}
 }

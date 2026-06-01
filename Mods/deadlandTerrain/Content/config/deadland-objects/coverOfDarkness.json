@@ -1,15 +1,22 @@
 {
-	"core:coverOfDarkness": {
+	"core:coverOfDarkness" : {
+		"types" : {
+			"coverOfDarkness" : {
+				"templates" : {
+					"dlFSAF0020" : {
+						"animation" : "deadland-objects/coverOfDarkness/avxcovr0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VAB"
+						],
 
-		"types": {
-			"coverOfDarkness": {
-				"templates": {
-					"dlFSAF0020": {
-						"animation": "deadland-objects/coverOfDarkness/avxcovr0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VAB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

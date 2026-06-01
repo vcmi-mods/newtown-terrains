@@ -1,29 +1,26 @@
 {
-    "name" : "Retreat connector",
-    "description" : "This submod makes Terrace Land terrain native to Retreat faction.",
+	"name" : "Retreat connector",
+	"description" : "This submod makes Terrace Land terrain native to Retreat faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "Noname, Fred79 for objects",
-    "contact" : "none",
-	"chinese" :
-	{
-		"name": "桃源连接器",
+	"version" : "1.0",
+	"author" : "Noname, Fred79 for objects",
+	"contact" : "none",
+	"chinese" : {
+		"name" : "桃源连接器",
 		"description" : "这个子模组可以让阶地成为桃源的主地形。"
 	},
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.5.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"retreat-town"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/terrain/terraceTerrain.json"
 	]
 }

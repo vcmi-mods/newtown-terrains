@@ -1,15 +1,22 @@
 {
-	"core:prison": {
-
-		"types": {
-			"prison": {
-				"templates": {
-
-					"dlAVXprsn1": {
-						"animation": "deadland-objects2/prison/AVXprsn1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VAV"],
-						"allowedTerrains" : ["deadland"]
+	"core:prison" : {
+		"types" : {
+			"prison" : {
+				"templates" : {
+					"dlAVXprsn1" : {
+						"animation" : "deadland-objects2/prison/AVXprsn1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VAV"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

@@ -1,29 +1,26 @@
 {
-    "name" : "Death Valley connector",
-    "description" : "This submod makes Deadlands terrain native to Death Valley faction.",
+	"name" : "Death Valley connector",
+	"description" : "This submod makes Deadlands terrain native to Death Valley faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "Noname, Fred79 for objects",
-    "contact" : "none",
-	"chinese" :
-	{
-		"name": "死亡谷连接器",
+	"version" : "1.0",
+	"author" : "Noname, Fred79 for objects",
+	"contact" : "none",
+	"chinese" : {
+		"name" : "死亡谷连接器",
 		"description" : "这个子模组可以让死亡之地成为死亡谷的主地形。"
 	},
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.4.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"death-valley-town"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/terrain/necroTerrain.json"
 	]
 }

@@ -1,33 +1,29 @@
 {
-    "name" : "Grove connector",
-    "description" : "This submod makes Heather Thicket terrain native to Grove faction.",
+	"name" : "Grove connector",
+	"description" : "This submod makes Heather Thicket terrain native to Grove faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "Noname, Fred79 for objects",
-    "contact" : "none",
-	"chinese" :
-	{
-		"name": "丛林连接器",
+	"version" : "1.0",
+	"author" : "Noname, Fred79 for objects",
+	"contact" : "none",
+	"chinese" : {
+		"name" : "丛林连接器",
 		"description" : "这个子模组可以让石南丛成为丛林的主地形。"
 	},
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.3.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"grove"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/terrain/groveTerrain.json"
 	],
-	"objects":
-	[
+	"objects" : [
 		"config/banks/magicalUtopia.json"
 	]
 }

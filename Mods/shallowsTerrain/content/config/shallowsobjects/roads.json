@@ -1,10 +1,8 @@
 {
-"raftRoad":
-    {
-        "shortIdentifier" : "rr",
-        "tilesFilename" : "shallowsroad/xgravrd",
-        "moveCost" : 90,
+	"raftRoad" : {
+		"shortIdentifier" : "rr",
+		"tilesFilename" : "shallowsroad/xgravrd",
+		"moveCost" : 90,
 		"text" : "Draft Road"
-    } 
- 
+	}
 }

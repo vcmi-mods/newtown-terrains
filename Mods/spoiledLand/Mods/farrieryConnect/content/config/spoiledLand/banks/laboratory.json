@@ -1,89 +1,169 @@
 {
-	"core:creatureBank" : 
-	{
-		"types" : 
-		{
-			"laboratory" : 
-			{
+	"core:creatureBank" : {
+		"types" : {
+			"laboratory" : {
 				"name" : "Laboratory",
 				"templates" : {
-					"base" : { "animation" : "spoiledLand/banks/Laboratory.def", 
-					"visitableFrom" : [ "---", "-+-", "+++" ], 
-					"mask" : [ "VVBV", "VBBB", "VBAB"], 
-					"allowedTerrains":["spoiledLand"] 
+					"base" : {
+						"animation" : "spoiledLand/banks/Laboratory.def",
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVBV",
+							"VBBB",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				},
 				"rmg" : {
-					"value"		: 3000,
-					"rarity"	: 100
+					"value" : 3000,
+					"rarity" : 100
 				},
-				"blockedVisitable": false,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : 32,
 				"onVisitedMessage" : 33,
 				"visitMode" : "once",
 				"selectMode" : "selectFirst",
 				"guardsLayout" : "creatureBankWide",
-				"rewards": [
+				"rewards" : [
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 0, "max" : 30 },
-						"guards": [
-							{ "amount": 2, "type": "falv6" },
-							{ "amount": 2, "type": "falv6" },
-							{ "amount": 2, "type": "falv6", "upgradeChance": 50 },
-							{ "amount": 2, "type": "falv6" },
-							{ "amount": 2, "type": "falv6" }
+						"appearChance" : {
+							"min" : 0,
+							"max" : 30
+						},
+						"guards" : [
+							{
+								"amount" : 2,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 2,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 2,
+								"type" : "falv6",
+								"upgradeChance" : 50
+							},
+							{
+								"amount" : 2,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 2,
+								"type" : "falv6"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gems" : 8,
 							"gold" : 4000
 						}
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 30, "max" : 60 },
-						"guards": [
-							{ "amount": 3, "type": "falv6" },
-							{ "amount": 3, "type": "falv6" },
-							{ "amount": 3, "type": "falv6", "upgradeChance": 50 },
-							{ "amount": 3, "type": "falv6" },
-							{ "amount": 3, "type": "falv6" }
+						"appearChance" : {
+							"min" : 30,
+							"max" : 60
+						},
+						"guards" : [
+							{
+								"amount" : 3,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 3,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 3,
+								"type" : "falv6",
+								"upgradeChance" : 50
+							},
+							{
+								"amount" : 3,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 3,
+								"type" : "falv6"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gems" : 12,
 							"gold" : 6000
 						}
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 60, "max" : 90 },
-						"guards": [
-							{ "amount": 4, "type": "falv6" },
-							{ "amount": 4, "type": "falv6" },
-							{ "amount": 4, "type": "falv6", "upgradeChance": 50 },
-							{ "amount": 4, "type": "falv6" },
-							{ "amount": 4, "type": "falv6" }
+						"appearChance" : {
+							"min" : 60,
+							"max" : 90
+						},
+						"guards" : [
+							{
+								"amount" : 4,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 4,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 4,
+								"type" : "falv6",
+								"upgradeChance" : 50
+							},
+							{
+								"amount" : 4,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 4,
+								"type" : "falv6"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gems" : 16,
 							"gold" : 8000
 						}
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 90, "max" : 100 },
-						"guards": [
-							{ "amount": 6, "type": "falv6" },
-							{ "amount": 6, "type": "falv6" },
-							{ "amount": 6, "type": "falv6", "upgradeChance": 50 },
-							{ "amount": 6, "type": "falv6" },
-							{ "amount": 6, "type": "falv6" }
+						"appearChance" : {
+							"min" : 90,
+							"max" : 100
+						},
+						"guards" : [
+							{
+								"amount" : 6,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 6,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 6,
+								"type" : "falv6",
+								"upgradeChance" : 50
+							},
+							{
+								"amount" : 6,
+								"type" : "falv6"
+							},
+							{
+								"amount" : 6,
+								"type" : "falv6"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gems" : 24,
 							"gold" : 12000
 						}

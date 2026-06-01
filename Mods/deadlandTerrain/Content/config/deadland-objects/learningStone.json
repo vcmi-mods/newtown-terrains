@@ -1,15 +1,21 @@
 {
-	"core:learningStone": {
-
-		"types": {
-			"learningStone": {
-				"templates": {
-					"FALF0248": {
-						"animation": "deadland-objects/learningStone/FALF0248",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-						"allowedTerrains": [
-							 "deadland"
+	"core:learningStone" : {
+		"types" : {
+			"learningStone" : {
+				"templates" : {
+					"FALF0248" : {
+						"animation" : "deadland-objects/learningStone/FALF0248",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"allowedTerrains" : [
+							"deadland"
 						]
 					}
 				}

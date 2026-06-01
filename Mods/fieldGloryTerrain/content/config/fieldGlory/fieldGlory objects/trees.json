@@ -4,68 +4,96 @@
 			"glorytrees" : {
 				"name" : "Tree",
 				"templates" : {
-					"Glory03": {
-						"animation": "AVLDEAD2",
-						"mask": ["VVVV", "VBBV", "VVBB"],
-						"allowedTerrains": [
-							"fieldGlory"
-						]
-					},		
-					"Glory04": {
-						"animation": "AVLDEAD3",
-						"mask": ["VVVV", "VVBB", "VBBV"],
-						"allowedTerrains": [
+					"Glory03" : {
+						"animation" : "AVLDEAD2",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					},
-					"Glory05": {
-						"animation": "AVLDEAD4",
-						"mask": ["VVVV", "VBBV", "VVBB"],
-						"allowedTerrains": [
+					"Glory04" : {
+						"animation" : "AVLDEAD3",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					},
-					"Glory06": {
-						"animation": "AVLDEAD5",
-						"mask": ["VVVV", "VVBB", "VBBV"],
-						"allowedTerrains": [
+					"Glory05" : {
+						"animation" : "AVLDEAD4",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					},
-					"Glory07": {
-						"animation": "AVLDEAD7",
-						"mask": ["VVVV", "VVBB", "VBBB","VBBV"],
-						"allowedTerrains": [
+					"Glory06" : {
+						"animation" : "AVLDEAD5",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					},
-					"Glory08": {
-						"animation": "AVLDEAD6",
-						"mask": ["VVVV", "VBBV", "VBBB","VVBB"],
-						"allowedTerrains": [
+					"Glory07" : {
+						"animation" : "AVLDEAD7",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					},
-					"Glory01": {
-						"animation": "AVLDEAD0",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [
+					"Glory08" : {
+						"animation" : "AVLDEAD6",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VBBB",
+							"VVBB"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					},
-					"Glory02": {
-						"animation": "AVLDEAD1",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [
+					"Glory01" : {
+						"animation" : "AVLDEAD0",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"fieldGlory"
+						]
+					},
+					"Glory02" : {
+						"animation" : "AVLDEAD1",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
 							"fieldGlory"
 						]
 					}
 				}
 			}
 		}
-	}	
-}	
-	
-
-
-	
+	}
+}

@@ -1,14 +1,21 @@
 {
-	"core:tradingPost": {
-
-		"types": {
-			"object": {
-				"templates": {
-					"FALF0241": {
-						"animation": "deadland-objects/market/FALF0241",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVB","VBA"],
-						"allowedTerrains": [
+	"core:tradingPost" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"FALF0241" : {
+						"animation" : "deadland-objects/market/FALF0241",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVB",
+							"VBA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

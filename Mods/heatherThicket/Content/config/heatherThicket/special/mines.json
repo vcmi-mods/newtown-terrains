@@ -5,9 +5,19 @@
 				"templates" : {
 					"heaThiSaw" : {
 						"animation" : "heatherThicket/special/mines/heaThiSaw",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVVV", "VBBBB", "VBBAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVVV",
+							"VBBBB",
+							"VBBAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			},
@@ -15,9 +25,19 @@
 				"templates" : {
 					"heaThiAlhLab" : {
 						"animation" : "heatherThicket/special/mines/heaThiAlhLab",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VVV", "BAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			},
@@ -25,9 +45,18 @@
 				"templates" : {
 					"heaThiOrePit" : {
 						"animation" : "heatherThicket/special/mines/heaThiOrePit",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["BBB", "BAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			},
@@ -35,9 +64,17 @@
 				"templates" : {
 					"heaThiSulDun" : {
 						"animation" : "heatherThicket/special/mines/heaThiSulDun",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "BAB"],
-						"allowedTerrains" : ["heatherThicket"
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
 						]
 					}
 				}
@@ -46,9 +83,18 @@
 				"templates" : {
 					"heaThiCryCav" : {
 						"animation" : "heatherThicket/special/mines/heaThiCryCav",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["heatherThicket"
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
 						]
 					}
 				}
@@ -57,9 +103,18 @@
 				"templates" : {
 					"heaThiGemPon" : {
 						"animation" : "heatherThicket/special/mines/heaThiGemPon",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["BBB", "BAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			},
@@ -67,9 +122,19 @@
 				"templates" : {
 					"heaThiGolMin" : {
 						"animation" : "heatherThicket/special/mines/heaThiGolMin",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

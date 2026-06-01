@@ -1,15 +1,22 @@
 {
-	"core:treeOfKnowledge": {
-
-		"types": {
-			"treeOfKnowledge": {
-//				"name": "Sphinx",
-				"templates": {
-					"FDIF0032": {
-						"animation": "deadland-objects/sphinx/FDIF0032",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VBV", "VBA"],
-						"allowedTerrains": [
+	"core:treeOfKnowledge" : {
+		"types" : {
+			"treeOfKnowledge" : {
+				//				"name": "Sphinx",
+				"templates" : {
+					"FDIF0032" : {
+						"animation" : "deadland-objects/sphinx/FDIF0032",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBV",
+							"VBA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

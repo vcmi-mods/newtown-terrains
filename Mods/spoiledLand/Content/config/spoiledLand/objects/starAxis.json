@@ -5,9 +5,18 @@
 				"templates" : {
 					"AVSaxis" : {
 						"animation" : "spoiledLand/objects/starAxis/AVSaxis",
-						"mask" : [ "VV", "VA" ],
-						"visitableFrom" : [ "---", "+++", "+++" ],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

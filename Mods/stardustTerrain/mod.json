@@ -1,22 +1,34 @@
 {
 	"name" : "Stardust terrain",
 	"description" : "Assets for stardust terrain.",
-	
+
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
 	"version" : "1.3.2",
-	"changelog" :
-	{
-		"1.3.2"  : [ "Adjust for RMG multilayers feature" ],
-		"1.3.1"   : [ "Czech translation by George King" ],
-		"1.3"     : [ "Independency" ],
-		"1.2.1"   : [ "Fixed delta rivers" ],
-		"1.2.0"   : [ "Mod rewritten for new format" ],
-		"1.1.0"   : [ "Added mines and obelisk" ],
-		"1.0"     : [ "Initial release" ]
+	"changelog" : {
+		"1.3.2" : [
+			"Adjust for RMG multilayers feature"
+		],
+		"1.3.1" : [
+			"Czech translation by George King"
+		],
+		"1.3" : [
+			"Independency"
+		],
+		"1.2.1" : [
+			"Fixed delta rivers"
+		],
+		"1.2.0" : [
+			"Mod rewritten for new format"
+		],
+		"1.1.0" : [
+			"Added mines and obelisk"
+		],
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
 	"modType" : "Objects",
@@ -28,42 +40,37 @@
 		"name" : "Hvězdný prach",
 		"description" : "Soubory pro terén hvězdného prachu."
 	},
-	"rivers":
-	[
+	"rivers" : [
 		"config/stardust/stardust terrain/river.json"
 	],
-		
-    "objects" :
-    [ 
-	"config/stardust/stardust objects/deltas.json",
-	"config/stardust/stardust objects/trees.json",
-	"config/stardust/stardust objects/artichokes.json",
-	"config/stardust/stardust objects/chasms.json",
-	"config/stardust/stardust objects/flowers.json",
-	"config/stardust/stardust objects/lakes.json",
-	"config/stardust/stardust objects/holes.json",
-	"config/stardust/stardust objects/mountains.json",
-	"config/stardust/stardust objects/mushrooms.json",
-	"config/stardust/stardust objects/mines.json",
-	"config/stardust/stardust objects/rocks.json",
-	"config/stardust/stardust objects/sign.json",
-	"config/stardust/stardust objects/mageMirror.json",
-	"config/stardust/stardust objects/starFlake.json",
-	"config/stardust/stardust objects/starDancer.json",
-	"config/stardust/stardust objects/bank1.json",
-	"config/stardust/stardust objects/starBottle.json",
-	"config/stardust/stardust objects/others.json"
-    ],
-	"battlefields" :
-	[
+
+	"objects" : [
+		"config/stardust/stardust objects/deltas.json",
+		"config/stardust/stardust objects/trees.json",
+		"config/stardust/stardust objects/artichokes.json",
+		"config/stardust/stardust objects/chasms.json",
+		"config/stardust/stardust objects/flowers.json",
+		"config/stardust/stardust objects/lakes.json",
+		"config/stardust/stardust objects/holes.json",
+		"config/stardust/stardust objects/mountains.json",
+		"config/stardust/stardust objects/mushrooms.json",
+		"config/stardust/stardust objects/mines.json",
+		"config/stardust/stardust objects/rocks.json",
+		"config/stardust/stardust objects/sign.json",
+		"config/stardust/stardust objects/mageMirror.json",
+		"config/stardust/stardust objects/starFlake.json",
+		"config/stardust/stardust objects/starDancer.json",
+		"config/stardust/stardust objects/bank1.json",
+		"config/stardust/stardust objects/starBottle.json",
+		"config/stardust/stardust objects/others.json"
+	],
+	"battlefields" : [
 		"config/stardust/stardust terrain/battlefields.json"
 	],
-	"obstacles" :
-	[
+	"obstacles" : [
 		"config/stardust/stardust terrain/obstacles.json"
 	],
-	"terrains" :
-	[
+	"terrains" : [
 		"config/stardust/stardust terrain/terrains.json"
 	]
 }

@@ -5,9 +5,18 @@
 				"templates" : {
 					"spoiledLandPrison1" : {
 						"animation" : "spoiledLand/objects/prison/AVXprsn1",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VAV"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VAV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

@@ -1,43 +1,43 @@
 {
-    "name": "Fiery Terrain",
-    "description": "Fiery Terrain",
-    "version": "0.0.3",
-    "author": "Zeryss,",
-    "contact": "none",
-    "modType": "Objects",
-	"compatibility" :
-	{
+	"name" : "Fiery Terrain",
+	"description" : "Fiery Terrain",
+	"version" : "0.0.3",
+	"author" : "Zeryss,",
+	"contact" : "none",
+	"modType" : "Objects",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"changelog" :
-	{
-		"0.0.1"  : [ "Initial release" ],
-		"0.0.2"  : [ "Czech translation by George King" ],
-		"0.0.3"  : [ "Adjust for RMG multilayers feature" ]
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		],
+		"0.0.2" : [
+			"Czech translation by George King"
+		],
+		"0.0.3" : [
+			"Adjust for RMG multilayers feature"
+		]
 	},
 	"chinese" : {
-		"name": "烈焰之地",
-		"description": "烈焰之地"
+		"name" : "烈焰之地",
+		"description" : "烈焰之地"
 	},
 	"czech" : {
-		"name": "Spálená země",
-		"description": "Území pokryté plameny a popelem."
+		"name" : "Spálená země",
+		"description" : "Území pokryté plameny a popelem."
 	},
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/fieryLand/battlefields/battlefields.json"
 	],
-	"terrains":
-	[
+	"terrains" : [
 		"config/fieryLand/terrain/terrains.json"
 	],
-	"obstacles":
-	[
+	"obstacles" : [
 		"config/fieryLand/obstacles/obstacles.json"
 	],
-	"objects":
-	[
-	    "config/fieryLand/decorations/fire.json",
+	"objects" : [
+		"config/fieryLand/decorations/fire.json",
 		"config/fieryLand/decorations/hole.json",
 		"config/fieryLand/decorations/lavaFlow.json",
 		"config/fieryLand/decorations/mountains.json",
@@ -48,7 +48,7 @@
 		"config/fieryLand/objects/abandonedMine.json",
 		"config/fieryLand/objects/hillFort.json",
 		"config/fieryLand/objects/mysticalGarden.json",
-	    "config/fieryLand/objects/signs.json",
+		"config/fieryLand/objects/signs.json",
 		"config/fieryLand/objects/treeOfKnowledge.json",
 		"config/fieryLand/special/obelisk.json",
 		"config/fieryLand/special/mines.json"

@@ -1,19 +1,33 @@
 {
-	 "spoiledLand" :
-	 {
+	"spoiledLand" : {
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"text" : "Spoiled Land",
 		"shortIdentifier" : "jf",
 		"moveCost" : 90,
 		"tiles" : "spoiledLand/terrain/spoiledLand",
 		"river" : "spoiledLandToxicWaterRiver",
 		"rockTerrain" : "rock",
-		"battleFields" : ["spoLandsBattlefield"],
-		 "minimapUnblocked" : [ 102, 102, 64 ],
-		 "minimapBlocked"   : [ 41, 40, 41 ],
+		"battleFields" : [
+			"spoLandsBattlefield"
+		],
+		"minimapUnblocked" : [
+			102,
+			102,
+			64
+		],
+		"minimapBlocked" : [
+			41,
+			40,
+			41
+		],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27",
-		"music" : [ "spoiledtheme.ogg" ]
-	 }
+		"music" : [
+			"spoiledtheme.ogg"
+		]
+	}
 }

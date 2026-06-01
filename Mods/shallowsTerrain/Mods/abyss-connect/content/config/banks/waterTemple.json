@@ -1,15 +1,29 @@
 {
-	"core:creatureBank" : 
-	{
-		"types" : 
-		{
-			"waterTemple" : 
-			{
+	"core:creatureBank" : {
+		"types" : {
+			"waterTemple" : {
 				"templates" : {
-					"base" : { "animation" : "abyss/map/banks/waterTemple.def", 
-					"visitableFrom" : [ "+++", "+++", "+++" ], 
-					"mask" : [ "VVVV", "VBBV", "BBBB", "VBAB"],
-					"allowedTerrains":["subterra", "rough", "dirt", "sand", "lava", "shallows"]
+					"base" : {
+						"animation" : "abyss/map/banks/waterTemple.def",
+						"visitableFrom" : [
+							"+++",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"BBBB",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"subterra",
+							"rough",
+							"dirt",
+							"sand",
+							"lava",
+							"shallows"
+						]
 					}
 				}
 			}

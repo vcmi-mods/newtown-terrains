@@ -1,16 +1,21 @@
 {
-	"core:altarOfSacrifice": {
+	"core:altarOfSacrifice" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"dlAvXAltar" : {
+						"animation" : "deadland-objects/altarOfSacrifice/AvXAltar",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBA"
+						],
 
-		"types": {
-			"object": {
-				"templates": {
-
-					"dlAvXAltar": {
-						"animation": "deadland-objects/altarOfSacrifice/AvXAltar",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VBA"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

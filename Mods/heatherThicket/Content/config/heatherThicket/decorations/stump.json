@@ -5,33 +5,57 @@
 				"templates" : {
 					"heaThiStu01" : {
 						"animation" : "heatherThicket/decorations/stump/heaThiStu01",
-						"mask" : [ "B" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiStu02" : {
 						"animation" : "heatherThicket/decorations/stump/heaThiStu02",
-						"mask" : [ "B" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiStu03" : {
 						"animation" : "heatherThicket/decorations/stump/heaThiStu03",
-						"mask" : [ "VB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiStu04" : {
 						"animation" : "heatherThicket/decorations/stump/heaThiStu04",
-						"mask" : [ "B" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiStu05" : {
 						"animation" : "heatherThicket/decorations/stump/heaThiStu05",
-						"mask" : [ "B" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiStu06" : {
 						"animation" : "heatherThicket/decorations/stump/heaThiStu06",
-						"mask" : [ "VB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

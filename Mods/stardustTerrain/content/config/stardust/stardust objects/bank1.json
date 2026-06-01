@@ -1,14 +1,25 @@
 {
-	"core:dragonUtopia" : 
-	{
+	"core:dragonUtopia" : {
 		"types" : {
 			"dragonUtopia" : {
 				"templates" : {
 					"stardust" : {
-						"animation" : "star misc/starDragonU", 
-						"visitableFrom" :  [ "---", "-+-", "+++" ], 
-						"mask" : [ "VVVVVVV", "VVVVVV", "VVBBBB","BBBBBV","VVBBAV"],
-						"allowedTerrains":["stardust"] 							
+						"animation" : "star misc/starDragonU",
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVVVVV",
+							"VVVVVV",
+							"VVBBBB",
+							"BBBBBV",
+							"VVBBAV"
+						],
+						"allowedTerrains" : [
+							"stardust"
+						]
 					}
 				}
 			}

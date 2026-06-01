@@ -1,127 +1,201 @@
 {
-	"hota.mapobjects:warehouses" :{	
+	"hota.mapobjects:warehouses" : {
 		"types" : {
-			"crystalWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowCrystal" : 
-					{
-						"animation" : "ice object/warehouse01", 
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+			"crystalWarehouse" : {
+				"templates" : {
+					"snowCrystal" : {
+						"animation" : "ice object/warehouse01",
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
 			},
-			"gemsWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowGems" :
-					{
+			"gemsWarehouse" : {
+				"templates" : {
+					"snowGems" : {
 						"animation" : "ice object/warehouse07",
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
 			},
-			"sulfurWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowSulfur" :
-					{
+			"sulfurWarehouse" : {
+				"templates" : {
+					"snowSulfur" : {
 						"animation" : "ice object/warehouse06",
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
 			},
-			"mercuryWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowMercury" :
-					{
+			"mercuryWarehouse" : {
+				"templates" : {
+					"snowMercury" : {
 						"animation" : "ice object/warehouse05",
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
 			},
-			"woodWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowWood" :
-					{
+			"woodWarehouse" : {
+				"templates" : {
+					"snowWood" : {
 						"animation" : "ice object/warehouse03",
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
 			},
-			"oreWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowOre" :
-					{
+			"oreWarehouse" : {
+				"templates" : {
+					"snowOre" : {
 						"animation" : "ice object/warehouse04",
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
 			},
-			"goldWarehouse" : 
-			{
-				"templates" : 
-				{
-					"snowGold" :
-					{
+			"goldWarehouse" : {
+				"templates" : {
+					"snowGold" : {
 						"animation" : "ice object/warehouse02",
-						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VVV","VBA"],
-						"allowedTerrains": [ "snow", "icelands"	]
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
 					}
 				}
-			}
-		}	
-	},
-
-	"hota.mapobjects:colosseumOfTheMagi" :
-	{
-		"types" : {	
-			"colosseumOfTheMagi" : {
-				"templates" : 
-				{
-					"iceMagi" : 
-					{
-						"animation" : "ice object/iceObject12", 
-						"visitableFrom" : [ "---", "---", "-+-" ], 
-						"mask" : ["VVVV", "VBBB", "VBAB"],
-						"allowedTerrains": [ "snow","icelands"]
-					}					
-				}	
 			}
 		}
 	},
-	
+
+	"hota.mapobjects:colosseumOfTheMagi" : {
+		"types" : {
+			"colosseumOfTheMagi" : {
+				"templates" : {
+					"iceMagi" : {
+						"animation" : "ice object/iceObject12",
+						"visitableFrom" : [
+							"---",
+							"---",
+							"-+-"
+						],
+						"mask" : [
+							"VVVV",
+							"VBBB",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"snow",
+							"icelands"
+						]
+					}
+				}
+			}
+		}
+	},
+
 	"hota.mapobjects:miniHillFort" : {
 		"types" : {
 			"miniHillFort" : {
 				"templates" : {
 					"miniftic" : {
 						"animation" : "ice object/hillFortIce",
-						"mask" : [ "VVV", "VVV", "VBA" ],
-						"visitableFrom" : [ "---", "-++", "+++" ],
-						"allowedTerrains": [ "icelands" ]
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"visitableFrom" : [
+							"---",
+							"-++",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
 					}
 				}
 			}

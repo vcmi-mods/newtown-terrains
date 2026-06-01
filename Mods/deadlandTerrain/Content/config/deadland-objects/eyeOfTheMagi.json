@@ -1,14 +1,20 @@
 {
-	"core:eyeOfTheMagi": {
-
-		"types": {
-			"object": {
-				"templates": {
-					"eyered": {
-						"animation": "deadland-objects/eyeOfTheMagi/eyered",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [
+	"core:eyeOfTheMagi" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"eyered" : {
+						"animation" : "deadland-objects/eyeOfTheMagi/eyered",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

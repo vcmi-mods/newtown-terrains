@@ -1,13 +1,23 @@
 {
-	"core:abandonedMine": {
-		"types": {
-			"mine": {
-				"templates": {
+	"core:abandonedMine" : {
+		"types" : {
+			"mine" : {
+				"templates" : {
 					"fieryLand_abandonedMine" : {
 						"animation" : "fieryLand/objects/abandonedMine/fiAbMe",
-						"mask" : [ "VVVV", "VBBB", "VBAB"],
-						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["fieryLand"]
+						"mask" : [
+							"VVVV",
+							"VBBB",
+							"VBAB"
+						],
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"fieryLand"
+						]
 					}
 				}
 			}

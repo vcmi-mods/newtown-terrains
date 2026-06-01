@@ -1,53 +1,59 @@
 {
-    "name" : "Heather Thicket terrain",
-    "description" : "New, night-themed terrain. Mod contains submod that connect Heather Thicket terrain with Grove making it native.",
+	"name" : "Heather Thicket terrain",
+	"description" : "New, night-themed terrain. Mod contains submod that connect Heather Thicket terrain with Grove making it native.",
 	"modType" : "Objects",
-    "version" : "0.3.4",
-    "author" : "Noname, Fred79 for objects",
-    "contact" : "none",
-	"compatibility" :
-	{
+	"version" : "0.3.4",
+	"author" : "Noname, Fred79 for objects",
+	"contact" : "none",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"conflicts" :
-	[
-	],
-	"changelog" :
-	{
-		"0.3.4"  : [ "Adjust for RMG multilayers feature" ],
-		"0.3.3"   : [ "Update (may break saves)" ],
-		"0.3.2"   : [ "Czech translation by George King" ],
-		"0.3.1"   : [ "Grove terrain is now submod" ],
-		"0.3"     : [ "Update for VCMI 1.4" ],
-		"0.2"     : [ "Update for VCMI 1.2" ],
-		"0.1"     : [ "Initial release" ]
+	"conflicts" : [],
+	"changelog" : {
+		"0.3.4" : [
+			"Adjust for RMG multilayers feature"
+		],
+		"0.3.3" : [
+			"Update (may break saves)"
+		],
+		"0.3.2" : [
+			"Czech translation by George King"
+		],
+		"0.3.1" : [
+			"Grove terrain is now submod"
+		],
+		"0.3" : [
+			"Update for VCMI 1.4"
+		],
+		"0.2" : [
+			"Update for VCMI 1.2"
+		],
+		"0.1" : [
+			"Initial release"
+		]
 	},
 	"chinese" : {
-		"name": "石南丛",
-		"description": "新的暗夜主题地形。该模组包含一个子模组，将石南丛地形与丛林连接，使其成为丛林的主地形。"
+		"name" : "石南丛",
+		"description" : "新的暗夜主题地形。该模组包含一个子模组，将石南丛地形与丛林连接，使其成为丛林的主地形。"
 	},
 	"czech" : {
 		"name" : "Vřesoviště",
 		"description" : "Nový noční terén. Mod obsahuje submod, který propojuje terén Vřesoviště s Hájem, čímž se stává jeho přirozeným prostředím."
 	},
-	"terrains":
-	[
+	"terrains" : [
 		"config/heatherThicket/terrain/terrains.json"
 	],
-	"obstacles" :
-	[
+	"obstacles" : [
 		"config/heatherThicket/terrain/obstacles.json"
 	],
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/heatherThicket/battlefields/battlefields.json"
 	],
-	"objects":
-	[
+	"objects" : [
 		"config/heatherThicket/decorations/flowers.json",
 		"config/heatherThicket/decorations/grassHills.json",
 		"config/heatherThicket/decorations/hole.json",
-        "config/heatherThicket/decorations/lake.json",
+		"config/heatherThicket/decorations/lake.json",
 		"config/heatherThicket/decorations/mountains.json",
 		"config/heatherThicket/decorations/mushrooms.json",
 		"config/heatherThicket/decorations/oakTrees.json",
@@ -58,9 +64,9 @@
 		"config/heatherThicket/decorations/waterfall.json",
 		"config/heatherThicket/objects/hillFort.json",
 		"config/heatherThicket/objects/abandonedMine.json",
-        "config/heatherThicket/objects/mysticalGarden.json",
-        "config/heatherThicket/objects/treeOfKnowledge.json",
-        "config/heatherThicket/special/mines.json",
+		"config/heatherThicket/objects/mysticalGarden.json",
+		"config/heatherThicket/objects/treeOfKnowledge.json",
+		"config/heatherThicket/special/mines.json",
 		"config/heatherThicket/special/obelisks.json",
 		"config/heatherThicket/special/subgates.json"
 	]

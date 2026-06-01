@@ -5,9 +5,19 @@
 				"templates" : {
 					"AVXamLV" : {
 						"animation" : "spoiledLand/objects/abandonedMine/AVXamLV",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

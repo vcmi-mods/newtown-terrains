@@ -5,9 +5,18 @@
 				"templates" : {
 					"heaThiGarden" : {
 						"animation" : "heatherThicket/objects/mysticalGarden/heaThiGarden",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VBB", "BAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

@@ -5,9 +5,13 @@
 				"templates" : {
 					"spoLanHole" : {
 						"animation" : "spoiledLand/decorations/hole/spoLanHole.def",
-						"mask" : ["V"],
+						"mask" : [
+							"V"
+						],
 						"zIndex" : -1,
-						"allowedTerrains" : ["spoiledLand"]
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

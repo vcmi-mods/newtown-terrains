@@ -1,14 +1,22 @@
 {
-	"core:wagon": {
-		"types": {
-			"wagon": {
-				"templates": {
-
-					"dlFALF0215": {
-						"animation": "deadland-objects/wagon/FALF0215",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BA"],
-						"allowedTerrains": ["deadland"]
+	"core:wagon" : {
+		"types" : {
+			"wagon" : {
+				"templates" : {
+					"dlFALF0215" : {
+						"animation" : "deadland-objects/wagon/FALF0215",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BA"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

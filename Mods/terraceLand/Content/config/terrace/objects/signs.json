@@ -5,9 +5,17 @@
 				"templates" : {
 					"tavxsnhl" : {
 						"animation" : "terrace/objects/sign/avxsnhl",
-						"allowedTerrains": [ "terrace" ],
-						"mask" : [ "A" ],
-						"visitableFrom" : [ "---", "+++", "+++" ]
+						"allowedTerrains" : [
+							"terrace"
+						],
+						"mask" : [
+							"A"
+						],
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						]
 					}
 				}
 			}

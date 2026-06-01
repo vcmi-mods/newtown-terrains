@@ -1,14 +1,20 @@
 {
-	"core:temple": {
-
-		"types": {
-			"temple": {
-				"templates": {
-					"AVSTMPL1": {
-						"animation": "deadland-objects/temple/AVSTMPL1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VAB"],
-						"allowedTerrains": [
+	"core:temple" : {
+		"types" : {
+			"temple" : {
+				"templates" : {
+					"AVSTMPL1" : {
+						"animation" : "deadland-objects/temple/AVSTMPL1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

@@ -1,33 +1,29 @@
 {
-    "name" : "Farriery connector",
-    "description" : "This submod makes Spoiled Land terrain native to Farriery faction.",
+	"name" : "Farriery connector",
+	"description" : "This submod makes Spoiled Land terrain native to Farriery faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "Zeryss, Fred79 for objects",
-    "contact" : "https://vk.com/club184999722",
-	"chinese" :
-	{
-		"name": "铸造厂连接器",
+	"version" : "1.0",
+	"author" : "Zeryss, Fred79 for objects",
+	"contact" : "https://vk.com/club184999722",
+	"chinese" : {
+		"name" : "铸造厂连接器",
 		"description" : "这个子模组可以让废土成为铸造厂的主地形。"
 	},
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.3.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"farriery-town"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/spoiledLand/terrain/farrieryTerrain.json"
 	],
-	"objects":
-	[
+	"objects" : [
 		"config/spoiledLand/banks/assemblyShop.json",
 		"config/spoiledLand/banks/dragonFactory.json",
 		"config/spoiledLand/banks/foundry.json",

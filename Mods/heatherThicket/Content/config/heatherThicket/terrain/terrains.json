@@ -1,19 +1,33 @@
 {
-	 "heatherThicket" :
-	 {
+	"heatherThicket" : {
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"text" : "Heather Thicket",
 		"shortIdentifier" : "ht",
-	    "moveCost" : 100,
+		"moveCost" : 100,
 		"tiles" : "heatherThicket/terrain/heatherThicket",
 		"river" : "waterRiver",
 		"rockTerrain" : "rock",
-		"battleFields" : ["heatherThicket"],
-		 "minimapUnblocked" : [ 105, 45, 97 ],
-		 "minimapBlocked"   : [ 57, 14, 53 ],
+		"battleFields" : [
+			"heatherThicket"
+		],
+		"minimapUnblocked" : [
+			105,
+			45,
+			97
+		],
+		"minimapBlocked" : [
+			57,
+			14,
+			53
+		],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27",
-		"music" : [ "heather_thicket.ogg" ]
-	 }
+		"music" : [
+			"heather_thicket.ogg"
+		]
+	}
 }

@@ -1,20 +1,22 @@
 {
-	"core:warMachineFactory": {
-		"types": {
-			"object": {
-				"templates": {
-					"dlFALF0225": {
-						"animation": "deadland-objects/warMachineFactory/FALF0225",
-						"visitableFrom": [
+	"core:warMachineFactory" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"dlFALF0225" : {
+						"animation" : "deadland-objects/warMachineFactory/FALF0225",
+						"visitableFrom" : [
 							"---",
 							"+++",
 							"+++"
 						],
-						"mask": [
+						"mask" : [
 							"VVV",
 							"VAB"
 						],
-						"allowedTerrains": [ "deadland" ]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

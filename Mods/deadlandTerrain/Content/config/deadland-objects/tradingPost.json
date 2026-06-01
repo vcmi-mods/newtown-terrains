@@ -1,22 +1,37 @@
 {
-	"core:tradingPost": {
-
-		"types": {
-			"object": {
-				"templates": {
-					"dlAVXpost0": {
-						"animation": "deadland-objects/tradingPost/AVXpost0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VBA"],
-						"allowedTerrains": [
+	"core:tradingPost" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"dlAVXpost0" : {
+						"animation" : "deadland-objects/tradingPost/AVXpost0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"dlAVXpstr0": {
-						"animation": "deadland-objects/tradingPost/AVXpstr0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VBA"],
-						"allowedTerrains": [
+					"dlAVXpstr0" : {
+						"animation" : "deadland-objects/tradingPost/AVXpstr0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

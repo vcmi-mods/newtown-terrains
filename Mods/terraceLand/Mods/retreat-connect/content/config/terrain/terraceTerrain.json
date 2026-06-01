@@ -1,6 +1,5 @@
 {
-	"retreat-town:retreat" :
-	{
-		"nativeTerrain": "terrace"
+	"retreat-town:retreat" : {
+		"nativeTerrain" : "terrace"
 	}
 }

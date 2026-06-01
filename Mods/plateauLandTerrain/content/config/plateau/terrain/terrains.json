@@ -1,19 +1,33 @@
 {
-	"plateau" :
-	{
-		"text":"Plateau",
+	"plateau" : {
+		"text" : "Plateau",
 		"moveCost" : 125,
-		"minimapUnblocked" : [ 210, 187, 153 ],
-		"minimapBlocked"   : [ 179, 153, 122 ],
-		"music" : [ "Rough.mp3" ],
+		"minimapUnblocked" : [
+			210,
+			187,
+			153
+		],
+		"minimapBlocked" : [
+			179,
+			153,
+			122
+		],
+		"music" : [
+			"Rough.mp3"
+		],
 		"tiles" : "plateau/terrain/plateau",
 		"shortIdentifier" : "pl",
-		"battleFields" : ["plateauBattlefields"],
+		"battleFields" : [
+			"plateauBattlefields"
+		],
 		"terrainViewPatterns" : "grass",
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"river" : "waterRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"horseSound" : "horse05",
 		"horseSoundPenalty" : "horse25"
 	}

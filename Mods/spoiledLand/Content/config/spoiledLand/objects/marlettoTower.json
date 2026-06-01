@@ -5,9 +5,19 @@
 				"templates" : {
 					"OBJ4445" : {
 						"animation" : "spoiledLand/objects/marlettoTower/OBJ4445",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVB", "VVV", "VAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVB",
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

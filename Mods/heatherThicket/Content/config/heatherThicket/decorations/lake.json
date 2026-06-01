@@ -4,24 +4,45 @@
 			"object" : {
 				"templates" : {
 					"heaThiLak00" : {
-						  "animation" : "heatherThicket/decorations/lakes/heaThiLak00",
-						   "mask" : [ "BBBBB", "BBBBB", "BBBBB"],
-						   "allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/lakes/heaThiLak00",
+						"mask" : [
+							"BBBBB",
+							"BBBBB",
+							"BBBBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiLak01" : {
-						   "animation" : "heatherThicket/decorations/lakes/heaThiLak01",
-						   "mask" : [ "VBBBBBV", "VBBBBBV", "VBBBBBV"],
-						   "allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/lakes/heaThiLak01",
+						"mask" : [
+							"VBBBBBV",
+							"VBBBBBV",
+							"VBBBBBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiLak02" : {
-						   "animation" : "heatherThicket/decorations/lakes/heaThiLak02",
-						   "mask" : [ "VBBB", "VBBB"],
-						   "allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/lakes/heaThiLak02",
+						"mask" : [
+							"VBBB",
+							"VBBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiLak03" : {
-						   "animation" : "heatherThicket/decorations/lakes/heaThiLak03",
-						   "mask" : [ "BBB"],
-						   "allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/lakes/heaThiLak03",
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

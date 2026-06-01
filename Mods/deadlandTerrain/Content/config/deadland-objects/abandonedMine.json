@@ -1,18 +1,25 @@
 {
-	"core:abandonedMine": {
-		"types": {
-			"mine": {
-				"templates": {
+	"core:abandonedMine" : {
+		"types" : {
+			"mine" : {
+				"templates" : {
+					"AVXamRO" : {
+						"animation" : "deadland-objects/abandonedMine/AVXamRO",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"ABB"
+						],
 
-					"AVXamRO": {
-						"animation": "deadland-objects/abandonedMine/AVXamRO",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV","VVV", "ABB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
-					}		
+					}
 				}
 			}
 		}

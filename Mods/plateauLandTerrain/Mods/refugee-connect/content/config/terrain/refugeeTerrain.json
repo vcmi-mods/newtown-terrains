@@ -1,6 +1,5 @@
 {
-	"refugee-town:refugee" :
-	{
-		"nativeTerrain": "plateau"
+	"refugee-town:refugee" : {
+		"nativeTerrain" : "plateau"
 	}
 }

@@ -1,19 +1,34 @@
 {
-	"icelands" :
-	{
-		"text":"Ice Sheet",
+	"icelands" : {
+		"text" : "Ice Sheet",
 		"moveCost" : 150,
-		"minimapUnblocked" : [ 124, 241, 248 ],
-		"minimapBlocked"   : [ 151, 220, 222 ],
-		"music" : [ "icelands/IceCave Theme" ],
+		"minimapUnblocked" : [
+			124,
+			241,
+			248
+		],
+		"minimapBlocked" : [
+			151,
+			220,
+			222
+		],
+		"music" : [
+			"icelands/IceCave Theme"
+		],
 		"tiles" : "icelands/ICECAVETL",
 		"type" : [],
-		"allowedLayers": ["surface", "underground", "unknown"],
-		"shortIdentifier":"ic",
+		"allowedLayers" : [
+			"surface",
+			"underground",
+			"unknown"
+		],
+		"shortIdentifier" : "ic",
 		"river" : "iceRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"horseSound" : "horse03",
 		"horseSoundPenalty" : "horse23",
-		"battleFields" : ["icelands"]
+		"battleFields" : [
+			"icelands"
+		]
 	}
 }

@@ -1,23 +1,42 @@
 {
-	"core:idolOfFortune": {
+	"core:idolOfFortune" : {
+		"types" : {
+			"idolOfFortune" : {
+				"templates" : {
+					"OBJ7957" : {
+						"animation" : "deadland-objects2/idolOfFortune/OBJ7957",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VB",
+							"VA"
+						],
 
-		"types": {
-			"idolOfFortune": {
-				"templates": {
-					"OBJ7957": {
-						"animation": "deadland-objects2/idolOfFortune/OBJ7957",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB", "VA"],
-
-						"allowedTerrains" : ["deadland"]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					},
-					"OBJ7958": {
-						"animation": "deadland-objects2/idolOfFortune/OBJ7958",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB", "VA"],
+					"OBJ7958" : {
+						"animation" : "deadland-objects2/idolOfFortune/OBJ7958",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VB",
+							"VA"
+						],
 
-						"allowedTerrains" : ["deadland"]
-					}		
+						"allowedTerrains" : [
+							"deadland"
+						]
+					}
 				}
 			}
 		}

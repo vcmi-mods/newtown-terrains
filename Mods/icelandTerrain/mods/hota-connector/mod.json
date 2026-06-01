@@ -1,24 +1,22 @@
 {
-    "name" : "HotA connector",
-    "description" : "This submod makes some HotA objects native with this terrain.",
+	"name" : "HotA connector",
+	"description" : "This submod makes some HotA objects native with this terrain.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "",
-    "contact" : "none",
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "none",
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.4.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"hota.mapObjects"
 	],
-	"objects" :
-	[
+	"objects" : [
 		"config/objects.json"
 	]
 }

@@ -1,14 +1,21 @@
 {
-	"core:arena": {
-
-		"types": {
-			"arena": {
-				"templates": {
-					"BlacDrAr": {
-						"animation": "deadland-objects/arena/BlacDrAr",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV","VBBB", "VBAB"],
-						"allowedTerrains": [
+	"core:arena" : {
+		"types" : {
+			"arena" : {
+				"templates" : {
+					"BlacDrAr" : {
+						"animation" : "deadland-objects/arena/BlacDrAr",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VBBB",
+							"VBAB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

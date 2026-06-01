@@ -1,37 +1,50 @@
 {
-	"core:fountainOfFortune": {
-
-		"types": {
-			"fountainOfFortune": {				
-				"templates": {
-
-					"avsfntn1": {
-						"animation": "deadland-objects2/fountainOfLuck/avsfntn1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB"],
-						"allowedTerrains" : ["deadland"]
+	"core:fountainOfFortune" : {
+		"types" : {
+			"fountainOfFortune" : {
+				"templates" : {
+					"avsfntn1" : {
+						"animation" : "deadland-objects2/fountainOfLuck/avsfntn1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}
-
 		}
 	},
-	
-	"core:fountainOfYouth": {
 
-		"types": {
-			
-			"fountainOfYouth": {				
-				"templates": {
-
-					"AVXmags0": {
-						"animation": "deadland-objects2/fountainOfYouth/AVXmags0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV","VVV","VBB"],
-						"allowedTerrains" : ["deadland"]
+	"core:fountainOfYouth" : {
+		"types" : {
+			"fountainOfYouth" : {
+				"templates" : {
+					"AVXmags0" : {
+						"animation" : "deadland-objects2/fountainOfYouth/AVXmags0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBB"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}
-		}	
+		}
 	}
 }

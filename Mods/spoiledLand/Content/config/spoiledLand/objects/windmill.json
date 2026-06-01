@@ -5,9 +5,19 @@
 				"templates" : {
 					"slOBJ5128" : {
 						"animation" : "spoiledLand/objects/windmill/OBJ5128",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VBV", "BBB", "VAV"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VBV",
+							"BBB",
+							"VAV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

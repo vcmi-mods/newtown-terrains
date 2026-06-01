@@ -5,9 +5,18 @@
 				"templates" : {
 					"slAvXAltar" : {
 						"animation" : "spoiledLand/objects/altarOfSacrifice/AvXAltar",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VBA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

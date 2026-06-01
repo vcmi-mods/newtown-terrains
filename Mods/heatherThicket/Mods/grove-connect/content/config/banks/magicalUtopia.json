@@ -1,110 +1,207 @@
 {
-	"core:creatureBank" : 
-	{
-		"types" : 
-		{
-			"magicalUtopia" : 
-			{
+	"core:creatureBank" : {
+		"types" : {
+			"magicalUtopia" : {
 				"name" : "Magical Utopia",
 				"templates" : {
-					"base" : { 
-					"animation" : "banks/magicalUtopia.def", 
-					"visitableFrom" :  [ "---", "-+-", "+++" ],
-						"mask" : [ "VVVVVVV", "VVVVVV", "VVBBBB","BBBBBV","VVBBAV"],							
-						"allowedTerrains":[ "heatherThicket" ]
+					"base" : {
+						"animation" : "banks/magicalUtopia.def",
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVVVVV",
+							"VVVVVV",
+							"VVBBBB",
+							"BBBBBV",
+							"VVBBAV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				},
 				"rmg" : {
-					"value"		: 10000,
-					"rarity"	: 100
+					"value" : 10000,
+					"rarity" : 100
 				},
-				"blockedVisitable": false,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : 32,
 				"onVisitedMessage" : 33,
 				"visitMode" : "once",
 				"selectMode" : "selectFirst",
 				"guardsLayout" : "creatureBankWide",
-				"rewards": [
+				"rewards" : [
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 0, "max" : 30 },
-						"guards": [
-							{ "amount": 8, "type": "quartzdragon" },
-							{ "amount": 5, "type": "amethystdragon" },
-							{ "amount": 2, "type": "saphiredragon" },
-							{ "amount": 1, "type": "saphiredragon" }
+						"appearChance" : {
+							"min" : 0,
+							"max" : 30
+						},
+						"guards" : [
+							{
+								"amount" : 8,
+								"type" : "quartzdragon"
+							},
+							{
+								"amount" : 5,
+								"type" : "amethystdragon"
+							},
+							{
+								"amount" : 2,
+								"type" : "saphiredragon"
+							},
+							{
+								"amount" : 1,
+								"type" : "saphiredragon"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gold" : 20000
 						},
-						"artifacts": [
-							{ "class" : "TREASURE" },
-							{ "class" : "MINOR" },
-							{ "class" : "MAJOR" },
-							{ "class" : "RELIC" }
+						"artifacts" : [
+							{
+								"class" : "TREASURE"
+							},
+							{
+								"class" : "MINOR"
+							},
+							{
+								"class" : "MAJOR"
+							},
+							{
+								"class" : "RELIC"
+							}
 						]
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 30, "max" : 60 },
-						"guards": [
-							{ "amount": 8, "type": "quartzdragon" },
-							{ "amount": 6, "type": "amethystdragon" },
-							{ "amount": 3, "type": "saphiredragon" },
-							{ "amount": 2, "type": "saphiredragon" }
+						"appearChance" : {
+							"min" : 30,
+							"max" : 60
+						},
+						"guards" : [
+							{
+								"amount" : 8,
+								"type" : "quartzdragon"
+							},
+							{
+								"amount" : 6,
+								"type" : "amethystdragon"
+							},
+							{
+								"amount" : 3,
+								"type" : "saphiredragon"
+							},
+							{
+								"amount" : 2,
+								"type" : "saphiredragon"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gold" : 30000
 						},
-						"artifacts": [
-							{ "class" : "MINOR" },
-							{ "class" : "MAJOR" },
-							{ "class" : "RELIC" },
-							{ "class" : "RELIC" }
+						"artifacts" : [
+							{
+								"class" : "MINOR"
+							},
+							{
+								"class" : "MAJOR"
+							},
+							{
+								"class" : "RELIC"
+							},
+							{
+								"class" : "RELIC"
+							}
 						]
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 60, "max" : 90 },
-						"guards": [
-							{ "amount": 8, "type": "quartzdragon" },
-							{ "amount": 6, "type": "amethystdragon" },
-							{ "amount": 4, "type": "saphiredragon" },
-							{ "amount": 3, "type": "saphiredragon" }
+						"appearChance" : {
+							"min" : 60,
+							"max" : 90
+						},
+						"guards" : [
+							{
+								"amount" : 8,
+								"type" : "quartzdragon"
+							},
+							{
+								"amount" : 6,
+								"type" : "amethystdragon"
+							},
+							{
+								"amount" : 4,
+								"type" : "saphiredragon"
+							},
+							{
+								"amount" : 3,
+								"type" : "saphiredragon"
+							}
 						],
-						"resources":
-						{
+						"resources" : {
 							"gold" : 40000
 						},
-						"artifacts": [
-							{ "class" : "MAJOR" },
-							{ "class" : "RELIC" },
-							{ "class" : "RELIC" },
-							{ "class" : "RELIC" }
+						"artifacts" : [
+							{
+								"class" : "MAJOR"
+							},
+							{
+								"class" : "RELIC"
+							},
+							{
+								"class" : "RELIC"
+							},
+							{
+								"class" : "RELIC"
+							}
 						]
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 90, "max" : 100 },
-						"guards": [
-							{ "amount": 8, "type": "quartzdragon" },
-							{ "amount": 7, "type": "amethystdragon" },
-							{ "amount": 6, "type": "saphiredragon" },
-							{ "amount": 5, "type": "saphiredragon" }
-						],
-						"resources":
-						{
-						"gold" : 50000
+						"appearChance" : {
+							"min" : 90,
+							"max" : 100
 						},
-						"artifacts": [
-							{ "class" : "RELIC" },
-							{ "class" : "RELIC" },
-							{ "class" : "RELIC" },
-							{ "class" : "RELIC" }
+						"guards" : [
+							{
+								"amount" : 8,
+								"type" : "quartzdragon"
+							},
+							{
+								"amount" : 7,
+								"type" : "amethystdragon"
+							},
+							{
+								"amount" : 6,
+								"type" : "saphiredragon"
+							},
+							{
+								"amount" : 5,
+								"type" : "saphiredragon"
+							}
+						],
+						"resources" : {
+							"gold" : 50000
+						},
+						"artifacts" : [
+							{
+								"class" : "RELIC"
+							},
+							{
+								"class" : "RELIC"
+							},
+							{
+								"class" : "RELIC"
+							},
+							{
+								"class" : "RELIC"
+							}
 						]
-					}																		
+					}
 				]
 			}
 		}

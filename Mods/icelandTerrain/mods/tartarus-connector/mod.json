@@ -1,24 +1,22 @@
 {
-    "name" : "Tartarus connector",
-    "description" : "This submod makes Iceland terrain native to Tartarus faction.",
+	"name" : "Tartarus connector",
+	"description" : "This submod makes Iceland terrain native to Tartarus faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "",
-    "contact" : "none",
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "none",
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.4.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"tartarus-town"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/terrain/icelandTerrain.json"
 	]
 }

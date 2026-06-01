@@ -5,9 +5,19 @@
 				"templates" : {
 					"slAVXpost0" : {
 						"animation" : "spoiledLand/objects/tradingPost/AVXpost0",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VVV", "VBA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

@@ -1,15 +1,23 @@
 {
-	"core:starAxis": {
+	"core:starAxis" : {
+		"types" : {
+			"starAxis" : {
+				"templates" : {
+					"OBJ1837" : {
+						"animation" : "deadland-objects2/starAxis/OBJ1837",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
 
-		"types": {
-			"starAxis": {
-				"templates": {
-					"OBJ1837": {
-						"animation": "deadland-objects2/starAxis/OBJ1837",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-
-						"allowedTerrains" : ["deadland"]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

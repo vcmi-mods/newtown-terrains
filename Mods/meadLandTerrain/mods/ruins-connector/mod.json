@@ -1,24 +1,22 @@
 {
-    "name" : "Ruins connector",
-    "description" : "This submod makes Pasturage terrain native to Ruins faction.",
+	"name" : "Ruins connector",
+	"description" : "This submod makes Pasturage terrain native to Ruins faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "",
-    "contact" : "none",
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "none",
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.4.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"ruins-town"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/terrain/meadTerrain.json"
 	]
 }

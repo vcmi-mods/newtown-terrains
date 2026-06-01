@@ -5,9 +5,19 @@
 				"templates" : {
 					"slFSAF0020" : {
 						"animation" : "spoiledLand/objects/coverOfDarkness/avxcovr0",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VVV", "VAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

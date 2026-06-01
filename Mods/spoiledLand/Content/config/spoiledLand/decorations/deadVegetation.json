@@ -1,118 +1,239 @@
 {
-	"core:deadVegetation": {
-		"types": {
-			"object": {
-				"templates": {
-					"spoLanDea01": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea01",
-						"mask": ["VVVV", "VBBV", "VVBB"],
-						"allowedTerrains": [ "spoiledLand" ]
+	"core:deadVegetation" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"spoLanDea01" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea01",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea02": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea02",
-						"mask": ["VVVV", "VVBB", "VBBV"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea02" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea02",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea03": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea03",
-						"mask": ["VVVV", "VBBV", "VVBB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea03" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea03",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea04": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea04",
-						"mask": ["VVVV", "VVBB", "VBBV"],
-						"allowedTerrains": [ "spoiledLand" ]
-					},			
-					"spoLanDea05": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea05",
-						"mask": ["VVVV", "VBBV", "VBBB", "VVBB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea04" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea04",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea06": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea06",
-						"mask": ["VVVV", "VBBV", "VVBB"],
-						"allowedTerrains": [ "spoiledLand" ]
-					},		
-					"spoLanDea07": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea07",
-						"mask": ["VVVV", "VVBB", "VBBV"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea05" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea05",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VBBB",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea08": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea08",
-						"mask": ["VVVV", "VBBV", "VVBB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea06" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea06",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea09": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea09",
-						"mask": ["VVBB", "VVBB", "VBBV"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea07" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea07",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea10": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea10",
-						"mask": ["VVVV", "VBBV", "VBBB","VVBB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea08" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea08",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea11": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea11",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea09" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea09",
+						"mask" : [
+							"VVBB",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea12": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea12",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea10" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea10",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VBBB",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea13": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea13",
-						"mask": ["BB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea11" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea11",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea14": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea14",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea12" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea12",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea15": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea15",
-						"mask": ["VV", "VB"],
+					"spoLanDea13" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea13",
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
+					"spoLanDea14" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea14",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
+					"spoLanDea15" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea15",
+						"mask" : [
+							"VV",
+							"VB"
+						],
 
-					"allowedTerrains": [ "spoiledLand" ]
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea16": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea16",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea16" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea16",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea17": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea17",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea17" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea17",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea18": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea18",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea18" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea18",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea19": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea19",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea19" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea19",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea20": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea20",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea20" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea20",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea21": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea21",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea21" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea21",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
-					"spoLanDea22": {
-						"animation": "spoiledLand/decorations/deadTrees/spoLanDea22",
-						"mask": ["VV", "VB"],
-						"allowedTerrains": [ "spoiledLand" ]
+					"spoLanDea22" : {
+						"animation" : "spoiledLand/decorations/deadTrees/spoLanDea22",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

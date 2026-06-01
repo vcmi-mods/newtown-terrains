@@ -1,24 +1,22 @@
 {
-    "name" : "Mythology connector",
-    "description" : "This submod makes Pasturage terrain native to Mythology faction.",
+	"name" : "Mythology connector",
+	"description" : "This submod makes Pasturage terrain native to Mythology faction.",
 	"modType" : "Compatibility",
-    "version" : "1.0",
-    "author" : "",
-    "contact" : "none",
-	"changelog" :
-	{
-		"1.0"   : [ "Initial release" ]
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "none",
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"mythology-town"
 	],
-	"factions" :
-	[
+	"factions" : [
 		"config/terrain/meadTerrain.json"
 	]
 }

@@ -6,28 +6,44 @@
 				"templates" : {
 					"canyonmeadLand01" : {
 						"animation" : "meadLand/decorations/canyon/AVLCT1U0",
-						"mask" : [ "BB" ],
-						"allowedTerrains": [ "meadLand" ]
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					},
 					"canyonmeadLand02" : {
 						"animation" : "meadLand/decorations/canyon/AVLCT2U0",
-						"mask" : [ "B" ],
-						"allowedTerrains": [ "meadLand" ]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					},
 					"canyonmeadLand03" : {
 						"animation" : "meadLand/decorations/canyon/AVLCT3U0",
-						"mask" : [ "B","B" ],
-						"allowedTerrains": [ "meadLand" ]
+						"mask" : [
+							"B",
+							"B"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					},
 					"canyonmeadLand04" : {
 						"animation" : "meadLand/decorations/canyon/AVLCT4U0",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "meadLand" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			}
-		}	
-	}	
+		}
+	}
 }
-	
-	

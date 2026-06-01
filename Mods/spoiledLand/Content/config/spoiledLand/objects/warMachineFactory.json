@@ -5,9 +5,18 @@
 				"templates" : {
 					"slFALF0225" : {
 						"animation" : "spoiledLand/objects/warMachineFactory/FALF0225",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

@@ -1,19 +1,36 @@
 {
-	"deadland" :
-	{
-		"text":"Dead Land",
+	"deadland" : {
+		"text" : "Dead Land",
 		"moveCost" : 100,
-		"minimapUnblocked" : [ 94, 91, 75 ],
-		"minimapBlocked"   : [ 60, 59, 50 ],
-		"music" : [ "deadland/midnightcem2.ogg" ],
+		"minimapUnblocked" : [
+			94,
+			91,
+			75
+		],
+		"minimapBlocked" : [
+			60,
+			59,
+			50
+		],
+		"music" : [
+			"deadland/midnightcem2.ogg"
+		],
 		"tiles" : "deadland-terrain/deadland",
 		"shortIdentifier" : "dl",
-		"battleFields" : ["deadland_back1", "deadland_back2", "deadland_back3", "deadland_back4"],
+		"battleFields" : [
+			"deadland_back1",
+			"deadland_back2",
+			"deadland_back3",
+			"deadland_back4"
+		],
 		"terrainViewPatterns" : "grass",
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"river" : "deadlandWaterRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"horseSound" : "horse00",
 		"horseSoundPenalty" : "horse20"
 	}

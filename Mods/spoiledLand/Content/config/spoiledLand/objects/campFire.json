@@ -5,9 +5,17 @@
 				"templates" : {
 					"FTRCF008" : {
 						"animation" : "spoiledLand/objects/campFire/FTRCF008",
-						"visitableFrom" : ["+++", "-+-", "+++"],
-						"mask" : ["VA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"+++",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

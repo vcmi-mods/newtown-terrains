@@ -1,20 +1,26 @@
 {
-    "name": "Terrace Terrain",
-    "description": "Terrace Terrain",
-    "version": "0.4",
-    "author": "Zeryss,",
-    "contact": "none",
-    "modType": "Objects",
-	"compatibility" :
-	{
+	"name" : "Terrace Terrain",
+	"description" : "Terrace Terrain",
+	"version" : "0.4",
+	"author" : "Zeryss,",
+	"contact" : "none",
+	"modType" : "Objects",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"changelog" :
-	{
-		"0.4"  : [ "Adjust for RMG multilayers feature" ],
-		"0.3"  : [ "Czech translation by George King" ],
-		"0.2"  : [ "Indentifiers fixes" ],
-		"0.1"  : [ "Initial release" ]
+	"changelog" : {
+		"0.4" : [
+			"Adjust for RMG multilayers feature"
+		],
+		"0.3" : [
+			"Czech translation by George King"
+		],
+		"0.2" : [
+			"Indentifiers fixes"
+		],
+		"0.1" : [
+			"Initial release"
+		]
 	},
 	"chinese" : {
 		"name" : "阶地地形",
@@ -24,25 +30,21 @@
 		"name" : "Terasovitý terén",
 		"description" : "Soubory pro terasovitý terén."
 	},
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/terrace/battlefields/battlefields.json"
 	],
-	"terrains":
-	[
+	"terrains" : [
 		"config/terrace/terrain/terrains.json"
 	],
-	"obstacles":
-	[
+	"obstacles" : [
 		"config/terrace/obstacles/obstacles.json"
 	],
-	"objects":
-	[
+	"objects" : [
 		"config/terrace/decorations/bamboo.json",
 		"config/terrace/decorations/canyon.json",
 		"config/terrace/decorations/flowers.json",
 		"config/terrace/decorations/hole.json",
- 		"config/terrace/decorations/lake.json",
+		"config/terrace/decorations/lake.json",
 		"config/terrace/decorations/mountains.json",
 		"config/terrace/decorations/pineTrees.json",
 		"config/terrace/decorations/rock.json",

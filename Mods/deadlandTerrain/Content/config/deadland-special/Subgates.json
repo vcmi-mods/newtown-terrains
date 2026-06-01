@@ -1,27 +1,41 @@
 {
-	"core:subterraneanGate": {
-	
-		"handler": "subterraneanGate",
-		"types": {
-			"object": {
-				"templates": {
-					"deadlandAvTCave": {
-						"animation": "deadland-special/AvTCave",  
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV","VVVV","VBAB"],
-						"allowedTerrains": [
+	"core:subterraneanGate" : {
+		"handler" : "subterraneanGate",
+		"types" : {
+			"object" : {
+				"templates" : {
+					"deadlandAvTCave" : {
+						"animation" : "deadland-special/AvTCave",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"deadlandAVSUG030": {
-						"animation": "deadland-special/AVSUG030",  
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV","VVVV","BABB"],
-						"allowedTerrains": [
+					"deadlandAVSUG030" : {
+						"animation" : "deadland-special/AVSUG030",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"BABB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}
-
 				}
 			}
 		}

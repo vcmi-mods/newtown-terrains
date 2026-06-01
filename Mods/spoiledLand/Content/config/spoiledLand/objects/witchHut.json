@@ -5,9 +5,20 @@
 				"templates" : {
 					"FALF0093" : {
 						"animation" : "spoiledLand/objects/witchHut/FALF0093",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV", "VVVV", "VVVV", "VVAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VVVV",
+							"VVAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

@@ -1,14 +1,20 @@
 {
-	"core:refugeeCamp": {
-
-		"types": {
-			"object": {
-				"templates": {
-					"dlAVGrefg0": {
-						"animation": "deadland-objects/refugeeCamp/AVGrefg0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BA"],
-						"allowedTerrains": [
+	"core:refugeeCamp" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"dlAVGrefg0" : {
+						"animation" : "deadland-objects/refugeeCamp/AVGrefg0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

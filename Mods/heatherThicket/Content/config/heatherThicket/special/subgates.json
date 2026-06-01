@@ -4,10 +4,20 @@
 			"object" : {
 				"templates" : {
 					"heaThiSubGat" : {
-						"animation" :  "heatherThicket/special/subgates/heaThiSubGat",   
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : [  "VVVV", "VVVV", "VBAB"],
-						"allowedTerrains" : ["heatherThicket"]
+						"animation" : "heatherThicket/special/subgates/heaThiSubGat",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

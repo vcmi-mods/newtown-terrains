@@ -5,9 +5,18 @@
 				"templates" : {
 					"FALF0232" : {
 						"animation" : "spoiledLand/objects/horizontalGarrizon/FALF0232",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

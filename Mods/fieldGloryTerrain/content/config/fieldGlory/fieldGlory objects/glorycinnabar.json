@@ -1,44 +1,69 @@
 {
-	"gloryCinnabar"	: {
+	"gloryCinnabar" : {
 		"name" : "Cinnabar",
-		"handler": "configurable",
+		"handler" : "configurable",
 		"types" : {
 			"starFlake" : {
-				"name":"Cinnabar",
+				"name" : "Cinnabar",
 				"rmg" : {
-					"value"		: 1000,
-					"rarity"	: 400
+					"value" : 1000,
+					"rarity" : 400
 				},
 				"sounds" : {
-					"visit" : ["EXPERNCE"],
-					"removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+					"visit" : [
+						"EXPERNCE"
+					],
+					"removal" : [
+						"PICKUP01",
+						"PICKUP02",
+						"PICKUP03",
+						"PICKUP04",
+						"PICKUP05",
+						"PICKUP06",
+						"PICKUP07"
+					]
 				},
 				"rewards" : [
 					{
-						"message": "{Cinnabar}\r\n\r\nThe cinnabar is a compound of mercury, sulfur and other resources. You are lucky to find it in the crimson land.",
+						"message" : "{Cinnabar}\r\n\r\nThe cinnabar is a compound of mercury, sulfur and other resources. You are lucky to find it in the crimson land.",
 						"removeObject" : true,
 						"resources" : [
 							{
-								"anyOf" : [ "ore", "mercury","sulfur" ],
+								"anyOf" : [
+									"ore",
+									"mercury",
+									"sulfur"
+								],
 								"min" : 3,
 								"max" : 5
 							},
 							{
 								"type" : "gold",
-								"amount" : [ 300, 400, 500 ]
+								"amount" : [
+									300,
+									400,
+									500
+								]
 							}
 						]
 					}
 				],
 				"visitMode" : "once",
-				"selectMode": "selectRandom",
+				"selectMode" : "selectRandom",
 				"templates" : {
-					"AVAbrrlw" :
-					{
+					"AVAbrrlw" : {
 						"animation" : "GloryObject/glorycinnabar",
-						"visitableFrom" : [ "+++", "+++", "+++" ],
-						"mask" : [ "VA"],
-						"allowedTerrains": [ "fieldGlory" ]
+						"visitableFrom" : [
+							"+++",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VA"
+						],
+						"allowedTerrains" : [
+							"fieldGlory"
+						]
 					}
 				}
 			}

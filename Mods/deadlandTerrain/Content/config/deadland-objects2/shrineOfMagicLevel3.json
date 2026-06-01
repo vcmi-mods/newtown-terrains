@@ -1,15 +1,23 @@
 {
-	"core:shrineOfMagicLevel3": {
+	"core:shrineOfMagicLevel3" : {
+		"types" : {
+			"shrineOfMagicLevel3" : {
+				"templates" : {
+					"OBJ3452" : {
+						"animation" : "deadland-objects2/shrineOfMagicLevel3/OBJ3452",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
 
-		"types": {
-			"shrineOfMagicLevel3": {
-				"templates": {
-					"OBJ3452": {
-						"animation": "deadland-objects2/shrineOfMagicLevel3/OBJ3452",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-
-						"allowedTerrains" : ["deadland"]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

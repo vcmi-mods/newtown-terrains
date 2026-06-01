@@ -4,10 +4,19 @@
 			"object" : {
 				"templates" : {
 					"heaThiObe" : {
-						"animation" : "heatherThicket/special/obelisks/heaThiObe",  
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV", "VA"],
-						"allowedTerrains" : ["heatherThicket"]
+						"animation" : "heatherThicket/special/obelisks/heaThiObe",
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

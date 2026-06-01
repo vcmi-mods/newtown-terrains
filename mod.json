@@ -5,49 +5,134 @@
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
 	"version" : "1.8.3",
-	"changelog" :
-	{
-		"1.8.3"   : [ "Fixed Iceland mountain mask", "Added Tartarus connector for Iceland" ],
-		"1.8.2"   : [ "Adjust for RMG multilayers feature" ],
-		"1.8.1"   : [ "Quick fix for Spoiled Land battlefield obstacles" ],
-		"1.8.0"   : [ "Update for Heather Thicked terrain (MAY BREAK SAVES)" ],
-		"1.7.9"   : [ "Reverting some changes (MAY BREAK SAVES)" ],
-		"1.7.8"   : [ "Fixes for Spoiled Land terrain (MAY BREAK SAVES)" ],
-		"1.7.7"   : [ "Few fixes for Spoiled Land by kdmcser" ],
-		"1.7.6"   : [ "Configuration fixes" ],
-		"1.7.5"   : [ "Meadow renamed to Pasturage" ],
-		"1.7.4"   : [ "Czech translation for map - The frosted land" ],
-		"1.7.3"   : [ "Fix for Iceland's With Hut" ],
-		"1.7.2"   : [ "Minor fix (polish translation path)" ],
-		"1.7.1"   : [ "Polish translation added, fixes to Shallows" ],
-		"1.7.0"   : [ "Update to vcmi-1.6 format", "Fixes for duplicate identifiers", "Added connector between Plateau terrain and Refugee town" ],
-		"1.6.5"   : [ "Fixed the translation bugs by LeoAllenHan" ],
-		"1.6.4"   : [ "Updated Czech translation" ],
-		"1.6.3"   : [ "Czech translation by George King" ],
-		"1.6.2"   : [ "Some fixes in Shallows terrain submod" ],
-		"1.6.1"   : [ "More assets for the ice sheet terrain by Fabrice-TIERCELIN" ],
-		"1.6.0"   : [ "Added Shallows terrain by Kurek" ],
-		"1.5.9"   : [ "Remake lone trees by Fabrice-TIERCELIN" ],
-		"1.5.8"   : [ "Another update chinese translation" ],
-		"1.5.7"   : [ "Updated chinese translation" ],
-		"1.5.6"   : [ "Added four new terrains: Meadow, Plateau, Terrace and Fiery Land" ],
-		"1.5.5"   : [ "Russian translation by Anton Sergeew" ],
-		"1.5.4"   : [ "Changed river short identifier" ],
-		"1.5.3"   : [ "Updated Field of Glory. Changed mod type to \"Objects\"." ],
-		"1.5.2"   : [ "Added Chinese translation" ],
-		"1.5.1"   : [ "Fixed broken Deadland's visitable objects", "Add Death Valley connector submod to make Deadland native terrain for Death Valley town" ],
-		"1.5.0"   : [ "Added Heather Thicket terrain", "Adden Spoiled Land terrain", "Added Deadlands terrain" ],
-		"1.4.0"   : [ "Release as a new mod" ],
-		"1.3.4"   : [ "Ice Cave fixed" ],
-		"1.3.3"   : [ "Make different terrains as different mods respectively" ],
-		"1.3.2"   : [ "Add new contents of Ice Cave" ],
-		"1.3.1"   : [ "Add new contents of Field of Glory" ],
-		"1.3.0"   : [ "Field of Glory added" ],
-		"1.2.1"   : [ "Fixed delta rivers" ],
-		"1.2.0"   : [ "Mod rewritten for new format" ],
-		"1.1.0"   : [ "Added mines and obelisk" ],
-		"1.0"     : [ "Initial release" ]
-	}, 
+	"changelog" : {
+		"1.8.3" : [
+			"Fixed Iceland mountain mask",
+			"Added Tartarus connector for Iceland"
+		],
+		"1.8.2" : [
+			"Adjust for RMG multilayers feature"
+		],
+		"1.8.1" : [
+			"Quick fix for Spoiled Land battlefield obstacles"
+		],
+		"1.8.0" : [
+			"Update for Heather Thicked terrain (MAY BREAK SAVES)"
+		],
+		"1.7.9" : [
+			"Reverting some changes (MAY BREAK SAVES)"
+		],
+		"1.7.8" : [
+			"Fixes for Spoiled Land terrain (MAY BREAK SAVES)"
+		],
+		"1.7.7" : [
+			"Few fixes for Spoiled Land by kdmcser"
+		],
+		"1.7.6" : [
+			"Configuration fixes"
+		],
+		"1.7.5" : [
+			"Meadow renamed to Pasturage"
+		],
+		"1.7.4" : [
+			"Czech translation for map - The frosted land"
+		],
+		"1.7.3" : [
+			"Fix for Iceland's With Hut"
+		],
+		"1.7.2" : [
+			"Minor fix (polish translation path)"
+		],
+		"1.7.1" : [
+			"Polish translation added, fixes to Shallows"
+		],
+		"1.7.0" : [
+			"Update to vcmi-1.6 format",
+			"Fixes for duplicate identifiers",
+			"Added connector between Plateau terrain and Refugee town"
+		],
+		"1.6.5" : [
+			"Fixed the translation bugs by LeoAllenHan"
+		],
+		"1.6.4" : [
+			"Updated Czech translation"
+		],
+		"1.6.3" : [
+			"Czech translation by George King"
+		],
+		"1.6.2" : [
+			"Some fixes in Shallows terrain submod"
+		],
+		"1.6.1" : [
+			"More assets for the ice sheet terrain by Fabrice-TIERCELIN"
+		],
+		"1.6.0" : [
+			"Added Shallows terrain by Kurek"
+		],
+		"1.5.9" : [
+			"Remake lone trees by Fabrice-TIERCELIN"
+		],
+		"1.5.8" : [
+			"Another update chinese translation"
+		],
+		"1.5.7" : [
+			"Updated chinese translation"
+		],
+		"1.5.6" : [
+			"Added four new terrains: Meadow, Plateau, Terrace and Fiery Land"
+		],
+		"1.5.5" : [
+			"Russian translation by Anton Sergeew"
+		],
+		"1.5.4" : [
+			"Changed river short identifier"
+		],
+		"1.5.3" : [
+			"Updated Field of Glory. Changed mod type to \"Objects\"."
+		],
+		"1.5.2" : [
+			"Added Chinese translation"
+		],
+		"1.5.1" : [
+			"Fixed broken Deadland's visitable objects",
+			"Add Death Valley connector submod to make Deadland native terrain for Death Valley town"
+		],
+		"1.5.0" : [
+			"Added Heather Thicket terrain",
+			"Adden Spoiled Land terrain",
+			"Added Deadlands terrain"
+		],
+		"1.4.0" : [
+			"Release as a new mod"
+		],
+		"1.3.4" : [
+			"Ice Cave fixed"
+		],
+		"1.3.3" : [
+			"Make different terrains as different mods respectively"
+		],
+		"1.3.2" : [
+			"Add new contents of Ice Cave"
+		],
+		"1.3.1" : [
+			"Add new contents of Field of Glory"
+		],
+		"1.3.0" : [
+			"Field of Glory added"
+		],
+		"1.2.1" : [
+			"Fixed delta rivers"
+		],
+		"1.2.0" : [
+			"Mod rewritten for new format"
+		],
+		"1.1.0" : [
+			"Added mines and obelisk"
+		],
+		"1.0" : [
+			"Initial release"
+		]
+	},
 	"chinese" : {
 		"name" : "新地形",
 		"description" : "提供新种族特殊地形。",
@@ -70,14 +155,13 @@
 		]
 	},
 	"czech" : {
-		"name": "Nové terény",
-		"description": "Obsahuje balíček nových terénů.",
+		"name" : "Nové terény",
+		"description" : "Obsahuje balíček nových terénů.",
 		"translations" : [
 			"translation/newtown-terrains/czech.json"
 		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.1"
 	}
 }

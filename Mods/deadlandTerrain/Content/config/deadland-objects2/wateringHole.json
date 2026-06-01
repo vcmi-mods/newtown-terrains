@@ -1,35 +1,54 @@
 {
-	"core:wateringHole": {
+	"core:wateringHole" : {
+		"types" : {
+			"wateringHole" : {
+				"templates" : {
+					"AVXwtrh0" : {
+						"animation" : "deadland-objects/wateringHole/AVXwtrh0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"BBAB"
+						],
 
-		"types": {
-			"wateringHole": {
-				"templates": {
-
-					"AVXwtrh0": {
-						"animation": "deadland-objects/wateringHole/AVXwtrh0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "BBAB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FALD0022": {
-						"animation": "deadland-objects/wateringHole/FALD0022",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "BBBA" ],
+					"FALD0022" : {
+						"animation" : "deadland-objects/wateringHole/FALD0022",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"BBBA"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
- 
-					"FGRD0025": {
-						"animation": "deadland-objects/wateringHole/FGRD0025",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV","BBA"],
 
-						"allowedTerrains": [
+					"FGRD0025" : {
+						"animation" : "deadland-objects/wateringHole/FGRD0025",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BBA"
+						],
+
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

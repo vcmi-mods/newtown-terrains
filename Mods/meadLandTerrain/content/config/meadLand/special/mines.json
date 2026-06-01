@@ -2,44 +2,82 @@
 	"core:mine" : {
 		"types" : {
 			"crystalCavern" : {
-				"templates": {
+				"templates" : {
 					"meadLandMines01" : {
 						"animation" : "meadLand/special/mines/meadLandMines01",
-						"visitableFrom": ["---", "+++", "+++"],
-				     	"mask": ["BBB", "BAB"],
-					    "allowedTerrains": ["meadLand"]
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			},
 			"goldMine" : {
-				"templates": {
-					"meadLandMines02": {
-					"animation" : "meadLand/special/mines/meadLandMines02",
-					"visitableFrom": ["---", "+++", "+++"],
-					"mask": ["BBB", "BAB"],
-					"allowedTerrains": ["meadLand"]
+				"templates" : {
+					"meadLandMines02" : {
+						"animation" : "meadLand/special/mines/meadLandMines02",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			},
-			
+
 			"sawmill" : {
 				"templates" : {
-					    "meadLandMines03": {
-					    "animation" : "meadLand/special/mines/meadLandMines03",
-                        "mask" : ["VVVVV", "VVBBB", "VBBAB"],
-						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["meadLand"]
+					"meadLandMines03" : {
+						"animation" : "meadLand/special/mines/meadLandMines03",
+						"mask" : [
+							"VVVVV",
+							"VVBBB",
+							"VBBAB"
+						],
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			},
-			
+
 			"alchemistLab" : {
 				"templates" : {
 					"meadLandMines04" : {
-						"animation" : "AVMalch0", 
-						"mask" : ["VVV", "VVV", "BAB"],
-						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["meadLand"]
+						"animation" : "AVMalch0",
+						"mask" : [
+							"VVV",
+							"VVV",
+							"BAB"
+						],
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			},
@@ -47,32 +85,59 @@
 				"templates" : {
 					"meadLandMines05" : {
 						"animation" : "meadLand/special/mines/meadLandMines05",
-						"mask" : ["BBB", "BAB"],
-						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["meadLand"]
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			},
 			"sulfurDune" : {
 				"templates" : {
 					"meadLandMines06" : {
-						"animation" : "AVMsulf0",  
-						"mask" : ["VVV", "BAB"],
-						"visitableFrom" : [ "---", "-+-", "+++" ],
-					    "allowedTerrains": ["meadLand"]
+						"animation" : "AVMsulf0",
+						"mask" : [
+							"VVV",
+							"BAB"
+						],
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			},
 			"gemPond" : {
 				"templates" : {
-					"meadLandMines07": {
-					"animation" : "meadLand/special/mines/meadLandMines04",
-					"visitableFrom": ["---", "+++", "+++"],
-					"mask" : ["BBB", "BAB"],
-					"allowedTerrains": ["meadLand"]
+					"meadLandMines07" : {
+						"animation" : "meadLand/special/mines/meadLandMines04",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"meadLand"
+						]
 					}
 				}
 			}
 		}
 	}
-}	
+}

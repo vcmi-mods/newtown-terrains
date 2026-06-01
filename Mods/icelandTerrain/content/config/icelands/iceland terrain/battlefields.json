@@ -1,3 +1,5 @@
 {
-	"icelands": { "graphics" : "icelands/ICELANDS_B" },
+	"icelands" : {
+		"graphics" : "icelands/ICELANDS_B"
+	}
 }

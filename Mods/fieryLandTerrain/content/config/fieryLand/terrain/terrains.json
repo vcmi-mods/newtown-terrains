@@ -1,19 +1,34 @@
 {
-	"fieryLand" :
-	{
-		"text":"Fiery Land",
+	"fieryLand" : {
+		"text" : "Fiery Land",
 		"moveCost" : 100,
-		"minimapUnblocked" : [ 104, 99, 100 ],
-		"minimapBlocked"   : [ 57, 49, 43 ],
-		"music" : [ "Lava.mp3" ],
+		"minimapUnblocked" : [
+			104,
+			99,
+			100
+		],
+		"minimapBlocked" : [
+			57,
+			49,
+			43
+		],
+		"music" : [
+			"Lava.mp3"
+		],
 		"tiles" : "fieryLand/terrain/fieryLand",
 		"shortIdentifier" : "fe",
-		"battleFields" : ["fieryLandBattlefields", "fieryLandBattlefields2"],
+		"battleFields" : [
+			"fieryLandBattlefields",
+			"fieryLandBattlefields2"
+		],
 		"terrainViewPatterns" : "grass",
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"river" : "lavaRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"horseSound" : "horse02",
 		"horseSoundPenalty" : "horse22"
 	}

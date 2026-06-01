@@ -1,18 +1,24 @@
 {
-	"core:garrisonHorizontal": {
-
-		"types": {		
-			"normal": {
-				"templates": {
-					
-					"FALF0143": {
-						"animation": "deadland-objects/horizontalGarrizon/FALF0143",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "VVVV", "VBAB"],
-						"allowedTerrains": [
+	"core:garrisonHorizontal" : {
+		"types" : {
+			"normal" : {
+				"templates" : {
+					"FALF0143" : {
+						"animation" : "deadland-objects/horizontalGarrizon/FALF0143",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBAB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
-					}		
+					}
 				}
 			}
 		}

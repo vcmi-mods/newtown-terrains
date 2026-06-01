@@ -5,38 +5,82 @@
 				"templates" : {
 					"htheaThiMou01" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou01",
-						"mask" : [ "VVVVVV","VVBBBB","VBBBBB","VBBBVV" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVVVV",
+							"VVBBBB",
+							"VBBBBB",
+							"VBBBVV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"htheaThiMou02" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou02",
-						"mask" : [ "VVVVVV","VBBBBV","VBBBBB","VVVBBB" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVVVV",
+							"VBBBBV",
+							"VBBBBB",
+							"VVVBBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"htheaThiMou03" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou03",
-						"mask" : [ "VVVV","VBBB","VBBV" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVV",
+							"VBBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"htheaThiMou04" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou04",
-						"mask" : [ "VVVV", "VBBB","VVBB" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVV",
+							"VBBB",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"htheaThiMou05" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou05",
-						"mask" : [ "VVVV", "VVBB","VBBV" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"htheaThiMou06" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou06",
-						"mask" : [ "VVVV", "VBBV","VVBB" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"htheaThiMou07" : {
 						"animation" : "heatherThicket/decorations/mountains/heaThiMou07",
-						"mask" : [ "VVVV", "VVVV","VBVB" ],
-						"allowedTerrains": ["heatherThicket" ]
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VBVB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

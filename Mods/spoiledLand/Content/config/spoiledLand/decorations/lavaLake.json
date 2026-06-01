@@ -6,148 +6,283 @@
 				"templates" : {
 					"spoLandToxLiq01" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq01",
-						"mask" : ["BB", "BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq02" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq02",
-						"mask" : ["VBB", "BBB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"VBB",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq03" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq03",
-						"mask" : ["BBBBBB", "BBBBBB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BBBBBB",
+							"BBBBBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq04" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq04",
-						"mask" : ["BBB", "BBB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BBB",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq05" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq05",
-						"mask" : ["BBB", "BBB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BBB",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq06" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq06",
-						"mask" : ["BB", "BB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},					
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq07" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq07",
-						"mask" : ["BB", "BB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},						
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq08" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq08",
-						"mask" : ["BB", "BB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},					
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq09" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq09",
-						"mask" : ["BBB", "BBB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},						
+						"mask" : [
+							"BBB",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq10" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq10",
-						"mask" : ["BBB", "BBB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},	
+						"mask" : [
+							"BBB",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq11" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq11",
-						"mask" : ["BB", "BB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},	
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq12" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq12",
-						"mask" : ["BB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},	
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq13" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq13",
-						"mask" : ["BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq14" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq14",
-						"mask" : ["BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq15" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq15",
-						"mask" : ["B"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq16" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq16",
-						"mask" : ["B"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq17" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq17",
-						"mask" : ["B"],
-						"allowedTerrains" : ["spoiledLand"]
-					},					
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq18" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq18",
-						"mask" : ["BB","BB"],
-						"allowedTerrains" : ["spoiledLand"]
-					},	
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq19" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq19",
-						"mask" : ["BB","BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq20" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq20",
-						"mask" : ["BB","BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq21" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq21",
-						"mask" : ["B"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq22" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq22",
-						"mask" : ["B"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq23" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq23",
-						"mask" : ["B","B"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"B",
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq24" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq24",
-						"mask" : ["BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq25" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq25",
-						"mask" : ["B","B"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"B",
+							"B"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq26" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq26",
-						"mask" : ["BB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"BB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq27" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq27",
-						"mask" : [ "VVV", "BBB" ],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"VVV",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"spoLandToxLiq28" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq28",
-                        "mask" : [ "VBBV", "VBBV"],
-						"allowedTerrains" : ["spoiledLand"]
-                    },
+						"mask" : [
+							"VBBV",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					},
 					"spoLandToxLiq29" : {
 						"animation" : "spoiledLand/decorations/lakes/spoLandToxLiq29",
-                        "mask" : [ "VBBBBV", "VBBBBV"],
-						"allowedTerrains" : ["spoiledLand"]
+						"mask" : [
+							"VBBBBV",
+							"VBBBBV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

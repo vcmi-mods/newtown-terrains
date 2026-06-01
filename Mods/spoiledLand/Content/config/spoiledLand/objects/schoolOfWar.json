@@ -5,9 +5,20 @@
 				"templates" : {
 					"slFALF0109" : {
 						"animation" : "spoiledLand/objects/schoolOfWar/FALF0109",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" :["VVVV","VVVV","BBBV","VBAV"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"BBBV",
+							"VBAV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

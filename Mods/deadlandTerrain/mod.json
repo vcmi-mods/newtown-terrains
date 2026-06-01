@@ -1,50 +1,48 @@
 {
-    "name": "Dead Land Terrain",
-    "description": "Dead Land Terrain, can be used as native terrain for Necropolis",
-    "version": "0.0.3",
-    "author": "Zeryss, Fred79 and other modders for objects. Music theme is by CC0 licence from Tozan (opengameart.org)",
-    "contact": "none",
-    "modType": "Objects",
-	"compatibility" :
-	{
+	"name" : "Dead Land Terrain",
+	"description" : "Dead Land Terrain, can be used as native terrain for Necropolis",
+	"version" : "0.0.3",
+	"author" : "Zeryss, Fred79 and other modders for objects. Music theme is by CC0 licence from Tozan (opengameart.org)",
+	"contact" : "none",
+	"modType" : "Objects",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"changelog" :
-	{
-		"0.0.1"  : [ "Initial release" ],
-		"0.0.2"  : [ "Czech translation by George King" ],
-		"0.0.3"  : [ "Adjust for RMG multilayers feature" ]
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		],
+		"0.0.2" : [
+			"Czech translation by George King"
+		],
+		"0.0.3" : [
+			"Adjust for RMG multilayers feature"
+		]
 	},
 	"chinese" : {
-		"name": "死亡之地",
-		"description": "死亡之地地形，可以作为亡灵类种族的主地形使用。"
+		"name" : "死亡之地",
+		"description" : "死亡之地地形，可以作为亡灵类种族的主地形使用。"
 	},
 	"czech" : {
-		"name": "Mrtvá země",
-		"description": "Mrtvá zěme, může být použita jako výchozí terén pro Nekropoli nebo Údolí smrti."
+		"name" : "Mrtvá země",
+		"description" : "Mrtvá zěme, může být použita jako výchozí terén pro Nekropoli nebo Údolí smrti."
 	},
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/deadland-battlefields/battles_graphics.json"
 	],
-	"terrains":
-	[
+	"terrains" : [
 		"config/deadland-terrain/terrains.json"
 	],
-	"obstacles":
-	[
+	"obstacles" : [
 		"config/deadland-obstacles/obstacles.json"
 	],
-	"rivers":
-	[
+	"rivers" : [
 		"config/deadland-terrain/rivers.json"
 	],
-	"roads":
-	[
+	"roads" : [
 		"config/deadland-terrain/roads.json"
 	],
-	"objects":
-	[
+	"objects" : [
 		"config/deadland-decorations/bones.json",
 		"config/deadland-decorations/deadTree.json",
 		"config/deadland-decorations/deadTrees.json",
@@ -55,12 +53,12 @@
 		"config/deadland-decorations/Mountain.json",
 		"config/deadland-decorations/skulls.json",
 		"config/deadland-decorations/spikes.json",
- 		"config/deadland-decorations/Rock.json",
-  		"config/deadland-decorations/crater.json", 
-		"config/deadland-decorations/canyon.json",  
+		"config/deadland-decorations/Rock.json",
+		"config/deadland-decorations/crater.json",
+		"config/deadland-decorations/canyon.json",
 		"config/deadland-decorations2/graves.json",
 		"config/deadland-decorations2/Rock.json",
- 
+
 		"config/deadland-mines/Mines.json",
 
 		"config/deadland-objects/abandonedMine.json",

@@ -5,9 +5,20 @@
 				"templates" : {
 					"slFALF0104" : {
 						"animation" : "spoiledLand/objects/observation/FALF0104",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVVV", "VVVV", "VVBV", "VVAV"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VVBV",
+							"VVAV"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

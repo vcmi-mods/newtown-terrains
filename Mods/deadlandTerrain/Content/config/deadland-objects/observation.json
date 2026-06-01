@@ -1,14 +1,22 @@
 {
-	"core:redwoodObservatory": {
-
-		"types": {
-			"redwoodObservatory": {
-				"templates": {
-					"dlFALF0104": {
-						"animation": "deadland-objects/observation/FALF0104",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "VVVV", "VVBV", "VVAV"],
-						"allowedTerrains": [
+	"core:redwoodObservatory" : {
+		"types" : {
+			"redwoodObservatory" : {
+				"templates" : {
+					"dlFALF0104" : {
+						"animation" : "deadland-objects/observation/FALF0104",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"VVBV",
+							"VVAV"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

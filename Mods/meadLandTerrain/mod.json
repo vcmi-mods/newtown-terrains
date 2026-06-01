@@ -1,19 +1,23 @@
 {
-    "name": "Pasturage Terrain",
-    "description": "Pasturage Terrain",
-    "version": "0.0.3",
-    "author": "Zeryss,",
-    "contact": "none",
-    "modType": "Objects",
-	"compatibility" :
-	{
+	"name" : "Pasturage Terrain",
+	"description" : "Pasturage Terrain",
+	"version" : "0.0.3",
+	"author" : "Zeryss,",
+	"contact" : "none",
+	"modType" : "Objects",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"changelog" :
-	{
-		"0.0.1"  : [ "Initial release" ],
-		"0.0.2"  : [ "Czech translation by George King" ],
-		"0.0.3"  : [ "Adjust for RMG multilayers feature" ]
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		],
+		"0.0.2" : [
+			"Czech translation by George King"
+		],
+		"0.0.3" : [
+			"Adjust for RMG multilayers feature"
+		]
 	},
 	"chinese" : {
 		"name" : "草原地形",
@@ -23,21 +27,17 @@
 		"name" : "Louka",
 		"description" : "Obsahuje podklady pro louku."
 	},
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/meadLand/battlefields/battlefields.json"
 	],
-	"terrains":
-	[
+	"terrains" : [
 		"config/meadLand/terrain/terrains.json"
 	],
-	"obstacles":
-	[
+	"obstacles" : [
 		"config/meadLand/obstacles/obstacles.json"
 	],
-	"objects":
-	[
-	    "config/meadLand/decorations/canyon.json",
+	"objects" : [
+		"config/meadLand/decorations/canyon.json",
 		"config/meadLand/decorations/flowers.json",
 		"config/meadLand/decorations/grasstHills.json",
 		"config/meadLand/decorations/hole.json",
@@ -52,7 +52,7 @@
 		"config/meadLand/decorations/trees.json",
 		"config/meadLand/objects/abandonedMine.json",
 		"config/meadLand/objects/hillFort.json",
-	    "config/meadLand/objects/observation.json",
+		"config/meadLand/objects/observation.json",
 		"config/meadLand/objects/signs.json",
 		"config/meadLand/special/obelisk.json",
 		"config/meadLand/special/mines.json"

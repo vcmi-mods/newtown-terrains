@@ -1,13 +1,14 @@
 {
-    "spoiledLandToxicWaterRiver" : {
-      "text" : "Toxic River",
-      "shortIdentifier" : "pw",
-      "tilesFilename" : "spoiledLand/decorations/river/spoLanToxiWatRiv",
-      "delta" : "sspoiledLand/decorations/river/spoLanDelt",
-	  "paletteAnimation" : [
-			{ "start" : 240, "length" : 9 }
+	"spoiledLandToxicWaterRiver" : {
+		"text" : "Toxic River",
+		"shortIdentifier" : "pw",
+		"tilesFilename" : "spoiledLand/decorations/river/spoLanToxiWatRiv",
+		"delta" : "sspoiledLand/decorations/river/spoLanDelt",
+		"paletteAnimation" : [
+			{
+				"start" : 240,
+				"length" : 9
+			}
 		]
 	}
 }
-
-   

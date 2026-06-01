@@ -1,16 +1,22 @@
 {
-	"core:mercenaryCamp": {
-
-		"types": {
-			"mercenaryCamp": {
-
-				"templates": {
-
-					"avsmerc1": {
-						"animation": "deadland-objects2/mercenaryCamp/avsmerc1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "BAB"],
-						"allowedTerrains" : ["deadland"]
+	"core:mercenaryCamp" : {
+		"types" : {
+			"mercenaryCamp" : {
+				"templates" : {
+					"avsmerc1" : {
+						"animation" : "deadland-objects2/mercenaryCamp/avsmerc1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

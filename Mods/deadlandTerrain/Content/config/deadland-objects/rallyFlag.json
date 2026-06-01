@@ -1,15 +1,21 @@
 {
-	"core:rallyFlag": {
+	"core:rallyFlag" : {
+		"types" : {
+			"rallyFlag" : {
+				"templates" : {
+					"dlAVXRLLY0" : {
+						"animation" : "deadland-objects/rallyFlag/AVXRLLY0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VAB"
+						],
 
-		"types": {
-			"rallyFlag": {
-				"templates": {
-					"dlAVXRLLY0": {
-						"animation": "deadland-objects/rallyFlag/AVXRLLY0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VAB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

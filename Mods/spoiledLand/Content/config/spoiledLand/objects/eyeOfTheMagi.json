@@ -5,9 +5,18 @@
 				"templates" : {
 					"FALF0188" : {
 						"animation" : "spoiledLand/objects/eyeOfTheMagi/FALF0188",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV", "VB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

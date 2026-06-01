@@ -1,21 +1,27 @@
 {
-    "name": "Plateau Terrain",
-    "description": "Plateau Terrain",
-    "version": "0.0.3",
-    "author": "Zeryss,",
-    "contact": "none",
-    "modType": "Objects",
-	"compatibility" :
-	{
+	"name" : "Plateau Terrain",
+	"description" : "Plateau Terrain",
+	"version" : "0.0.3",
+	"author" : "Zeryss,",
+	"contact" : "none",
+	"modType" : "Objects",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"changelog" :
-	{
-		"0.0.1"  : [ "Initial release" ],
-		"0.0.2"  : [ "Czech translation by George King" ],
-		"0.0.3"  : [ "Adjust for RMG multilayers feature" ],
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		],
+		"0.0.2" : [
+			"Czech translation by George King"
+		],
+		"0.0.3" : [
+			"Adjust for RMG multilayers feature"
+		]
 	},
-	"softDepends" : [ "hota.highlandsterrain" ],
+	"softDepends" : [
+		"hota.highlandsterrain"
+	],
 	"chinese" : {
 		"name" : "高原地形",
 		"description" : "高原地形"
@@ -24,27 +30,22 @@
 		"name" : "Náhorní plošina",
 		"description" : "Obsahuje podklady náhorní plošinu."
 	},
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/plateau/battlefields/battlefields.json"
 	],
-	"terrains":
-	[
+	"terrains" : [
 		"config/plateau/terrain/terrains.json"
 	],
-	"obstacles":
-	[
+	"obstacles" : [
 		"config/plateau/obstacles/obstacles.json"
 	],
-	"objects":
-	[
-		
+	"objects" : [
 		"config/plateau/decorations/bones.json",
 		"config/plateau/decorations/crater.json",
 		"config/plateau/decorations/flowers.json",
- 		"config/plateau/decorations/lake.json",
-	    "config/plateau/decorations/pineTrees.json",
-       	"config/plateau/decorations/mountains.json",
+		"config/plateau/decorations/lake.json",
+		"config/plateau/decorations/pineTrees.json",
+		"config/plateau/decorations/mountains.json",
 		"config/plateau/decorations/shrub.json",
 		"config/plateau/decorations/stone.json",
 		"config/plateau/decorations/stump.json",

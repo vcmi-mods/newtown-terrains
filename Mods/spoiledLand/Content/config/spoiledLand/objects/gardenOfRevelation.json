@@ -5,9 +5,18 @@
 				"templates" : {
 					"AVSgrdn0" : {
 						"animation" : "spoiledLand/objects/gardenOfRevelation/AVSgrdn0",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV","VA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

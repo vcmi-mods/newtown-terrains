@@ -1,9 +1,8 @@
 {
-    "starRiver":
-    {
-        "text" : "Star River",
-        "shortIdentifier": "sr", //must be 2 characters
-        "tilesFilename": "star river/starRiv",
-        "delta": "star river/stardelt"
-    }
+	"starRiver" : {
+		"text" : "Star River",
+		"shortIdentifier" : "sr", //must be 2 characters
+		"tilesFilename" : "star river/starRiv",
+		"delta" : "star river/stardelt"
+	}
 }

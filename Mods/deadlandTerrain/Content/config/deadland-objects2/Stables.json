@@ -1,15 +1,23 @@
 {
-	"core:stables": {
+	"core:stables" : {
+		"types" : {
+			"stables" : {
+				"templates" : {
+					"AVXSTBL1" : {
+						"animation" : "deadland-objects2/stables/AVXSTBL1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBA"
+						],
 
-		"types": {
-			"stables": {
-				"templates": {
-					"AVXSTBL1": {
-						"animation": "deadland-objects2/stables/AVXSTBL1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VBA"],
-
-						"allowedTerrains" : ["deadland"]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

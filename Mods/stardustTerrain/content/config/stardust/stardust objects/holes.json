@@ -1,14 +1,15 @@
 {
-	"core:hole": {
-		"types": {
-			"object": {
-				"templates": {
-
-					"starH0119": {
-						"animation": "star holes/starH0119",
-						"mask": ["V"],
-						"zIndex": 100,
-						"allowedTerrains": [
+	"core:hole" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"starH0119" : {
+						"animation" : "star holes/starH0119",
+						"mask" : [
+							"V"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
 							"stardust"
 						]
 					}
@@ -16,26 +17,29 @@
 			}
 		}
 	},
-	
-	"core:crater": {
-		"types": {
-			"object": {
-				"templates": {
 
-					"starH0010": {
-						"animation": "star holes/AVLctrd0",
-						"mask": ["BB"],
-						"zIndex": 100,
-						"allowedTerrains": [
+	"core:crater" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"starH0010" : {
+						"animation" : "star holes/AVLctrd0",
+						"mask" : [
+							"BB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
 							"stardust"
 						]
 					},
 
-					"starH0120": {
-						"animation": "star holes/starH0120",
-						"mask": ["BBB"],
-						"zIndex": 100,
-						"allowedTerrains": [
+					"starH0120" : {
+						"animation" : "star holes/starH0120",
+						"mask" : [
+							"BBB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
 							"stardust"
 						]
 					}

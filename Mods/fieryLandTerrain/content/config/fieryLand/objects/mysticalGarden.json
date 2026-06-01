@@ -5,9 +5,18 @@
 				"templates" : {
 					"fieryLand_mysticalGarden" : {
 						"animation" : "fieryLand/objects/mysticalGarden/redGarden",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VBB", "BAB"],
-						"allowedTerrains" : ["fieryLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VBB",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"fieryLand"
+						]
 					}
 				}
 			}

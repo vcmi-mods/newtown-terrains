@@ -1,20 +1,19 @@
 {
-	"core:campfire": {
-
-		"types": {
-			"campfire": {
-				"templates": {
-					"adcfra0": {
-						"animation": "deadland-objects/campFire/adcfra0",
-						"visitableFrom": [
+	"core:campfire" : {
+		"types" : {
+			"campfire" : {
+				"templates" : {
+					"adcfra0" : {
+						"animation" : "deadland-objects/campFire/adcfra0",
+						"visitableFrom" : [
 							"+++",
 							"+++",
 							"+++"
 						],
-						"mask": [
+						"mask" : [
 							"VA"
 						],
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

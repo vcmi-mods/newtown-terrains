@@ -5,9 +5,19 @@
 				"templates" : {
 					"OBJ3302" : {
 						"animation" : "spoiledLand/objects/treeOfKnowledge/OBJ3299",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VVV", "VAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

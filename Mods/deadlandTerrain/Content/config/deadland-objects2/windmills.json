@@ -1,13 +1,23 @@
 {
-	"core:windmill": {
-		"types": {
-			"windmill": {
-				"templates": { 
-					"dlOBJ5128": {
-						"animation": "deadland-objects2/windmill/OBJ5128",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VBV", "BBB", "VAV"],
-						"allowedTerrains" : ["deadland"]
+	"core:windmill" : {
+		"types" : {
+			"windmill" : {
+				"templates" : {
+					"dlOBJ5128" : {
+						"animation" : "deadland-objects2/windmill/OBJ5128",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VBV",
+							"BBB",
+							"VAV"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

@@ -1,26 +1,36 @@
 {
-    "name" : "Spoiled Land",
-    "description" : "Spoiled Land.",
+	"name" : "Spoiled Land",
+	"description" : "Spoiled Land.",
 	"modType" : "Objects",
-    "version" : "0.0.7",
-    "author" : "Zeryss, Fred79 for objects",
-    "contact" : "https://vk.com/zeryss",
-	"compatibility" :
-	{
+	"version" : "0.0.7",
+	"author" : "Zeryss, Fred79 for objects",
+	"contact" : "https://vk.com/zeryss",
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"conflicts" :
-	[
-	],
-	"changelog" :
-	{
-		"0.0.7"  : [ "Adjust for RMG multilayers feature" ],
-		"0.0.6"   : [ "Reverting some changes" ],
-		"0.0.5"   : [ "zeryss fixes" ],
-		"0.0.4"   : [ "kdmcser fixes" ],
-		"0.0.3"   : [ "Czech translation by George King" ],
-		"0.0.2"   : [ "Update for VCMI 1.2" ],
-		"0.0.1"   : [ "Initial release" ]
+	"conflicts" : [],
+	"changelog" : {
+		"0.0.7" : [
+			"Adjust for RMG multilayers feature"
+		],
+		"0.0.6" : [
+			"Reverting some changes"
+		],
+		"0.0.5" : [
+			"zeryss fixes"
+		],
+		"0.0.4" : [
+			"kdmcser fixes"
+		],
+		"0.0.3" : [
+			"Czech translation by George King"
+		],
+		"0.0.2" : [
+			"Update for VCMI 1.2"
+		],
+		"0.0.1" : [
+			"Initial release"
+		]
 	},
 	"chinese" : {
 		"name" : "废土地形",
@@ -33,24 +43,19 @@
 		"name" : "Zkažená země",
 		"description" : "Nový terén s tématikou lávy."
 	},
-	"terrains":
-	[
+	"terrains" : [
 		"config/spoiledLand/terrain/terrains.json"
 	],
-	"obstacles" :
-	[
+	"obstacles" : [
 		"config/spoiledLand/terrain/obstacles.json"
 	],
-	"rivers":
-	[
+	"rivers" : [
 		"config/spoiledLand/terrain/rivers.json"
 	],
-	"battlefields":
-	[
+	"battlefields" : [
 		"config/spoiledLand/battlefields/battlefields.json"
 	],
-	"objects":
-	[
+	"objects" : [
 		"config/spoiledLand/decorations/bones.json",
 		"config/spoiledLand/decorations/canyon.json",
 		"config/spoiledLand/decorations/crater.json",
@@ -59,7 +64,7 @@
 		"config/spoiledLand/decorations/mountain.json",
 		"config/spoiledLand/objects/deltas.json",
 		"config/spoiledLand/decorations/deadVegetation.json",
-        "config/spoiledLand/decorations/volcano.json",
+		"config/spoiledLand/decorations/volcano.json",
 		"config/spoiledLand/objects/hillFort.json",
 		"config/spoiledLand/objects/abandonedMine.json",
 		"config/spoiledLand/objects/altarOfSacrifice.json",
@@ -84,10 +89,10 @@
 		"config/spoiledLand/objects/verticalGarrizon.json",
 		"config/spoiledLand/objects/wagon.json",
 		"config/spoiledLand/objects/warMachineFactory.json",
-		"config/spoiledLand/objects/witchHut.json",	
-		"config/spoiledLand/special/Mines.json",	
-		"config/spoiledLand/special/obelisks.json",	
-		"config/spoiledLand/special/subgates.json",	
+		"config/spoiledLand/objects/witchHut.json",
+		"config/spoiledLand/special/Mines.json",
+		"config/spoiledLand/special/obelisks.json",
+		"config/spoiledLand/special/subgates.json",
 		"config/spoiledLand/objects/marlettoTower.json",
 		"config/spoiledLand/objects/coverOfDarkness.json",
 		"config/spoiledLand/objects/denOfThieves.json",

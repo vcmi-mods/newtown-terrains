@@ -1,3 +1,5 @@
 {
-	"stardust": { "graphics" : "stardust/stardust bgy.png" }
+	"stardust" : {
+		"graphics" : "stardust/stardust bgy.png"
+	}
 }

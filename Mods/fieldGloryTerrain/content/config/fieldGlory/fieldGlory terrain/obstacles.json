@@ -1,61 +1,94 @@
 {
-	"ob_fog001":
-	{
-		"allowedTerrains" : ["fieldGlory"],
+	"ob_fog001" : {
+		"allowedTerrains" : [
+			"fieldGlory"
+		],
 		"specialBattlefields" : [],
 		"width" : 216,
 		"height" : 266,
-		"blockedTiles" :  [72, 90, 91, 92, 93, 94, 111],
+		"blockedTiles" : [
+			72,
+			90,
+			91,
+			92,
+			93,
+			94,
+			111
+		],
 		"animation" : "fieldGlory/ob_fg001.bmp",
 		"absolute" : true
 	},
-	"ob_fog002":
-	{
-		"allowedTerrains" : ["fieldGlory"],
+	"ob_fog002" : {
+		"allowedTerrains" : [
+			"fieldGlory"
+		],
 		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "fieldGlory/ob_fg002.def",
 		"absolute" : false
 	},
-	"ob_fog003":
-	{
-		"allowedTerrains" : ["fieldGlory"],
+	"ob_fog003" : {
+		"allowedTerrains" : [
+			"fieldGlory"
+		],
 		"specialBattlefields" : [],
 		"width" : 6,
 		"height" : 3,
-		"blockedTiles" :  [0, 1, 2, 3, -13, -12],
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			3,
+			-13,
+			-12
+		],
 		"animation" : "fieldGlory/ob_fg003.def",
 		"absolute" : false
 	},
-	"ob_fog004":
-	{
-		"allowedTerrains" : ["fieldGlory"],
+	"ob_fog004" : {
+		"allowedTerrains" : [
+			"fieldGlory"
+		],
 		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
-		"blockedTiles" :  [1],
+		"blockedTiles" : [
+			1
+		],
 		"animation" : "fieldGlory/ob_fg004.def",
 		"absolute" : false
 	},
-	"ob_fog005":
-	{
-		"allowedTerrains" : ["fieldGlory"],
+	"ob_fog005" : {
+		"allowedTerrains" : [
+			"fieldGlory"
+		],
 		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
-		"blockedTiles" :  [0, 1],
+		"blockedTiles" : [
+			0,
+			1
+		],
 		"animation" : "fieldGlory/ob_fg005.def",
 		"absolute" : false
 	},
-	"ob_fog006":
-	{
-		"allowedTerrains" : ["fieldGlory"],
+	"ob_fog006" : {
+		"allowedTerrains" : [
+			"fieldGlory"
+		],
 		"specialBattlefields" : [],
 		"width" : 3,
 		"height" : 2,
-		"blockedTiles" :  [1, 2, -16],
+		"blockedTiles" : [
+			1,
+			2,
+			-16
+		],
 		"animation" : "fieldGlory/ob_fg006.def",
 		"absolute" : false
 	}

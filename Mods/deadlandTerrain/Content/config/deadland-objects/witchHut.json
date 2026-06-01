@@ -1,14 +1,21 @@
 {
-	"core:witchHut": {
-
-		"types": {
-			"witchHut": {
-				"templates": {
-					"Alex0002": {
-						"animation": "deadland-objects/witchHut/Alex0002",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VAV"],
-						"allowedTerrains": [
+	"core:witchHut" : {
+		"types" : {
+			"witchHut" : {
+				"templates" : {
+					"Alex0002" : {
+						"animation" : "deadland-objects/witchHut/Alex0002",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VAV"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

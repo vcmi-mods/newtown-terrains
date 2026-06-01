@@ -1,15 +1,19 @@
 {
-	"core:magicWell": {
-
-		"types": {
-			"magicWell": {
-				"templates": {
- 
-					"FVOF0007": {
-						"animation": "deadland-objects/bloodWell/FVOF0007",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains":[
+	"core:magicWell" : {
+		"types" : {
+			"magicWell" : {
+				"templates" : {
+					"FVOF0007" : {
+						"animation" : "deadland-objects/bloodWell/FVOF0007",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VA"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

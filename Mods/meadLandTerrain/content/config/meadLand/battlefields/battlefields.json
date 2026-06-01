@@ -1,6 +1,5 @@
 {
 	"meadLandBattlefields" : {
-        "graphics" : "meadLand/battlefields/meadLandBattlefields"
-    }
+		"graphics" : "meadLand/battlefields/meadLandBattlefields"
+	}
 }
-

@@ -5,9 +5,18 @@
 				"templates" : {
 					"slAVGrefg0" : {
 						"animation" : "spoiledLand/objects/refugeeCamp/AVGrefg0",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV", "BA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

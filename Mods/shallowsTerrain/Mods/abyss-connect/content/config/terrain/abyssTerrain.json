@@ -1,6 +1,5 @@
 {
-	"abyss-town:abyss" :
-	{
-		"nativeTerrain": "shallows"
+	"abyss-town:abyss" : {
+		"nativeTerrain" : "shallows"
 	}
 }

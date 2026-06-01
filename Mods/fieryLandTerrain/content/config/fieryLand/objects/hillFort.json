@@ -5,9 +5,19 @@
 				"templates" : {
 					"fieryLand_hillFort" : {
 						"animation" : "fieryLand/objects/hillfort/fieryLandhillFort",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VBB", "VBA"],
-						"allowedTerrains" : ["fieryLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBB",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"fieryLand"
+						]
 					}
 				}
 			}

@@ -5,9 +5,19 @@
 				"templates" : {
 					"BlacDrAr" : {
 						"animation" : "spoiledLand/objects/arena/BlacDrAr",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVVV","VBBB", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VBBB",
+							"VBAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

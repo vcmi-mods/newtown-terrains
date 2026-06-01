@@ -1,14 +1,24 @@
 {
-	"core:schoolOfWar": {
-
-		"types": {
-			"schoolOfWar": {
-				"templates": {
-					"dlFALF0109": {
-						"animation": "deadland-objects/schoolOfWar/FALF0109",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask":["VVVV","VVVV","BBBV","VBAV"],
-						"allowedTerrains": [ "deadland" ]
+	"core:schoolOfWar" : {
+		"types" : {
+			"schoolOfWar" : {
+				"templates" : {
+					"dlFALF0109" : {
+						"animation" : "deadland-objects/schoolOfWar/FALF0109",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVV",
+							"VVVV",
+							"BBBV",
+							"VBAV"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

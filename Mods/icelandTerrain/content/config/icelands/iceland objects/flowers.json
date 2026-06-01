@@ -3,29 +3,37 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-				
-					"icelfl01" : { "animation" : "ice misc/crystalIce01", 
-					"mask" : [ "VB" ], 
-                    "allowedTerrains": [ "icelands" ]
+					"icelfl01" : {
+						"animation" : "ice misc/crystalIce01",
+						"mask" : [
+							"VB"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
 					},
-					
-					"icelfl02" : { "animation" : "ice misc/crystalIce02", 
-					"mask" : [ "VB" ], 
-                    "allowedTerrains": [ "icelands" ]
+
+					"icelfl02" : {
+						"animation" : "ice misc/crystalIce02",
+						"mask" : [
+							"VB"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
 					},
-					
-					"icelfl03" : { "animation" : "ice misc/crystalIce03", 
-					"mask" : [ "VB" ], 
-                    "allowedTerrains": [ "icelands" ]
+
+					"icelfl03" : {
+						"animation" : "ice misc/crystalIce03",
+						"mask" : [
+							"VB"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
 					}
 				}
-			}		
+			}
 		}
 	}
 }
-	
-	
-	
-
-
-	

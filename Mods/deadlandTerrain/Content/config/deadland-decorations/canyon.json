@@ -1,167 +1,253 @@
 {
-	"core:canyon": {
-
-		"types": {
-			"deadland-decorationsCanyon": {
-				"name": "Canyon",
-				"rmg": {
-					"zoneLimit": 3,
-					"value": 100,
-					"rarity": 50
+	"core:canyon" : {
+		"types" : {
+			"deadland-decorationsCanyon" : {
+				"name" : "Canyon",
+				"rmg" : {
+					"zoneLimit" : 3,
+					"value" : 100,
+					"rarity" : 50
 				},
-				"templates": {
+				"templates" : {
+					"AVLct1r0" : {
+						"animation" : "deadland-decorations/canyon/AVLct1r0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"BBV"
+						],
 
-					"AVLct1r0": {
-						"animation": "deadland-decorations/canyon/AVLct1r0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBB","BBV"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"AVLCT1U0": {
-						"animation": "deadland-decorations/canyon/AVLCT1U0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
+					"AVLCT1U0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT1U0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"AVLct2r0": {
-						"animation": "deadland-decorations/canyon/AVLct2r0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB","BB","BB"],
+					"AVLct2r0" : {
+						"animation" : "deadland-decorations/canyon/AVLct2r0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB",
+							"BB",
+							"BB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"AVLCT2U0": {
-						"animation": "deadland-decorations/canyon/AVLCT2U0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B"],
+					"AVLCT2U0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT2U0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"B"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"AVLct3r0": {
-						"animation": "deadland-decorations/canyon/AVLct3r0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBB"],
+					"AVLct3r0" : {
+						"animation" : "deadland-decorations/canyon/AVLct3r0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"AVLCT3U0": {
-						"animation": "deadland-decorations/canyon/AVLCT3U0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B","B"],
+					"AVLCT3U0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT3U0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"B",
+							"B"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"AVLCT4R0": {
-						"animation": "deadland-decorations/canyon/AVLCT4R0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
+					"AVLCT4R0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT4R0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
- 					"AVLCT4U0": {
-						"animation": "deadland-decorations/canyon/AVLCT4U0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB","BB"],
+					"AVLCT4U0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT4U0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB",
+							"BB"
+						],
 
-						"allowedTerrains": [
-							"deadland"
-						]
-					},					
-
- 					"AVLCT5R0": {
-						"animation": "deadland-decorations/canyon/AVLCT5R0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB" ],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},	
- 					"AVLCT5U0": {
-						"animation": "deadland-decorations/canyon/AVLCT5U0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B" ],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
- 					"AVLCT6R0": {
-						"animation": "deadland-decorations/canyon/AVLCT6R0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB","BB" ],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
-					"AVLCT7R0": {
-						"animation": "deadland-decorations/canyon/AVLCT7R0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B" ],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
-					"AVLCT8R0": {
-						"animation": "deadland-decorations/canyon/AVLCT8R0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB" ],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
-
-"AVLCT9R0": {
-						"animation": "deadland-decorations/canyon/AVLCT9R0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB" ,"BB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"AVLCT5R0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT5R0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-"AVLglly0": {
-						"animation": "deadland-decorations/canyon/AVLglly0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBBB" ,"BBBB","VBBB"],
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
+					"AVLCT5U0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT5U0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"B"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
+					"AVLCT6R0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT6R0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB",
+							"BB"
+						],
+
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
+					"AVLCT7R0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT7R0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"B"
+						],
+
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
+					"AVLCT8R0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT8R0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
+
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"AVLCT9R0" : {
+						"animation" : "deadland-decorations/canyon/AVLCT9R0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB",
+							"BB"
+						],
 
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
 
+					"AVLglly0" : {
+						"animation" : "deadland-decorations/canyon/AVLglly0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBBB",
+							"BBBB",
+							"VBBB"
+						],
 
-
-
-
-					
+						"allowedTerrains" : [
+							"deadland"
+						]
+					}
 				}
-						}
-
-
+			}
 		}
 	}
 }

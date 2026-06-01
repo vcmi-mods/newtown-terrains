@@ -1,6 +1,5 @@
 {
-	"ruins-town:ruins" :
-	{
-		"nativeTerrain": "meadLand"
+	"ruins-town:ruins" : {
+		"nativeTerrain" : "meadLand"
 	}
 }

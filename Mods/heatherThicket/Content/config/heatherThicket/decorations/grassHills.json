@@ -5,113 +5,209 @@
 				"templates" : {
 					"heaThiHil01" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil01",
-						"mask" : [ "VV","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil02" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil02",
-						"mask" : [ "VBV","BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VBV",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil03" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil03",
-						"mask" : [ "VVV","BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VVV",
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil04" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil04",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil05" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil05",
-						"mask" : [ "VB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil06" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil06",
-						"mask" : [ "VB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil07" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil07",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil08" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil08",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil09" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil09",
-						"mask" : [ "BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil10" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil10",
-						"mask" : [ "BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil11" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil11",
-						"mask" : [ "BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil12" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil12",
-						"mask" : [ "B" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"B"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil13" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil13",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil14" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil14",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil15" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil15",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil16" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil16",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil17" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil17",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil18" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil18",
-						"mask" : [ "BB","BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BB",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil19" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil19",
-						"mask" : [ "BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil20" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil20",
-						"mask" : [ "BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiHil21" : {
 						"animation" : "heatherThicket/decorations/grassHills/heaThiHil21",
-						"mask" : [ "BBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"BBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}
-		}	
-	}	
+		}
+	}
 }
-	
-	

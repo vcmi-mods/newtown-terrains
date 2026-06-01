@@ -1,13 +1,23 @@
 {
-	"core:treeOfKnowledge"	: {
+	"core:treeOfKnowledge" : {
 		"types" : {
 			"treeOfKnowledge" : {
 				"templates" : {
 					"heaThiKnoTre" : {
 						"animation" : "heatherThicket/objects/treeOfKnowledge/heaThiKnoTre",
-						"mask" : [ "VBV","VBV","VAV" ],
-						"visitableFrom" : [ "---", "+++", "+++" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"mask" : [
+							"VBV",
+							"VBV",
+							"VAV"
+						],
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

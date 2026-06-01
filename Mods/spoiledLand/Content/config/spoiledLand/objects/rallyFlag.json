@@ -5,9 +5,18 @@
 				"templates" : {
 					"slAVXRLLY0" : {
 						"animation" : "spoiledLand/objects/rallyFlag/AVXRLLY0",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVV", "VAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

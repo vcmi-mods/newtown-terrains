@@ -5,10 +5,19 @@
 				"templates" : {
 					"FALF0248" : {
 						"animation" : "spoiledLand/objects/learningStone/FALF0248",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VV", "VA"],
-						"allowedTerrains" : ["spoiledLand"]
-					}					
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					}
 				}
 			}
 		}

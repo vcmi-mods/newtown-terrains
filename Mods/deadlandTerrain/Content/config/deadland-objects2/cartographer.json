@@ -1,16 +1,24 @@
 {
-	"core:cartographer": {
+	"core:cartographer" : {
+		"types" : {
+			"cartographerLand" : {
+				"templates" : {
+					"AVXmaps0" : {
+						"animation" : "deadland-objects2/cartographer/AVXmaps0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VV",
+							"AB"
+						],
 
-		"types": {
-			"cartographerLand": {
-				"templates": {
-
-					"AVXmaps0": {
-						"animation": "deadland-objects2/cartographer/AVXmaps0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VV", "AB"],
-
-						"allowedTerrains" : ["deadland"]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

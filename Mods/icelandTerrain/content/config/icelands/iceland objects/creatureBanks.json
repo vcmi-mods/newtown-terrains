@@ -1,19 +1,23 @@
 {
-	"core:creatureBank" : 
-	{
-		"types" : 
-		{
-			"dwarvenTreasury" : 
-			{
-				"templates" :
-				{
-
-					"ice" :
-					{
+	"core:creatureBank" : {
+		"types" : {
+			"dwarvenTreasury" : {
+				"templates" : {
+					"ice" : {
 						"animation" : "ice object/iceObject10",
-						"mask" : [ "VVV","VVV","BAB" ], 
-						"visitableFrom" : [ "---", "+++", "+++" ],
-						"allowedTerrains": [ "icelands"	]
+						"mask" : [
+							"VVV",
+							"VVV",
+							"BAB"
+						],
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
 					}
 				}
 			}

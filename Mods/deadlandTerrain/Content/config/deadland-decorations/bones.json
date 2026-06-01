@@ -1,342 +1,454 @@
 {
-	"core:rock": {
-
-		"types": {
-			"deadland-decorationsbones01": {
-				"name": "Bones",
-				"rmg": {
-					"value": 100,
-					"rarity": 100
+	"core:rock" : {
+		"types" : {
+			"deadland-decorationsbones01" : {
+				"name" : "Bones",
+				"rmg" : {
+					"value" : 100,
+					"rarity" : 100
 				},
-				"templates": {
+				"templates" : {
+					"FROC0001" : {
+						"animation" : "deadland-decorations/bones/FROC0001",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-					"FROC0001": {
-						"animation": "deadland-decorations/bones/FROC0001",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-
-						"allowedTerrains": [
-							"deadland"
-
-						]
-					},
-					"FROC0002": {
-						"animation": "deadland-decorations/bones/FROC0002",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FROC0003": {
-						"animation": "deadland-decorations/bones/FROC0003",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+					"FROC0002" : {
+						"animation" : "deadland-decorations/bones/FROC0002",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FROC0004": {
-						"animation": "deadland-decorations/bones/FROC0004",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+					"FROC0003" : {
+						"animation" : "deadland-decorations/bones/FROC0003",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FROC0005": {
-						"animation": "deadland-decorations/bones/FROC0005",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B"],
+					"FROC0004" : {
+						"animation" : "deadland-decorations/bones/FROC0004",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FROC0006": {
-						"animation": "deadland-decorations/bones/FROC0006",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B"],
+					"FROC0005" : {
+						"animation" : "deadland-decorations/bones/FROC0005",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"B"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FROC0007": {
-						"animation": "deadland-decorations/bones/FROC0007",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+					"FROC0006" : {
+						"animation" : "deadland-decorations/bones/FROC0006",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"B"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"FROC0008": {
-						"animation": "deadland-decorations/bones/FROC0008",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+					"FROC0007" : {
+						"animation" : "deadland-decorations/bones/FROC0007",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
+					"FROC0008" : {
+						"animation" : "deadland-decorations/bones/FROC0008",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-					"FROC0009": {
-						"animation": "deadland-decorations/bones/FROC0009",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBB"],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
-					"FROC0010": {
-						"animation": "deadland-decorations/bones/FROC0010",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBB"],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
- 
-					"dlAVXSKDS1": {
-						"animation": "deadland-decorations/bones/last2/AVXSKDS1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV","BB"],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
-
-
-					"dlAVXSKDS2": {
-						"animation": "deadland-decorations/bones/last2/AVXSKDS2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBB","VVV"],
-
-						"allowedTerrains": [
-							"deadland"
-						]
-					},
-
-
-					"AVXSKDS4": {
-						"animation": "deadland-decorations/bones/last2/AVXSKDS4",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBBV","BBBB","BBVV"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"FROC0009" : {
+						"animation" : "deadland-decorations/bones/FROC0009",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB"
+						],
 
-					"Carcass1": {
-						"animation": "deadland-decorations/bones/last2/Carcass1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
+					"FROC0010" : {
+						"animation" : "deadland-decorations/bones/FROC0010",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"dlAVXSKDS1" : {
+						"animation" : "deadland-decorations/bones/last2/AVXSKDS1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BB"
+						],
 
-					"Carcass2": {
-						"animation": "deadland-decorations/bones/last2/Carcass2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"dlAVXSKDS2" : {
+						"animation" : "deadland-decorations/bones/last2/AVXSKDS2",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBB",
+							"VVV"
+						],
 
-					"Carcass3": {
-						"animation": "deadland-decorations/bones/last2/Carcass3",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"AVXSKDS4" : {
+						"animation" : "deadland-decorations/bones/last2/AVXSKDS4",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBBV",
+							"BBBB",
+							"BBVV"
+						],
 
-					"Carcass4": {
-						"animation": "deadland-decorations/bones/last2/Carcass4",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"Carcass1" : {
+						"animation" : "deadland-decorations/bones/last2/Carcass1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-					"DinoSkl1": {
-						"animation": "deadland-decorations/bones/last2/DinoSkl1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"Carcass2" : {
+						"animation" : "deadland-decorations/bones/last2/Carcass2",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-					"DinoSkl2": {
-						"animation": "deadland-decorations/bones/last2/DinoSkl2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV","BBB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"Carcass3" : {
+						"animation" : "deadland-decorations/bones/last2/Carcass3",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-					"DinoSkl3": {
-						"animation": "deadland-decorations/bones/last2/DinoSkl3",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BBV","VBB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"Carcass4" : {
+						"animation" : "deadland-decorations/bones/last2/Carcass4",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-					"DragSkl5": {
-						"animation": "deadland-decorations/bones/last2/DragSkl5",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VBB","BBB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"DinoSkl1" : {
+						"animation" : "deadland-decorations/bones/last2/DinoSkl1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-					"DragSkl6": {
-						"animation": "deadland-decorations/bones/last2/DragSkl6",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVVV","BBBBB","BVBBV"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
-					"SSkel1": {
-						"animation": "deadland-decorations/bones/last2/SSkel1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
+					"DinoSkl2" : {
+						"animation" : "deadland-decorations/bones/last2/DinoSkl2",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"BBB"
+						],
 
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"SSkel2": {
-						"animation": "deadland-decorations/bones/last2/SSkel2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
 
-						"allowedTerrains": [
+					"DinoSkl3" : {
+						"animation" : "deadland-decorations/bones/last2/DinoSkl3",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BBV",
+							"VBB"
+						],
+
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
 
+					"DragSkl5" : {
+						"animation" : "deadland-decorations/bones/last2/DragSkl5",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VBB",
+							"BBB"
+						],
 
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
 
+					"DragSkl6" : {
+						"animation" : "deadland-decorations/bones/last2/DragSkl6",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVVVV",
+							"BBBBB",
+							"BVBBV"
+						],
 
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
 
+					"SSkel1" : {
+						"animation" : "deadland-decorations/bones/last2/SSkel1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
+						"allowedTerrains" : [
+							"deadland"
+						]
+					},
+					"SSkel2" : {
+						"animation" : "deadland-decorations/bones/last2/SSkel2",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BB"
+						],
 
-
-
-
-
-
-
-
-
+						"allowedTerrains" : [
+							"deadland"
+						]
+					}
 				}
-
-
 			},
-			
-			
-			
-			"deadland-decorationsbones02": {
-				"name": "Skull",
-				"rmg": {
-					"zoneLimit":3,
-					"value": 100,
-					"rarity": 100
+
+			"deadland-decorationsbones02" : {
+				"name" : "Skull",
+				"rmg" : {
+					"zoneLimit" : 3,
+					"value" : 100,
+					"rarity" : 100
 				},
-				"templates": {
+				"templates" : {
+					"AVLskul0" : {
+						"animation" : "deadland-decorations/bones/last2/AVLskul0",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-					"AVLskul0": {
-						"animation": "deadland-decorations/bones/last2/AVLskul0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					},
-					"WolfSkl1": {
-						"animation": "deadland-decorations/bones/last2/WolfSkl1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+					"WolfSkl1" : {
+						"animation" : "deadland-decorations/bones/last2/WolfSkl1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-						"allowedTerrains": [
-							 "deadland"
+						"allowedTerrains" : [
+							"deadland"
 						]
 					},
-					"WolfSkl2": {
-						"animation": "deadland-decorations/bones/last2/WolfSkl2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
+					"WolfSkl2" : {
+						"animation" : "deadland-decorations/bones/last2/WolfSkl2",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VB"
+						],
 
-						"allowedTerrains": [
-							 "deadland"
+						"allowedTerrains" : [
+							"deadland"
 						]
-					},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+					}
 				}
-
-
-			},		
-			
-			 
-
- 					
-			
-				
+			}
 		}
 	}
 }

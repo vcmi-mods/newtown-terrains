@@ -5,9 +5,19 @@
 				"templates" : {
 					"heaThiHilFor" : {
 						"animation" : "heatherThicket/objects/hillfort/heaThiHilFor",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VVV", "VBB", "VBA"],
-						"allowedTerrains" : ["heatherThicket"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBB",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					}
 				}
 			}

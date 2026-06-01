@@ -6,15 +6,31 @@
 				"templates" : {
 					"AVXskds0" : {
 						"animation" : "spoiledLand/objects/corpse/AVXskds0",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["BA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"BA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					},
 					"AVXskdsx" : {
 						"animation" : "spoiledLand/objects/corpse/AVXskdsx",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["BA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"BA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
 					}
 				}
 			}

@@ -1,19 +1,34 @@
 {
-	"terrace" :
-	{
-		"text":"Terrace",
+	"terrace" : {
+		"text" : "Terrace",
 		"moveCost" : 100,
-		"minimapUnblocked" : [ 82, 117, 75 ],
-		"minimapBlocked"   : [ 97, 133, 70 ],
-		"music" : [ "Grass.mp3" ],
+		"minimapUnblocked" : [
+			82,
+			117,
+			75
+		],
+		"minimapBlocked" : [
+			97,
+			133,
+			70
+		],
+		"music" : [
+			"Grass.mp3"
+		],
 		"tiles" : "terrace/terrain/terrace",
 		"shortIdentifier" : "te",
-		"battleFields" : ["battlefield_01", "battlefield_02"],
+		"battleFields" : [
+			"battlefield_01",
+			"battlefield_02"
+		],
 		"terrainViewPatterns" : "grass",
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"river" : "waterRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"horseSound" : "horse02",
 		"horseSoundPenalty" : "horse22"
 	}

@@ -1,22 +1,27 @@
 {
-	"core:sanctuary": {
+	"core:sanctuary" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"OBJ2628" : {
+						"animation" : "deadland-objects2/sanctuary/OBJ2628",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVB",
+							"BAB"
+						],
 
-		"types": {
-			"object": {
-				"templates": {
-
-					"OBJ2628": {
-						"animation": "deadland-objects2/sanctuary/OBJ2628",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVB", "BAB"],
-
-						"allowedTerrains" : ["deadland"]
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}
 		}
 	}
 }
-	
-
-

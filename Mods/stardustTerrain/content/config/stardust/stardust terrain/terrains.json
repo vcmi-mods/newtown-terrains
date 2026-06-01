@@ -1,18 +1,33 @@
 {
-	"stardust" :
-	{
+	"stardust" : {
 		"text" : "Stardust",
 		"moveCost" : 100,
-		"minimapUnblocked" : [ 131, 86, 172 ],
-		 "minimapBlocked"   : [ 104, 61, 174 ],
-		"music" : [ "stardust/Stardust Theme" ],
+		"minimapUnblocked" : [
+			131,
+			86,
+			172
+		],
+		"minimapBlocked" : [
+			104,
+			61,
+			174
+		],
+		"music" : [
+			"stardust/Stardust Theme"
+		],
 		"tiles" : "stardust/startTerrian",
 		"river" : "starRiver",
-		"rockTerrain":"rock",
+		"rockTerrain" : "rock",
 		"shortIdentifier" : "sd",
 		"type" : [],
-		"allowedLayers": ["surface", "underground", "unknown"],
-		"battleFields" : ["stardust"],
+		"allowedLayers" : [
+			"surface",
+			"underground",
+			"unknown"
+		],
+		"battleFields" : [
+			"stardust"
+		],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27"
 	}

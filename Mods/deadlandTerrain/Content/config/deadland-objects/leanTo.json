@@ -1,16 +1,21 @@
 {
-	"core:leanTo": {
+	"core:leanTo" : {
+		"types" : {
+			"leanTo" : {
+				"templates" : {
+					"FALF0216" : {
+						"animation" : "deadland-objects/leanTo/FALF0216",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VA"
+						],
 
-		"types": {
-			"leanTo": {
-				"templates": {
-
-					"FALF0216": {
-						"animation": "deadland-objects/leanTo/FALF0216",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-
-						"allowedTerrains": [
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

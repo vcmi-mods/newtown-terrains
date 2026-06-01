@@ -1,13 +1,21 @@
 {
-	"core:warriorTomb": {
-		"types": {
-			"warriorTomb": {
-				"templates": {
-					"ChrchRn1": {
-						"animation": "deadland-objects/warriorTomb/ChrchRn1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BA"],
-						"allowedTerrains": [ "deadland" ]
+	"core:warriorTomb" : {
+		"types" : {
+			"warriorTomb" : {
+				"templates" : {
+					"ChrchRn1" : {
+						"animation" : "deadland-objects/warriorTomb/ChrchRn1",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"BA"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

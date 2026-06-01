@@ -1,6 +1,5 @@
 {
-	"core:necropolis" :
-	{
-		"nativeTerrain": "deadland"
+	"core:necropolis" : {
+		"nativeTerrain" : "deadland"
 	}
 }

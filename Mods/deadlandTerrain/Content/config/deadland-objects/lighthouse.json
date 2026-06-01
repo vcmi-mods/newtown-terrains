@@ -1,14 +1,22 @@
 {
-	"core:lighthouse": {
-
-		"types": {
-			"lighthouse": {
-				"templates": {
-					"FALF0229": {
-						"animation": "deadland-objects/lighthouse/FALF0229",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VVV", "VAB"],
-						"allowedTerrains": [
+	"core:lighthouse" : {
+		"types" : {
+			"lighthouse" : {
+				"templates" : {
+					"FALF0229" : {
+						"animation" : "deadland-objects/lighthouse/FALF0229",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VVV",
+							"VVV",
+							"VAB"
+						],
+						"allowedTerrains" : [
 							"deadland"
 						]
 					}

@@ -4,62 +4,100 @@
 			"icelandsLakes" : {
 				"name" : "湖",
 				"templates" : {
-			
-					"icelagoon01" : { "animation" : "ice lakes/ICELAKE01",  
-					"mask": ["BBB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
-					},						
-					
-					"icelagoon02" : { "animation" : "ice lakes/ICELAKE02",  
-					"mask": ["BB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
+					"icelagoon01" : {
+						"animation" : "ice lakes/ICELAKE01",
+						"mask" : [
+							"BBB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands"
+						]
 					},
-					
-					"icelagoon03" : { "animation" : "ice lakes/ICELAKE03",  
-					"mask": ["BBB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
+
+					"icelagoon02" : {
+						"animation" : "ice lakes/ICELAKE02",
+						"mask" : [
+							"BB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands"
+						]
 					},
-					
-					"icelagoon04" : { "animation" : "ice lakes/ICELAKE04",  
-					"mask": ["V"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
+
+					"icelagoon03" : {
+						"animation" : "ice lakes/ICELAKE03",
+						"mask" : [
+							"BBB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands"
+						]
 					},
-					
-					"icelagoon05" : { "animation" : "ice lakes/ICELAKE08",  
-					"mask": ["BB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands","snow" ]
+
+					"icelagoon04" : {
+						"animation" : "ice lakes/ICELAKE04",
+						"mask" : [
+							"V"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands"
+						]
 					},
-					
-					"icelagoon06" : { "animation" : "ice lakes/ICELAKE09",  
-					"mask": ["BB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands","snow" ]
+
+					"icelagoon05" : {
+						"animation" : "ice lakes/ICELAKE08",
+						"mask" : [
+							"BB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands",
+							"snow"
+						]
 					},
-					
-					"icelagoon07" : { "animation" : "ice lakes/ICELAKE07",  
-					"mask": ["VVVVV","BBBBB","BBBBB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
+
+					"icelagoon06" : {
+						"animation" : "ice lakes/ICELAKE09",
+						"mask" : [
+							"BB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands",
+							"snow"
+						]
 					},
-					
-					"icelagoon08" : { "animation" : "ice lakes/ICELAKE06",  
-					"mask": ["VVV","BBB"],
-					"zIndex": 100,
-                    "allowedTerrains": [ "icelands" ]
+
+					"icelagoon07" : {
+						"animation" : "ice lakes/ICELAKE07",
+						"mask" : [
+							"VVVVV",
+							"BBBBB",
+							"BBBBB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands"
+						]
+					},
+
+					"icelagoon08" : {
+						"animation" : "ice lakes/ICELAKE06",
+						"mask" : [
+							"VVV",
+							"BBB"
+						],
+						"zIndex" : 100,
+						"allowedTerrains" : [
+							"icelands"
+						]
 					}
 				}
 			}
-			
-		}	
-	}	
+		}
+	}
 }
-	
-	
-
-
-	

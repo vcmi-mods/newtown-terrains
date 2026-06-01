@@ -1,10 +1,8 @@
 {
-"deadlandGravelRoad":
-    {
-        "shortIdentifier" : "wz",
-        "tilesFilename" : "deadland-road/gravrd",
-        "moveCost" : 90,
+	"deadlandGravelRoad" : {
+		"shortIdentifier" : "wz",
+		"tilesFilename" : "deadland-road/gravrd",
+		"moveCost" : 90,
 		"text" : "Footpath Road"
-    } 
- 
+	}
 }

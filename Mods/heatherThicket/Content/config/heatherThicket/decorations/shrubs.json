@@ -4,35 +4,65 @@
 			"object" : {
 				"templates" : {
 					"heaThiShr00" : {
-						"animation" :  "heatherThicket/decorations/shrubs/heaThiShr00",
-						"mask" : [ "VV", "BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/shrubs/heaThiShr00",
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiShr01" : {
-						"animation" :  "heatherThicket/decorations/shrubs/heaThiShr01",
-						"mask" : [ "VV", "BB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/shrubs/heaThiShr01",
+						"mask" : [
+							"VV",
+							"BB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiShr02" : {
-						"animation" :  "heatherThicket/decorations/shrubs/heaThiShr02",
-						"mask" : [ "VVV", "VBB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/shrubs/heaThiShr02",
+						"mask" : [
+							"VVV",
+							"VBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-				    "heaThiShr03" : {
-						"animation" :  "heatherThicket/decorations/shrubs/heaThiShr03",
-						"mask" : [ "VV", "VB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+					"heaThiShr03" : {
+						"animation" : "heatherThicket/decorations/shrubs/heaThiShr03",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiShr04" : {
-						"animation" :  "heatherThicket/decorations/shrubs/heaThiShr04",
-						"mask" : [ "VV", "VB" ],
-						"allowedTerrains": [ "heatherThicket" ]
+						"animation" : "heatherThicket/decorations/shrubs/heaThiShr04",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
 					"heaThiShr05" : {
-						"animation" :  "heatherThicket/decorations/shrubs/heaThiShr05",
-						"mask" : [ "VVV", "VBV" ],
-						"allowedTerrains": [ "heatherThicket" ]
-					}					
+						"animation" : "heatherThicket/decorations/shrubs/heaThiShr05",
+						"mask" : [
+							"VVV",
+							"VBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
+					}
 				}
 			}
 		}

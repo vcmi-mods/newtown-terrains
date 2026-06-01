@@ -5,10 +5,19 @@
 				"templates" : {
 					"FDIF0035" : {
 						"animation" : "spoiledLand/objects/denOfThieves/FDIF0035",
-						"visitableFrom" : ["---", "-+-", "+++"],
-						"mask" : ["VV", "BA"],
-						"allowedTerrains" : ["spoiledLand"]
-					}					
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"BA"
+						],
+						"allowedTerrains" : [
+							"spoiledLand"
+						]
+					}
 				}
 			}
 		}

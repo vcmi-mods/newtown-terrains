@@ -1,15 +1,23 @@
 {
-	"core:hillFort": {
-
-		"types": {
-			"object": {
-				"templates": {
-	 
-					"hillFortOBJ7249": {
-						"animation": "deadland-objects2/hillfort/OBJ7249",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VBB", "VBA"],
-						"allowedTerrains" : ["deadland"]
+	"core:hillFort" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"hillFortOBJ7249" : {
+						"animation" : "deadland-objects2/hillfort/OBJ7249",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VVV",
+							"VBB",
+							"VBA"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

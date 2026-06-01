@@ -3,68 +3,123 @@
 		"types" : {
 			"object" : {
 				"templates" : {
-					"heaThiOakTre00" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre00",  
-					"mask" : [ "VV","VB"],
-					"allowedTerrains": [ "heatherThicket" ]
-					},						
-					
-					"heaThiOakTre01" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre01", 					 
-					"mask" : [ "VV","VB"],
-					"allowedTerrains": [ "heatherThicket" ]
+					"heaThiOakTre00" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre00",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre02" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre02", 					 
-					"mask" : [ "VVVV", "VVBB", "VBBV"],
-					"allowedTerrains": [ "heatherThicket" ]
+
+					"heaThiOakTre01" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre01",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre03" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre03", 
-					"mask" : [ "VVVV", "VVBB", "VBBV"],
-					"allowedTerrains": [ "heatherThicket" ]
+
+					"heaThiOakTre02" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre02",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre04" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre04", 
-					"mask" : [ "VVVV", "VBBV", "VVBB"],
-					"allowedTerrains": [ "heatherThicket" ]
-					},					
-					
-					"heaThiOakTre05" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre05",  
-					"mask" : [ "VVVV", "VBBV", "VVBB"],
-					"allowedTerrains": [ "heatherThicket" ]
+
+					"heaThiOakTre03" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre03",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre06" : { 
-					"animation" : 
-					"heatherThicket/decorations/oakTrees/heaThiOakTre06",  
-					"mask" : [ "VVVV", "VBBV", "VBBB", "VVBB"],
-					"allowedTerrains": [ "heatherThicket" ]
+
+					"heaThiOakTre04" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre04",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre07" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre07",  
-					"mask" : [ "VVVV", "VVBB", "VBBB", "VBBV"],
-					"allowedTerrains": [ "heatherThicket" ]
-					
+
+					"heaThiOakTre05" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre05",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre08" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre08",  
-					"mask" : [ "VV","VB"],
-					"allowedTerrains": [ "heatherThicket" ]
-					
+
+					"heaThiOakTre06" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre06",
+						"mask" : [
+							"VVVV",
+							"VBBV",
+							"VBBB",
+							"VVBB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
 					},
-					
-					"heaThiOakTre09" : { 
-					"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre09",  
-					"mask" : [ "VV","VB"],
-						"allowedTerrains" : ["heatherThicket"]
-					}				
+
+					"heaThiOakTre07" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre07",
+						"mask" : [
+							"VVVV",
+							"VVBB",
+							"VBBB",
+							"VBBV"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
+					},
+
+					"heaThiOakTre08" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre08",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
+					},
+
+					"heaThiOakTre09" : {
+						"animation" : "heatherThicket/decorations/oakTrees/heaThiOakTre09",
+						"mask" : [
+							"VV",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"heatherThicket"
+						]
+					}
 				}
 			}
 		}

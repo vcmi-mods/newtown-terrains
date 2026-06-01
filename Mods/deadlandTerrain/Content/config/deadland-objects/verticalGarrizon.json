@@ -1,14 +1,24 @@
 {
-	"core:garrisonVertical": {
-
-		"types": {		
-			"normal": {
-				"templates": {
-					"AVCvgr": {
-						"animation": "deadland-objects/verticalGarrizon/AVCvgr",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB", "VA", "VB"],
-						"allowedTerrains": [ "deadland" ]
+	"core:garrisonVertical" : {
+		"types" : {
+			"normal" : {
+				"templates" : {
+					"AVCvgr" : {
+						"animation" : "deadland-objects/verticalGarrizon/AVCvgr",
+						"visitableFrom" : [
+							"---",
+							"+++",
+							"+++"
+						],
+						"mask" : [
+							"VV",
+							"VB",
+							"VA",
+							"VB"
+						],
+						"allowedTerrains" : [
+							"deadland"
+						]
 					}
 				}
 			}

@@ -2,82 +2,80 @@
 	"name" : "Shallows terrain",
 	"description" : "Assets for shallows terrain.",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
-	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"author" : "Kurek",
 	"contact" : "w.kurek@gmail.com",
 	"version" : "1.4",
-	"changelog" :
-	{
-		"1.0"   : [ "creation of the mod" ],
-		"1.1"   : [ "bugs fixed" ],
-		"1.2"   : [ "Czech translation by George King" ],
-		"1.3"   : [ "Polish translation and fixes by Kurek" ],
-		"1.4"  : [ "Adjust for RMG multilayers feature" ],
+	"changelog" : {
+		"1.0" : [
+			"creation of the mod"
+		],
+		"1.1" : [
+			"bugs fixed"
+		],
+		"1.2" : [
+			"Czech translation by George King"
+		],
+		"1.3" : [
+			"Polish translation and fixes by Kurek"
+		],
+		"1.4" : [
+			"Adjust for RMG multilayers feature"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"modType" : "Objects",	
-	"conflicts" :
-	[
-
-	],
+	"modType" : "Objects",
+	"conflicts" : [],
 	"chinese" : {
 		"name" : "浅滩地形",
 		"description" : "浅滩地形资源包。",
 		"translations" : [
 			"translation/shallowsTerrain/chinese.json"
-	]
+		]
 	},
 	"polish" : {
-	"name" : "Płycizny",
-	"description" : "Obiekty do nowego terenu płycizn",
+		"name" : "Płycizny",
+		"description" : "Obiekty do nowego terenu płycizn"
 	},
 	"czech" : {
 		"name" : "Mělčina",
 		"description" : "Obsahuje podklady pro terén mělčiny."
 	},
-	"roads":
-	[
-	"config/shallowsobjects/roads.json"
+	"roads" : [
+		"config/shallowsobjects/roads.json"
 	],
-	"rivers":
-	[
-	"config/shallowsterrain/river.json"
+	"rivers" : [
+		"config/shallowsterrain/river.json"
 	],
-		
-    "objects" :
-    [ 
-	"config/shallowsobjects/deltas.json",
-	"config/shallowsobjects/bones.json",
-	"config/shallowsobjects/chasms.json",
-	"config/shallowsobjects/deadTrees.json",
-	"config/shallowsobjects/garrisons.json",
-	"config/shallowsobjects/holes.json",
-	"config/shallowsobjects/mountains.json",
-	"config/shallowsobjects/mines.json",
-	"config/shallowsobjects/rocks.json",
-	"config/shallowsobjects/ruins.json",
-	"config/shallowsobjects/sign.json",
-	"config/shallowsobjects/toxicWaste.json",
-	"config/shallowsobjects/islands.json",
-	"config/shallowsobjects/others.json"
-    ],
-	"battlefields" :
-	[
+
+	"objects" : [
+		"config/shallowsobjects/deltas.json",
+		"config/shallowsobjects/bones.json",
+		"config/shallowsobjects/chasms.json",
+		"config/shallowsobjects/deadTrees.json",
+		"config/shallowsobjects/garrisons.json",
+		"config/shallowsobjects/holes.json",
+		"config/shallowsobjects/mountains.json",
+		"config/shallowsobjects/mines.json",
+		"config/shallowsobjects/rocks.json",
+		"config/shallowsobjects/ruins.json",
+		"config/shallowsobjects/sign.json",
+		"config/shallowsobjects/toxicWaste.json",
+		"config/shallowsobjects/islands.json",
+		"config/shallowsobjects/others.json"
+	],
+	"battlefields" : [
 		"config/shallowsterrain/battlefields.json"
 	],
-	"obstacles" :
-	[
+	"obstacles" : [
 		"config/shallowsterrain/obstacles.json"
 	],
-	"terrains" :
-	[
+	"terrains" : [
 		"config/shallowsterrain/terrains.json"
 	],
-	"biomes" :
-	[
+	"biomes" : [
 		"config/shallowsterrain/shallowsbiomes"
-	],	
+	]
 }
