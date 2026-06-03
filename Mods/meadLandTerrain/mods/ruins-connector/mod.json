@@ -1,6 +1,6 @@
 {
 	"name" : "Ruins connector",
-	"description" : "This submod makes Pasturage terrain native to Ruins faction.",
+	"description" : "Allows the Ruins faction to settle naturally among the open fields of Pasturage.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "",

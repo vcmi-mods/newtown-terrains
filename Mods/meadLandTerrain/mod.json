@@ -1,6 +1,6 @@
 {
-	"name" : "Pasturage Terrain",
-	"description" : "Pasturage Terrain",
+	"name" : "Pasturage",
+	"description" : "A gentle pastoral country of green grazing fields, soft hills, scattered trees, and quiet rural roads.",
 	"version" : "0.0.3",
 	"author" : "Zeryss,",
 	"contact" : "none",
@@ -24,8 +24,8 @@
 		"description" : "草原地形"
 	},
 	"czech" : {
-		"name" : "Louka",
-		"description" : "Obsahuje podklady pro louku."
+		"name" : "Pastvina",
+		"description" : "Vlídný venkov zelených pastvin, měkkých kopců, roztroušených stromů a klidných polních cest."
 	},
 	"battlefields" : [
 		"config/meadLand/battlefields/battlefields.json"

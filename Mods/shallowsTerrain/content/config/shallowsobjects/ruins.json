@@ -1,6 +1,6 @@
 {
 	"shallowsruins" : {
-		"name" : "Sunken building",
+		"name" : "Sunken Building",
 		"handler" : "static",
 		"types" : {
 			"sunkenbuilding" : {

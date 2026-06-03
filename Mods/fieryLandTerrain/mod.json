@@ -1,6 +1,6 @@
 {
-	"name" : "Fiery Terrain",
-	"description" : "Fiery Terrain",
+	"name" : "Fiery Land",
+	"description" : "A scorched volcanic realm of lava flows, ash, fire, blackened stone, and trees burned by endless heat.",
 	"version" : "0.0.3",
 	"author" : "Zeryss,",
 	"contact" : "none",
@@ -24,8 +24,8 @@
 		"description" : "烈焰之地"
 	},
 	"czech" : {
-		"name" : "Spálená země",
-		"description" : "Území pokryté plameny a popelem."
+		"name" : "Ohnivá země",
+		"description" : "Sežehnutá sopečná říše lávových proudů, popela, ohně, zčernalého kamene a stromů spálených nekonečným žárem."
 	},
 	"battlefields" : [
 		"config/fieryLand/battlefields/battlefields.json"

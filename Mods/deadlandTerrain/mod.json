@@ -1,6 +1,6 @@
 {
-	"name" : "Dead Land Terrain",
-	"description" : "Dead Land Terrain, can be used as native terrain for Necropolis",
+	"name" : "Dead Land",
+	"description" : "A cursed land of withered soil, graves, and restless silence, well suited to Necropolis and Death Valley realms.",
 	"version" : "0.0.3",
 	"author" : "Zeryss, Fred79 and other modders for objects. Music theme is by CC0 licence from Tozan (opengameart.org)",
 	"contact" : "none",
@@ -25,7 +25,7 @@
 	},
 	"czech" : {
 		"name" : "Mrtvá země",
-		"description" : "Mrtvá zěme, může být použita jako výchozí terén pro Nekropoli nebo Údolí smrti."
+		"description" : "Prokletá krajina zvadlé půdy, hrobů a neklidného ticha, vhodná pro říše Nekropole a Údolí smrti."
 	},
 	"battlefields" : [
 		"config/deadland-battlefields/battles_graphics.json"

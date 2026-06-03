@@ -1,6 +1,6 @@
 {
-	"name" : "Ice Sheet terrain",
-	"description" : "Assets for Ice Sheet terrain",
+	"name" : "Ice Sheet",
+	"description" : "A frozen expanse of snow, ice, crystal pools, and harsh northern trails where only the hardy endure.",
 
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
@@ -41,8 +41,8 @@
 		"description" : "冰原地形的资源包，需要先安装HotA。"
 	},
 	"czech" : {
-		"name" : "Ledová země",
-		"description" : "Obsahuje podklady pro ledovou zemi."
+		"name" : "Ledová pláň",
+		"description" : "Zamrzlá pláň sněhu, ledu, křišťálových tůní a drsných severních cest, kde obstojí jen ti nejodolnější."
 	},
 	"german" : {
 		"name" : "Eisland",

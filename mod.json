@@ -1,6 +1,6 @@
 {
 	"name" : "New terrains",
-	"description" : "Assets for new terrains.",
+	"description" : "Expands the adventure map with 11 distinctive terrains:<br>• Dead Land<br>• Fields of Glory<br>• Fiery Land<br>• Heather Thicket<br>• Ice Sheet<br>• Pasturage<br>• Plateau<br>• Shallows<br>• Spoiled Land<br>• Stardust<br>• Terrace",
 	"modType" : "Objects",
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
@@ -135,28 +135,28 @@
 	},
 	"chinese" : {
 		"name" : "新地形",
-		"description" : "提供新种族特殊地形。",
+		"description" : "扩展冒险地图，加入 11 种独特地形:<br>• 死亡之地<br>• 荣耀之地<br>• 烈焰之地<br>• 石南丛<br>• 冰原<br>• 草原<br>• 高原<br>• 浅滩<br>• 废土<br>• 星尘<br>• 阶地",
 		"translations" : [
 			"translation/chinese.json"
 		]
 	},
 	"polish" : {
-		"name" : "Paczka nowych terenów",
-		"description" : "Nowe tereny",
+		"name" : "Nowe tereny",
+		"description" : "Rozszerza mapę przygody o 11 wyjątkowych terenów:<br>• Martwa Ziemia<br>• Pole Chwały<br>• Ognista Ziemia<br>• Wrzosowy Gąszcz<br>• Lodowiec<br>• Łąki<br>• Płaskowyż<br>• Płycizny<br>• Skażona Ziemia<br>• Gwiezdny Pył<br>• Pole Tarasowe",
 		"translations" : [
 			"translation/polish.json"
 		]
 	},
 	"russian" : {
-		"name" : "Новый пакет ландшафтов",
-		"description" : "Ресурсы для ландшафта звездной пыли, полей славы и ледяной пещеры.",
+		"name" : "Новые ландшафты",
+		"description" : "Расширяет карту приключений 11 уникальными ландшафтами:<br>• Место смерти<br>• Место славы<br>• Огненная земля<br>• Вереск<br>• Ледяной покров<br>• Луг<br>• Плато<br>• Мелководье<br>• Пустошь<br>• Звездная пыль<br>• Терраса",
 		"translations" : [
 			"translation/russian.json"
 		]
 	},
 	"czech" : {
 		"name" : "Nové terény",
-		"description" : "Obsahuje balíček nových terénů.",
+		"description" : "Rozšiřuje mapu dobrodružství o 11 jedinečných terénů:<br>• Mrtvá země<br>• Pole slávy<br>• Ohnivá země<br>• Vřesoviště<br>• Ledová pláň<br>• Pastvina<br>• Náhorní plošina<br>• Mělčiny<br>• Zkažená země<br>• Hvězdný prach<br>• Terasa",
 		"translations" : [
 			"translation/czech.json"
 		]

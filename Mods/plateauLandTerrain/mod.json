@@ -1,6 +1,6 @@
 {
-	"name" : "Plateau Terrain",
-	"description" : "Plateau Terrain",
+	"name" : "Plateau",
+	"description" : "A rugged highland of windswept cliffs, rocky paths, sparse growth, mines, and exposed battle grounds.",
 	"version" : "0.0.3",
 	"author" : "Zeryss,",
 	"contact" : "none",
@@ -28,7 +28,7 @@
 	},
 	"czech" : {
 		"name" : "Náhorní plošina",
-		"description" : "Obsahuje podklady náhorní plošinu."
+		"description" : "Drsná vysočina větrných útesů, kamenitých stezek, řídkého porostu, dolů a otevřených bojišť."
 	},
 	"battlefields" : [
 		"config/plateau/battlefields/battlefields.json"

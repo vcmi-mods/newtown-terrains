@@ -1,6 +1,6 @@
 {
-	"name" : "Terrace Terrain",
-	"description" : "Terrace Terrain",
+	"name" : "Terrace",
+	"description" : "A serene terraced country of sakura, bamboo, clear lakes, carved cliffs, and eastern garden paths.",
 	"version" : "0.4",
 	"author" : "Zeryss,",
 	"contact" : "none",
@@ -27,8 +27,8 @@
 		"description" : "阶地地形"
 	},
 	"czech" : {
-		"name" : "Terasovitý terén",
-		"description" : "Soubory pro terasovitý terén."
+		"name" : "Terasa",
+		"description" : "Poklidná terasovitá krajina sakur, bambusu, čistých jezer, tesaných útesů a východních zahradních cest."
 	},
 	"battlefields" : [
 		"config/terrace/battlefields/battlefields.json"

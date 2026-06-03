@@ -1,6 +1,6 @@
 {
 	"name" : "Death Valley connector",
-	"description" : "This submod makes Deadlands terrain native to Death Valley faction.",
+	"description" : "Allows the Death Valley faction to claim Dead Land as its native homeland.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "Noname, Fred79 for objects",
