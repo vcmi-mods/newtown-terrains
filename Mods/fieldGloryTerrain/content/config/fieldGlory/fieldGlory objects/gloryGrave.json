@@ -4,7 +4,7 @@
 		"name" : "Grave",
 		"types" : {
 			"graveGlory" : {
-				"name" : "Grave (Takes all movement points, and gives 500-5000 gold, a random Treasure of Minor artifact, and -3 morale until the next battle.)",
+				"name" : "Grave (takes all movement points, gives 500-5000 gold, a random Treasure or Minor artifact, and -3 morale until the next battle.)",
 				"rmg" : {
 					"value" : 500,
 					"rarity" : 30,
@@ -12,7 +12,7 @@
 				},
 				"rewards" : [
 					{
-						"message" : "{Grave}\r\n\r\nThis tomb is fresh, and even the shovel someone dug it with hasn't been stolen yet. You take up the latter, cover your nose with a handkerchief, and manage to extract something valuable from the ground.",
+						"message" : "{Grave}\r\n\r\nThis grave is fresh, and the shovel that dug it has not yet been stolen. Covering your nose with a handkerchief, you put the tool to grim use and unearth something of value.",
 						"appearChance" : {
 							"max" : 50
 						},
@@ -46,7 +46,7 @@
 						"removeObject" : true
 					},
 					{
-						"message" : "{Grave}\r\n\r\nThis tomb is fresh, and even the shovel someone dug it with hasn't been stolen yet. You take up the latter, cover your nose with a handkerchief, and manage to extract something valuable from the ground.",
+						"message" : "{Grave}\r\n\r\nThis grave is fresh, and the shovel that dug it has not yet been stolen. Covering your nose with a handkerchief, you put the tool to grim use and unearth something of value.",
 						"appearChance" : {
 							"min" : 50
 						},

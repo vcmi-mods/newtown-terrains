@@ -1,6 +1,6 @@
 {
-	"name" : "Stardust terrain",
-	"description" : "Assets for stardust terrain.",
+	"name" : "Stardust",
+	"description" : "A dreamlike star-lit land of glowing rivers, strange mushrooms, celestial dust, and quiet arcane wonders.",
 
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
@@ -38,7 +38,7 @@
 	},
 	"czech" : {
 		"name" : "Hvězdný prach",
-		"description" : "Soubory pro terén hvězdného prachu."
+		"description" : "Snová země pod hvězdným světlem se zářícími řekami, podivnými houbami, nebeským prachem a tichými arkánními divy."
 	},
 	"rivers" : [
 		"config/stardust/stardust terrain/river.json"

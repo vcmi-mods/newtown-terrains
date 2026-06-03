@@ -1,6 +1,6 @@
 {
 	"name" : "Refugee connector",
-	"description" : "This submod makes Plateau Land terrain native to Refugee faction.",
+	"description" : "Allows the Refugee faction to find its native refuge among the harsh Plateau heights.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "",

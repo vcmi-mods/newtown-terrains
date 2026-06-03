@@ -1,6 +1,6 @@
 {
 	"name" : "Mythology connector",
-	"description" : "This submod makes Pasturage terrain native to Mythology faction.",
+	"description" : "Allows the Mythology faction to call the peaceful Pasturage countryside its native land.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "",

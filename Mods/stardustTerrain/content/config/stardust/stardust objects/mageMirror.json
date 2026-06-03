@@ -34,12 +34,12 @@
 								"level" : 2
 							}
 						],
-						"message" : "{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you found some resources from underground.",
+						"message" : "{Magic Mirror}\r\n\r\nThe Magic Mirror is weary of being asked who is fairest of all. You have come with more practical concerns, and after a brief exchange it reveals a hidden cache beneath the ground.",
 						"removeObject" : true
 					}
 				],
-				"onSelectMessage" : "{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you found some resources from underground.",
-				"onEmptyMessage" : "{Magic Mirror}\r\n\r\nIt is a common mirror here. Maybe you are too weak in spell power to talk with a magic mirror. You need to reach at least level 5.",
+				"onSelectMessage" : "{Magic Mirror}\r\n\r\nThe Magic Mirror is weary of being asked who is fairest of all. You have come with more practical concerns, and after a brief exchange it reveals a hidden cache beneath the ground.",
+				"onEmptyMessage" : "{Magic Mirror}\r\n\r\nThe mirror shows only your own reflection. Perhaps your power is not yet strong enough to command its magic. Return after reaching level 5.",
 				"visitMode" : "unlimited",
 				"templates" : {
 					"avtglam" : {

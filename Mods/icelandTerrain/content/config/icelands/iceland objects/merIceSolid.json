@@ -25,7 +25,7 @@
 				},
 				"rewards" : [
 					{
-						"message" : "{Solid Mercury}\r\n\r\nYou found a piece of solid mercury in the frozen land and it might be combined with some other resources.",
+						"message" : "{Solid Mercury}\r\n\r\nYou find a lump of solid mercury locked in the frozen ground, mixed with other useful materials.",
 						"removeObject" : true,
 						"resources" : [
 							{

@@ -1,6 +1,6 @@
 {
 	"name" : "Tartarus connector",
-	"description" : "This submod makes Iceland terrain native to Tartarus faction.",
+	"description" : "Allows the Tartarus faction to march through Ice Sheet as its native frozen domain.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "",

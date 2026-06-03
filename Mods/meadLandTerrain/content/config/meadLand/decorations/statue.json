@@ -1,7 +1,7 @@
 {
 	"statue" : {
 		"handler" : "static",
-		"name" : "Mars statue",
+		"name" : "Mars Statue",
 		"types" : {
 			"statue" : {
 				"templates" : {

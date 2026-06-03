@@ -25,7 +25,7 @@
 				},
 				"rewards" : [
 					{
-						"message" : "{Cinnabar}\r\n\r\nThe cinnabar is a compound of mercury, sulfur and other resources. You are lucky to find it in the crimson land.",
+						"message" : "{Cinnabar}\r\n\r\nYou discover cinnabar, a crimson ore rich in mercury and sulfur. In this blood-red land, such a find is a welcome prize.",
 						"removeObject" : true,
 						"resources" : [
 							{

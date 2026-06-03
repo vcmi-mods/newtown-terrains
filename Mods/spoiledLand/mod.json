@@ -1,6 +1,6 @@
 {
 	"name" : "Spoiled Land",
-	"description" : "Spoiled Land.",
+	"description" : "A blighted wasteland poisoned by toxic rivers, cracked earth, dead growth, lava scars, and ominous ruins.",
 	"modType" : "Objects",
 	"version" : "0.0.7",
 	"author" : "Zeryss, Fred79 for objects",
@@ -41,7 +41,7 @@
 	},
 	"czech" : {
 		"name" : "Zkažená země",
-		"description" : "Nový terén s tématikou lávy."
+		"description" : "Zkažená pustina otrávená toxickými řekami, popraskanou zemí, mrtvým porostem, lávovými jizvami a zlověstnými ruinami."
 	},
 	"terrains" : [
 		"config/spoiledLand/terrain/terrains.json"

@@ -20,7 +20,7 @@
 				},
 				"rewards" : [
 					{
-						"message" : "{Dancer in Starlight}\r\n\r\nBeautiful dancer is dancing with balletic grace. You feel very enjoyable while watching her performance.",
+						"message" : "{Dancer in Starlight}\r\n\r\nA graceful dancer turns beneath the starlight. Her performance lifts your spirits.",
 						"bonuses" : [
 							{
 								"type" : "MORALE",
@@ -31,8 +31,8 @@
 						]
 					}
 				],
-				"onEmptyMessage" : "{Dancer in Starlight}\r\n\r\nIt is really a great experience for watching dancer's performance, but you are not interested in it now.",
-				"onVisitedMessage" : "{Dancer in Starlight}\r\n\r\nIt is really a great experience for watching dancer's performance, but you need to cherish the valuable time and do not always have fun.",
+				"onEmptyMessage" : "{Dancer in Starlight}\r\n\r\nWatching the dancer's performance was delightful, but it no longer holds your interest.",
+				"onVisitedMessage" : "{Dancer in Starlight}\r\n\r\nThe performance was enchanting, but a hero cannot spend all day beneath the starlight.",
 				"visitMode" : "bonus",
 				"selectMode" : "selectFirst",
 				"templates" : {

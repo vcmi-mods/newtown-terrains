@@ -27,7 +27,7 @@
 						},
 						"manaPoints" : 10,
 						"manaOverflowFactor" : 50,
-						"message" : "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"message" : "{Vial of Mana}\r\n\r\nAt the bank of the Stardust River, you find a small vial filled with shimmering water. Its magic restores your strength.",
 						"removeObject" : true
 					},
 					{
@@ -37,7 +37,7 @@
 						},
 						"manaPoints" : 20,
 						"manaOverflowFactor" : 50,
-						"message" : "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"message" : "{Vial of Mana}\r\n\r\nAt the bank of the Stardust River, you find a small vial filled with shimmering water. Its magic restores your strength.",
 						"removeObject" : true
 					},
 					{
@@ -47,7 +47,7 @@
 						},
 						"manaPoints" : 25,
 						"manaOverflowFactor" : 50,
-						"message" : "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"message" : "{Vial of Mana}\r\n\r\nAt the bank of the Stardust River, you find a small vial filled with shimmering water. Its magic restores your strength.",
 						"removeObject" : true
 					},
 					{
@@ -57,7 +57,7 @@
 						},
 						"manaPoints" : 30,
 						"manaOverflowFactor" : 50,
-						"message" : "{Vial of Mana}\r\n\r\nYou found a vial from the side of stardust river. You know the water is full of magic power and it will help you a lot.",
+						"message" : "{Vial of Mana}\r\n\r\nAt the bank of the Stardust River, you find a small vial filled with shimmering water. Its magic restores your strength.",
 						"removeObject" : true
 					}
 				],

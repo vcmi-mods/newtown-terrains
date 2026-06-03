@@ -25,7 +25,7 @@
 				},
 				"rewards" : [
 					{
-						"message" : "{Stardust Flake}\r\n\r\nYou have found some resources in flakes of stardust.",
+						"message" : "{Stardust Flake}\r\n\r\nWithin the flakes of stardust, you discover a handful of useful resources.",
 						"removeObject" : true,
 						"resources" : [
 							{
