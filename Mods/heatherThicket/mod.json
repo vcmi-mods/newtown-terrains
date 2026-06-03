@@ -1,6 +1,6 @@
 {
-	"name" : "Heather Thicket terrain",
-	"description" : "New, night-themed terrain. Mod contains submod that connect Heather Thicket terrain with Grove making it native.",
+	"name" : "Heather Thicket",
+	"description" : "A moonlit wilderness of dense heather, dark woods, quiet lakes, and hidden paths beneath a cold night sky.",
 	"modType" : "Objects",
 	"version" : "0.3.4",
 	"author" : "Noname, Fred79 for objects",
@@ -38,7 +38,7 @@
 	},
 	"czech" : {
 		"name" : "Vřesoviště",
-		"description" : "Nový noční terén. Mod obsahuje submod, který propojuje terén Vřesoviště s Hájem, čímž se stává jeho přirozeným prostředím."
+		"description" : "Měsíční divočina hustého vřesu, temných lesů, tichých jezer a skrytých stezek pod chladnou noční oblohou."
 	},
 	"terrains" : [
 		"config/heatherThicket/terrain/terrains.json"

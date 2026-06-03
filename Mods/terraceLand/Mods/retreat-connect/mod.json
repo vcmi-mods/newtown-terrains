@@ -1,6 +1,6 @@
 {
 	"name" : "Retreat connector",
-	"description" : "This submod makes Terrace Land terrain native to Retreat faction.",
+	"description" : "Allows the Retreat faction to make the calm terraces its natural homeland.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "Noname, Fred79 for objects",

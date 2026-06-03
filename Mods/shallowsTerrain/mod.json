@@ -1,6 +1,6 @@
 {
-	"name" : "Shallows terrain",
-	"description" : "Assets for shallows terrain.",
+	"name" : "Shallows",
+	"description" : "A coastal world of bright shallows, reefs, corals, lonely islands, sea rocks, and hidden trenches.",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"author" : "Kurek",
@@ -40,8 +40,8 @@
 		"description" : "Obiekty do nowego terenu płycizn"
 	},
 	"czech" : {
-		"name" : "Mělčina",
-		"description" : "Obsahuje podklady pro terén mělčiny."
+		"name" : "Mělčiny",
+		"description" : "Pobřežní svět jasných mělčin, útesů, korálů, osamělých ostrovů, mořských skal a skrytých příkopů."
 	},
 	"roads" : [
 		"config/shallowsobjects/roads.json"

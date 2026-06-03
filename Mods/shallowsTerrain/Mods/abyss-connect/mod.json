@@ -1,6 +1,6 @@
 {
 	"name" : "Abyss connector",
-	"description" : "This submod makes Shallows terrain native to Abyss faction.",
+	"description" : "Allows the Abyss faction to rise from the Shallows as from its native waters.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "Kurek",

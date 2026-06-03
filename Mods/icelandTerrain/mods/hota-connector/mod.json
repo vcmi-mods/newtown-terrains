@@ -1,6 +1,6 @@
 {
 	"name" : "HotA connector",
-	"description" : "This submod makes some HotA objects native with this terrain.",
+	"description" : "Blends selected HotA adventure map objects naturally into the frozen Ice Sheet wilderness.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "",

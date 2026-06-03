@@ -1,6 +1,6 @@
 {
 	"name" : "Grove connector",
-	"description" : "This submod makes Heather Thicket terrain native to Grove faction.",
+	"description" : "Allows the Grove faction to treat Heather Thicket as its natural wild homeland.",
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"author" : "Noname, Fred79 for objects",

@@ -1,6 +1,6 @@
 {
-	"name" : "Fields of Glory terrain",
-	"description" : "Assets for fields of glory terrain.",
+	"name" : "Fields of Glory",
+	"description" : "A crimson battlefield where old victories and forgotten graves still shape the ground beneath marching armies.",
 	"modType" : "Objects",
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
@@ -36,8 +36,8 @@
 		"description" : "荣耀之地的地形资源包。"
 	},
 	"czech" : {
-		"name" : "Bitevní pole",
-		"description" : "Soubory pro terén bitevního pole."
+		"name" : "Pole slávy",
+		"description" : "Karmínové bojiště, kde stará vítězství a zapomenuté hroby stále formují půdu pod pochodujícími armádami."
 	},
 	"objects" : [
 		"config/fieldGlory/fieldGlory objects/bones.json",

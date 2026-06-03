@@ -1,6 +1,6 @@
 {
 	"searocks" : {
-		"name" : "Sea rocks",
+		"name" : "Sea Rocks",
 		"handler" : "static",
 		"types" : {
 			"object" : {

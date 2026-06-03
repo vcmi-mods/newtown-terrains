@@ -14,12 +14,12 @@
 						"MORALE"
 					]
 				},
-				"onVisitedMessage" : "{Ice Hut}\r\n\r\nPlease do not stay here because you have already taken all of hunter's supplies.",
+				"onVisitedMessage" : "{Ice Hut}\r\n\r\nThere is no reason to linger here; you have already taken all of the hunter's supplies.",
 				"visitMode" : "bonus",
 				"selectMode" : "selectFirst",
 				"rewards" : [
 					{
-						"message" : "{Ice Hut}\r\n\r\nYou have found an ice hut which was built by a hunter. You took some food and clothes then left the room while no one is there now.",
+						"message" : "{Ice Hut}\r\n\r\nYou find an ice hut built by a lone hunter. With no one inside, you take some food and warm clothes before continuing on your way.",
 						"movePoints" : 400,
 						"bonuses" : [
 							{

@@ -16,7 +16,7 @@
 				},
 				"rewards" : [
 					{
-						"message" : "{Crystal Pool}\r\n\r\nCrystals seem to grow right out of the water of this beautiful Crystal Pool. You collect 5 crystals right now and estimate that the Pool will yield another 500 gold or 5 crystals per week.",
+						"message" : "{Crystal Pool}\r\n\r\nCrystals seem to grow straight from the waters of this beautiful Crystal Pool. You collect 5 crystals and estimate that the Pool will yield another 500 gold or 5 crystals each week.",
 						"appearChance" : {
 							"max" : 50
 						},
@@ -25,7 +25,7 @@
 						}
 					},
 					{
-						"message" : "{Crystal Pool}\r\n\r\nCrystals seem to grow right out of the water of this beautiful Crystal Pool. You collect 500 gold right now and estimate that the Pool will yield another 500 gold or 5 crystals per week.",
+						"message" : "{Crystal Pool}\r\n\r\nCrystals seem to grow straight from the waters of this beautiful Crystal Pool. You collect 500 gold and estimate that the Pool will yield another 500 gold or 5 crystals each week.",
 						"appearChance" : {
 							"min" : 50
 						},
@@ -34,7 +34,7 @@
 						}
 					}
 				],
-				"onVisitedMessage" : "{Crystal Pool}\r\n\r\nThis lovely Crystal Pool will provide you with 500 gold or 5 crystals each week, but right now there is nothing to collect.",
+				"onVisitedMessage" : "{Crystal Pool}\r\n\r\nThis lovely Crystal Pool yields 500 gold or 5 crystals each week, but there is nothing to collect right now.",
 				"resetParameters" : {
 					"period" : 7,
 					"visitors" : true,
