@@ -3,83 +3,73 @@
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 3,
-		"height" : 3,
+		"height" : 2,
 		"blockedTiles" : [
 			1,
 			2,
 			-15
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD00.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD01" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
-		"width" : 4,
-		"height" : 3,
+		"width" : 3,
+		"height" : 2,
 		"blockedTiles" : [
 			0,
 			1,
-			2,
-			-15,
-			-16
+			2
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD01.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD02" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
 		"blockedTiles" : [
 			0,
-			1,
-			-16
+			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD02.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD03" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
-		"width" : 4,
-		"height" : 3,
+		"width" : 3,
+		"height" : 2,
 		"blockedTiles" : [
 			1,
 			2
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD03.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD04" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
-		"width" : 4,
-		"height" : 3,
+		"width" : 3,
+		"height" : 2,
 		"blockedTiles" : [
 			1,
-			2,
-			-15
+			2
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD04.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD05" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -87,13 +77,12 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD05.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD06" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -101,13 +90,12 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD06.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD07" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -115,13 +103,12 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD07.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD08" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -129,27 +116,25 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD08.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD09" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
-		"width" : 3,
+		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
 			0,
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD09.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD10" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -157,13 +142,12 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD10.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD11" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -171,13 +155,12 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD11.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD12" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
@@ -185,35 +168,33 @@
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD12.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD13" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
-		"width" : 3,
-		"height" : 2,
+		"width" : 2,
+		"height" : 1,
 		"blockedTiles" : [
 			0,
 			1
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD13.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"htHLD19" : {
 		"allowedTerrains" : [
 			"heatherThicket"
 		],
-		"specialBattlefields" : [],
-		"width" : 4,
-		"height" : 2,
+		"width" : 3,
+		"height" : 1,
 		"blockedTiles" : [
 			0,
 			1,
 			2
 		],
 		"animation" : "heatherThicket/obstacles/ObHLD19.def",
-		"absolute" : false
+		"foreground" : true
 	}
 }

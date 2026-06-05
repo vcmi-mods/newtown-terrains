@@ -54,38 +54,33 @@
 	"shallowsCraters" : {
 		"allowedTerrains" : [
 			"shallows"
-		], //to change later
-		"specialBattlefields" : [],
-		"width" : 5,
-		"height" : 3,
+		],
+		"width" : 4,
+		"height" : 2,
 		"blockedTiles" : [
 			0,
 			1,
 			2,
+			3,
+			-16,
 			-15,
-			-14,
-			-16
+			-14
 		],
-		"animation" : "shallowsterrain/shallowsOb3.def",
-		"absolute" : false
+		"animation" : "shallowsterrain/shallowsOb3.def"
 	},
 	"shallowsothers" : {
 		"allowedTerrains" : [
 			"shallows"
-		], //to change later
-		"specialBattlefields" : [],
-		"width" : 5,
-		"height" : 3,
+		],
+		"width" : 3,
+		"height" : 2,
 		"blockedTiles" : [
 			0,
 			1,
-			2,
-			-15,
-			-16,
-			-17
+			2
 		],
 		"animation" : "shallowsterrain/shallowsOb4.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"shallowstrees" : {
 		"allowedTerrains" : [
@@ -93,48 +88,44 @@
 		],
 		"specialBattlefields" : [],
 		"width" : 3,
-		"height" : 3,
+		"height" : 2,
 		"blockedTiles" : [
+			0,
 			1,
+			2,
 			-15,
 			-16
 		],
 		"animation" : "shallowsterrain/shallowsOb5.def",
-		"absolute" : false
+		"foreground" : true
 	},
 
 	"shallowsBarrels" : {
 		"allowedTerrains" : [
 			"shallows"
 		],
-		"specialBattlefields" : [],
 		"width" : 3,
 		"height" : 3,
 		"blockedTiles" : [
-			0,
-			1,
-			-15,
 			-16
 		],
 		"animation" : "shallowsterrain/shallowsOb6.def",
-		"absolute" : false
+		"foreground" : true
 	},
 
 	"shallowsRocks" : {
 		"allowedTerrains" : [
 			"shallows"
 		],
-		"specialBattlefields" : [],
-		"width" : 5,
+		"width" : 3,
 		"height" : 3,
 		"blockedTiles" : [
 			0,
 			1,
 			2,
-			-14,
 			-15
 		],
 		"animation" : "shallowsterrain/shallowsOb7.def",
-		"absolute" : false
+		"foreground" : true
 	}
 }

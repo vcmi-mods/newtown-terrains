@@ -3,7 +3,6 @@
 		"allowedTerrains" : [
 			"spoiledLand"
 		],
-		"specialBattlefields" : [],
 		"width" : 256,
 		"height" : 128,
 		"blockedTiles" : [
@@ -26,7 +25,6 @@
 		"allowedTerrains" : [
 			"spoiledLand"
 		],
-		"specialBattlefields" : [],
 		"width" : 124,
 		"height" : 254,
 		"blockedTiles" : [
@@ -57,8 +55,7 @@
 			-32,
 			-33
 		],
-		"animation" : "spoiledland/obstacles/spoLanObLv3.def",
-		"absolute" : false
+		"animation" : "spoiledland/obstacles/spoLanObLv3.def"
 	},
 	"poisonousVolcano" : {
 		"allowedTerrains" : [
@@ -74,8 +71,7 @@
 			-15,
 			-16
 		],
-		"animation" : "spoiledland/obstacles/spoLanObLv4.def",
-		"absolute" : false
+		"animation" : "spoiledland/obstacles/spoLanObLv4.def"
 	},
 	"poisonousLake" : {
 		"allowedTerrains" : [
@@ -87,13 +83,11 @@
 			-13,
 			-14,
 			-15,
-			-30,
 			-31,
 			-32,
 			-33
 		],
-		"animation" : "spoiledland/obstacles/spoLanObLv5.def",
-		"absolute" : false
+		"animation" : "spoiledland/obstacles/spoLanObLv5.def"
 	},
 	"smallVolcano" : {
 		"allowedTerrains" : [
@@ -107,8 +101,7 @@
 			2
 		],
 		"animation" : "spoiledland/obstacles/spoLanObLv6.def",
-		"foreground" : true,
-		"absolute" : false
+		"foreground" : true
 	},
 	"acidGap" : {
 		"allowedTerrains" : [
@@ -141,8 +134,7 @@
 			-30,
 			-31
 		],
-		"animation" : "spoiledland/obstacles/spoLanObLv8.def",
-		"absolute" : false
+		"animation" : "spoiledland/obstacles/spoLanObLv8.def"
 	},
 	"acidLake" : {
 		"allowedTerrains" : [
@@ -159,7 +151,6 @@
 			-32,
 			-33
 		],
-		"animation" : "spoiledland/obstacles/spoLanObLv9.def",
-		"absolute" : false
+		"animation" : "spoiledland/obstacles/spoLanObLv9.def"
 	}
 }

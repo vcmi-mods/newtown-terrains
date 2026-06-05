@@ -55,25 +55,15 @@
 		"absolute" : true
 	},
 
-	"ob_ice01" : {
-		"allowedTerrains" : [
-			"icelands"
-		],
-		"width" : 3,
-		"height" : 1,
-		"blockedTiles" : [
-			0,
-			1,
-			2
-		],
-		"animation" : "ObSnS01.def",
-		"absolute" : false
+	"core:24" : {
+		"allowedTerrains" : {
+			"append" : "icelands"
+		}
 	},
 	"ob_ice02" : {
 		"allowedTerrains" : [
 			"icelands"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
 		"blockedTiles" : [
@@ -81,13 +71,12 @@
 			1
 		],
 		"animation" : "icelands/ob_ci001.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"ob_ice03" : {
 		"allowedTerrains" : [
 			"icelands"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
 		"blockedTiles" : [
@@ -95,13 +84,12 @@
 			1
 		],
 		"animation" : "icelands/ob_ci002.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"ob_ice04" : {
 		"allowedTerrains" : [
 			"icelands"
 		],
-		"specialBattlefields" : [],
 		"width" : 4,
 		"height" : 2,
 		"blockedTiles" : [
@@ -110,6 +98,6 @@
 			3
 		],
 		"animation" : "icelands/ob_ci003.def",
-		"absolute" : false
+		"foreground" : true
 	}
 }
