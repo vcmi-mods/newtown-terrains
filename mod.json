@@ -1,6 +1,6 @@
 {
 	"name" : "New terrains",
-	"description" : "Expands the adventure map with 11 distinctive terrains:<br>• Dead Land<br>• Fields of Glory<br>• Fiery Land<br>• Heather Thicket<br>• Ice Sheet<br>• Pasturage<br>• Plateau<br>• Shallows<br>• Spoiled Land<br>• Stardust<br>• Terrace",
+	"description" : "Expands the adventure map with 11 distinctive terrains:<br/><br/><br/><br/>• Dead Land<br/><br/>• Fields of Glory<br/><br/>• Fiery Land<br/><br/>• Heather Thicket<br/><br/>• Ice Sheet<br/><br/>• Pasturage<br/><br/>• Plateau<br/><br/>• Shallows<br/><br/>• Spoiled Land<br/><br/>• Stardust<br/><br/>• Terrace",
 	"modType" : "Objects",
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
@@ -135,28 +135,28 @@
 	},
 	"chinese" : {
 		"name" : "新地形",
-		"description" : "扩展冒险地图，加入 11 种独特地形:<br>• 死亡之地<br>• 荣耀之地<br>• 烈焰之地<br>• 石南丛<br>• 冰原<br>• 草原<br>• 高原<br>• 浅滩<br>• 废土<br>• 星尘<br>• 阶地",
+		"description" : "扩展冒险地图，加入 11 种独特地形:<br/><br/>• 死亡之地<br/><br/>• 荣耀之地<br/><br/>• 烈焰之地<br/><br/>• 石南丛<br/><br/>• 冰原<br/><br/>• 草原<br/><br/>• 高原<br/><br/>• 浅滩<br/><br/>• 废土<br/><br/>• 星尘<br/><br/>• 阶地",
 		"translations" : [
 			"translation/chinese.json"
 		]
 	},
 	"polish" : {
 		"name" : "Nowe tereny",
-		"description" : "Rozszerza mapę przygody o 11 wyjątkowych terenów:<br>• Martwa Ziemia<br>• Pole Chwały<br>• Ognista Ziemia<br>• Wrzosowy Gąszcz<br>• Lodowiec<br>• Łąki<br>• Płaskowyż<br>• Płycizny<br>• Skażona Ziemia<br>• Gwiezdny Pył<br>• Pole Tarasowe",
+		"description" : "Rozszerza mapę przygody o 11 wyjątkowych terenów:<br/><br/>• Martwa Ziemia<br/><br/>• Pole Chwały<br/><br/>• Ognista Ziemia<br/><br/>• Wrzosowy Gąszcz<br/><br/>• Lodowiec<br/><br/>• Łąki<br/><br/>• Płaskowyż<br/><br/>• Płycizny<br/><br/>• Skażona Ziemia<br/><br/>• Gwiezdny Pył<br/><br/>• Pole Tarasowe",
 		"translations" : [
 			"translation/polish.json"
 		]
 	},
 	"russian" : {
 		"name" : "Новые ландшафты",
-		"description" : "Расширяет карту приключений 11 уникальными ландшафтами:<br>• Место смерти<br>• Место славы<br>• Огненная земля<br>• Вереск<br>• Ледяной покров<br>• Луг<br>• Плато<br>• Мелководье<br>• Пустошь<br>• Звездная пыль<br>• Терраса",
+		"description" : "Расширяет карту приключений 11 уникальными ландшафтами:<br/><br/>• Место смерти<br/><br/>• Место славы<br/><br/>• Огненная земля<br/><br/>• Вереск<br/><br/>• Ледяной покров<br/><br/>• Луг<br/><br/>• Плато<br/><br/>• Мелководье<br/><br/>• Пустошь<br/><br/>• Звездная пыль<br/><br/>• Терраса",
 		"translations" : [
 			"translation/russian.json"
 		]
 	},
 	"czech" : {
 		"name" : "Nové terény",
-		"description" : "Rozšiřuje mapu dobrodružství o 11 jedinečných terénů:<br>• Mrtvá země<br>• Pole slávy<br>• Ohnivá země<br>• Vřesoviště<br>• Ledová pláň<br>• Pastvina<br>• Náhorní plošina<br>• Mělčiny<br>• Zkažená země<br>• Hvězdný prach<br>• Terasa",
+		"description" : "Rozšiřuje mapu dobrodružství o 11 jedinečných terénů:<br/><br/>• Mrtvá země<br/><br/>• Pole slávy<br/><br/>• Ohnivá země<br/><br/>• Vřesoviště<br/><br/>• Ledová pláň<br/><br/>• Pastvina<br/><br/>• Náhorní plošina<br/><br/>• Mělčiny<br/><br/>• Zkažená země<br/><br/>• Hvězdný prach<br/><br/>• Terasa",
 		"translations" : [
 			"translation/czech.json"
 		]
