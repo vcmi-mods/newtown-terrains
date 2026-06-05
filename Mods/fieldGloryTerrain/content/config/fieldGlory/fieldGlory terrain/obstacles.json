@@ -3,7 +3,6 @@
 		"allowedTerrains" : [
 			"fieldGlory"
 		],
-		"specialBattlefields" : [],
 		"width" : 216,
 		"height" : 266,
 		"blockedTiles" : [
@@ -22,21 +21,18 @@
 		"allowedTerrains" : [
 			"fieldGlory"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 1,
 		"blockedTiles" : [
 			0,
 			1
 		],
-		"animation" : "fieldGlory/ob_fg002.def",
-		"absolute" : false
+		"animation" : "fieldGlory/ob_fg002.def"
 	},
 	"ob_fog003" : {
 		"allowedTerrains" : [
 			"fieldGlory"
 		],
-		"specialBattlefields" : [],
 		"width" : 6,
 		"height" : 3,
 		"blockedTiles" : [
@@ -48,26 +44,24 @@
 			-12
 		],
 		"animation" : "fieldGlory/ob_fg003.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"ob_fog004" : {
 		"allowedTerrains" : [
 			"fieldGlory"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
 		"blockedTiles" : [
 			1
 		],
 		"animation" : "fieldGlory/ob_fg004.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"ob_fog005" : {
 		"allowedTerrains" : [
 			"fieldGlory"
 		],
-		"specialBattlefields" : [],
 		"width" : 2,
 		"height" : 2,
 		"blockedTiles" : [
@@ -75,13 +69,12 @@
 			1
 		],
 		"animation" : "fieldGlory/ob_fg005.def",
-		"absolute" : false
+		"foreground" : true
 	},
 	"ob_fog006" : {
 		"allowedTerrains" : [
 			"fieldGlory"
 		],
-		"specialBattlefields" : [],
 		"width" : 3,
 		"height" : 2,
 		"blockedTiles" : [
@@ -90,6 +83,6 @@
 			-16
 		],
 		"animation" : "fieldGlory/ob_fg006.def",
-		"absolute" : false
+		"foreground" : true
 	}
 }

@@ -15,7 +15,6 @@
 		"allowedTerrains" : [
 			"stardust"
 		], //to change later
-		"specialBattlefields" : [],
 		"width" : 241,
 		"height" : 118,
 		"blockedTiles" : [
@@ -42,7 +41,6 @@
 		"allowedTerrains" : [
 			"stardust"
 		], //to change later
-		"specialBattlefields" : [],
 		"width" : 103,
 		"height" : 212,
 		"blockedTiles" : [
@@ -67,75 +65,63 @@
 		"allowedTerrains" : [
 			"stardust"
 		], //to change later
-		"specialBattlefields" : [],
-		"width" : 5,
-		"height" : 3,
+		"width" : 4,
+		"height" : 2,
 		"blockedTiles" : [
 			0,
 			1,
 			2,
-			-15,
-			-14,
-			-16
-		],
-		"animation" : "stardust/starOb3.def",
-		"absolute" : false
-	},
-	"stardustGenerator" : {
-		"allowedTerrains" : [
-			"stardust"
-		], //to change later
-		"specialBattlefields" : [],
-		"width" : 5,
-		"height" : 3,
-		"blockedTiles" : [
-			0,
-			1,
-			2,
-			-15,
 			-16,
-			-17
+			-15,
+			-14
 		],
-		"animation" : "stardust/starOb4.def",
-		"absolute" : false
+		"animation" : "stardust/starOb3.def"
 	},
 	"stardustBush" : {
 		"allowedTerrains" : [
 			"stardust"
 		],
-		"specialBattlefields" : [],
 		"width" : 3,
 		"height" : 3,
 		"blockedTiles" : [
-			1,
 			-15,
 			-16
 		],
 		"animation" : "stardust/starOb5.def",
-		"absolute" : false
+		"foreground" : true
 	},
-
+	"stardustGenerator" : {
+		"allowedTerrains" : [
+			"stardust"
+		], //to change later
+		"width" : 4,
+		"height" : 3,
+		"blockedTiles" : [
+			-34,
+			-33,
+			-32,
+			-16,
+			-15
+		],
+		"animation" : "stardust/starOb4.def"
+	},
 	"stardustBarrels" : {
 		"allowedTerrains" : [
 			"stardust"
 		],
-		"specialBattlefields" : [],
-		"width" : 3,
-		"height" : 3,
+		"width" : 2,
+		"height" : 2,
 		"blockedTiles" : [
 			0,
 			1,
-			-15,
 			-16
 		],
-		"animation" : "stardust/starOb6.def",
-		"absolute" : false
+		"animation" : "stardust/starOb6.def"
 	},
 	"stardustLake15" : {
 		"allowedTerrains" : [
 			"stardust"
 		],
-		"specialBattlefields" : [],
 		"width" : 10,
 		"height" : 3,
 		"blockedTiles" : [
@@ -163,15 +149,13 @@
 			7,
 			8
 		],
-		"animation" : "stardust/starOb8.def",
-		"absolute" : false
+		"animation" : "stardust/starOb8.def"
 	},
 
 	"stardustRocks" : {
 		"allowedTerrains" : [
 			"stardust"
 		],
-		"specialBattlefields" : [],
 		"width" : 5,
 		"height" : 3,
 		"blockedTiles" : [
@@ -181,7 +165,6 @@
 			-14,
 			-15
 		],
-		"animation" : "stardust/starOb7.def",
-		"absolute" : false
+		"animation" : "stardust/starOb7.def"
 	}
 }
