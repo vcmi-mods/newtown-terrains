@@ -30,10 +30,7 @@
 	"conflicts" : [],
 	"chinese" : {
 		"name" : "浅滩地形",
-		"description" : "浅滩地形资源包。",
-		"translations" : [
-			"translation/shallowsTerrain/chinese.json"
-		]
+		"description" : "浅滩地形资源包。"
 	},
 	"polish" : {
 		"name" : "Płycizny",
