@@ -4,8 +4,11 @@
 	"modType" : "Objects",
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.8.3",
+	"version" : "1.8.4",
 	"changelog" : {
+		"1.8.4" : [
+			"Updated battle obstacles settings for VCMI 1.8"
+		],
 		"1.8.3" : [
 			"Fixed Iceland mountain mask",
 			"Added Tartarus connector for Iceland"
@@ -162,6 +165,6 @@
 		]
 	},
 	"compatibility" : {
-		"min" : "1.7.1"
+		"min" : "1.8.0"
 	}
 }
