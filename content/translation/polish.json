@@ -23,7 +23,7 @@
 	"mapObject.newtown-terrains.stardustterrain.starFlake.starFlake.name": "Odłamek Gwiezdnego Pyłu",
 	"mapObject.newtown-terrains.stardustterrain.starFlake.starFlake.rewards.0": "Odłamek Gwiezdnego Pyłu\r\n\r\nWśród odłamków gwiezdnego pyłu odkrywasz garść użytecznych surowców.",
 	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.name": "Magiczne Lustro",
-	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.onEmpty": "Magiczne Lustro\r\n\r\nLustro pokazuje jedynie twoje odbicie. Być może twoja moc nie jest jeszcze dość wielka, by rozkazywać jego magii. Wróć po osiągnięciu 5. poziomu.",
+	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.onEmpty": "Magiczne Lustro\n\nLustro pokazuje jedynie twoje odbicie. Być może twoja moc nie jest jeszcze dość wielka, by rozkazywać jego magii. Wróć po osiągnięciu 5. poziomu.",
 	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.onSelect": "Magiczne Lustro\r\n\r\nMagiczne Lustro jest znużone pytaniami o to, kto jest najpiękniejszy ze wszystkich. Przychodzisz jednak z bardziej praktyczną sprawą, a po krótkiej rozmowie lustro ujawnia ukrytą pod ziemią skrytkę.",
 	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.rewards.0": "Magiczne Lustro\r\n\r\nMagiczne Lustro jest znużone pytaniami o to, kto jest najpiękniejszy ze wszystkich. Przychodzisz jednak z bardziej praktyczną sprawą, a po krótkiej rozmowie lustro ujawnia ukrytą pod ziemią skrytkę.",
 	"object.newtown-terrains.fieldgloryterrain.gloryCinnabar.name": "Cynober",
@@ -58,5 +58,14 @@
 	"terrain.newtown-terrains.shallowsterrain.shallows.name": "Płycizny",
 	"terrain.newtown-terrains.spoiledland.spoiledLand.name": "Skażona Ziemia",
 	"terrain.newtown-terrains.stardustterrain.stardust.name": "Gwiezdny Pył",
-	"terrain.newtown-terrains.terraceland.terrace.name": "Pole Tarasowe"
+	"terrain.newtown-terrains.terraceland.terrace.name": "Pole Tarasowe",
+	"object.newtown-terrains.heatherthicket.heaThiWaterfalls.name": "Wodospady",
+	"object.newtown-terrains.shallowsterrain.searocks.name": "Rafy Skaliste",
+	"object.newtown-terrains.shallowsterrain.shallowsbones.name": "Kości",
+	"object.newtown-terrains.shallowsterrain.shallowscorals.name": "Korale",
+	"object.newtown-terrains.shallowsterrain.shallowsdepression.name": "Depresja",
+	"object.newtown-terrains.shallowsterrain.shallowsisland.name": "Wyspa",
+	"object.newtown-terrains.shallowsterrain.shallowsreefs.name": "Rafy",
+	"object.newtown-terrains.shallowsterrain.underwaterchasm.name": "Podwodna czeluść",
+	"object.newtown-terrains.spoiledland.spoBones.name": "Kości"
 }
