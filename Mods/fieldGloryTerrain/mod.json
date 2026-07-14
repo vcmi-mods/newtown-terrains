@@ -60,5 +60,8 @@
 	],
 	"terrains" : [
 		"config/fieldGlory/fieldGlory terrain/terrains.json"
+	],
+	"biomes" : [
+		"config/fieldGlory/fieldGlory terrain/biomes"
 	]
 }

@@ -33,6 +33,9 @@
 	"terrains" : [
 		"config/deadland-terrain/terrains.json"
 	],
+	"biomes" : [
+		"config/deadland-terrain/biomes"
+	],
 	"obstacles" : [
 		"config/deadland-obstacles/obstacles.json"
 	],

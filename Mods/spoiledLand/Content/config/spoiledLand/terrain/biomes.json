@@ -1,0 +1,178 @@
+{
+	"spoiledLandBones": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "rock"
+		},
+		"templates": [
+			"spoLanBon00",
+			"spoLanBon01",
+			"spoLanBon02",
+			"spoLanBon03",
+			"spoLanBon04",
+			"spoLanBon05",
+			"spoLanBon06",
+			"spoLanBon07"
+		]
+	},
+	"spoiledLandCanyon": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "mountain"
+		},
+		"templates": [
+			"spoLanCan00",
+			"spoLanCan01",
+			"spoLanCan02",
+			"spoLanCan03",
+			"spoLanCan04",
+			"spoLanCan05",
+			"spoLanCan06",
+			"spoLanCan07",
+			"spoLanCan08",
+			"spoLanCan09",
+			"spoLanCan10",
+			"spoLanCan11",
+			"spoLanCan12",
+			"spoLanCan13"
+		]
+	},
+	"spoiledLandCrater": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "crater"
+		},
+		"templates": [
+			"AVLctrl0"
+		]
+	},
+	"spoiledLandHole": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "crater"
+		},
+		"templates": [
+			"spoLanHole"
+		]
+	},
+	"spoiledLandLavalake": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "lake"
+		},
+		"templates": [
+			"spoLandToxLiq01",
+			"spoLandToxLiq02",
+			"spoLandToxLiq03",
+			"spoLandToxLiq04",
+			"spoLandToxLiq05",
+			"spoLandToxLiq06",
+			"spoLandToxLiq07",
+			"spoLandToxLiq08",
+			"spoLandToxLiq09",
+			"spoLandToxLiq10",
+			"spoLandToxLiq11",
+			"spoLandToxLiq12",
+			"spoLandToxLiq13",
+			"spoLandToxLiq14",
+			"spoLandToxLiq15",
+			"spoLandToxLiq16",
+			"spoLandToxLiq17",
+			"spoLandToxLiq18",
+			"spoLandToxLiq19",
+			"spoLandToxLiq20",
+			"spoLandToxLiq21",
+			"spoLandToxLiq22",
+			"spoLandToxLiq23",
+			"spoLandToxLiq24",
+			"spoLandToxLiq25",
+			"spoLandToxLiq26",
+			"spoLandToxLiq27",
+			"spoLandToxLiq28",
+			"spoLandToxLiq29"
+		]
+	},
+	"spoiledLandDeltas": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "lake"
+		},
+		"templates": [
+			"spoLanDelt1",
+			"spoLanDelt2",
+			"spoLanDelt3",
+			"spoLanDelt4"
+		]
+	},
+	"spoiledLandDeadvegetation": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "tree"
+		},
+		"templates": [
+			"spoLanDea01",
+			"spoLanDea02",
+			"spoLanDea03",
+			"spoLanDea04",
+			"spoLanDea05",
+			"spoLanDea06",
+			"spoLanDea07",
+			"spoLanDea08",
+			"spoLanDea09",
+			"spoLanDea10",
+			"spoLanDea11",
+			"spoLanDea12",
+			"spoLanDea13",
+			"spoLanDea14",
+			"spoLanDea15",
+			"spoLanDea16",
+			"spoLanDea17",
+			"spoLanDea18",
+			"spoLanDea19",
+			"spoLanDea20",
+			"spoLanDea21",
+			"spoLanDea22"
+		]
+	},
+	"spoiledLandVolcano": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "mountain"
+		},
+		"templates": [
+			"spoLanVol01",
+			"spoLanVol02",
+			"spoLanVol03",
+			"spoLanVol04",
+			"spoLanVol05",
+			"spoLanVol06"
+		]
+	},
+	"spoiledLandCampfire": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "lake"
+		},
+		"templates": [
+			"FTRCF008"
+		]
+	},
+	"spoiledLandLearningstone": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "rock"
+		},
+		"templates": [
+			"FALF0248"
+		]
+	},
+	"spoiledLandTreeofknowledge": {
+		"biome": {
+			"terrain": "spoiledLand",
+			"objectType": "tree"
+		},
+		"templates": [
+			"OBJ3302"
+		]
+	}
+}

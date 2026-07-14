@@ -1,0 +1,180 @@
+{
+	"plateauBones": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "rock"
+		},
+		"templates": [
+			"plateau_praBo01",
+			"plateau_praBo02",
+			"plateau_praBo03",
+			"plateau_praBo04",
+			"plateau_praBo05",
+			"plateau_praBo06",
+			"plateau_praBo07",
+			"plateau_praBo08",
+			"plateau_praBo09",
+			"plateau_praBo010",
+			"plateau_praBo11",
+			"plateau_praBol2",
+			"plateau_praBo13"
+		]
+	},
+	"plateauCrater": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "crater"
+		},
+		"templates": [
+			"plateau_crater01",
+			"plateau_gcrater02"
+		]
+	},
+	"plateauFlowers": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "plant"
+		},
+		"templates": [
+			"plateau_praFlo1",
+			"plateau_praFlo2",
+			"plateau_praFlo3",
+			"plateau_praFlo4",
+			"plateau_praFlo5",
+			"plateau_praFlo6",
+			"plateau_praFlo7",
+			"plateau_praFlo8",
+			"plateau_praFlo9",
+			"plateau_praFlo10",
+			"plateau_praFlo11",
+			"plateau_praFlo12",
+			"plateau_praFlo13"
+		]
+	},
+	"plateauLake": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "lake"
+		},
+		"templates": [
+			"plateau_praLak01",
+			"plateau_praLak02",
+			"plateau_praLak03"
+		]
+	},
+	"plateauPinetrees": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "tree"
+		},
+		"templates": [
+			"plaPin01",
+			"plaPin2",
+			"plaPin03",
+			"plaPin04",
+			"plaPin05",
+			"plaPin06",
+			"plaPin07",
+			"plaPin08",
+			"plaPin09",
+			"plaPin10",
+			"plaPin11",
+			"plaPin12",
+			"plaPin13",
+			"plaPin14",
+			"plaPin15",
+			"plaPin16"
+		]
+	},
+	"plateauMountains": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "mountain"
+		},
+		"templates": [
+			"plateau_praMOUN1",
+			"plateau_praMOUN2",
+			"plateau_praMOUN3",
+			"plateau_praMOUN4",
+			"plateau_praMOUN5",
+			"plateau_praMOUN6",
+			"plateau_praMOUN7"
+		]
+	},
+	"plateauShrub": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "plant"
+		},
+		"templates": [
+			"plateau_praSHR1",
+			"plateau_praSHR2",
+			"plateau_praSHR3",
+			"plateau_praSHR4",
+			"plateau_praSHR5",
+			"plateau_praSHR6",
+			"plateau_praSHR7",
+			"plateau_praSHR8",
+			"plateau_praSHR9",
+			"plateau_praSHR10"
+		]
+	},
+	"plateauStone": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "rock"
+		},
+		"templates": [
+			"plateau_praSto4",
+			"plateau_praSto5",
+			"plateau_praSto6",
+			"plateau_praSto7",
+			"plateau_praSto8",
+			"plateau_praSto9",
+			"plateau_praSto10"
+		]
+	},
+	"plateauStump": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "plant"
+		},
+		"templates": [
+			"plateau_stumpo4",
+			"plateau_stumpo5",
+			"plateau_stumpo6",
+			"plateau_stumpo7",
+			"plateau_stumpo8",
+			"plateau_stumpo9"
+		]
+	},
+	"plateauTrees": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "tree"
+		},
+		"templates": [
+			"plateauTre1",
+			"plateauTre2",
+			"plateauTre3",
+			"plateauTre4",
+			"plateauTre5",
+			"plateauTre6",
+			"plateauTre7",
+			"plateauTre8",
+			"plateauTre9",
+			"plateauTre10",
+			"plateauTre11",
+			"plateauTre12"
+		]
+	},
+	"plateauHole": {
+		"biome": {
+			"terrain": "plateau",
+			"objectType": "crater"
+		},
+		"templates": [
+			"plateauHole"
+		]
+	}
+}

@@ -33,6 +33,9 @@
 	"terrains" : [
 		"config/meadLand/terrain/terrains.json"
 	],
+	"biomes" : [
+		"config/meadLand/terrain/biomes"
+	],
 	"obstacles" : [
 		"config/meadLand/obstacles/obstacles.json"
 	],

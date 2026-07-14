@@ -43,6 +43,9 @@
 	"terrains" : [
 		"config/spoiledLand/terrain/terrains.json"
 	],
+	"biomes" : [
+		"config/spoiledLand/terrain/biomes"
+	],
 	"obstacles" : [
 		"config/spoiledLand/terrain/obstacles.json"
 	],

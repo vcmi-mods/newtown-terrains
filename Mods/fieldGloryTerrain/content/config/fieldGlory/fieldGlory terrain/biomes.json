@@ -1,0 +1,95 @@
+{
+	"fieldGloryBones": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "rock"
+		},
+		"templates": [
+			"glorybon00",
+			"glorybon01",
+			"glorybon02",
+			"glorybon03",
+			"glorybon04",
+			"glorybon05",
+			"glorybon06",
+			"jaws",
+			"AVLskul0",
+			"AVLskul1",
+			"AVLskul2"
+		]
+	},
+	"fieldGloryTrees": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "tree"
+		},
+		"templates": [
+			"Glory03",
+			"Glory04",
+			"Glory05",
+			"Glory06",
+			"Glory07",
+			"Glory08",
+			"Glory01",
+			"Glory02"
+		]
+	},
+	"fieldGloryFlowers": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "plant"
+		},
+		"templates": [
+			"fgflower01",
+			"fgflower02",
+			"fgflower03",
+			"fgflower04"
+		]
+	},
+	"fieldGloryLakes": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "lake"
+		},
+		"templates": [
+			"fglake01",
+			"fglake02",
+			"fglake03"
+		]
+	},
+	"fieldGloryHoles": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "crater"
+		},
+		"templates": [
+			"FGHOLE01",
+			"FGHOLE02"
+		]
+	},
+	"fieldGloryMountains": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "mountain"
+		},
+		"templates": [
+			"gloryMount01",
+			"gloryMount02",
+			"gloryMount03",
+			"gloryMount04",
+			"gloryMount05",
+			"gloryMount06"
+		]
+	},
+	"fieldGloryRocks": {
+		"biome": {
+			"terrain": "fieldGlory",
+			"objectType": "rock"
+		},
+		"templates": [
+			"FG001rock",
+			"FG002rock",
+			"FG003rock"
+		]
+	}
+}

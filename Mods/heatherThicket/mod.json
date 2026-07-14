@@ -43,6 +43,9 @@
 	"terrains" : [
 		"config/heatherThicket/terrain/terrains.json"
 	],
+	"biomes" : [
+		"config/heatherThicket/terrain/biomes"
+	],
 	"obstacles" : [
 		"config/heatherThicket/terrain/obstacles.json"
 	],
