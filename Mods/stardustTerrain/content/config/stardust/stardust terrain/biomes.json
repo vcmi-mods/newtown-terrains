@@ -1,22 +1,22 @@
 {
-	"stardustDeltas": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "lake"
+	"stardustDeltas" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"stardelt1",
 			"stardelt2",
 			"stardelt3",
 			"stardelt4"
 		]
 	},
-	"stardustTrees": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "tree"
+	"stardustTrees" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "tree"
 		},
-		"templates": [
+		"templates" : [
 			"avlsta00",
 			"avlsta01",
 			"avlsta02",
@@ -31,23 +31,23 @@
 			"avlsta12"
 		]
 	},
-	"stardustArtichokes": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "rock"
+	"stardustArtichokes" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"arti_01",
 			"arti_02",
 			"arti_03"
 		]
 	},
-	"stardustChasms": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "crater"
+	"stardustChasms" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"avlc10l0",
 			"avlc11l0",
 			"avlc12l0",
@@ -63,12 +63,12 @@
 			"AVLctrl0"
 		]
 	},
-	"stardustFlowers": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "plant"
+	"stardustFlowers" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"starfl01",
 			"starfl02",
 			"starfl03",
@@ -85,12 +85,12 @@
 			"starfl14"
 		]
 	},
-	"stardustLakes": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "lake"
+	"stardustLakes" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"starll00",
 			"starll01",
 			"starll02",
@@ -98,23 +98,23 @@
 			"starll04"
 		]
 	},
-	"stardustHoles": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "crater"
+	"stardustHoles" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"starH0119",
 			"starH0010",
 			"starH0120"
 		]
 	},
-	"stardustMountains": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "mountain"
+	"stardustMountains" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"starMountO1",
 			"starMountO2",
 			"starMountO3",
@@ -123,12 +123,12 @@
 			"starMountO6"
 		]
 	},
-	"stardustMushrooms": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "plant"
+	"stardustMushrooms" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"starsh01",
 			"starsh02",
 			"starsh03",
@@ -137,12 +137,12 @@
 			"starsh06"
 		]
 	},
-	"stardustRocks": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "rock"
+	"stardustRocks" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FDTD0009",
 			"FDTD0010",
 			"FDTD0011",
@@ -166,12 +166,12 @@
 			"FDTD0029"
 		]
 	},
-	"stardustStarflake": {
-		"biome": {
-			"terrain": "stardust",
-			"objectType": "lake"
+	"stardustStarflake" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"AVAbrrlw"
 		]
 	}

@@ -1,10 +1,10 @@
 {
-	"deadlandBones": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandBones" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FROC0001",
 			"FROC0002",
 			"FROC0003",
@@ -34,12 +34,12 @@
 			"WolfSkl2"
 		]
 	},
-	"deadlandDeadtree": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandDeadtree" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FALG0001",
 			"FALG0002",
 			"FALG0009",
@@ -67,12 +67,12 @@
 			"AVLDEAD1"
 		]
 	},
-	"deadlandDeadtrees": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandDeadtrees" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FALG0003",
 			"FALG0004",
 			"FALG0005",
@@ -93,30 +93,30 @@
 			"AVLDEAD7"
 		]
 	},
-	"deadlandHole": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "crater"
+	"deadlandHole" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"deadlandAVLhold0"
 		]
 	},
-	"deadlandLake": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "lake"
+	"deadlandLake" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"AVLlk1r"
 		]
 	},
-	"deadlandLog": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandLog" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"last2GLog04",
 			"last2GLog05",
 			"last2GLog06",
@@ -150,12 +150,12 @@
 			"last2GLog34"
 		]
 	},
-	"deadlandLogs": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandLogs" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FSAD0001",
 			"FSAD0002",
 			"FSAD0003",
@@ -170,12 +170,12 @@
 			"GLog03"
 		]
 	},
-	"deadlandMountain": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "mountain"
+	"deadlandMountain" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"AVLMTRF1",
 			"AVLMTRF2",
 			"AVLMTRF3",
@@ -184,12 +184,12 @@
 			"AVLMTRF6"
 		]
 	},
-	"deadlandSkulls": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandSkulls" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FVOD0024",
 			"FVOD0025",
 			"FVOD0026",
@@ -199,40 +199,40 @@
 			"ALEX0022"
 		]
 	},
-	"deadlandSpikes": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandSpikes" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"FALD0059",
 			"FSAD0035"
 		]
 	},
-	"deadlandRock": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "rock"
+	"deadlandRock" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"OBJ7422"
 		]
 	},
-	"deadlandCrater": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "crater"
+	"deadlandCrater" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"AVLctrr0"
 		]
 	},
-	"deadlandCanyon": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "mountain"
+	"deadlandCanyon" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"AVLct1r0",
 			"AVLCT1U0",
 			"AVLct2r0",
@@ -250,21 +250,21 @@
 			"AVLglly0"
 		]
 	},
-	"deadlandCampfire": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "lake"
+	"deadlandCampfire" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"adcfra0"
 		]
 	},
-	"deadlandWateringhole": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "crater"
+	"deadlandWateringhole" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"AVXwtrh0",
 			"FALD0022",
 			"FGRD0025"

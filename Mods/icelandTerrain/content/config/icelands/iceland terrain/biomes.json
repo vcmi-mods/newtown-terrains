@@ -1,10 +1,10 @@
 {
-	"icelandsTrees": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "tree"
+	"icelandsTrees" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "tree"
 		},
-		"templates": [
+		"templates" : [
 			"icetree00",
 			"icetree01",
 			"icetree02",
@@ -17,34 +17,34 @@
 			"icetree10"
 		]
 	},
-	"icelandsChasms": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "crater"
+	"icelandsChasms" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"iceChasmA01",
 			"iceChasmA02",
 			"iceChasmA03"
 		]
 	},
-	"icelandsFlowers": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "plant"
+	"icelandsFlowers" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"icelfl01",
 			"icelfl02",
 			"icelfl03"
 		]
 	},
-	"icelandsLakes": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "lake"
+	"icelandsLakes" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"icelagoon01",
 			"icelagoon02",
 			"icelagoon03",
@@ -55,21 +55,21 @@
 			"icelagoon08"
 		]
 	},
-	"icelandsMericesolid": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "rock"
+	"icelandsMericesolid" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"AVAbrrlw"
 		]
 	},
-	"icelandsHoles": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "crater"
+	"icelandsHoles" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"ICEHOLE001A",
 			"ICEHOLE002A",
 			"ICEHOLE001B",
@@ -77,12 +77,12 @@
 			"ICEHOLE004"
 		]
 	},
-	"icelandsMountains": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "mountain"
+	"icelandsMountains" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"icelandsMount01",
 			"icelandsMount02",
 			"icelandsMount03",
@@ -91,12 +91,12 @@
 			"icelandsMount06"
 		]
 	},
-	"icelandsRocks": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "rock"
+	"icelandsRocks" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"ICEROCK09",
 			"ICEROCK10",
 			"ICEROCK11",

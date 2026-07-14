@@ -1,10 +1,10 @@
 {
-	"fieryLandFire": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "lake"
+	"fieryLandFire" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"firefieryLand01",
 			"firefieryLand02",
 			"firefieryLand03",
@@ -15,21 +15,21 @@
 			"firefieryLand09"
 		]
 	},
-	"fieryLandHole": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "crater"
+	"fieryLandHole" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLandHole"
 		]
 	},
-	"fieryLandLavaflow": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "lake"
+	"fieryLandLavaflow" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLandLakes01",
 			"fieryLandLakes02",
 			"fieryLandLakes03",
@@ -49,12 +49,12 @@
 			"fieryLandLakes17"
 		]
 	},
-	"fieryLandMountains": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "mountain"
+	"fieryLandMountains" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLand_reROC1",
 			"fieryLand_reROC2",
 			"fieryLand_reROC3",
@@ -64,12 +64,12 @@
 			"fieryLand_reROC7"
 		]
 	},
-	"fieryLandRock": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "rock"
+	"fieryLandRock" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLandrocks01",
 			"fieryLandrocks02",
 			"fieryLandrocks03",
@@ -81,12 +81,12 @@
 			"fieryLandrocks09"
 		]
 	},
-	"fieryLandStone": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "rock"
+	"fieryLandStone" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLandStone01",
 			"fieryLandStone02",
 			"fieryLandStone03",
@@ -97,12 +97,12 @@
 			"fieryLandStone08"
 		]
 	},
-	"fieryLandShrub": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "plant"
+	"fieryLandShrub" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLandSHR1",
 			"fieryLandSHR3",
 			"fieryLandSHR4",
@@ -128,12 +128,12 @@
 			"fieryLandSHR30"
 		]
 	},
-	"fieryLandTrees": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "tree"
+	"fieryLandTrees" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "tree"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLandTre1",
 			"fieryLandTre2",
 			"fieryLandTre3",
@@ -148,12 +148,12 @@
 			"fieryLandTre12"
 		]
 	},
-	"fieryLandTreeofknowledge": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "tree"
+	"fieryLandTreeofknowledge" : {
+		"biome" : {
+			"terrain" : "fieryLand",
+			"objectType" : "tree"
 		},
-		"templates": [
+		"templates" : [
 			"fieryLand_treeOfKnowledge"
 		]
 	}

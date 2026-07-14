@@ -1,22 +1,22 @@
 {
-	"meadLandCanyon": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "mountain"
+	"meadLandCanyon" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"canyonmeadLand01",
 			"canyonmeadLand02",
 			"canyonmeadLand03",
 			"canyonmeadLand04"
 		]
 	},
-	"meadLandFlowers": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "plant"
+	"meadLandFlowers" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"meadLand_AVLf01g0",
 			"meadLand_AVLf02g0",
 			"meadLand_AVLf03g0",
@@ -40,12 +40,12 @@
 			"meadLand_AVLfl9d0"
 		]
 	},
-	"meadLandGrassthills": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "tree"
+	"meadLandGrassthills" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "tree"
 		},
-		"templates": [
+		"templates" : [
 			"grasstHillsmeadLand01",
 			"grasstHillsmeadLand02",
 			"grasstHillsmeadLand03",
@@ -63,33 +63,33 @@
 			"grasstHillsmeadLand15"
 		]
 	},
-	"meadLandHole": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "crater"
+	"meadLandHole" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "crater"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandHole"
 		]
 	},
-	"meadLandLavaflow": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "lake"
+	"meadLandLavaflow" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "lake"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandLakesl00",
 			"meadLandLakesl01",
 			"meadLandLakesl02",
 			"meadLandLakesl03"
 		]
 	},
-	"meadLandMountains": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "mountain"
+	"meadLandMountains" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "mountain"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandMoun01",
 			"meadLandMoun02",
 			"meadLandMoun03",
@@ -98,24 +98,24 @@
 			"meadLandMoun06"
 		]
 	},
-	"meadLandMushrooms": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "plant"
+	"meadLandMushrooms" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandMushrooms07",
 			"meadLandMushrooms08",
 			"meadLandMushrooms09",
 			"meadLandMushrooms10"
 		]
 	},
-	"meadLandRock": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "rock"
+	"meadLandRock" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandMoun07",
 			"meadLandMoun08",
 			"meadLandMoun09",
@@ -130,12 +130,12 @@
 			"meadLandMoun18"
 		]
 	},
-	"meadLandStone": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "rock"
+	"meadLandStone" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "rock"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandStone01",
 			"meadLandStone02",
 			"meadLandStone03",
@@ -143,12 +143,12 @@
 			"meadLandStone05"
 		]
 	},
-	"meadLandShrub": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "plant"
+	"meadLandShrub" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"meadLand_praSHR1",
 			"meadLand_praSHR2",
 			"meadLand_praSHR3",
@@ -161,12 +161,12 @@
 			"meadLand_praSHR10"
 		]
 	},
-	"meadLandStump": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "plant"
+	"meadLandStump" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "plant"
 		},
-		"templates": [
+		"templates" : [
 			"meadLand_stumpo4",
 			"meadLand_stumpo5",
 			"meadLand_stumpo6",
@@ -175,12 +175,12 @@
 			"meadLand_stumpo9"
 		]
 	},
-	"meadLandTrees": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "tree"
+	"meadLandTrees" : {
+		"biome" : {
+			"terrain" : "meadLand",
+			"objectType" : "tree"
 		},
-		"templates": [
+		"templates" : [
 			"meadLandTre1",
 			"meadLandTre2",
 			"meadLandTre3",
