@@ -57,9 +57,9 @@
 			"objectType" : "lake"
 		},
 		"templates" : [
-			"plateau_praLak01",
-			"plateau_praLak02",
-			"plateau_praLak03"
+			"plLake1",
+			"plLake2",
+			"plLake3"
 		]
 	},
 	"plateauPinetrees" : {
@@ -140,12 +140,12 @@
 			"objectType" : "plant"
 		},
 		"templates" : [
-			"plateau_stumpo4",
-			"plateau_stumpo5",
-			"plateau_stumpo6",
-			"plateau_stumpo7",
-			"plateau_stumpo8",
-			"plateau_stumpo9"
+			"plStump4",
+			"plStump5",
+			"plStump6",
+			"plStump7",
+			"plStump8",
+			"plStump9"
 		]
 	},
 	"plateauTrees" : {

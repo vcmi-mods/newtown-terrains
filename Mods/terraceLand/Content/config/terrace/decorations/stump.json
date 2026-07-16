@@ -1,10 +1,10 @@
 {
 	"core:stump" : {
 		"types" : {
-			"stump" : {
+			"teStump" : {
 				"name" : "Stump",
 				"templates" : {
-					"terrace_stumpo4" : {
+					"teStump4" : {
 						"animation" : "terrace/decorations/stump/FGRP0035",
 						"mask" : [
 							"B"
@@ -13,7 +13,7 @@
 							"terrace"
 						]
 					},
-					"terrace_stumpo5" : {
+					"teStump5" : {
 						"animation" : "terrace/decorations/stump/FGRP0036",
 						"mask" : [
 							"B"
@@ -22,7 +22,7 @@
 							"terrace"
 						]
 					},
-					"terrace_stumpo6" : {
+					"teStump6" : {
 						"animation" : "terrace/decorations/stump/FGRP0037",
 						"mask" : [
 							"VB"
@@ -31,7 +31,7 @@
 							"terrace"
 						]
 					},
-					"terrace_stumpo7" : {
+					"teStump7" : {
 						"animation" : "terrace/decorations/stump/FGRP0038",
 						"mask" : [
 							"B"
@@ -40,7 +40,7 @@
 							"terrace"
 						]
 					},
-					"terrace_stumpo8" : {
+					"teStump8" : {
 						"animation" : "terrace/decorations/stump/FGRP0039",
 						"mask" : [
 							"B"
@@ -49,7 +49,7 @@
 							"terrace"
 						]
 					},
-					"terrace_stumpo9" : {
+					"teStump9" : {
 						"animation" : "terrace/decorations/stump/FGRP0040",
 						"mask" : [
 							"VB"

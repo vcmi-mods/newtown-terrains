@@ -181,12 +181,12 @@
 			"objectType" : "plant"
 		},
 		"templates" : [
-			"terrace_stumpo4",
-			"terrace_stumpo5",
-			"terrace_stumpo6",
-			"terrace_stumpo7",
-			"terrace_stumpo8",
-			"terrace_stumpo9"
+			"teStump4",
+			"teStump5",
+			"teStump6",
+			"teStump7",
+			"teStump8",
+			"teStump9"
 		]
 	},
 	"terraceTrees" : {

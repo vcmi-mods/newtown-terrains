@@ -55,15 +55,6 @@
 			"icelagoon08"
 		]
 	},
-	"icelandsMericesolid" : {
-		"biome" : {
-			"terrain" : "icelands",
-			"objectType" : "rock"
-		},
-		"templates" : [
-			"AVAbrrlw"
-		]
-	},
 	"icelandsHoles" : {
 		"biome" : {
 			"terrain" : "icelands",
@@ -108,6 +99,15 @@
 			"ICEROCK17",
 			"ICEROCK18",
 			"ICEROCK19"
+		]
+	},
+	"icelandsMericesolid" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"icMerIceRock"
 		]
 	}
 }

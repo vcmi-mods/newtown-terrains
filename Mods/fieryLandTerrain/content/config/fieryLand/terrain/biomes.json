@@ -147,14 +147,5 @@
 			"fieryLandTre11",
 			"fieryLandTre12"
 		]
-	},
-	"fieryLandTreeofknowledge" : {
-		"biome" : {
-			"terrain" : "fieryLand",
-			"objectType" : "tree"
-		},
-		"templates" : [
-			"fieryLand_treeOfKnowledge"
-		]
 	}
 }

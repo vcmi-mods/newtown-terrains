@@ -92,7 +92,7 @@
 			"glorySkulls" : {
 				"name" : "Skulls",
 				"templates" : {
-					"AVLskul0" : {
+					"fiAVLskul0" : {
 						"animation" : "GloryBones/FGSK01",
 						"mask" : [
 							"B"

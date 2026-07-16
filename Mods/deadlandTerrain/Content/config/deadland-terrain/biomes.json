@@ -29,7 +29,7 @@
 			"DragSkl6",
 			"SSkel1",
 			"SSkel2",
-			"AVLskul0",
+			"deAVLskul0",
 			"WolfSkl1",
 			"WolfSkl2"
 		]
@@ -63,8 +63,8 @@
 			"last2DedTre18",
 			"last2DedTre19",
 			"last2DedTre20",
-			"AVLDEAD0",
-			"AVLDEAD1"
+			"deAVLDEAD0",
+			"deAVLDEAD1"
 		]
 	},
 	"deadlandDeadtrees" : {
@@ -85,12 +85,12 @@
 			"ash06",
 			"ash07",
 			"ash08",
-			"AVLDEAD2",
-			"AVLDEAD3",
-			"AVLDEAD4",
-			"AVLDEAD5",
-			"AVLDEAD6",
-			"AVLDEAD7"
+			"deAVLDEAD2",
+			"deAVLDEAD3",
+			"deAVLDEAD4",
+			"deAVLDEAD5",
+			"deAVLDEAD6",
+			"deAVLDEAD7"
 		]
 	},
 	"deadlandHole" : {
@@ -108,7 +108,7 @@
 			"objectType" : "lake"
 		},
 		"templates" : [
-			"AVLlk1r"
+			"deAVLlk1r"
 		]
 	},
 	"deadlandLog" : {
@@ -176,12 +176,12 @@
 			"objectType" : "mountain"
 		},
 		"templates" : [
-			"AVLMTRF1",
-			"AVLMTRF2",
-			"AVLMTRF3",
-			"AVLMTRF4",
-			"AVLMTRF5",
-			"AVLMTRF6"
+			"deAVLMTRF1",
+			"deAVLMTRF2",
+			"deAVLMTRF3",
+			"deAVLMTRF4",
+			"deAVLMTRF5",
+			"deAVLMTRF6"
 		]
 	},
 	"deadlandSkulls" : {
@@ -224,7 +224,7 @@
 			"objectType" : "crater"
 		},
 		"templates" : [
-			"AVLctrr0"
+			"deAVLctrr0"
 		]
 	},
 	"deadlandCanyon" : {
@@ -233,41 +233,21 @@
 			"objectType" : "mountain"
 		},
 		"templates" : [
-			"AVLct1r0",
-			"AVLCT1U0",
-			"AVLct2r0",
-			"AVLCT2U0",
-			"AVLct3r0",
-			"AVLCT3U0",
-			"AVLCT4R0",
-			"AVLCT4U0",
-			"AVLCT5R0",
-			"AVLCT5U0",
-			"AVLCT6R0",
-			"AVLCT7R0",
-			"AVLCT8R0",
-			"AVLCT9R0",
-			"AVLglly0"
-		]
-	},
-	"deadlandCampfire" : {
-		"biome" : {
-			"terrain" : "deadland",
-			"objectType" : "lake"
-		},
-		"templates" : [
-			"adcfra0"
-		]
-	},
-	"deadlandWateringhole" : {
-		"biome" : {
-			"terrain" : "deadland",
-			"objectType" : "crater"
-		},
-		"templates" : [
-			"AVXwtrh0",
-			"FALD0022",
-			"FGRD0025"
+			"deAVLct1r0",
+			"deAVLCT1U0",
+			"deAVLct2r0",
+			"deAVLCT2U0",
+			"deAVLct3r0",
+			"deAVLCT3U0",
+			"deAVLCT4R0",
+			"deAVLCT4U0",
+			"deAVLCT5R0",
+			"deAVLCT5U0",
+			"deAVLCT6R0",
+			"deAVLCT7R0",
+			"deAVLCT8R0",
+			"deAVLCT9R0",
+			"deAVLglly0"
 		]
 	}
 }

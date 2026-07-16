@@ -191,14 +191,5 @@
 			"heaThiWat4",
 			"heaThiWat5"
 		]
-	},
-	"heatherThicketTreeofknowledge" : {
-		"biome" : {
-			"terrain" : "heatherThicket",
-			"objectType" : "tree"
-		},
-		"templates" : [
-			"heaThiKnoTre"
-		]
 	}
 }

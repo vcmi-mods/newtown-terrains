@@ -9,7 +9,7 @@
 					"rarity" : 50
 				},
 				"templates" : {
-					"AVLctrr0" : {
+					"deAVLctrr0" : {
 						"animation" : "deadland-decorations/crater/AVLctrr0",
 						"visitableFrom" : [
 							"---",

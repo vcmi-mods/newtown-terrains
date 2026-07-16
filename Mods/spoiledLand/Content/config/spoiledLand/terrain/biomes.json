@@ -147,32 +147,5 @@
 			"spoLanVol05",
 			"spoLanVol06"
 		]
-	},
-	"spoiledLandCampfire" : {
-		"biome" : {
-			"terrain" : "spoiledLand",
-			"objectType" : "lake"
-		},
-		"templates" : [
-			"FTRCF008"
-		]
-	},
-	"spoiledLandLearningstone" : {
-		"biome" : {
-			"terrain" : "spoiledLand",
-			"objectType" : "rock"
-		},
-		"templates" : [
-			"FALF0248"
-		]
-	},
-	"spoiledLandTreeofknowledge" : {
-		"biome" : {
-			"terrain" : "spoiledLand",
-			"objectType" : "tree"
-		},
-		"templates" : [
-			"OBJ3302"
-		]
 	}
 }

@@ -402,7 +402,7 @@
 					"rarity" : 100
 				},
 				"templates" : {
-					"AVLskul0" : {
+					"deAVLskul0" : {
 						"animation" : "deadland-decorations/bones/last2/AVLskul0",
 						"visitableFrom" : [
 							"---",
