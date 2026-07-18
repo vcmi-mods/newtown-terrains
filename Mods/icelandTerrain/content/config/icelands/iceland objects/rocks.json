@@ -113,6 +113,16 @@
 						"allowedTerrains" : [
 							"icelands"
 						]
+					},
+
+					"icMerIceRock" : {
+						"animation" : "ice object/FTRME003",
+						"mask" : [
+							"VB"
+						],
+						"allowedTerrains" : [
+							"icelands"
+						]
 					}
 				}
 			}

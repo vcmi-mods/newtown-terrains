@@ -1,0 +1,208 @@
+{
+	"terraceBamboo" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"terraceBmboo1",
+			"terraceBmboo2",
+			"terraceBmboo3",
+			"terraceBmboo4",
+			"terraceBmboo5",
+			"terraceBmboo6",
+			"Bmboo7",
+			"terraceBmboo8",
+			"terraceBmboo9"
+		]
+	},
+	"terraceCanyon" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "mountain"
+		},
+		"templates" : [
+			"terraceCanyon01",
+			"terraceCanyon02",
+			"terraceCanyon03",
+			"terraceCanyon04",
+			"terraceCanyon05",
+			"terraceCanyon06"
+		]
+	},
+	"terraceFlowers" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"terraceflowers00",
+			"terraceflowers01",
+			"terraceflowers02",
+			"terraceflowers03",
+			"terraceflowers04",
+			"terraceflowers05",
+			"terraceflowers06",
+			"terraceflowers07",
+			"terraceflowers08",
+			"terraceflowers09",
+			"terraceflowers10",
+			"terraceflowers11",
+			"terraceflowers12",
+			"terraceflowers13",
+			"terraceflowers14",
+			"terraceflowers15",
+			"terraceflowers16",
+			"terraceflowers17",
+			"terraceflowers18",
+			"terraceflowers19",
+			"terraceflowers20"
+		]
+	},
+	"terraceHole" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"tAVLholgz"
+		]
+	},
+	"terraceLake" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"terraceLak1",
+			"terraceLak2",
+			"terraceLak3",
+			"terraceLak4",
+			"terraceLak5"
+		]
+	},
+	"terraceMountains" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "mountain"
+		},
+		"templates" : [
+			"terraceMountain01",
+			"terraceMountain02",
+			"terraceMountain03",
+			"terraceMountain04",
+			"terraceMountain05",
+			"terraceMountain06"
+		]
+	},
+	"terracePinetrees" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"terraceTree01",
+			"terraceTree2",
+			"terraceTree03",
+			"terraceTree04",
+			"terraceTree05",
+			"terraceTree06",
+			"terraceTree07",
+			"terraceTree08",
+			"terraceTree09",
+			"terraceTree10",
+			"terraceTree11",
+			"terraceTree12",
+			"terraceTree13",
+			"terraceTree14",
+			"terraceTree15",
+			"terraceTree16"
+		]
+	},
+	"terraceRock" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"terraceRock1",
+			"terraceRock2",
+			"terraceRock3",
+			"terraceRock4",
+			"terraceRock5",
+			"terraceRock6",
+			"terraceRock7",
+			"terraceRock8",
+			"terraceRock9"
+		]
+	},
+	"terraceSakura" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"sakura_01",
+			"sakura_02",
+			"sakura_03",
+			"sakura_04",
+			"sakura_05",
+			"sakura_06",
+			"sakura_07",
+			"sakura_08",
+			"sakura_09",
+			"sakura_10",
+			"sakura_11",
+			"sakura_12",
+			"sakura_13"
+		]
+	},
+	"terraceShrub" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"terraceShrub01",
+			"terraceShrub02",
+			"terraceShrub03",
+			"terraceShrub04",
+			"terraceShrub05",
+			"terraceShrub06",
+			"terraceShrub07",
+			"terraceShrub08",
+			"terraceShrub09",
+			"terraceShrub10"
+		]
+	},
+	"terraceStump" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"teStump4",
+			"teStump5",
+			"teStump6",
+			"teStump7",
+			"teStump8",
+			"teStump9"
+		]
+	},
+	"terraceTrees" : {
+		"biome" : {
+			"terrain" : "terrace",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"terraceTree01",
+			"terraceTree02",
+			"terraceTree03",
+			"terraceTree04",
+			"terraceTree05",
+			"terraceTree06",
+			"terraceTree07",
+			"terraceTree08"
+		]
+	}
+}

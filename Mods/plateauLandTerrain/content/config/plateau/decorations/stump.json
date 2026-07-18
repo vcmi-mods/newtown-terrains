@@ -1,10 +1,10 @@
 {
 	"core:stump" : {
 		"types" : {
-			"stump" : {
+			"plStump" : {
 				"name" : "Stump",
 				"templates" : {
-					"plateau_stumpo4" : {
+					"plStump4" : {
 						"animation" : "plateau/decorations/stump/FGRP0035",
 						"mask" : [
 							"B"
@@ -13,7 +13,7 @@
 							"plateau"
 						]
 					},
-					"plateau_stumpo5" : {
+					"plStump5" : {
 						"animation" : "plateau/decorations/stump/FGRP0036",
 						"mask" : [
 							"B"
@@ -22,7 +22,7 @@
 							"plateau"
 						]
 					},
-					"plateau_stumpo6" : {
+					"plStump6" : {
 						"animation" : "plateau/decorations/stump/FGRP0037",
 						"mask" : [
 							"VB"
@@ -31,7 +31,7 @@
 							"plateau"
 						]
 					},
-					"plateau_stumpo7" : {
+					"plStump7" : {
 						"animation" : "plateau/decorations/stump/FGRP0038",
 						"mask" : [
 							"B"
@@ -40,7 +40,7 @@
 							"plateau"
 						]
 					},
-					"plateau_stumpo8" : {
+					"plStump8" : {
 						"animation" : "plateau/decorations/stump/FGRP0039",
 						"mask" : [
 							"B"
@@ -49,7 +49,7 @@
 							"plateau"
 						]
 					},
-					"plateau_stumpo9" : {
+					"plStump9" : {
 						"animation" : "plateau/decorations/stump/FGRP0040",
 						"mask" : [
 							"VB"

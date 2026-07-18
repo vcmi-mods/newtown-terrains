@@ -1,0 +1,195 @@
+{
+	"heatherThicketFlowers" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"heaThifLo00",
+			"heaThifLo01",
+			"heaThifLo02",
+			"heaThifLo03",
+			"heaThifLo04",
+			"heaThifLo05"
+		]
+	},
+	"heatherThicketGrasshills" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"heaThiHil01",
+			"heaThiHil02",
+			"heaThiHil03",
+			"heaThiHil04",
+			"heaThiHil05",
+			"heaThiHil06",
+			"heaThiHil07",
+			"heaThiHil08",
+			"heaThiHil09",
+			"heaThiHil10",
+			"heaThiHil11",
+			"heaThiHil12",
+			"heaThiHil13",
+			"heaThiHil14",
+			"heaThiHil15",
+			"heaThiHil16",
+			"heaThiHil17",
+			"heaThiHil18",
+			"heaThiHil19",
+			"heaThiHil20",
+			"heaThiHil21"
+		]
+	},
+	"heatherThicketHole" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"magicalHole"
+		]
+	},
+	"heatherThicketLake" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"heaThiLak00",
+			"heaThiLak01",
+			"heaThiLak02",
+			"heaThiLak03"
+		]
+	},
+	"heatherThicketMountains" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "mountain"
+		},
+		"templates" : [
+			"htheaThiMou01",
+			"htheaThiMou02",
+			"htheaThiMou03",
+			"htheaThiMou04",
+			"htheaThiMou05",
+			"htheaThiMou06",
+			"htheaThiMou07"
+		]
+	},
+	"heatherThicketMushrooms" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"heaThiMus01",
+			"heaThiMus02",
+			"heaThiMus03",
+			"heaThiMus04",
+			"heaThiMus05",
+			"heaThiMus06",
+			"heaThiMus07",
+			"heaThiMus08",
+			"heaThiMus09",
+			"heaThiMus10"
+		]
+	},
+	"heatherThicketOaktrees" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"heaThiOakTre00",
+			"heaThiOakTre01",
+			"heaThiOakTre02",
+			"heaThiOakTre03",
+			"heaThiOakTre04",
+			"heaThiOakTre05",
+			"heaThiOakTre06",
+			"heaThiOakTre07",
+			"heaThiOakTre08",
+			"heaThiOakTre09"
+		]
+	},
+	"heatherThicketOutcropping" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"heaThiOut00",
+			"heaThiOut01",
+			"heaThiOut02",
+			"heaThiOut03"
+		]
+	},
+	"heatherThicketPinetrees" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"heaThiPin01",
+			"heaThiPin02",
+			"heaThiPin03",
+			"heaThiPin04",
+			"heaThiPin05",
+			"heaThiPin06",
+			"heaThiPin07",
+			"heaThiPin08",
+			"heaThiPin09",
+			"heaThiPin10",
+			"heaThiPin11",
+			"heaThiPin12",
+			"heaThiPin13",
+			"heaThiPin14",
+			"heaThiPin15",
+			"heaThiPin16"
+		]
+	},
+	"heatherThicketShrubs" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"heaThiShr00",
+			"heaThiShr01",
+			"heaThiShr02",
+			"heaThiShr03",
+			"heaThiShr04",
+			"heaThiShr05"
+		]
+	},
+	"heatherThicketStump" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"heaThiStu01",
+			"heaThiStu02",
+			"heaThiStu03",
+			"heaThiStu04",
+			"heaThiStu05",
+			"heaThiStu06"
+		]
+	},
+	"heatherThicketWaterfall" : {
+		"biome" : {
+			"terrain" : "heatherThicket",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"heaThiWat0",
+			"heaThiWat1",
+			"heaThiWat2",
+			"heaThiWat3",
+			"heaThiWat4",
+			"heaThiWat5"
+		]
+	}
+}

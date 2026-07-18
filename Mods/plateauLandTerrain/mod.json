@@ -36,6 +36,9 @@
 	"terrains" : [
 		"config/plateau/terrain/terrains.json"
 	],
+	"biomes" : [
+		"config/plateau/terrain/biomes"
+	],
 	"obstacles" : [
 		"config/plateau/obstacles/obstacles.json"
 	],

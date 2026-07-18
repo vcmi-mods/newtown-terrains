@@ -1,0 +1,253 @@
+{
+	"deadlandBones" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FROC0001",
+			"FROC0002",
+			"FROC0003",
+			"FROC0004",
+			"FROC0005",
+			"FROC0006",
+			"FROC0007",
+			"FROC0008",
+			"FROC0009",
+			"FROC0010",
+			"dlAVXSKDS1",
+			"dlAVXSKDS2",
+			"AVXSKDS4",
+			"Carcass1",
+			"Carcass2",
+			"Carcass3",
+			"Carcass4",
+			"DinoSkl1",
+			"DinoSkl2",
+			"DinoSkl3",
+			"DragSkl5",
+			"DragSkl6",
+			"SSkel1",
+			"SSkel2",
+			"deAVLskul0",
+			"WolfSkl1",
+			"WolfSkl2"
+		]
+	},
+	"deadlandDeadtree" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FALG0001",
+			"FALG0002",
+			"FALG0009",
+			"FSWG0014",
+			"FSWG0015",
+			"FSWG0016",
+			"FSWG0017",
+			"FSWG0018",
+			"FSWG0019",
+			"FSWG0020",
+			"FSWG0021",
+			"FSWG0022",
+			"last2DedTre10",
+			"last2DedTre11",
+			"last2DedTre12",
+			"last2DedTre13",
+			"last2DedTre14",
+			"last2DedTre15",
+			"last2DedTre16",
+			"last2DedTre17",
+			"last2DedTre18",
+			"last2DedTre19",
+			"last2DedTre20",
+			"deAVLDEAD0",
+			"deAVLDEAD1"
+		]
+	},
+	"deadlandDeadtrees" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FALG0003",
+			"FALG0004",
+			"FALG0005",
+			"FALG0006",
+			"FALG0007",
+			"FALG0008",
+			"ash03",
+			"ash04",
+			"ash05",
+			"ash06",
+			"ash07",
+			"ash08",
+			"deAVLDEAD2",
+			"deAVLDEAD3",
+			"deAVLDEAD4",
+			"deAVLDEAD5",
+			"deAVLDEAD6",
+			"deAVLDEAD7"
+		]
+	},
+	"deadlandHole" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"deadlandAVLhold0"
+		]
+	},
+	"deadlandLake" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"deAVLlk1r"
+		]
+	},
+	"deadlandLog" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"last2GLog04",
+			"last2GLog05",
+			"last2GLog06",
+			"last2GLog07",
+			"last2GLog08",
+			"last2GLog09",
+			"last2GLog10",
+			"last2GLog11",
+			"last2GLog12",
+			"last2GLog13",
+			"last2GLog14",
+			"last2GLog15",
+			"last2GLog16",
+			"last2GLog17",
+			"last2GLog18",
+			"last2GLog19",
+			"last2GLog20",
+			"last2GLog21",
+			"last2GLog22",
+			"last2GLog23",
+			"last2GLog24",
+			"last2GLog25",
+			"last2GLog26",
+			"last2GLog27",
+			"last2GLog28",
+			"last2GLog29",
+			"last2GLog30",
+			"last2GLog31",
+			"last2GLog32",
+			"last2GLog33",
+			"last2GLog34"
+		]
+	},
+	"deadlandLogs" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FSAD0001",
+			"FSAD0002",
+			"FSAD0003",
+			"FSAD0004",
+			"FSAD0005",
+			"FSAD0007",
+			"FSAD0008",
+			"FSAD0009",
+			"FSAD0010",
+			"GLog01",
+			"GLog02",
+			"GLog03"
+		]
+	},
+	"deadlandMountain" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "mountain"
+		},
+		"templates" : [
+			"deAVLMTRF1",
+			"deAVLMTRF2",
+			"deAVLMTRF3",
+			"deAVLMTRF4",
+			"deAVLMTRF5",
+			"deAVLMTRF6"
+		]
+	},
+	"deadlandSkulls" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FVOD0024",
+			"FVOD0025",
+			"FVOD0026",
+			"FVOD0027",
+			"FVOD0028",
+			"FVOD0029",
+			"ALEX0022"
+		]
+	},
+	"deadlandSpikes" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FALD0059",
+			"FSAD0035"
+		]
+	},
+	"deadlandRock" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"OBJ7422"
+		]
+	},
+	"deadlandCrater" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"deAVLctrr0"
+		]
+	},
+	"deadlandCanyon" : {
+		"biome" : {
+			"terrain" : "deadland",
+			"objectType" : "mountain"
+		},
+		"templates" : [
+			"deAVLct1r0",
+			"deAVLCT1U0",
+			"deAVLct2r0",
+			"deAVLCT2U0",
+			"deAVLct3r0",
+			"deAVLCT3U0",
+			"deAVLCT4R0",
+			"deAVLCT4U0",
+			"deAVLCT5R0",
+			"deAVLCT5U0",
+			"deAVLCT6R0",
+			"deAVLCT7R0",
+			"deAVLCT8R0",
+			"deAVLCT9R0",
+			"deAVLglly0"
+		]
+	}
+}

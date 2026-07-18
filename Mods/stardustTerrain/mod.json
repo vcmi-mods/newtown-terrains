@@ -72,5 +72,8 @@
 	],
 	"terrains" : [
 		"config/stardust/stardust terrain/terrains.json"
+	],
+	"biomes" : [
+		"config/stardust/stardust terrain/biomes"
 	]
 }

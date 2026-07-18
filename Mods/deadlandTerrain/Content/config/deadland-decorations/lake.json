@@ -9,7 +9,7 @@
 					"rarity" : 50
 				},
 				"templates" : {
-					"AVLlk1r" : {
+					"deAVLlk1r" : {
 						"animation" : "deadland-decorations/lake/AVLlk1r",
 						"visitableFrom" : [
 							"---",

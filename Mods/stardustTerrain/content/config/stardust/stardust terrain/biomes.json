@@ -1,0 +1,178 @@
+{
+	"stardustDeltas" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"stardelt1",
+			"stardelt2",
+			"stardelt3",
+			"stardelt4"
+		]
+	},
+	"stardustTrees" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "tree"
+		},
+		"templates" : [
+			"avlsta00",
+			"avlsta01",
+			"avlsta02",
+			"avlsta04",
+			"avlsta05",
+			"avlsta06",
+			"avlsta07",
+			"avlsta08",
+			"avlsta09",
+			"avlsta10",
+			"avlsta11",
+			"avlsta12"
+		]
+	},
+	"stardustArtichokes" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"arti_01",
+			"arti_02",
+			"arti_03"
+		]
+	},
+	"stardustChasms" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"avlc10l0",
+			"avlc11l0",
+			"avlc12l0",
+			"avlc13l0",
+			"avlc14l0",
+			"avlct3l0",
+			"avlct4l0",
+			"avlct5l0",
+			"avlct6l0",
+			"avlct7l0",
+			"avlct8l0",
+			"avlct9l0",
+			"AVLctrl0"
+		]
+	},
+	"stardustFlowers" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"starfl01",
+			"starfl02",
+			"starfl03",
+			"starfl04",
+			"starfl05",
+			"starfl06",
+			"starfl07",
+			"starfl08",
+			"starfl09",
+			"starfl10",
+			"starfl11",
+			"starfl12",
+			"starfl13",
+			"starfl14"
+		]
+	},
+	"stardustLakes" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"starll00",
+			"starll01",
+			"starll02",
+			"starll03",
+			"starll04"
+		]
+	},
+	"stardustHoles" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "crater"
+		},
+		"templates" : [
+			"starH0119",
+			"starH0010",
+			"starH0120"
+		]
+	},
+	"stardustMountains" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "mountain"
+		},
+		"templates" : [
+			"starMountO1",
+			"starMountO2",
+			"starMountO3",
+			"starMountO4",
+			"starMountO5",
+			"starMountO6"
+		]
+	},
+	"stardustMushrooms" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "plant"
+		},
+		"templates" : [
+			"starsh01",
+			"starsh02",
+			"starsh03",
+			"starsh04",
+			"starsh05",
+			"starsh06"
+		]
+	},
+	"stardustRocks" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"FDTD0009",
+			"FDTD0010",
+			"FDTD0011",
+			"FDTD0012",
+			"FDTD0013",
+			"FDTD0014",
+			"FDTD0015",
+			"FDTD0016",
+			"FDTD0017",
+			"FDTD0018",
+			"FDTD0019",
+			"FDTD0020",
+			"FDTD0021",
+			"FDTD0022",
+			"FDTD0023",
+			"FDTD0024",
+			"FDTD0025",
+			"FDTD0026",
+			"FDTD0027",
+			"FDTD0028",
+			"FDTD0029"
+		]
+	},
+	"stardustStarflake" : {
+		"biome" : {
+			"terrain" : "stardust",
+			"objectType" : "lake"
+		},
+		"templates" : [
+			"sdStarflakeLake"
+		]
+	}
+}

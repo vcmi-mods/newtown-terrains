@@ -9,7 +9,7 @@
 					"rarity" : 50
 				},
 				"templates" : {
-					"AVLct1r0" : {
+					"deAVLct1r0" : {
 						"animation" : "deadland-decorations/canyon/AVLct1r0",
 						"visitableFrom" : [
 							"---",
@@ -25,7 +25,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT1U0" : {
+					"deAVLCT1U0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT1U0",
 						"visitableFrom" : [
 							"---",
@@ -40,7 +40,7 @@
 							"deadland"
 						]
 					},
-					"AVLct2r0" : {
+					"deAVLct2r0" : {
 						"animation" : "deadland-decorations/canyon/AVLct2r0",
 						"visitableFrom" : [
 							"---",
@@ -57,7 +57,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT2U0" : {
+					"deAVLCT2U0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT2U0",
 						"visitableFrom" : [
 							"---",
@@ -72,7 +72,7 @@
 							"deadland"
 						]
 					},
-					"AVLct3r0" : {
+					"deAVLct3r0" : {
 						"animation" : "deadland-decorations/canyon/AVLct3r0",
 						"visitableFrom" : [
 							"---",
@@ -87,7 +87,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT3U0" : {
+					"deAVLCT3U0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT3U0",
 						"visitableFrom" : [
 							"---",
@@ -103,7 +103,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT4R0" : {
+					"deAVLCT4R0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT4R0",
 						"visitableFrom" : [
 							"---",
@@ -118,7 +118,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT4U0" : {
+					"deAVLCT4U0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT4U0",
 						"visitableFrom" : [
 							"---",
@@ -135,7 +135,7 @@
 						]
 					},
 
-					"AVLCT5R0" : {
+					"deAVLCT5R0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT5R0",
 						"visitableFrom" : [
 							"---",
@@ -150,7 +150,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT5U0" : {
+					"deAVLCT5U0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT5U0",
 						"visitableFrom" : [
 							"---",
@@ -165,7 +165,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT6R0" : {
+					"deAVLCT6R0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT6R0",
 						"visitableFrom" : [
 							"---",
@@ -181,7 +181,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT7R0" : {
+					"deAVLCT7R0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT7R0",
 						"visitableFrom" : [
 							"---",
@@ -196,7 +196,7 @@
 							"deadland"
 						]
 					},
-					"AVLCT8R0" : {
+					"deAVLCT8R0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT8R0",
 						"visitableFrom" : [
 							"---",
@@ -212,7 +212,7 @@
 						]
 					},
 
-					"AVLCT9R0" : {
+					"deAVLCT9R0" : {
 						"animation" : "deadland-decorations/canyon/AVLCT9R0",
 						"visitableFrom" : [
 							"---",
@@ -229,7 +229,7 @@
 						]
 					},
 
-					"AVLglly0" : {
+					"deAVLglly0" : {
 						"animation" : "deadland-decorations/canyon/AVLglly0",
 						"visitableFrom" : [
 							"---",

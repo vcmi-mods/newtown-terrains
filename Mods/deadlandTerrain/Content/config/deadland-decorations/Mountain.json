@@ -9,7 +9,7 @@
 					"rarity" : 150
 				},
 				"templates" : {
-					"AVLMTRF1" : {
+					"deAVLMTRF1" : {
 						"animation" : "deadland-decorations/mountain/Rough03/AVLMTRF1",
 						"visitableFrom" : [
 							"---",
@@ -27,7 +27,7 @@
 							"deadland"
 						]
 					},
-					"AVLMTRF2" : {
+					"deAVLMTRF2" : {
 						"animation" : "deadland-decorations/mountain/Rough03/AVLMTRF2",
 						"visitableFrom" : [
 							"---",
@@ -45,7 +45,7 @@
 							"deadland"
 						]
 					},
-					"AVLMTRF3" : {
+					"deAVLMTRF3" : {
 						"animation" : "deadland-decorations/mountain/Rough03/AVLMTRF3",
 						"visitableFrom" : [
 							"---",
@@ -62,7 +62,7 @@
 							"deadland"
 						]
 					},
-					"AVLMTRF4" : {
+					"deAVLMTRF4" : {
 						"animation" : "deadland-decorations/mountain/Rough03/AVLMTRF4",
 						"visitableFrom" : [
 							"---",
@@ -79,7 +79,7 @@
 							"deadland"
 						]
 					},
-					"AVLMTRF5" : {
+					"deAVLMTRF5" : {
 						"animation" : "deadland-decorations/mountain/Rough03/AVLMTRF5",
 						"visitableFrom" : [
 							"---",
@@ -95,7 +95,7 @@
 							"deadland"
 						]
 					},
-					"AVLMTRF6" : {
+					"deAVLMTRF6" : {
 						"animation" : "deadland-decorations/mountain/Rough03/AVLMTRF6",
 						"visitableFrom" : [
 							"---",

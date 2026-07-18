@@ -3,7 +3,7 @@
 		"name" : "Solid Mercury",
 		"handler" : "configurable",
 		"types" : {
-			"starFlake" : {
+			"icMerIceSolid" : {
 				"name" : "Solid Mercury",
 				"rmg" : {
 					"value" : 1000,
@@ -50,7 +50,7 @@
 				"visitMode" : "once",
 				"selectMode" : "selectRandom",
 				"templates" : {
-					"AVAbrrlw" : {
+					"icAVAbrrlw" : {
 						"animation" : "ice object/FTRME003",
 						"visitableFrom" : [
 							"+++",

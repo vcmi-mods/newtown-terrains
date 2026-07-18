@@ -75,5 +75,8 @@
 	],
 	"terrains" : [
 		"config/icelands/iceland terrain/terrains.json"
+	],
+	"biomes" : [
+		"config/icelands/iceland terrain/biomes"
 	]
 }

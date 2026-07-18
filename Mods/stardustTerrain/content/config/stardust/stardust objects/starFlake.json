@@ -51,7 +51,7 @@
 				"visitMode" : "once",
 				"selectMode" : "selectRandom",
 				"templates" : {
-					"AVAbrrlw" : {
+					"sdAVAbrrlw" : {
 						"animation" : "star misc/starFlake",
 						"visitableFrom" : [
 							"+++",

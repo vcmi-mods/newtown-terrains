@@ -221,7 +221,7 @@
 						]
 					},
 
-					"AVLDEAD2" : {
+					"deAVLDEAD2" : {
 						"animation" : "deadland-decorations/deadTreeNew/AVLDEAD2",
 						"mask" : [
 							"VVVV",
@@ -237,7 +237,7 @@
 							"deadland"
 						]
 					},
-					"AVLDEAD3" : {
+					"deAVLDEAD3" : {
 						"animation" : "deadland-decorations/deadTreeNew/AVLDEAD3",
 						"mask" : [
 							"VVVV",
@@ -253,7 +253,7 @@
 							"deadland"
 						]
 					},
-					"AVLDEAD4" : {
+					"deAVLDEAD4" : {
 						"animation" : "deadland-decorations/deadTreeNew/AVLDEAD4",
 						"mask" : [
 							"VVVV",
@@ -269,7 +269,7 @@
 							"deadland"
 						]
 					},
-					"AVLDEAD5" : {
+					"deAVLDEAD5" : {
 						"animation" : "deadland-decorations/deadTreeNew/AVLDEAD5",
 						"mask" : [
 							"VVVV",
@@ -285,7 +285,7 @@
 							"deadland"
 						]
 					},
-					"AVLDEAD6" : {
+					"deAVLDEAD6" : {
 						"animation" : "deadland-decorations/deadTreeNew/AVLDEAD6",
 						"mask" : [
 							"VVVV",
@@ -302,7 +302,7 @@
 							"deadland"
 						]
 					},
-					"AVLDEAD7" : {
+					"deAVLDEAD7" : {
 						"animation" : "deadland-decorations/deadTreeNew/AVLDEAD7",
 						"mask" : [
 							"VVVV",
