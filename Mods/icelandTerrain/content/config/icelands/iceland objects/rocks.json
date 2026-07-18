@@ -118,7 +118,7 @@
 					"icMerIceRock" : {
 						"animation" : "ice object/FTRME003",
 						"mask" : [
-							"VA"
+							"VB"
 						],
 						"allowedTerrains" : [
 							"icelands"

@@ -67,7 +67,7 @@
 					"sdStarflakeLake" : {
 						"animation" : "star misc/starFlake",
 						"mask" : [
-							"VA"
+							"BB"
 						],
 						"zIndex" : 100,
 						"allowedTerrains" : [
