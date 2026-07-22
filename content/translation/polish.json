@@ -67,5 +67,9 @@
 	"object.newtown-terrains.shallowsterrain.shallowsisland.name": "Wyspa",
 	"object.newtown-terrains.shallowsterrain.shallowsreefs.name": "Rafy",
 	"object.newtown-terrains.shallowsterrain.underwaterchasm.name": "Podwodna czeluść",
-	"object.newtown-terrains.spoiledland.spoBones.name": "Kości"
+	"object.newtown-terrains.spoiledland.spoBones.name": "Kości",
+	"mod.name": "Nowe tereny",
+	"mod.description": "Rozszerza mapę przygody o 11 wyjątkowych terenów:<br/><br/>• Martwa Ziemia<br/><br/>• Pole Chwały<br/><br/>• Ognista Ziemia<br/><br/>• Wrzosowy Gąszcz<br/><br/>• Lodowiec<br/><br/>• Łąki<br/><br/>• Płaskowyż<br/><br/>• Płycizny<br/><br/>• Skażona Ziemia<br/><br/>• Gwiezdny Pył<br/><br/>• Pole Tarasowe",
+	"mod.shallowsterrain.name": "Płycizny",
+	"mod.shallowsterrain.description": "Obiekty do nowego terenu płycizn"
 }

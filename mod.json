@@ -163,5 +163,10 @@
 	},
 	"compatibility" : {
 		"min" : "1.7.1"
+	},
+	"german" : {
+		"translations" : [
+			"translation/german.json"
+		]
 	}
 }
