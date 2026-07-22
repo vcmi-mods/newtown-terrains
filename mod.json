@@ -168,5 +168,10 @@
 		"translations" : [
 			"translation/german.json"
 		]
+	},
+	"ukrainian" : {
+		"translations" : [
+			"translation/ukrainian.json"
+		]
 	}
 }
