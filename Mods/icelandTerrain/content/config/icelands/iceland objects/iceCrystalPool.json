@@ -36,7 +36,7 @@
 				],
 				"onVisitedMessage" : "{Crystal Pool}\r\n\r\nThis lovely Crystal Pool yields 500 gold or 5 crystals each week, but there is nothing to collect right now.",
 				"resetParameters" : {
-					"period" : 7,
+					"weeks" : 1,
 					"visitors" : true,
 					"rewards" : true
 				},

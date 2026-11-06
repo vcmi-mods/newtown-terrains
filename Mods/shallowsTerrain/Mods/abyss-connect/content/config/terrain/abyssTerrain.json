@@ -1,5 +1,5 @@
 {
 	"abyss-town:abyss" : {
-		"nativeTerrain" : "shallows"
+		"nativeTerrain" : [ "shallows" ]
 	}
 }
