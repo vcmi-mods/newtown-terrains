@@ -6,6 +6,7 @@
 			"unknown"
 		],
 		"text" : "Heather Thicket",
+		"grailRumor" : "among the heather thickets.",
 		"shortIdentifier" : "ht",
 		"moveCost" : 100,
 		"tiles" : "heatherThicket/terrain/heatherThicket",

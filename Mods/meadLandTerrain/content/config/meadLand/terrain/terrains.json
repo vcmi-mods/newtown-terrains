@@ -1,6 +1,7 @@
 {
 	"meadLand" : {
 		"text" : "Pasturage",
+		"grailRumor" : "in the lush pasturage.",
 		"moveCost" : 100,
 		"minimapUnblocked" : [
 			140,

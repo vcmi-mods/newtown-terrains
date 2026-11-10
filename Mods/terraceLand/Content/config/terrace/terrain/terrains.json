@@ -1,6 +1,7 @@
 {
 	"terrace" : {
 		"text" : "Terrace",
+		"grailRumor" : "among the verdant terraces.",
 		"moveCost" : 100,
 		"minimapUnblocked" : [
 			82,

@@ -1,6 +1,7 @@
 {
 	"deadland" : {
 		"text" : "Dead Land",
+		"grailRumor" : "among the graves of the dead land.",
 		"moveCost" : 100,
 		"minimapUnblocked" : [
 			94,

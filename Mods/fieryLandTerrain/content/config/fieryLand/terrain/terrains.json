@@ -1,6 +1,7 @@
 {
 	"fieryLand" : {
 		"text" : "Fiery Land",
+		"grailRumor" : "in the scorched fiery land.",
 		"moveCost" : 100,
 		"minimapUnblocked" : [
 			104,

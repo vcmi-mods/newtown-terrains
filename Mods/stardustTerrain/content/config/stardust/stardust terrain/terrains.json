@@ -1,6 +1,7 @@
 {
 	"stardust" : {
 		"text" : "Stardust",
+		"grailRumor" : "amid the shimmering stardust.",
 		"moveCost" : 100,
 		"minimapUnblocked" : [
 			131,

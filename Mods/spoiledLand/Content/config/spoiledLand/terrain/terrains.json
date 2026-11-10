@@ -6,6 +6,7 @@
 			"unknown"
 		],
 		"text" : "Spoiled Land",
+		"grailRumor" : "in the blighted spoiled land.",
 		"shortIdentifier" : "jf",
 		"moveCost" : 90,
 		"tiles" : "spoiledLand/terrain/spoiledLand",

@@ -1,6 +1,7 @@
 {
 	"icelands" : {
 		"text" : "Ice Sheet",
+		"grailRumor" : "beneath the ancient ice sheet.",
 		"moveCost" : 150,
 		"minimapUnblocked" : [
 			124,

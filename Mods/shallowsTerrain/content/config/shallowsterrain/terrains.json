@@ -1,6 +1,7 @@
 {
 	"shallows" : {
 		"text" : "Shallows",
+		"grailRumor" : "beneath the waters of the shallows.",
 		"moveCost" : 175,
 		"minimapUnblocked" : [
 			86,
