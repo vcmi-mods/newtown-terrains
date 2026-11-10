@@ -1,5 +1,7 @@
 {
 	"farriery-town:farriery" : {
-		"nativeTerrain" : [ "spoiledLand" ]
+		"nativeTerrain" : [
+			"spoiledLand"
+		]
 	}
 }

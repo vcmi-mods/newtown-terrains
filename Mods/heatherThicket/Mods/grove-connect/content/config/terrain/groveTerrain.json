@@ -1,5 +1,7 @@
 {
 	"grove:grove" : {
-		"nativeTerrain" : [ "heatherThicket" ]
+		"nativeTerrain" : [
+			"heatherThicket"
+		]
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"tartarus-town:tartarus" : {
-		"nativeTerrain" : [ "icelands" ]
+		"nativeTerrain" : [
+			"icelands"
+		]
 	}
 }
