@@ -1,5 +1,5 @@
 {
 	"death-valley-town:deathvalley" : {
-		"nativeTerrain" : "deadland"
+		"nativeTerrain" : [ "deadland" ]
 	}
 }
