@@ -1,6 +1,7 @@
 {
 	"fieldGlory" : {
 		"text" : "Fields of Glory",
+		"grailRumor" : "on the fields of glory.",
 		"moveCost" : 100,
 		"minimapUnblocked" : [
 			155,

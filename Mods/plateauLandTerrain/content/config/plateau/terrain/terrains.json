@@ -1,6 +1,7 @@
 {
 	"plateau" : {
 		"text" : "Plateau",
+		"grailRumor" : "high upon a windswept plateau.",
 		"moveCost" : 125,
 		"minimapUnblocked" : [
 			210,
